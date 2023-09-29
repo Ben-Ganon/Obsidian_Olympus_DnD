@@ -8,39 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cee26ba1c26da733",
+            "id": "4944c7e8738c417d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
+              },
+              "pinned": true
             }
           },
           {
-            "id": "a81a20cbc8947d16",
+            "id": "4e5da0d36078c4cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587af330262dec46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Zeus.md"
+                "file": "Gods and Powers/Poseidon.md"
               }
             }
           },
@@ -163,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 444.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587af330262dec46",
+  "active": "4e5da0d36078c4cf",
   "lastOpenFiles": [
-    "Info and Values/Base Hp.md",
     "Gods and Powers/Zeus.md",
-    "Info and Values",
-    "General/Dice mechanics.md",
+    "Gods and Powers/Poseidon.md",
     "Templates/God Info.md",
+    "Info and Values/Color Codes.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Info and Values/Character Sheet.png",
+    "Info and Values/Base Hp.md",
+    "General/Dice mechanics.md",
+    "Info and Values",
     "Templates",
     "General/Welcome.md",
     "Gods and Powers",

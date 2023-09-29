@@ -1,7 +1,11 @@
-_**Description:_
+***Description:***
 
-***Spells***:
+***Boons***:
+
 | Spell Name | Effect | Level Required | Uses Per Day |
-| -- | -- | -- | -- | 
+| :--: | -- | :--: | :--: | 
 | | | | | 
+| | | | |
+| | | | |
+
 
