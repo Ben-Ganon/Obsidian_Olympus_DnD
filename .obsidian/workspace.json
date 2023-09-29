@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gods and Powers/Zeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Gods and Powers/Zeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Gods and Powers/Zeus.md"
               }
             }
+          },
+          {
+            "id": "86f14208cf0826b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a501dd7b91a7eb7",
+  "active": "587af330262dec46",
   "lastOpenFiles": [
+    "Info and Values/Base Hp.md",
+    "Gods and Powers/Zeus.md",
+    "Info and Values",
+    "General/Dice mechanics.md",
+    "Templates/God Info.md",
+    "Templates",
+    "General/Welcome.md",
+    "Gods and Powers",
     "test file.md",
     "README.md",
-    "Welcome.md",
     "General"
   ]
 }
