@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "247e86efc5028665",
+        "id": "b012edbc9786f1c9",
         "type": "tabs",
         "children": [
           {
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4e5da0d36078c4cf",
+            "id": "96896538e2f5557e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Poseidon.md"
+                "file": "Gods and Powers/Hades.md"
               }
             }
           },
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e5da0d36078c4cf",
+  "active": "96896538e2f5557e",
   "lastOpenFiles": [
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Templates/God Info.md",
-    "Info and Values/Color Codes.md",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "General/Metal-Creature interactions.md",
+    "General/In-Game metal Types.md",
+    "General/Types of Creatures.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Zeus.md",
+    "Info and Values/Color Codes.md",
+    "Templates/God Info.md",
     "Info and Values/Character Sheet.png",
     "Info and Values/Base Hp.md",
     "General/Dice mechanics.md",

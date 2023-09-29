@@ -1,4 +1,7 @@
-<mark style="background: #BBFABBA6;">Green - Hp</mark>
-<mark style="background: #FF5582A6;">Red - Damage</mark>
-<mark style="background: #D2B3FFA6;">Purple - Time</mark>
-<mark style="background: #ADCCFFA6;">Blue - Area or Distance</mark>
+<mark style="background: #00A521A6;">Green - Hp</mark>
+<mark style="background: #9E0000A6;">Red - Damage</mark>
+<mark style="background: #A100B8A6;">Purple - Time</mark>
+<mark style="background: #0900A7A6;">Blue - Area or Distance</mark>
+<mark style="background: #ABF7F7A6;">Cyan - Agility</mark>
+<mark style="background: #FFAD0085;">Orange - Intelligence</mark>
+<mark style="background: #CACFD9A6;">Grey - Willpower</mark>
