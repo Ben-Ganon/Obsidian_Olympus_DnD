@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -180,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dea0f00dbad9b6d8",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
     "Info and Values/Character Sheet.png",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
