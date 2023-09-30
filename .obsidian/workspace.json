@@ -4,23 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "b012edbc9786f1c9",
+        "id": "8fa85721aece9cbb",
         "type": "tabs",
+        "dimension": 17.825311942959,
         "children": [
           {
-            "id": "4944c7e8738c417d",
+            "id": "fe2f6ee2784208b7",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
+                "file": "Info and Values/Color Codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab5469b50b4edbce",
+        "type": "tabs",
+        "dimension": 82.174688057041,
+        "children": [
+          {
+            "id": "dfe5fb2e445d065b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Hades.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "96896538e2f5557e",
+            "id": "89c3b3ba816a20cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Zeus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72555a40f9fbea27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summonable Entities/Cerberus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dea0f00dbad9b6d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,23 +215,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96896538e2f5557e",
+  "active": "86f14208cf0826b8",
   "lastOpenFiles": [
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Hades.md",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "General/Metal-Creature interactions.md",
-    "General/In-Game metal Types.md",
     "General/Types of Creatures.md",
+    "General/Welcome.md",
+    "General/Metal Types.md",
+    "General/Dice mechanics.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Zeus.md",
+    "Summonable Entities/Cerberus.md",
+    "Summonable Entities/Hercules.md",
+    "Summonable Entities/Zagreus.md",
+    "Summonable Entities/Achilles.md",
+    "Summonable Entities",
     "Info and Values/Color Codes.md",
+    "Gods and Powers/Poseidon.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Templates/God Info.md",
     "Info and Values/Character Sheet.png",
     "Info and Values/Base Hp.md",
-    "General/Dice mechanics.md",
     "Info and Values",
     "Templates",
-    "General/Welcome.md",
     "Gods and Powers",
     "test file.md",
     "README.md",
