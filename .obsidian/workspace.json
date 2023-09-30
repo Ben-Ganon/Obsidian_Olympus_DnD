@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Artemis.md"
+                "file": "Gods and Powers/Poseidon.md"
               }
             }
           },
@@ -201,12 +201,12 @@
   },
   "active": "89c3b3ba816a20cb",
   "lastOpenFiles": [
-    "Gods and Powers/Ares.md",
+    "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Artemis.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Athena.md",
-    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Ares.md",
     "Templates/God Info.md",
     "Info and Values/Color Codes.md",
     "Info and Values/Base Hp.md",
