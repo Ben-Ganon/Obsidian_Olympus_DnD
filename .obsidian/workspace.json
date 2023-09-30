@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa85721aece9cbb",
-        "type": "tabs",
-        "dimension": 17.825311942959,
-        "children": [
-          {
-            "id": "fe2f6ee2784208b7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Info and Values/Color Codes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "ab5469b50b4edbce",
         "type": "tabs",
-        "dimension": 82.174688057041,
         "children": [
           {
             "id": "dfe5fb2e445d065b",
@@ -56,31 +34,17 @@
             }
           },
           {
-            "id": "72555a40f9fbea27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summonable Entities/Cerberus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dea0f00dbad9b6d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Summonable Entities/Achilles.md",
-                "mode": "source",
-                "source": false
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summonable Entities/Achilles.md",
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summonable Entities/Achilles.md",
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summonable Entities/Achilles.md"
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
               }
             }
           },
@@ -203,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 444.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +182,9 @@
   },
   "active": "dea0f00dbad9b6d8",
   "lastOpenFiles": [
+    "Info and Values/Character Sheet.png",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Summonable Entities/Achilles.md",
     "Summonable Entities/Cerberus.md",
     "Summonable Entities/Hercules.md",
     "Summonable Entities/Zagreus.md",
@@ -227,13 +195,10 @@
     "General/Metal Types.md",
     "General/Dice mechanics.md",
     "Gods and Powers/Zeus.md",
-    "Summonable Entities/Achilles.md",
     "Summonable Entities",
     "Info and Values/Color Codes.md",
     "Gods and Powers/Poseidon.md",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Templates/God Info.md",
-    "Info and Values/Character Sheet.png",
     "Info and Values/Base Hp.md",
     "Info and Values",
     "Templates",
