@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "Gods and Powers/Poseidon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3721afd6a72fa7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/The Plot.md"
+                "file": "Gods and Powers/Poseidon.md"
               }
             }
           },
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,14 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f857f7f581905790",
+  "active": "86f14208cf0826b8",
   "lastOpenFiles": [
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Athena.md",
+    "TODO.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Zeus.md",
     "General/The Plot.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Athena.md",
     "General/Welcome.md",
     "Info and Values/Color Codes.md",
     "Gods and Powers/Hades.md",
