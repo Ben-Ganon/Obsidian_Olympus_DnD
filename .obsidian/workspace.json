@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/The prophecy from the Oracle.md",
+                "file": "Lore/The prophecy from the Oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78d0f22dd3ae58c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/The prophecy from the Oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c841b3080209b2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/The prophecy from the Oracle.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/The prophecy from the Oracle.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/The prophecy from the Oracle.md"
+                "file": "Gods and Powers/Poseidon.md"
               }
             }
           },
@@ -168,29 +192,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3721afd6a72fa7d8",
+  "active": "c841b3080209b2e8",
   "lastOpenFiles": [
-    "General/The Plot.md",
-    "General/The prophecy from the Oracle.md",
-    "Gods and Powers/Poseidon.md",
-    "TODO.md",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
-    "General/Welcome.md",
-    "Info and Values/Color Codes.md",
-    "Gods and Powers/Hades.md",
     "Templates/God Info.md",
-    "Info and Values/Base Hp.md",
+    "Summonable Entities/Zagreus.md",
+    "Summonable Entities/Hercules.md",
+    "Summonable Entities/Cerberus.md",
+    "Summonable Entities/Achilles.md",
+    "Lore/The Plot.md",
+    "General/Metal-Creature interactions.md",
+    "Lore/The prophecy from the Oracle.md",
+    "Lore",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Info and Values/Character Sheet.png",
-    "Summonable Entities/Achilles.md",
-    "Summonable Entities/Cerberus.md",
-    "Summonable Entities/Hercules.md",
-    "Summonable Entities/Zagreus.md",
-    "General/Metal-Creature interactions.md",
-    "General/Types of Creatures.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Poseidon.md",
+    "Info and Values/Color Codes.md",
+    "TODO.md",
+    "Lore/Welcome.md",
+    "Lore/Types of Creatures.md",
+    "Gods and Powers/Hades.md",
+    "Info and Values/Base Hp.md",
     "General/Metal Types.md",
     "General/Dice mechanics.md",
     "Summonable Entities",
