@@ -12,6 +12,5 @@ Don't be fooled by his combat prowess - Ares is easily fooled, and even more eas
 | Hail of Blades| Become surrounded by a vortex of blood-weapons. <br> While this is active, everything in a <mark style="background: #0900A7A6;">1 Meter</mark> radius of you takes <br> <mark style="background: #9E0000A6;">$1 \times D\cdot6$</mark> damage each turn| 7 | 1  | <mark style="background: #A100B8A6;">1 Combat Turn </mark> | <mark style="background: #A100B8A6;">3 Combat Turns </mark>|
 | Aspect of Blood | Merge with Ares, god of bloodshed. Become infused with godly spirit:<br> Gain <mark style="background: #00A521A6;">25 Hp</mark> and infuse you weapon with frenzied bloodlust, gaining <mark style="background: #9E0000A6;">+2</mark> to all attack rolls. <br> Additionally, You are surrounded by a Hail of Blades| 10 | 1 | Instant| <mark style="background: #A100B8A6;">5 Combat Rounds</mark> |
 
-***Traits:*** 
+***Traits:***  
 
-r
