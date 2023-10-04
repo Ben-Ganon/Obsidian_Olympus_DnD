@@ -25,9 +25,10 @@ The heroes must travel to the island of Crete and free Persephone, defeat Apheli
 
 #### Phase 1: 
 The Heroes must make their way to Delphi to receive the Oracles quest and blessing.
-Unbeknowst to them the Cult of the Bull have poisoned the oracle, giving Taurus a 
+Unbeknownst to them the Cult of the Bull have poisoned the oracle, giving Taurus a 
 peek into the future.
-The Heroes must kill Aphelios second in command, Selena, who has been controlling the oracle for a few months now
+The Heroes must kill Aphelios second in command, Selena, who has been controlling the oracle for a few months now.
+After Selena has been defeated, the heroes will receive [[The prophecy from the Oracle]]
 
 
 ##### Phase 2:

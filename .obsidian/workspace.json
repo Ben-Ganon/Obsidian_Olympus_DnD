@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "General/The prophecy from the Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "General/The prophecy from the Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/The Plot.md",
+                "file": "General/The prophecy from the Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/The Plot.md"
+                "file": "General/The prophecy from the Oracle.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "3721afd6a72fa7d8",
   "lastOpenFiles": [
+    "General/The Plot.md",
+    "General/The prophecy from the Oracle.md",
     "Gods and Powers/Poseidon.md",
     "TODO.md",
     "Gods and Powers/Zeus.md",
-    "General/The Plot.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
