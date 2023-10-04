@@ -16,6 +16,8 @@ A force to be reckoned with, Poseidon grants extraordinary boons both in combat 
 ***Traits:***
 - Can talk to and command Horses (command - need to beat at a willpower roll)
 - Can talk to and command Fish and underwater creatures  (command - need to beat at a willpower roll)
+- Can breath underwater
+- 
 
 
 
