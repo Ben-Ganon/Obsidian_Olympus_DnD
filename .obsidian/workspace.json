@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hades.md",
+                "file": "Summonable Entities/Anemoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,15 +23,14 @@
             "id": "306d9542fb42aa22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Mount Sheet Fillable.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Hades.md",
+                "file": "Resources/Mount Sheet Fillable.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Hades.md",
+                "file": "Resources/Mount Sheet Fillable.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Hades.md"
+                "file": "Resources/Mount Sheet Fillable.pdf"
               }
             }
           },
@@ -176,15 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86f14208cf0826b8",
+  "active": "306d9542fb42aa22",
   "lastOpenFiles": [
+    "Resources/Mount Sheet.pdf",
+    "Gods and Powers/Zeus.md",
+    "Resources/Mount Sheet Fillable.pdf",
     "Gods and Powers/Poseidon.md",
+    "Summonable Entities/Anemoi.md",
     "Gods and Powers/Hades.md",
     "Summonable Entities/Hellhound.md",
     "Summonable Entities/Cerberus.md",
-    "Summonable Entities/Untitled.md",
     "Templates/Color Codes.md",
-    "Gods and Powers/Zeus.md",
     "Templates/Boon.md",
     "Resources/d6.jpg",
     "Resources/d6.png",
@@ -215,7 +216,6 @@
     "Info and Values",
     "Templates",
     "Gods and Powers",
-    "test file.md",
     "General"
   ]
 }

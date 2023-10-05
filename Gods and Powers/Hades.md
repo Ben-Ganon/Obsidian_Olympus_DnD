@@ -3,6 +3,11 @@ Hades is the god of the dead and king of the underworld.
 Bitter, angry from his lot in eternal life, Hades sulks in the underworld, away from his godly family. 
 Don't be fooled by his childish behavior, behind the sulky anger lies true power over the underworld and all the realms within. 
 
+Children of hades play in 1 of two ways:
+- Warlock who summons a small army of minions to do his bidding, defending and fighting for the party. Not recommended for  beginners!
+
+- Assassin who uses the shadows to sneak up on and incapacitate targets.
+
 ***Boons***:
 
 <b><ins><i>Summon Warrior:</i></ins></b>
@@ -77,7 +82,7 @@ If the caster rolls higher than the target, the target is stunned for the differ
 Channel the spirit of a living creature into Hades through you, absorbing some of their essence.
 Target must make a <mark style="background: #3800D7A6;">Might</mark> roll, on save the target takes <mark style="background: #930000A6;">1d4</mark> damage,
 If the target fails the roll, target takes <mark style="background: #930000A6;">2d4</mark> damage instead.
-You heal for $30$
+You heal for $\lceil30\%\rceil$ of the damage dealt
 
 ------------------
 
