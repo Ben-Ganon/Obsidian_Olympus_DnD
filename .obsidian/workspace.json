@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e54520462348c1",
+        "id": "3af44c8203899e50",
         "type": "tabs",
         "children": [
           {
-            "id": "71fa19f8d5736031",
+            "id": "4526f12da5a85573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summonable Entities/Anemoi.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "306d9542fb42aa22",
+            "id": "e76832f89f1179d7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Mount Sheet Fillable.pdf"
+                "file": "Gods and Powers/Poseidon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Mount Sheet Fillable.pdf",
+                "file": "Gods and Powers/Zeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Mount Sheet Fillable.pdf",
+                "file": "Gods and Powers/Zeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Mount Sheet Fillable.pdf"
+                "file": "Gods and Powers/Zeus.md"
               }
             }
           },
@@ -161,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,16 +175,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "306d9542fb42aa22",
+  "active": "86f14208cf0826b8",
   "lastOpenFiles": [
-    "Resources/Mount Sheet.pdf",
-    "Gods and Powers/Zeus.md",
-    "Resources/Mount Sheet Fillable.pdf",
     "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Zeus.md",
     "Summonable Entities/Anemoi.md",
+    "Summonable Entities/Cerberus.md",
+    "Summonable Entities/Achilles.md",
+    "Resources/Mount Sheet Fillable.pdf",
+    "Resources/Anemoi Stat Sheet.pdf",
+    "Resources/Mount Sheet.pdf",
     "Gods and Powers/Hades.md",
     "Summonable Entities/Hellhound.md",
-    "Summonable Entities/Cerberus.md",
     "Templates/Color Codes.md",
     "Templates/Boon.md",
     "Resources/d6.jpg",
@@ -200,7 +202,6 @@
     "Templates/God Info.md",
     "Summonable Entities/Zagreus.md",
     "Summonable Entities/Hercules.md",
-    "Summonable Entities/Achilles.md",
     "Lore/The Plot.md",
     "General/Metal-Creature interactions.md",
     "Lore",
@@ -215,7 +216,6 @@
     "Summonable Entities",
     "Info and Values",
     "Templates",
-    "Gods and Powers",
-    "General"
+    "Gods and Powers"
   ]
 }
