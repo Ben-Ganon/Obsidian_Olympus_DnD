@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f857f7f581905790",
+            "id": "71fa19f8d5736031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Gods and Powers/Hades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7943dc3d15a2fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hades.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,18 +175,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f857f7f581905790",
+  "active": "9f2289ea620711d2",
   "lastOpenFiles": [
     "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Hades.md",
+    "Summonable Entities/Hellhound.md",
+    "Summonable Entities/Cerberus.md",
+    "Summonable Entities/Untitled.md",
     "Templates/Color Codes.md",
+    "Gods and Powers/Zeus.md",
     "Templates/Boon.md",
     "Resources/d6.jpg",
     "Resources/d6.png",
     "Resources/dice.png",
     "Resources",
     "Pasted image 20231005180111.png",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Zeus.md",
     "test.md",
     "Info and Values/Base Hp.md",
     "Lore/The prophecy from the Oracle.md",
@@ -208,7 +198,6 @@
     "Templates/God Info.md",
     "Summonable Entities/Zagreus.md",
     "Summonable Entities/Hercules.md",
-    "Summonable Entities/Cerberus.md",
     "Summonable Entities/Achilles.md",
     "Lore/The Plot.md",
     "General/Metal-Creature interactions.md",
@@ -226,7 +215,6 @@
     "Templates",
     "Gods and Powers",
     "test file.md",
-    "README.md",
     "General"
   ]
 }

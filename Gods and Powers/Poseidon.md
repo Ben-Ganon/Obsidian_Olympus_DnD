@@ -11,7 +11,7 @@ A force to be reckoned with, Poseidon grants extraordinary boons both in combat 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:| :--:|
 |       1        |      1       |  <mark style="background: #620075A6;"> 1 CT</mark>    |   <mark style="background: #620075A6;">5 CT</mark>   | - |
- 
+
 Summon a huge wave to lift you up. +15 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead 
 
 ------------------
@@ -102,14 +102,14 @@ Gain <mark style="background: #045B00A6;"> 20 Hp</mark>. Infuse yourself with th
 ------------------
 <mark style="background: #00A521A6;">Green - Hp</mark>
 <mark style="background: #9E0000A6;">Red - Damage</mark>
-<mark style="background: #A100B8A6;">Purple - Time</mark>
+<mark style="background: #620075A6;">Purple - Time</mark>
 <mark style="background: #0900A7A6;">Blue - Area or Distance</mark>
 <mark style="background: #004A4CA6;">Cyan - Agility</mark>
 <mark style="background: #FFAD0085;">Orange - Intuition</mark>
 <mark style="background: #CACFD9A6;">Grey - Willpower</mark>
 <mark style="background: #3800D7A6;">Dark Purple - Might</mark>
 <mark style="background: #60BB81;">Turqoise - Movespeed</mark> 
-
+<mark style="background: #620075A6;">CT - Combat Turn</mark>
 
 
 ***Traits:***

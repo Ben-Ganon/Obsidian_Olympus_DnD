@@ -9,7 +9,8 @@
     "Damage": "#930000A6",
     "Might": "#3800D7A6",
     "Intuition_": " #FFAD0085",
-    "Movespeed": "#60BB81"
+    "Movespeed": "#60BB81",
+    "Willpower": "#A5A5A5"
   },
   "highlighterOrder": [
     "Time",
@@ -19,6 +20,7 @@
     "Damage",
     "Might",
     "Intuition_",
-    "Movespeed"
+    "Movespeed",
+    "Willpower"
   ]
 }

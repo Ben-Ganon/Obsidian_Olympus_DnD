@@ -7,3 +7,5 @@
 <mark style="background: #CACFD9A6;">Grey - Willpower</mark>
 <mark style="background: #3800D7A6;">Dark Purple - Might</mark>
 <mark style="background: #60BB81;">Turqoise - Movespeed</mark> 
+
+CT - Combat Turn (equivalent to ~10 seconds in combat or 1 minute outside combat)
