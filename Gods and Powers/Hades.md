@@ -57,6 +57,30 @@ Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 
 for the duration.
 
 ------------------
+<b><ins><i>Dark Visions:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       5        |      1       |   1 CT    |   2 CT   | 50 Meters | 
+Cast dark visions from Tartarus into the targets mind.
+The target takes 2d4 damage.
+Additionally, the caster both roll <mark style="background: #A5A5A5;">Willpower</mark>.
+If the caster rolls higher than the target, the target is stunned for the difference. During the stun the target cannot move or take action.
+(example - caster does a d12 willpower roll and rolls 10, target does d20 willpower roll and rolls 10, target is stunned for 2 turns)
+
+------------------
+<b><ins><i>Soul Siphon :</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       7        |      1       |  Instant  |    -     | 3 Meters | 
+Channel the spirit of a living creature into Hades through you, absorbing some of their essence.
+Target must make a <mark style="background: #3800D7A6;">Might</mark> roll, on save the target takes <mark style="background: #930000A6;">1d4</mark> damage,
+If the target fails the roll, target takes <mark style="background: #930000A6;">2d4</mark> damage instead.
+You heal for $30$
+
+------------------
+
 <b><ins><i>Summon Cerberus:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
