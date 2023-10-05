@@ -2,21 +2,19 @@
   "highlighterStyle": "realistic",
   "highlighterMethods": "inline-styles",
   "highlighters": {
-    "Cyan": "#ABF7F7A6",
-    "Grey": "#CACFD9A6",
-    "Strong-Purple": "#A100B8A6",
-    "Strong-Red": "#9E0000A6",
-    "Strong-Blue": "#0900A7A6",
-    "Strong-Green": "#00A521A6",
-    "Strong-Orange": "#FFAD0085"
+    "Time": "#620075A6",
+    "Hp": "#045B00A6",
+    "Intuition": "#5D4300A6",
+    "Agility": "#004A4CA6",
+    "AreaDistance": "#000B67A6",
+    "Damage": "#930000A6"
   },
   "highlighterOrder": [
-    "Strong-Purple",
-    "Strong-Green",
-    "Strong-Red",
-    "Strong-Orange",
-    "Strong-Blue",
-    "Cyan",
-    "Grey"
+    "Time",
+    "Hp",
+    "Intuition",
+    "Agility",
+    "AreaDistance",
+    "Damage"
   ]
 }
