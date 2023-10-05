@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Poseidon.md"
+                "file": "Gods and Powers/Hades.md"
               }
             }
           },
@@ -191,13 +190,18 @@
   },
   "active": "f857f7f581905790",
   "lastOpenFiles": [
+    "Gods and Powers/Poseidon.md",
+    "Templates/Color Codes.md",
+    "Templates/Boon.md",
+    "Resources/d6.jpg",
+    "Resources/d6.png",
+    "Resources/dice.png",
+    "Resources",
+    "Pasted image 20231005180111.png",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Templates/Boon.md",
     "test.md",
     "Info and Values/Base Hp.md",
-    "Info and Values/Color Codes.md",
     "Lore/The prophecy from the Oracle.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",

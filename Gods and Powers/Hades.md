@@ -5,6 +5,16 @@ Don't be fooled by his childish behavior, behind the sulky anger lies true power
 
 ***Boons***:
 
+<b><ins><i>Boon_Name:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
+|:--------------:|:------------:|:---------:|:--------:|:-------:|
+| Summon Warrior |      1       |   1 CT    |   5 CT   | 1 Meter | 
+Summon a fallen warrior from Elysium to aide you.
+Summon Achilles, Hercules or Zagreus
+
+------------------
+
 | Spell Name | Effect | Level Required | Uses Per Day |
 | :--: | -- | :--: | :--: | 
 | Summon Fallen Warrior| Summon a fallen warrior from Elysium to aide you for <mark style="background: #A100B8A6;">5 Combat Turns</mark>. <br> 3 Options to summon: <br> [[Achilles]], [[Hercules]], [[Zagreus]]| 1 | 1 | 

@@ -4,17 +4,21 @@
   "highlighters": {
     "Time": "#620075A6",
     "Hp": "#045B00A6",
-    "Intuition": "#5D4300A6",
     "Agility": "#004A4CA6",
     "AreaDistance": "#000B67A6",
-    "Damage": "#930000A6"
+    "Damage": "#930000A6",
+    "Might": "#3800D7A6",
+    "Intuition_": " #FFAD0085",
+    "Movespeed": "#60BB81"
   },
   "highlighterOrder": [
     "Time",
     "Hp",
-    "Intuition",
     "Agility",
     "AreaDistance",
-    "Damage"
+    "Damage",
+    "Might",
+    "Intuition_",
+    "Movespeed"
   ]
 }
