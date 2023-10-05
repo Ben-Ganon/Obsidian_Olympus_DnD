@@ -13,4 +13,8 @@ Her only goal is to hunt the mythical beasts who roam the land, and she is sworn
 | Deadly Missle | Fire an enchanted arrow at a target up to 250 meters away that never misses. <br> Deals <mark style="background: #9E0000A6;">$2 \times D\cdot4$</mark> damage.<br> If you cast this while equipped with a bow, deal <mark style="background: #9E0000A6;">$2 \times D\cdot6$</mark> instead| 5 | 1 | Instant | - |
 | | | | |
 
+| spell name | Effect | 
+| ---------- | ------ |
+
+
 ***Traits:*** 
