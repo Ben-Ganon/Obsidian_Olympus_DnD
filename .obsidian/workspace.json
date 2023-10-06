@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,29 +163,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be119213926adeeb",
+  "active": "86f14208cf0826b8",
   "lastOpenFiles": [
     "Gods and Powers/Ares.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Zeus.md",
     "Gods and Powers/Artemis.md",
-    "Summonable Entities/Hellhound.md",
-    "Summonable Entities/Cerberus.md",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
-    "Resources/Mount Cerberus.pdf",
     "Resources/Mount Buzzard.pdf",
+    "Resources/Mount Boar.pdf",
+    "Resources/Anemoi Stat Sheet.pdf",
+    "Resources/Mount Sheet Fillable.pdf",
+    "Resources/Mount Sheet.pdf",
+    "Resources/Mount Savra.pdf",
+    "Resources/dice.png",
+    "Summonable Entities/Savra.md",
+    "Gods and Powers/Hephaestus.md",
+    "Resources/Mount Festus.pdf",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Athena.md",
+    "Summonable Entities/Hellhound.md",
+    "Summonable Entities/Cerberus.md",
     "Summonable Entities/Boar.md",
     "Summonable Entities/Buzzard stat sheet.pdf",
     "Summonable Entities/Hercules.md",
-    "Resources/Anemoi Stat Sheet.pdf",
-    "Resources/Mount Boar.pdf",
-    "Resources/Boar stat sheet.pdf",
-    "Resources/Mount Sheet.pdf",
-    "Resources/Mount Sheet Fillable.pdf",
     "Summonable Entities/Anemoi.md",
     "Summonable Entities/Zagreus.md",
     "Summonable Entities/Wolf.md",
@@ -195,7 +196,6 @@
     "Templates/Boon.md",
     "Resources/d6.jpg",
     "Resources/d6.png",
-    "Resources/dice.png",
     "Pasted image 20231005180111.png",
     "test.md",
     "Info and Values/Base Hp.md",
@@ -204,8 +204,6 @@
     "Lore/The Plot.md",
     "General/Metal-Creature interactions.md",
     "Info and Values/Character Sheet.png",
-    "TODO.md",
-    "Lore/Welcome.md",
-    "Lore/Types of Creatures.md"
+    "TODO.md"
   ]
 }

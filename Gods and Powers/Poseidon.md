@@ -114,8 +114,9 @@ Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself wit
 
 
 ***Traits:***
+- Poseidon's Boons spawn magical water that extinguishes Greek Fire. 
 - Can talk to and command Horses (command - need to beat at a willpower roll)
-- Can talk to and command Fish and underwater creatures  (command - need to beat at a willpower roll)
+- Can talk to and command small fish and underwater creatures  (command - need to beat at a willpower roll)
 - Can breath underwater
 - 
 
