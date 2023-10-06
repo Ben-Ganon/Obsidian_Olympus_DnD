@@ -10,7 +10,9 @@
     "Might": "#3800D7A6",
     "Intuition_": " #FFAD0085",
     "Movespeed": "#60BB81",
-    "Willpower": "#A5A5A5"
+    "Willpower": "#A5A5A5",
+    "Stealth": "#000000",
+    "Dexterity": "#00BB4D"
   },
   "highlighterOrder": [
     "Time",
@@ -21,6 +23,8 @@
     "Might",
     "Intuition_",
     "Movespeed",
-    "Willpower"
+    "Willpower",
+    "Stealth",
+    "Dexterity"
   ]
 }
