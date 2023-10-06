@@ -1,4 +1,8 @@
-___In the island of Delos
+The Oracle of Delphi 
+Her prophecy corrupted
+
+
+___On the island of Delos
 The Fates have no hold
 Dreaded war-chief Aphelios
 Has reaped fates untold
