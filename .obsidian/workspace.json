@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The prophecy from the Oracle.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The prophecy from the Oracle.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The prophecy from the Oracle.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The prophecy from the Oracle.md"
+                "file": "Gods and Powers/Aphrodite.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,12 +166,14 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Gods and Powers/Ares.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Aphrodite.md",
     "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
+    "Lore/The prophecy from the Oracle.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Poseidon.md",
     "Gods and Powers/Zeus.md",
     "Templates/God Info.md",
     "Templates/Boon.md",
@@ -200,7 +203,6 @@
     "Pasted image 20231005180111.png",
     "test.md",
     "Info and Values/Base Hp.md",
-    "Lore/The prophecy from the Oracle.md",
     "Lore/The Plot.md",
     "General/Metal-Creature interactions.md",
     "Info and Values/Character Sheet.png",

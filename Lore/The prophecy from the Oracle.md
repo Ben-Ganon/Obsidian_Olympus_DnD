@@ -3,7 +3,7 @@ But the journey is not done
 All of Greece will know dismay
 Unless the quest is won
 
-___On the island of Delos
+___On the isle of Delos
 The Fates have no hold
 Dreaded war-chief Aphelios
 Has reaped fates untold
