@@ -73,6 +73,15 @@ Enemies must make a <mark style="background: #3800D7A6;">Might</mark> saving thr
 If you are in the air while casting Gust, you can sweep enemies up to your height in the air.
 
 ------------------
+<b><ins><i>Blink:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       5        |      2       |  Instant  |    -     | 3 Meters | 
+In a flash of light, you appear near-instantly up to 3 Meters away from you.
+Cannot move through walls (This ability is not a teleport, rather extremely fast movement)
+
+------------------
 <b><ins><i>Cyclone:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
@@ -93,6 +102,18 @@ Become infused with essence of lightning, gaining <mark style="background: #004A
 You can end this charge period with an Assault, a powerful tackle that deals <mark style="background: #930000A6;">3d4</mark> damage.
 If you cast this while Fly! is active, ***BECOME*** the lightning and deal <mark style="background: #930000A6;">1d20</mark> instead.
 The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll, or be stunned for 1d4 turns
+
+------------------
+<b><ins><i>Apect of Thunder:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
+You merge with Zeus, God of Thunder.
+For the Duration, you gain <mark style="background: #045B00A6;">15 Hp</mark> and increase in size: grow 30% larger, you are now classified as Large.
+Any creature that comes within range of you must roll an agility saving throw or be struck by lightning for <mark style="background: #930000A6;">1d4</mark> damage. This does not repeat if the creature stays in range of you next CT.
+If the creature rolled a 1, the impact of thunder leaves it deaf for the duration of combat.
+Additionally, you can cast Blink each turn while this boon is active.
 
 ------------------
 

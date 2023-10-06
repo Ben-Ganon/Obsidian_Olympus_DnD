@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4526f12da5a85573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Zeus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e76832f89f1179d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Gods and Powers/Hades.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gods and Powers/Hades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gods and Powers/Hades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Zeus.md"
+                "file": "Gods and Powers/Hades.md"
               }
             }
           },
@@ -162,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86f14208cf0826b8",
+  "active": "e76832f89f1179d7",
   "lastOpenFiles": [
-    "Gods and Powers/Poseidon.md",
     "Gods and Powers/Zeus.md",
+    "Gods and Powers/Poseidon.md",
     "Summonable Entities/Anemoi.md",
     "Summonable Entities/Cerberus.md",
     "Summonable Entities/Achilles.md",
