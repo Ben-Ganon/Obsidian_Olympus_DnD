@@ -6,7 +6,7 @@ She is the most reserved of the gods, not distracted by the pleasures other Olym
 Her only goal is to hunt the mythical beasts who roam the land, and she is sworn to eternal virginity. Twin goddess to Apollo.
 
 ***Boons***:
-<b><ins><i>Mark of the Hunter:</i></ins></b>
+<b><ins><i>Mark of Moonlight:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
@@ -21,9 +21,8 @@ Cull the mark and add <mark style="background: #9E0000A6;">1d6</mark> damage to 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       1        |      1       |   1 CT    |    -     | 250 Meters | 
-Fire an enchanted Missile at a target that never misses.  
+Fire an enchanted magic missile at a target that never misses.  
 Deals  <mark style="background: #930000A6;">2d4</mark> damage.  
-If you cast this while equipped with a bow, deal <mark style="background: #930000A6;">1d12</mark> instead
 (Uses ammunition)
 
 ------------------
@@ -55,8 +54,8 @@ If you cast this while Wild Hunt is active, deal <mark style="background: #93000
 |       4        |      1       |   1 CT    |   5 CT   |   -   | 
 Channel the power of the Wild Hunt.
 For the duration, you gain <mark style="background: #60BB81;">10 Movespeed</mark> when moving towards an enemy,
-and gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #00BB4D;">+1</mark> to Dexterity rolls
-
+and gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #00BB4D;">+1</mark> to Dexterity rolls.
+If the moon is shining, gain <mark style="background: #000000;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made to an enemies back.
 
 ------------------
 <b><ins><i>Poison Projectiles:</i></ins></b>
@@ -69,7 +68,7 @@ Every projectile you successfully land in the duration deals <mark style="backgr
 This poison stacks - if you land 2 poison arrows with duration 1 and 2, the target will take 2 then 1 damage.
 
 ------------------
-<b><ins><i>Moonlight:</i></ins></b>
+<b><ins><i>Moonlight Flare:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
@@ -96,21 +95,20 @@ Cannot stray more than the range away from you or it will vanish
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       7        |      1       |   1 CT    |   3 CT   | 300 Meters | 
 Summon a sacred [[Buzzard]] scout to aide you on the hunt.
-The Buzzard can report back to you on what it sees and hear (<mark style="background: #000B67A6;">50 Meter</mark> 
-radius on vision).
-Cannot stray more than the range away from you or it will vanish
+The Buzzard flies at a 20 meter altitude can report back to you on what it sees and hear.
+Cannot stray more than the range away from you or it will vanish.
 
 ------------------
-<b><ins><i>Ascpet of Wilderness:</i></ins></b>
+<b><ins><i>Ascpet of the Hunt:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       10       |      1       |   1 CT    |   3 CT   |   -   | 
 Merge with Artemis, goddess of the wilderness.
-Gain +1 to <mark style="background: #004A4CA6;">Agility</mark> and <mark style="background: #000000;">Stealth</mark> rolls and +10 movespeed.
+Gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #000000;">+1</mark> to Stealth rolls and +10 movespeed.
 Additionally, Gain the Bow of Artemis - 
 Every arrow fired is a ***Deadly Missle***
-Additionally, every knife you posses shifts into Artemis' Hunting Blade, granting <mark style="background: #930000A6;">+2</mark> to attack rolls made from behind the target
+Additionally, every knife you posses shifts into Artemis' Hunting Blade, granting <mark style="background: #930000A6;">+2</mark> to attack rolls made from behind the target.
 
 ------------------
 

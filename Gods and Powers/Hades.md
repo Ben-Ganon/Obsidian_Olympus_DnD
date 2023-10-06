@@ -90,7 +90,7 @@ You heal for $\lceil30\%\rceil$ of the damage dealt
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       7        |      1       |   2 CT    |  10 CT   | 1 Meter | 
+|       7        |      1       |   2 CT    |  6 CT   | 1 Meter | 
 Summon [[Cerberus]] to aide you in combat.
 
 ------------------
@@ -109,7 +109,7 @@ Gain <mark style="background: #004A4CA6;">+1</mark> to all agility and stealth r
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       10       |      1       |   3 CT    |   5 CT   |   10 Meters   | 
+|       10       |      1       |   3 CT    |   6 CT   |   10 Meters   | 
 Merge with Hades, god of Death.
 Gain <mark style="background: #045B00A6;">10 Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.
 During this time, any monster you control and is brought to <mark style="background: #045B00A6;">0 Hp </mark> can make a willpower saving throw to save themselves from death.
