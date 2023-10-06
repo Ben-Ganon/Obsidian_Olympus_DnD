@@ -58,7 +58,7 @@ When a foe is bit by the skull, they must make a <mark style="background: #A5A5A
 |       5        |      1       |  Instant  |   3 CT   | 50 Meters | 
 Summon the goddess Styx to shroud enemies in darkness.
 Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">intuition</mark> throw or turn blind for the duration, and cannot see or hear.
-Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
+Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
 for the duration.
 
 ------------------
@@ -110,7 +110,7 @@ Gain <mark style="background: #004A4CA6;">+1</mark> to all agility and stealth r
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       10       |      1       |   3 CT    |   5 CT   |   10 Meters   | 
 Merge with Hades, god of Death.
-Gain <mark style="background: #045B00A6;">10 Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.
+Gain <mark style="background: #045B00A6;">10 Max Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.
 During this time, any monster you control and is brought to <mark style="background: #045B00A6;">0 Hp </mark> can make a willpower saving throw to save themselves from death.
 Additionally, if any PC in the range fails their <mark style="background: #A5A5A5;">Willpower</mark> life saving throw, you can roll <mark style="background: #A5A5A5;">Willpower</mark> for them to attempt to wrestle them from Hades
 

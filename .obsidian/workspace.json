@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Ares.md"
+                "file": "Gods and Powers/Hephaestus.md"
               }
             }
           },
@@ -166,10 +166,13 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Ares.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Artemis.md",
     "Summonable Entities/Hellhound.md",
     "Summonable Entities/Cerberus.md",
     "Resources/Creature Hellhound.pdf",
@@ -184,11 +187,9 @@
     "Resources/Boar stat sheet.pdf",
     "Resources/Mount Sheet.pdf",
     "Resources/Mount Sheet Fillable.pdf",
-    "Gods and Powers/Athena.md",
     "Summonable Entities/Anemoi.md",
     "Summonable Entities/Zagreus.md",
     "Summonable Entities/Wolf.md",
-    "Gods and Powers/Zeus.md",
     "Summonable Entities/Achilles.md",
     "Templates/Color Codes.md",
     "Templates/Boon.md",

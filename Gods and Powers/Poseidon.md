@@ -97,7 +97,7 @@ summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       10       |      1       |  <mark style="background: #620075A6;">Instant</mark>  |   <mark style="background: #620075A6;">5 CT</mark>   |   -   | 
 You merge with Poseidon, god of waves: 
-Gain <mark style="background: #045B00A6;"> 15 Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+10</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive value, <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark>
+Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+10</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive value, <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark>
 (can only be held with 2 hands)
 
 ------------------

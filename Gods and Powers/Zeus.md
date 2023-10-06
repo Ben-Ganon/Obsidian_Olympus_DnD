@@ -110,7 +110,7 @@ The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll,
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
 You merge with Zeus, God of Thunder.
-For the Duration, you gain <mark style="background: #045B00A6;">15 Hp</mark> and increase in size: grow 30% larger, you are now classified as Large.
+For the Duration, you gain <mark style="background: #045B00A6;">15 Max Hp</mark> and increase in size: grow 30% larger, you are now classified as Large.
 Any creature that comes within range of you must roll an agility saving throw or be struck by lightning for <mark style="background: #930000A6;">1d4</mark> damage. This does not repeat if the creature stays in range of you next CT.
 If the creature rolled a 1, the impact of thunder leaves it deaf for the duration of combat.
 Additionally, you can cast Blink each turn while this boon is active.
