@@ -1,6 +1,7 @@
-The Oracle of Delphi 
-Her prophecy corrupted
-
+***The moon child you did slay
+But the journey is not done
+All of Greece will know dismay
+Unless the quest is won
 
 ___On the island of Delos
 The Fates have no hold
@@ -15,15 +16,4 @@ Shall break or mend the horns of Taurus
 ___The chorus sings praise
 For our heroes, fierce and brave
 Death lies in Hades
-
-באי הקדוש דלוס
-לאלות הגורל אין שלטון
-מפקד המלחמה אפליוס
-קצר גורלות לאבדון
-
-למקום היוולדו של מינוס תפליגו בספינת הארד
-הצילו את אולימפוס מגשם של אש וברד
-קבוצת גיבורים, שאספו האלים
-את הקרניים של טאורוס תשבור או תחלים
-
 
