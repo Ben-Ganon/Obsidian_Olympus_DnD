@@ -93,7 +93,7 @@ Cannot stray more than the range away from you or it will vanish
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       7        |      1       |   1 CT    |   3 CT   | 300 Meters | 
+|       7        |      1       |   1 CT    |   5 CT   | 300 Meters | 
 Summon a sacred [[Buzzard]] scout to aide you on the hunt.
 The Buzzard flies at a 20 meter altitude can report back to you on what it sees and hear.
 Cannot stray more than the range away from you or it will vanish.

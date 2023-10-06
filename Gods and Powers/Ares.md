@@ -4,6 +4,89 @@ Ares is a hot headed army of one, Matching even the power of Zeus in full-on com
 Don't be fooled by his combat prowess - Ares is easily fooled, and even more easily provoked to fight.
 
 ***Boons***:
+<b><ins><i>Rage:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      1       |  Instant  |   5 CT   |   -   | 
+Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain <mark style="background: #9E0000A6;">+1</mark> on all attack rolls, but each time you attack roll 1d8. 
+If the result is 1, strike the nearest closest ally. If none are nearby, you are stunned for <mark style="background: #620075A6;">1 CT</mark>
+
+------------------
+<b><ins><i>Infusion:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      1       |   1 CT    |   3 CT   |   -   | 
+Gain a blood infusion from Ares, making you stronger and more resistant.
+For the duration, you heal <mark style="background: #045B00A6;">5 Hp</mark> each turn, and any damage against you is reduced by $\lceil25\%\rceil$.
+
+------------------
+<b><ins><i>Dangerous Taunt:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       3        |      1       |     1     |   2 CT   | 20 Meters | 
+Taunt a humanoid, animal or undead into combat, forcing them to attack you.  
+They have <mark style="background: #930000A6;">+1</mark> on all attack rolls but <mark style="background: #930000A6;">-2</mark> on all defense and dodge rolls
+
+------------------
+<b><ins><i>Blood Weapon:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       3        |      1       |  Instant  |   3 CT   |   -   | 
+Summon a weapon infused with the blood of Ares.
+(you can also transform your current weapon)
+<b><ins><i>War Bow:</i></ins></b>
+Rain arrows in a <mark style="background: #000B67A6;">10 Meter</mark> Radius up to <mark style="background: #000B67A6;">250 Meters</mark> away.
+Each enemy in the area must make a blocking save or take <mark style="background: #930000A6;">1d6</mark> damage
+<b><ins><i>Spear:</i></ins></b>
+The blood spears attacks and defends for <mark style="background: #930000A6;">1d8</mark>. 
+You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d4</mark> damage to all enemies in a <mark style="background: #000B67A6;">3 Meter</mark> range.
+(Considered 1 attack)
+<b><ins><i>Xiphos:</i></ins></b>
+You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d4</mark> each time.
+Each attack is considered separate.
+Every time an enemy is hit by the xiphos, heal <mark style="background: #045B00A6;">$1d4 \over 2$ </mark>
+
+------------------
+<b><ins><i>Hail of Blades:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       7        |      1       |   1 CT    |   3 CT   | 3 Meters | 
+Become surrounded by a vortex of Celestial Bronze weapons  
+While this is active, every creature in the radius must make an <mark style="background: #004A4CA6;">Agility</mark> save or take <mark style="background: #930000A6;">1d6</mark> damage each turn.
+
+------------------
+<b><ins><i>Find Weakness:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|                |              |           |          |       |
+
+
+------------------
+<b><ins><i>Boon_Name:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|                |              |           |          |       |
+
+
+------------------
+<b><ins><i>Aspect of Blood:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       10       |      1       |   1 CT    |   5 CT   |   -   | 
+Merge with Ares, god of bloodshed. 
+Become infused with godly spirit:  
+Gain <mark style="background: #045B00A6;">25 Hp</mark> and infuse you weapon with frenzied bloodlust, gaining <mark style="background: #930000A6;">+2</mark> to all attack rolls.  
+Additionally, for the duration you are surrounded by a ***Hail of Blades***.
+
+------------------
 
 | Spell Name | Effect | Level Required | Uses Per Day | Cast Time| Duration|
 | :--: | -- | :--: | :--: | :--: | :--: |

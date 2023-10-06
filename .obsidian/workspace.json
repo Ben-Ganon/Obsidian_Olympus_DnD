@@ -11,9 +11,11 @@
             "id": "be119213926adeeb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Summonable Entities/Buzzard stat sheet.pdf"
+                "file": "Gods and Powers/Ares.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summonable Entities/Buzzard stat sheet.pdf",
+                "file": "Gods and Powers/Ares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summonable Entities/Buzzard stat sheet.pdf",
+                "file": "Gods and Powers/Ares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summonable Entities/Buzzard stat sheet.pdf"
+                "file": "Gods and Powers/Ares.md"
               }
             }
           },
@@ -165,30 +167,34 @@
   "active": "be119213926adeeb",
   "lastOpenFiles": [
     "Gods and Powers/Artemis.md",
-    "Gods and Powers/Ares.md",
+    "Gods and Powers/Poseidon.md",
     "Gods and Powers/Hades.md",
-    "Summonable Entities/Anemoi.md",
-    "Summonable Entities/Buzzard stat sheet.pdf",
-    "Summonable Entities/Cerberus.md",
+    "Gods and Powers/Ares.md",
     "Summonable Entities/Hellhound.md",
-    "Summonable Entities/Hercules.md",
-    "Summonable Entities/Zagreus.md",
-    "Summonable Entities/Wolf.md",
+    "Summonable Entities/Cerberus.md",
+    "Resources/Creature Hellhound.pdf",
+    "Resources/Mount Cerberus.pdf",
+    "Resources/Mount Cerberus.pdf",
+    "Resources/Mount Buzzard.pdf",
     "Summonable Entities/Boar.md",
-    "Gods and Powers/Zeus.md",
+    "Summonable Entities/Buzzard stat sheet.pdf",
+    "Summonable Entities/Hercules.md",
+    "Resources/Anemoi Stat Sheet.pdf",
+    "Resources/Mount Boar.pdf",
     "Resources/Boar stat sheet.pdf",
     "Resources/Mount Sheet.pdf",
     "Resources/Mount Sheet Fillable.pdf",
     "Gods and Powers/Athena.md",
+    "Summonable Entities/Anemoi.md",
+    "Summonable Entities/Zagreus.md",
+    "Summonable Entities/Wolf.md",
+    "Gods and Powers/Zeus.md",
     "Summonable Entities/Achilles.md",
     "Templates/Color Codes.md",
-    "Gods and Powers/Poseidon.md",
-    "Resources/Anemoi Stat Sheet.pdf",
     "Templates/Boon.md",
     "Resources/d6.jpg",
     "Resources/d6.png",
     "Resources/dice.png",
-    "Resources",
     "Pasted image 20231005180111.png",
     "test.md",
     "Info and Values/Base Hp.md",
@@ -196,13 +202,9 @@
     "Templates/God Info.md",
     "Lore/The Plot.md",
     "General/Metal-Creature interactions.md",
-    "Lore",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Info and Values/Character Sheet.png",
     "TODO.md",
     "Lore/Welcome.md",
-    "Lore/Types of Creatures.md",
-    "Summonable Entities",
-    "Info and Values"
+    "Lore/Types of Creatures.md"
   ]
 }
