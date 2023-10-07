@@ -43,12 +43,12 @@ From deep inside you erupts a massive flow of water, dealing <mark style="backgr
 This Boon summons a large amount of water - if you are in an enclosed space, consider this area a flooded area or a body of water.
 
 ------------------
-<b><ins><i>Healing Hands:</i></ins></b>
+<b><ins><i>Healing Water:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |
 |:--------------:|:------------:|:---------:|:--------:|
 |       3        |      1       |      <mark style="background: #620075A6;">1 CT</mark>     |    -      |
-Channel the healing power of water to heal yourself or another character.  Roll an Intuition Score, and on success heal the chosen character <mark style="background: #FFAD0085;">1d6</mark> Hp. If you are near a body of water heal <mark style="background:  #FFAD0085;">2d4</mark> instead.
+Channel the healing power of water to heal yourself or another character.  Roll Intuition, and on success heal the chosen character <mark style="background: #045B00A6;">1d4</mark> Hp. If you are near a body of water heal <mark style="background: #045B00A6;">1d6</mark> instead.
 
 ------------------
 <b><ins><i>Water Whip:</i></ins></b>

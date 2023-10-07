@@ -26,7 +26,7 @@ Summon [[Achilles]], [[Hercules]] or [[Zagreus]]
 |       1        |      1       |   1 CT    |   3 CT   |   -    |
 Turn a medium or smaller creature  invisible.
 Creatures passed must make an <mark style="background:  #FFAD0085;">intuition</mark> throw - on success, the invisible creature is seen.
-Attacking during the invisibility ends the effect and gains <mark style="background: #930000A6;">+1</mark> 
+Attacking during the invisibility ends the effect and gains <mark style="background: #930000A6;">+1</mark> to the attack roll
 
 ------------------
 <b><ins><i>Reanimate Monster:</i></ins></b>
@@ -36,7 +36,7 @@ Attacking during the invisibility ends the effect and gains <mark style="backgro
 |       3        |      3       |   1 CT    |   5 CT   | 1 Meter | 
 Reanimate a fallen monster to fight for you.
 Roll $monster hp \over 20$ d6.
-If you get more than 3 on all rolls, you will successfully animate the monster.
+If you get more than 3 on all rolls, you will successfully animate the monster with half stats.
 If you fail even one roll, you fail to reanimate the monster and instead summon a [[Hellhound]]
 
 ------------------
