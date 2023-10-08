@@ -125,9 +125,9 @@ If you are not immune to fire, roll 1d4 - On a 1, take <mark style="background: 
 |       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
 
 Merge with Hephaestus, god of iron.
-Your skin becomes iron, 
+Your skin becomes Celestial Bronze, 
 granting you +3 to block rolls, <mark style="background: #045B00A6;">+20 Hp</mark>, and immunity to fire.
-Enemies in you range feel the heat of the forge, taking <mark style="background: #930000A6;">1d4</mark> damage each CT for the duration.
+Enemies in your range feel the heat of the forge, taking <mark style="background: #930000A6;">1d4</mark> damage each CT for the duration.
 This stacks with fire storm and fire breath, and upgrades their range.
 
 ------------------

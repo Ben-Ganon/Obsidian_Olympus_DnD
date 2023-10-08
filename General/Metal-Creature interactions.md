@@ -13,9 +13,10 @@ Bronze-->Animals;
 CB-->Humans;
 CB-->Animals;
 CB-->MC;
+CB-->Undead
 SI(Stygian-Iron)-->Animals;
 SI-->MC;
-SI-->Undead;
+SI-.->Undead;
 SI-->Spirits;
-CS--> All
+CS-.-> All
 ````

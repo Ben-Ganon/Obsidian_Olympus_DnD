@@ -1,6 +1,6 @@
 The $Plot^{TM}$ so far:
-The year is roughly 900 bce.
-500 years ago (roughly 1450 bce) the island of Crete and surrounding Islands were populated by the Minoan Empire. 
+The year is roughly 800 bce.
+300 years ago (roughly 110 bce) the island of Crete and surrounding Islands were populated by the Minoan Empire. 
 At the head of the Minoan Empire ruled Minos, the dreaded tyrant from Knossos. 
 Minos was a demigod, born of the [[Zeus]] and Europa, and resented the gods of Olympus - both his father Zeus for abandoning him in childhood and Poseidon for cursing him with the bull that fathered the dreaded Minotaur.
 Slowly losing his mind from anger and jealousy, Minos turned to another god:
@@ -13,20 +13,26 @@ Olympus, joining forces with demigods who's names are lost to time, vanquished M
 As punishment for its attempt at domination, Crete was drowned in ash and fire, consumed by great waves and choked by thunderstorms, collapsed on itself, its citizens fleeing or choosing to die with their beloved homeland.
 The few survivors of the disaster, known formally as "Minos' Apocalypse", swore to avenge their nation and to ruin Olympus.
 
-500 Years after Minos' Apocalypse, the Cult Of The Bull is rising in the Mediterranean.
+300 Years after Minos' Apocalypse, the Cult Of The Bull is rising in Greece.
 At the head of the cult is Aphelios, grand war-chief and coordinator of the cult.
 
 Aphelios was raised by a generation of survivors. Hungry. Mad. Insulted.
 Aphelios wants nothing more than to see Olympus in ashes.
 Sailing to his ruined home island Crete, Aphelios recovers the statue of the bull and inherits the powers of Tauros. 
-Tauros guides Aphelios to revive the Minoan empire, but because of the domination of Greece in the Mediterranean he must do so through the Cult of the Bull.
+Tauros guides Aphelios to revive the Minoan empire, but because of the domination of Greece in the Mediterranean he must do so with the help of the Cult of the Bull.
 Aphelios is a direct descendant of king Minos, and is determined to bring him back from Hades and with his help conquer Olympus, and then all of Greece.
 With Tauros' guidance, Aphelios starts the Cult Of The Bull. 
 They perform a forbidden ritual, and with the power of Tauros they chain Persephone, goddess of spring, to the Temple of Tauros at Crete.
 
 They hope to cause Greece to crumble-
 Make the gods on Olympus fall to in-fighting to distract them from the eternal winter caused by Persephone's absence.
-With the gods distracted and the citizens of Greece starving, the Cult will  invade Greece and trap Hades, forcing him to return Minos.
+With the gods distracted and the citizens of Greece starving, the Cult will invade Greece and 
+Instate Minos as Emperor, with Tauros as the one and only god of the new empire.
+
+Aphelios, using his cult, aims to do three major things:
+1. Chain Persephone to the Temple in Crete to create the eternal winter
+2. Overtake the Oracle in Delphi to shift the tides of fate in his favor
+3. Open the gate of Hades to release Minos
 
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.

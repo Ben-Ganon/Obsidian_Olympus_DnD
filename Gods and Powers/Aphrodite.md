@@ -15,6 +15,7 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       1        |      2       |  Instant   |   10 CT   | 10 Meters | 
+
 Change your appearance to look like the ideal beauty standard for humanoids within the range.
 This gives +1 to to intuition rolls meant to charm, bluff or persuade.
 
@@ -24,6 +25,7 @@ This gives +1 to to intuition rolls meant to charm, bluff or persuade.
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       1        |      3       |   1 CT    |   2 CT   | 5 Meters | 
+
 Siphon the life energy of the target from afar.
 Deal <mark style="background: #930000A6;">1d6</mark> to the target.
 Additionally, the target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
@@ -35,6 +37,7 @@ On failure, the target suffers from extreme fatigue, getting -1 on all rolls unt
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
 |       3        |      1       |   1 CT    |   2 CT   | 5 Meters | 
+
 Charm a target into submission.
 Both you and the target roll <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark>.
 If your sum is larger, They must do your bidding for the duration.
@@ -45,6 +48,7 @@ If your sum is larger, They must do your bidding for the duration.
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       3        |      2       |  Instant  |   3 CT   |   -   | 
+
 Summon a blood-blade.
 The blade deals <mark style="background: #930000A6;">1d6</mark> damage
 Any damage dealt by the blade heals you for the same amount
@@ -55,6 +59,7 @@ Any damage dealt by the blade heals you for the same amount
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |   1 CT    |   2 CT   | 20 Meters | 
+
 Let out a siren call, making all creatures in the range infatuated with the sound.
 Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly towards you for the duration.
 
@@ -64,6 +69,7 @@ Every creature in the range must make a <mark style="background: #A5A5A5;">Willp
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |   1 CT    |   5 CT   | 10 Meters | 
+
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make a <mark style="background: #3800D7A6;">Might</mark> save or be stunned in terror for 1 CT.
 Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> damage each attack for the duration.
@@ -75,6 +81,7 @@ Each enemy slain with these claws restores <mark style="background: #045B00A6;">
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       7        |      1       |   1 CT    |   3 CT   | 40 Meters | 
+
 You cause surrounding creatures to fight over you.
 Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
 If they fail, they attack the nearest creature to them for the duration
@@ -105,3 +112,4 @@ On failure, they become your slave for the duration.
 On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> Damage
 
 ------------------
+
