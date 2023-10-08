@@ -64,7 +64,7 @@ Every creature in the range must make a <mark style="background: #A5A5A5;">Willp
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |   1 CT    |   5 CT   | 10 Meters | 
-Explode in Demonic energy, Appear as a Demonic entity and gain powers.
+Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make a <mark style="background: #3800D7A6;">Might</mark> save or be stunned in terror for 1 CT.
 Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> damage each attack for the duration.
 Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you
@@ -102,6 +102,6 @@ You merge with Aphrodite, goddess of passion.
 For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #004A4CA6;">Agility</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.
 On failure, they become your slave for the duration.
-On Success, they take <mark style="background: #930000A6;">1d12</mark> Damage
+On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> Damage
 
 ------------------

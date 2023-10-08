@@ -20,7 +20,7 @@ If the result is 1, strike the nearest closest ally. If none are nearby, you are
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      1       |   1 CT    |   3 CT   |   -   | 
 Gain a blood infusion from Ares, making you stronger and more resistant.
-For the duration, you gain <mark style="background: #045B00A6;">+5 Max Hp</mark> each turn, 
+For the duration, you gain <mark style="background: #045B00A6;">+5 Max Hp</mark> each CT, 
 and any damage against you is reduced by $\lceil25\%\rceil$.
 
 ------------------
@@ -91,6 +91,7 @@ While this is active, every creature in the radius must make an <mark style="bac
 |       7        |      1       |   1 CT    |    -     | 10 Meters | 
 Strike your foe with all the power of your enhanced vitality.
 Strike your foes with the might of Ares, deal $1 \over 1d4$ of your <mark style="background: #045B00A6;">Max Hp</mark> to a target in range.
+Afterwards, you lose all bonus Hp
 
 ------------------
 <b><ins><i>Aspect of Blood:</i></ins></b>
