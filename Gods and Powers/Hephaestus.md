@@ -92,6 +92,7 @@ If you roll 3 or 4, you puncture the enemies weak point, dealing <mark style="ba
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
 |       5        |      1       |   1 CT    |    -     | 5 Meters | 
+
 Channel Hephaestus' forge to breath fire at your enemies, dealing <mark style="background: #930000A6;">1d6</mark> to all enemies in a cone up to the range.
 You also take <mark style="background: #930000A6;">1d4</mark> damage unless you are immune to fire
 
@@ -101,7 +102,8 @@ You also take <mark style="background: #930000A6;">1d4</mark> damage unless you 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      1       |   5 CT    |  10 CT   |   -   | 
-Craft Sávra, the Dragon Automaton!
+
+Craft [[Savra|Sávra]], the Dragon Automaton!
 
 ------------------
 <b><ins><i>Fire Storm:</i></ins></b>
