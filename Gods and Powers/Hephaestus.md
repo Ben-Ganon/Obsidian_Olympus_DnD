@@ -14,6 +14,7 @@ Or drown their enemies in fire and sword slashes.
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       1        |      3       |   1 CT    |   5 CT   | 10 Meters | 
+
 Upgrade a weapon with your tools.
 Give an armor, weapon or shield +1 to either block or attack for the duration.
 
@@ -24,6 +25,7 @@ Give an armor, weapon or shield +1 to either block or attack for the duration.
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      1       |   Instant   |   10 CT   |   -   | 
+
 Your skin becomes molten iron.
 For the duration, you are immune to fire, and gain +1 to all block rolls.
 
@@ -33,6 +35,7 @@ For the duration, you are immune to fire, and gain +1 to all block rolls.
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       3        |      1       |   3 CT    | 3 Hours |   -   | 
+
 Craft nifty gadgets for your party, after a duration they fall apart:
 <b><ins><i>Rabbit Automaton:</i></ins></b>
 Craft a rabbit automaton to scout for your party.
@@ -52,7 +55,8 @@ The shield can be instantly deployed to block one attack completely, but breaks 
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   2 CT    |   3 CT   | 50 Meters | 
+|       3        |      1       |   2 CT    |   7 CT   | 50 Meters | 
+
 Craft a heavy, complicated crossbow that only a child of Hephaestus can operate.
 The crossbow has can fire 3 times before it dismantles.
 All arrows deal 1d12 and have 1 additional effect:
@@ -68,6 +72,7 @@ All arrows deal 1d12 and have 1 additional effect:
 | Level Required | Uses Per Day | Cast Time |    Duration    |   Range   |
 |:--------------:|:------------:|:---------:|:--------------:|:---------:|
 |       5        |      1       |   5 CT    | 3 Hours | 10 Meters | 
+
 Craft a master-weapon inspired by Hephaestus' forge, that disperses after a duration.
 You can use this weapon or grant it to a party member.
 <b><ins><i>Gauntlets:</i></ins></b>
@@ -104,6 +109,7 @@ Craft Sávra, the Dragon Automaton!
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       7        |      1       |   1 CT    |   5 CT   | 5 Meters | 
+
 Surround yourself with intensely hot forge-fire.
 Each turn, all creatures in range take <mark style="background: #930000A6;">1d8</mark> damage.
 If you are not immune to fire, roll 1d4 - On a 1, take <mark style="background: #930000A6;">1d8</mark> damage as well.
@@ -115,6 +121,7 @@ If you are not immune to fire, roll 1d4 - On a 1, take <mark style="background: 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
+
 Merge with Hephaestus, god of iron.
 Your skin becomes iron, 
 granting you +3 to block rolls, <mark style="background: #045B00A6;">+20 Hp</mark>, and immunity to fire.

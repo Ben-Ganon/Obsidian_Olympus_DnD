@@ -56,6 +56,7 @@ Channel the healing power of water to heal yourself or another character.  Roll 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       5         |       2       |    Instant       |     <mark style="background: #620075A6;">3 CT </mark>    |   <mark style="background: #000B67A6;">5 Meters</mark>    |
+
 Summon a water whip. The water whip can be used to deal  damage or lasso creatures.
 choose either attack:
 ***Whip*** - do <mark style="background: #930000A6;">2d4</mark> blunt damage
@@ -67,6 +68,7 @@ choose either attack:
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |  <mark style="background: #620075A6;">Intsant</mark>   |    <mark style="background: #620075A6;">3 CT</mark>     | <mark style="background: #000B67A6;">10 Meters </mark>| 
+
 Summon a small watery object in your hand.
 This object can be placed or thrown up to the range from you.
 If thrown, explodes immediately.
@@ -79,6 +81,7 @@ The explosion deals <mark style="background: #930000A6;">1d6</mark> damage and s
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7         |      1        |     <mark style="background: #620075A6;">Instant</mark>      |    -      | <mark style="background: #000B67A6;">20 Meters</mark>       |
+
 The ground beneath your feet rumbles, as everything around you takes <mark style="background: #930000A6;">1d12</mark> damage. Creatures in the Earthquake must make an agility saving throw to avoid damage
 Cannot cast on water.
 
@@ -88,6 +91,7 @@ Cannot cast on water.
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      1       |  <mark style="background: #620075A6;">Insant</mark>   |     <mark style="background: #620075A6;">5 CT</mark>     |   <mark style="background: #000B67A6;">20 Meters</mark>    |
+
 summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</mark> damage to everything in a radius each combat turn. Cannot cast on land
 
 ------------------
@@ -96,6 +100,7 @@ summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       10       |      1       |  <mark style="background: #620075A6;">Instant</mark>  |   <mark style="background: #620075A6;">5 CT</mark>   |   -   | 
+
 You merge with Poseidon, god of waves: 
 Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+10</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive value, <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark>
 (can only be held with 2 hands)

@@ -14,6 +14,7 @@ Children of Demeter play a crowd control oriented roll, tending to keep enemies 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       1        |      3       |   1 CT    |   2 CT   | 50 Meters | 
+
 Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnared]] an enemy in the range for the duration.  
 
 ------------------
@@ -22,6 +23,7 @@ Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnared]] an enem
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
 |       1        |      3       |   1 CT    |  10 CT / 2CT   | 5 Meters | 
+
 Spawn a mud trap up to 5 Meters away from you, that freezes solid when an enemy steps in it.
 The trap lasts for 10 CT, and an enemy that steps on a trap is [[#Ensnared]] for 2 CT.
 
