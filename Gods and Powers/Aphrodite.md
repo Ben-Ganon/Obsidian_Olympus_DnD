@@ -1,6 +1,6 @@
-Aphrodite is the goddess of love, lust, passion, beauty.
-Aphrodite is beautiful as she is deadly -
-She will take any a chance to cause drama and strife, and in the case of gods this usually causes untold damage.
+Aphrodite is the goddess of love, lust, passion and beauty.
+Aphrodite is as beautiful as she is deadly -
+She will take any chance to cause drama and strife, and in the case of gods this usually causes untold damage.
 
 Her sons and daughters can appear to each person slightly differently - they outwardly look like the beholders beauty ideal.
 

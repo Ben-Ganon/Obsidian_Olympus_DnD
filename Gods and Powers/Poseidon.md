@@ -12,7 +12,7 @@ A force to be reckoned with, Poseidon grants extraordinary boons both in combat 
 |:--------------:|:------------:|:---------:|:--------:| :--:|
 |       1        |      1       |  <mark style="background: #620075A6;"> 1 CT</mark>    |   <mark style="background: #620075A6;">5 CT</mark>   | - |
 
-Summon a huge wave to lift you up. +15 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead 
+Summon a huge wave to lift you up. +15 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead.
 
 ------------------
 <b><ins><i>Control Water:</i></ins></b>
