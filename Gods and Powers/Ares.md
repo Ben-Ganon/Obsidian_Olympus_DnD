@@ -88,7 +88,7 @@ While this is active, every creature in the radius must make an <mark style="bac
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   1 CT    |    -     | 10 Meters | 
+|       7        |      2       |   1 CT    |    -     | 10 Meters | 
 Strike your foe with all the power of your enhanced vitality.
 Strike your foes with the might of Ares, deal $1 \over 1d4$ of your <mark style="background: #045B00A6;">Max Hp</mark> to a target in range.
 Afterwards, you lose all bonus Hp

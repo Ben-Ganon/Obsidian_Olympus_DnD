@@ -24,12 +24,14 @@ Give an armor, weapon or shield +1 to either block or attack for the duration.
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      1       |   Instant   |   10 CT   |   -   | 
+|       0        |      1       |   Instant   |   10 CT   |   -   | 
 
 Your skin becomes molten iron.
 For the duration, you are immune to fire, and gain +1 to all block rolls.
 
 ------------------
+TODO: add level 1 fire boon
+
 <b><ins><i>Crafty:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
@@ -66,12 +68,11 @@ All arrows deal 1d12 and have 1 additional effect:
 **_Net Arrow_** - enemies hit must make an agility save or be stunned for 1 CT
 
 ------------------
-
 <b><ins><i>Master Smith:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time |    Duration    |   Range   |
 |:--------------:|:------------:|:---------:|:--------------:|:---------:|
-|       5        |      1       |   5 CT    | 3 Hours | 10 Meters | 
+|       5        |      1       |   3 CT    | 3 Hours | 10 Meters | 
 
 Craft a master-weapon inspired by Hephaestus' forge, that disperses after a duration.
 You can use this weapon or grant it to a party member.
@@ -82,7 +83,7 @@ But are very close range, receive -1 to dodge rolls
 You need to wind up attacks, taking 1 CT to charge them.
 The hammer deals <mark style="background: #930000A6;">1d20</mark> damage
 <b><ins><i>Katar:</i></ins></b>
-The katar is excellent at puncturing weak points.
+The Katar is excellent at puncturing weak points.
 Roll 1d4. If you roll 1 or 2, you miss the weak points and deal <mark style="background: #930000A6;">1d4</mark> damage.
 If you roll 3 or 4, you puncture the enemies weak point, dealing <mark style="background: #930000A6;">1d6</mark> and making the enemy bleed out, dealing <mark style="background: #930000A6;">1d4</mark> damage every CT for 2 CT. (does not stack)
 

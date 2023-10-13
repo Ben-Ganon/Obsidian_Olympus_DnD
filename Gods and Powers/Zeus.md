@@ -16,11 +16,12 @@ Recommended for new players
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       1        |      3       |  Instant  |    -     | 100 Meters | 
+|       1        |      3       |  1 CT  |    -     | 100 Meters | 
 
 Call a lightning bolt from the sky to Deal <mark style="background: #930000A6;">1d6</mark> damage  
 in a <mark style="background: #000B67A6;">1 meter radius</mark> to an enemy or object. Cannot cast underground.
 If you are in the air while casting, deal <mark style="background: #930000A6;">2d4</mark> instead.
+If the target is in the air, deal an extra 1d4.
 
 ------------------
 <b><ins><i>Charge Weapon:</i></ins></b>

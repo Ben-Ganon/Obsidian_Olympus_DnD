@@ -6,7 +6,7 @@ A force to be reckoned with, Poseidon grants extraordinary boons both in combat 
 
 ***Boons***:
 
-<b><ins><i> Surf's up! </i></ins></b>
+<b><ins><i>Surf's up!</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:| :--:|
@@ -72,7 +72,7 @@ choose either attack:
 Summon a small watery object in your hand.
 This object can be placed or thrown up to the range from you.
 If thrown, explodes immediately.
-If place, can place a timer on it.
+If placed, you can place a timer on it.
 The explosion deals <mark style="background: #930000A6;">1d6</mark> damage and spawns a body of water
 
 ------------------

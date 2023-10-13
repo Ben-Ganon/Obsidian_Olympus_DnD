@@ -9,6 +9,7 @@ Children of Artemis play the role of Ranger Assassin - marking targets for death
 
 
 ***Boons***:
+
 <b><ins><i>Cresent Strike:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
@@ -63,7 +64,7 @@ If you cast this while **Wild Hunt** is active, deal <mark style="background: #9
 Channel the power of the Wild Hunt.
 For the duration, you gain <mark style="background: #60BB81;">10 Movespeed</mark> when moving towards an enemy,
 and gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #00BB4D;">+1</mark> to Dexterity rolls.
-If the moon is shining, gain <mark style="background: #000000;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made to ***Marks*** enemies.
+If the moon is shining, gain <mark style="background: #000000;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made to ***Marked*** enemies.
 
 ------------------
 <b><ins><i>Poison Projectiles:</i></ins></b>
