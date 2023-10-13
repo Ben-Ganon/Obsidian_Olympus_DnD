@@ -13,10 +13,11 @@ Children of Dionysos can support the party and poison enemies, either with taint
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       1        |      2       |   1 CT    |   3 CT   | 1 Meter | 
+
 Bless a nearby liquid container in range to become either form of Sacred Booze.
 Can either - 
-- Sacred Wine - Heal for 1d6
-- Sacred Spirit - Inflict 1d6 damage 
+- Sacred Wine - Heal for <mark style="background: #00A521A6;">1d6</mark>
+- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d6</mark> damage 
 This booze evaporates after the duration
 ------------------
 
@@ -25,6 +26,7 @@ This booze evaporates after the duration
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       1        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+
 Cause a target in range to become drunk for the duration.
 Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls that CT
 
@@ -34,9 +36,10 @@ Each CT, target must make an Intuition saving roll or stumble, causing them rece
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       3        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+
 Inflict a target in range with visions of absolute terror for the duration.
-Each turn, the target must make an Intuition saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing 1d4 damage to a nearby target.
-If no target is available they deal 1d4 damage to themselves.
+Each turn, the target must make an Intuition saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d4</mark> damage to a nearby target.
+If no target is available they deal <mark style="background: #9E0000A6;">1d4</mark> damage to themselves.
 
 ------------------
 <b><ins><i>Drama Queen:</i></ins></b>
@@ -44,6 +47,7 @@ If no target is available they deal 1d4 damage to themselves.
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       3        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+
 Inspire a target with a dramatic urge to fight.
 The target receives +1 on all attack rolls, but cannot move away from enemies for the duration.
 
@@ -53,11 +57,12 @@ The target receives +1 on all attack rolls, but cannot move away from enemies fo
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       5        |      1       |   1 CT    |   5 CT   | 1 Meter | 
+
 Fill a container with a dark red liquid.
 This liquid evaporates after 5 CT.
 This container can then be drunk or thrown.
 When it comes into contact with a creature, roll 1d4:
-1. The liquid becomes a deadly poison, dealing 1d6 damage
+1. The liquid becomes a deadly poison, dealing <mark style="background: #9E0000A6;">1d6</mark> damage
 2. The liquid is incredibly potent wine, causing target to become a ***Drunken Idiot*** for 2 CT
 3.  The liquid becomes a potion of madness, causing target to become inflicted with ***Visions of Madness*** for 2 CT
 4. The liquid is regular wine and does nothing
@@ -68,9 +73,10 @@ When it comes into contact with a creature, roll 1d4:
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |   1 CT    |   2 CT   | 30 Meters | 
+
 Cause all targets in range to start dancing.
 Every creature in the range must make an Intuition saving roll or spend their turn dancing, and they are unable to dodge or block.
-However, whenever they attack, they roll a 1d4 for bonus damage.
+However, whenever they attack, they roll a <mark style="background: #9E0000A6;">1d4</mark> for bonus damage.
 
 ------------------
 <b><ins><i>Filthy Beasts:</i></ins></b>
@@ -78,12 +84,13 @@ However, whenever they attack, they roll a 1d4 for bonus damage.
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       7        |      3       |   1 CT    |   3 CT   | 20 Meters | 
+
 Turn a target into a beast for the duration.
 Roll 1d4:
 1-2 : Turn target into a dolphin, can only take action in water.
 3-4: Turn Target into a Bear, can only take action on land.
 
-Both have 15 Hp, can attack for 1d6.
+Both have <mark style="background: #00A521A6;">15 Hp</mark>, can attack for <mark style="background: #9E0000A6;">1d6</mark>.
 
 ------------------
 <b><ins><i>Bacchanalia:</i></ins></b>
@@ -91,18 +98,20 @@ Both have 15 Hp, can attack for 1d6.
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       7        |      1       |   2 CT    |   5 CT   | 40 Meters | 
+
 The area around you erupts in absolute madness.
-Every ally in the range will receive a +1 to all Intuition and Attack rolls.
-All Enemies in range receive -1 to Intuition to Intuition and Block rolls.
+Every ally in the range will receive a <mark style="background: #FFAD0085;">+1</mark> to all Intuition and Attack rolls.
+All Enemies in range receive <mark style="background: #FFAD0085;">-1</mark> to Intuition and Block rolls.
 
 ------------------
 <b><ins><i>Aspect of Madness:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       10       |      1       |   1 CT    |   5 CT   |   10 Meters   | 
+|       9       |      1       |   1 CT    |   5 CT   |   10 Meters   | 
+
 Merge with Dionysos, god of madness.
-Gain +5 Hp, and +1 to Intuition and Willpower rolls.
+Gain <mark style="background: #00A521A6;">+5 Hp</mark>, and <mark style="background: #FFAD0085;">+1</mark> to Intuition and Willpower rolls.
 Every CT, all enemies in range must make Intuition saving rolls or be subjected to ***Visions of Madness***.
 Once when the effect begins, all allies in range roll 1d4 and receive:
 1-2: +1 to attack rolls

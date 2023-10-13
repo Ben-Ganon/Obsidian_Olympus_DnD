@@ -118,7 +118,7 @@ The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll,
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
+|       9       |      1       |   1 CT    |   5 CT   | 10 Meters | 
 
 You merge with Zeus, God of Thunder.
 For the Duration, you gain <mark style="background: #045B00A6;">15 Max Hp</mark> and increase in size: grow 30% larger, you are now classified as Large.

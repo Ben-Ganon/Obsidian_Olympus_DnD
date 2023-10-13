@@ -3,6 +3,8 @@ Ares is the god of war, bloodshed and massacres.
 Ares is a hot headed army of one, Matching even the power of Zeus in full-on combat.
 Don't be fooled by his combat prowess - Ares is easily fooled, and even more easily provoked to fight.
 
+Children of Ares play as either front line tanks that absorb damage for their party, or rage-filled barbarians dealing massive damage to enemies, sometimes at the cost of their teammates Hp.
+
 ***Boons***:
 
 <b><ins><i>Rage:</i></ins></b>
@@ -14,7 +16,7 @@ Gain massive strength, but lose the ability to differ between friend and foe. <b
 If the result is 1, strike the nearest closest ally. If none are nearby, you are stunned for <mark style="background: #620075A6;">1 CT</mark>
 
 ------------------
-<b><ins><i>Infusion:</i></ins></b>
+<b><ins><i>Godly Infusion:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
@@ -70,7 +72,7 @@ Additionally, gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for eve
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |    -     | 10 Meters | 
+|       5        |      2       |   1 CT    |    -     | 10 Meters | 
 You channel Deimos, the god of terror.
 An enemy you make eye contact with must make a Willpower save or be stunned for <mark style="background: #620075A6;">2 CT</mark>
 
@@ -98,7 +100,7 @@ Afterwards, you lose all bonus Hp
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       10       |      1       |   1 CT    |   5 CT   |   -   | 
+|       9       |      1       |   1 CT    |   5 CT   |   -   | 
 Merge with Ares, god of bloodshed. 
 Become infused with godly spirit:  
 Gain <mark style="background: #045B00A6;">25 Max Hp</mark> and infuse you weapon with frenzied bloodlust, gaining <mark style="background: #930000A6;">+2</mark> to all attack rolls.  

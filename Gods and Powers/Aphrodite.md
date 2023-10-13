@@ -17,7 +17,7 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 |       1        |      2       |  Instant   |   10 CT   | 10 Meters | 
 
 Change your appearance to look like the ideal beauty standard for humanoids within the range.
-This gives +1 to to intuition rolls meant to charm, bluff or persuade.
+This gives <mark style="background: #FFAD0085;">+1</mark> to to intuition rolls meant to charm, bluff or persuade.
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -41,6 +41,7 @@ On failure, the target suffers from extreme fatigue, getting -1 on all rolls unt
 Charm a target into submission.
 Both you and the target roll <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark>.
 If your sum is larger, They must do your bidding for the duration.
+If ***Shimmer*** is active, this effect happens even if you beat one of the rolls.
 
 ------------------
 <b><ins><i>Vampiric Blade:</i></ins></b>
@@ -104,7 +105,7 @@ Afterwards the target is stunned for the duration
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       10       |      1       |   1 CT    |   5 CT   | 1 Meter | 
+|       9       |      1       |   1 CT    |   5 CT   | 1 Meter | 
 You merge with Aphrodite, goddess of passion.
 For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #004A4CA6;">Agility</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.

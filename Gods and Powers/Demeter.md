@@ -90,7 +90,7 @@ Enemies within 1 Meter of the flower take 1d4 damage each turn until the duratio
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       10       |      1       |   1 CT    |   5 CT   | 10 Meters | 
+|       9       |      1       |   1 CT    |   5 CT   | 10 Meters | 
 Merge with Demeter, goddess of the Harvest.
 Gain +10 Hp and +1 to all Might rolls.
 Every CT, enemies in your range must make an Agility save or be [[#Ensnared]].
