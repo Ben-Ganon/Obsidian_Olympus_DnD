@@ -1,0 +1,10 @@
+- How turns work - Action + movement + bonus action
+- Sizes and their effects on combat
+- Attacking with weapon
+- Firing arrows
+- Blocking with a shield or with a sword - what can/cannot be blocked
+- Damage reductions
+- Crits
+- Grapples
+- Attacking with a spell
+- 

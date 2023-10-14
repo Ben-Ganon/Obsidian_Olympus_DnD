@@ -5,7 +5,65 @@ Usually the voice of reason among her fellow Olympians, Athena represents the co
 calculated side of the pantheon.
 Do not confuse her restraint for excess patience: Athena can and will dominate a battlefield given the proper reason to fight
 
+Children of Athena play a mixed role of tank who stacks block bonuses to deal
+
 ***Boons***:
+
+<b><ins><i>Owl Sentry:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      1       |   1 CT    |   3 CT   |    100 Meters    |
+
+Conjure a sacred owl of Athena, and send it fly to a position up to <mark style="background: #0900A7A6;">100 Meters</mark> away.
+This sentry can sense for you - you can hear and see what it does.
+Additionally, once per summon you can switch places with it instantly
+
+------------------
+<b><ins><i>Phalanx:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       1        |      1       |   1 CT    |   5 CT   | 50 Meters |
+
+Form a close formation with your allies.
+You all gain +1 to block for the duration.
+
+------------------
+<b><ins><i>Flank:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       3        |      3       |  Insant   |   1 CT   | 10 Meters | 
+
+Mark a target.
+If the target is flanked (two enemies or more in 180 or 90 degree separation), your next attack on them receives bonus damage of <mark style="background: #930000A6;">1d8</mark>.
+Any attack against them receives bonus damage of <mark style="background: #930000A6;">1d4</mark>.
+
+If the target is not flanked, your next attack against them receives a bonus of <mark style="background: #930000A6;">1d4</mark>
+
+------------------
+<b><ins><i>Shield Bash:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       3        |      3       |   1 CT    |    -     | 5 Meters | 
+
+Bash an enemy with your shield
+Use your shield to deal damage with it's defense stat (including any bonuses to block)
+
+------------------
+<b><ins><i>Aegis:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|                |              |           |          |       |
+
+
+------------------
+
+
+
 
 | Spell Name | Effect | Level Required | Uses Per Day |Cast Time |  Duration|
 | :--: | -- | :--: | :--: |  -- | -- |

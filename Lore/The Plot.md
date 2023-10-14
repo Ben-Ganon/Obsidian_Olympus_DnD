@@ -50,21 +50,24 @@ Along with Minos come other souls of the undead, and monsters from Tartarus.
 
 Meanwhile, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
 
-Atlas is sent with some magically gifted followers to Delos, where they chain Persephone to the Minoan Fountain on the island
+Atlas is sent with some magically gifted followers to Thera, where they chain Persephone to the Ruined Temple of Tauros on the island.
+
+During all this, Aphelios is ruling the Cult from Crete.
+Once Persephone is chained, and Minos is brought to Thera, Aphelios will join them and the ritual will commence.
+Where the Minoan Empire was vanquished, it will rise once more, stronger, more dangerous than ever, 
 
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.
 The heroes must travel to the island of Crete and free Persephone, defeat Aphelios and save Greece!
 
-During this time, Persephone has been missing for 6 months, Selene has just ove
+During this time, Persephone has been missing for 6 months, Selene has overtaken the Oracle 3-4 months ago and Nyx is on her way to open the gates in Naxos.
 
 #### Phase 1: 
 The Heroes must make their way to Delphi to receive the Oracles quest and her blessing.
-Unbeknownst to them the Cult of the Bull have poisoned the oracle, giving Tauros a 
-peek into the future.
+Unbeknownst to them the Cult of the Bull have poisoned the oracle, giving Tauros a peek into the future, while preventing the Olympians from seeing it.
 The Heroes must kill Aphelios second in command, Selena, who has been controlling the oracle for a few months now.
-After Selena has been defeated, the heroes will receive [[The prophecy from the Oracle]]
-
+After Selena has been defeated, the heroes will receive [[The Prophecy from the Oracle]]
+The heroes
 
 ##### Phase 2:
 Our Heroes must make their way to Knossos, Crete.
