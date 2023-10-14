@@ -19,33 +19,44 @@ At the head of the cult is Aphelios, grand war-chief and coordinator of the cult
 
 Aphelios was raised by a generation of survivors. Hungry. Mad. Insulted.
 Aphelios wants nothing more than to see Olympus in ashes.
-Sailing to his ruined home island Delos, Aphelios recovers the statue of the bull and inherits the powers of Tauros. 
-Tauros guides Aphelios to revive the Minoan empire, but because of the domination of Greece in the Mediterranean he must do so with the help of the Cult of the Bull.
-Aphelios is a direct descendant of king Minos, and is determined to bring him back from Hades and with his help conquer Olympus, and then all of Greece.
-With Tauros' guidance, Aphelios starts the Cult Of The Bull. 
-They perform a forbidden ritual, and with the power of Tauros they chain Persephone, goddess of spring, to the Temple of Zeus at Delos.
+Sailing to his ruined home island Crete, Aphelios recovers the statue of the bull and inherits the powers of Tauros. 
+But, the Empire of Minos cannot be reborn just yet.
+Over the past 300 years Tauros has been weakened, and Tauros now only grants Aphelios minor powers, and is more of a dark influence on the young man.
+Minos, the vanquished king of the empire, took much of Tauros power with him to the underworld when he died.
+To revive the empire and restore Tauros to full strength, Aphelios must merge with Minos to form the ultimate godly entity of the bull.
+But, in order to foster these inherent powers into each other, a godly source of energy is required. 
+That is why the Cult intends to sacrifice Persephone, and through her godly energy bind Aphelios, Minos and Tauros.
+
+Tauros guides Aphelios on how to revive the Minoan empire, but because Tauros is so weak, Aphelios must first strengthen him with new followers, and so the Cult of the Bull is formed, collecting bitter demi-gods and other peoples from the Mediterranean, who wish to see Olympus fall.
+
+With the renewed strength and influence all over Greece, Tauros is now strong enough to enact the next step of his plan.
+
+Aphelios, on his journey to Crete, met his trusted lieutenants Nyx, Atlas and Selene.
+He sends each of them out on missions with members of the cult.
 
 They hope to cause Greece to crumble-
 Make the gods on Olympus fall to in-fighting to distract them from the eternal winter caused by Persephone's absence.
 With the gods distracted and the citizens of Greece starving, the Cult will invade Greece and 
 Instate Minos as Emperor, with Tauros as the one and only god of the new empire.
 
-Aphelios, using his cult, aims to do three major things:
+Aphelios sends out his followers to do these:
 1. Chain Persephone to the Temple in Delos to create an eternal winter
 2. Overtake the Oracle in Delphi to shift the tides of fate in his favor 
 3. Open the gate of Hades to release Minos
 
-Nyx, Daughter of Hades, is sent to Knossos in order to open a gate from hades, sneak in with the Black Key, and pull Minos from Tartarus.
+Nyx, Daughter of Hades, is sent to Naxos, where a new portal to hades has opened.
+She will open a backdoor to hades with the Black Key, rescue Minos from hades and bring him to Delos, where Persephone is held to complete the ritual.
 Along with Minos come other souls of the undead, and monsters from Tartarus.
 
-Meanwhile, Selene is sent to Delphi to overtake the Oracle with the help of the cult.
+Meanwhile, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
 
-Atlas is sent with some magically gifted followers to 
-
+Atlas is sent with some magically gifted followers to Delos, where they chain Persephone to the Minoan Fountain on the island
 
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.
 The heroes must travel to the island of Crete and free Persephone, defeat Aphelios and save Greece!
+
+During this time, Persephone has been missing for 6 months, Selene has just ove
 
 #### Phase 1: 
 The Heroes must make their way to Delphi to receive the Oracles quest and her blessing.

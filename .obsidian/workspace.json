@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Cult of the Bull.md",
+                "file": "Lore/The Plot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Cult of the Bull.md",
+                "file": "Lore/The Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Cult of the Bull.md",
+                "file": "Lore/The Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Cult of the Bull.md"
+                "file": "Lore/The Plot.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +166,10 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
+    "Lore/The prophecy from the Oracle.md",
     "Lore/The Plot.md",
     "Lore/The Cult of the Bull.md",
     "Gods and Powers/Poseidon.md",
-    "Lore/The prophecy from the Oracle.md",
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",
     "General/Dice mechanics.md",
