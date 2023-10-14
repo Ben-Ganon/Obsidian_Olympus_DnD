@@ -5,7 +5,7 @@ Usually the voice of reason among her fellow Olympians, Athena represents the co
 calculated side of the pantheon.
 Do not confuse her restraint for excess patience: Athena can and will dominate a battlefield given the proper reason to fight
 
-Children of Athena play a mixed role of tank who stacks block bonuses to deal
+Children of Athena play a mixed role of fighter who stacks block bonuses to deal massive damage and soak up attacks, and a tactician that gives their team incredible bonuses if they are organized. 
 
 ***Boons***:
 
@@ -26,8 +26,8 @@ Additionally, once per summon you can switch places with it instantly
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       1        |      1       |   1 CT    |   5 CT   | 50 Meters |
 
-Form a close formation with your allies.
-You all gain +1 to block for the duration.
+Form a close formation with your nearby allies.
+You gain +1 to block for each ally in your formation
 
 ------------------
 <b><ins><i>Flank:</i></ins></b>
@@ -37,8 +37,8 @@ You all gain +1 to block for the duration.
 |       3        |      3       |  Insant   |   1 CT   | 10 Meters | 
 
 Mark a target.
-If the target is flanked (two enemies or more in 180 or 90 degree separation), your next attack on them receives bonus damage of <mark style="background: #930000A6;">1d8</mark>.
-Any attack against them receives bonus damage of <mark style="background: #930000A6;">1d4</mark>.
+If the target is flanked (two enemies or more in 180 or 90 degree separation), your next attack on them this CT receives bonus damage of <mark style="background: #930000A6;">1d8</mark>.
+Any attack against them this CT receives bonus damage of <mark style="background: #930000A6;">1d4</mark>.
 
 If the target is not flanked, your next attack against them receives a bonus of <mark style="background: #930000A6;">1d4</mark>
 
@@ -50,14 +50,16 @@ If the target is not flanked, your next attack against them receives a bonus of 
 |       3        |      3       |   1 CT    |    -     | 5 Meters | 
 
 Bash an enemy with your shield
-Use your shield to deal damage with it's defense stat (including any bonuses to block)
+Use your shield to deal damage with it's defense stat (including any bonuses to block).
+This damages the shield temporarily and removes all bonuses for block on you.
 
 ------------------
-<b><ins><i>Aegis:</i></ins></b>
+<b><ins><i>Detect Weakness:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|                |              |           |          |       |
+|       5        |      1       |  Instant  |          |       |
+
 
 
 ------------------
