@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c5d219ab3984441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Poseidon.md",
+                "file": "Lore/The Cult of the Bull.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
+                "file": "Lore/The Cult of the Bull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
+                "file": "Lore/The Cult of the Bull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Demeter.md"
+                "file": "Lore/The Cult of the Bull.md"
               }
             }
           },
@@ -162,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +165,16 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
+    "Lore/The Plot.md",
+    "Lore/The Cult of the Bull.md",
     "Gods and Powers/Poseidon.md",
+    "Lore/The prophecy from the Oracle.md",
+    "General/Metal-Creature interactions.md",
+    "General/Metal Types.md",
+    "General/Dice mechanics.md",
+    "General/Afflictions.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Ares.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Hermes.md",
@@ -186,10 +182,8 @@
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysus.md",
-    "Gods and Powers/Ares.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Aphrodite.md",
-    "Lore/The prophecy from the Oracle.md",
     "Templates/God Info.md",
     "Templates/Boon.md",
     "Resources/Mount Boar.pdf",
@@ -208,16 +202,9 @@
     "Summonable Entities/Boar.md",
     "Summonable Entities/Buzzard stat sheet.pdf",
     "Summonable Entities/Hercules.md",
-    "Summonable Entities/Anemoi.md",
-    "Summonable Entities/Zagreus.md",
-    "Summonable Entities/Wolf.md",
-    "Summonable Entities/Achilles.md",
-    "Templates/Color Codes.md",
     "Resources/d6.jpg",
     "Resources/d6.png",
     "Pasted image 20231005180111.png",
-    "test.md",
-    "Info and Values/Base Hp.md",
     "Info and Values/Character Sheet.png"
   ]
 }

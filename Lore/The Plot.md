@@ -9,7 +9,8 @@ These visions corrupted Minos' mind, but granted him great power (<mark style="b
 
 With his new found power Minos founded the Minoan Empire, which conquered the islands near Crete and subjected them to slavery and suffering expanding his empire and worshiping Tauros.
 The Greeks on the mainland feared the rise of this empire headed by the mysterious blood-hungry tyrant and his bull god, so they called out to Olympus to help. 
-Olympus, joining forces with demigods who's names are lost to time, vanquished Minos and obliterated his empire.
+Olympus, joining forces with demigods who's names are lost to time, vanquished Minos at the island of Delos, and obliterated his empire.
+
 As punishment for its attempt at domination, Crete was drowned in ash and fire, consumed by great waves and choked by thunderstorms, collapsed on itself, its citizens fleeing or choosing to die with their beloved homeland.
 The few survivors of the disaster, known formally as "Minos' Apocalypse", swore to avenge their nation and to ruin Olympus.
 
@@ -18,11 +19,11 @@ At the head of the cult is Aphelios, grand war-chief and coordinator of the cult
 
 Aphelios was raised by a generation of survivors. Hungry. Mad. Insulted.
 Aphelios wants nothing more than to see Olympus in ashes.
-Sailing to his ruined home island Crete, Aphelios recovers the statue of the bull and inherits the powers of Tauros. 
+Sailing to his ruined home island Delos, Aphelios recovers the statue of the bull and inherits the powers of Tauros. 
 Tauros guides Aphelios to revive the Minoan empire, but because of the domination of Greece in the Mediterranean he must do so with the help of the Cult of the Bull.
 Aphelios is a direct descendant of king Minos, and is determined to bring him back from Hades and with his help conquer Olympus, and then all of Greece.
 With Tauros' guidance, Aphelios starts the Cult Of The Bull. 
-They perform a forbidden ritual, and with the power of Tauros they chain Persephone, goddess of spring, to the Temple of Tauros at Crete.
+They perform a forbidden ritual, and with the power of Tauros they chain Persephone, goddess of spring, to the Temple of Zeus at Delos.
 
 They hope to cause Greece to crumble-
 Make the gods on Olympus fall to in-fighting to distract them from the eternal winter caused by Persephone's absence.
@@ -30,9 +31,17 @@ With the gods distracted and the citizens of Greece starving, the Cult will inva
 Instate Minos as Emperor, with Tauros as the one and only god of the new empire.
 
 Aphelios, using his cult, aims to do three major things:
-1. Chain Persephone to the Temple in Crete to create the eternal winter
-2. Overtake the Oracle in Delphi to shift the tides of fate in his favor
+1. Chain Persephone to the Temple in Delos to create an eternal winter
+2. Overtake the Oracle in Delphi to shift the tides of fate in his favor 
 3. Open the gate of Hades to release Minos
+
+Nyx, Daughter of Hades, is sent to Knossos in order to open a gate from hades, sneak in with the Black Key, and pull Minos from Tartarus.
+Along with Minos come other souls of the undead, and monsters from Tartarus.
+
+Meanwhile, Selene is sent to Delphi to overtake the Oracle with the help of the cult.
+
+Atlas is sent with some magically gifted followers to 
+
 
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.
