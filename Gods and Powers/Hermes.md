@@ -99,12 +99,13 @@ You can max out one roll of any kind.
 ------------------
 <b><ins><i>Aspect of Travel:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       9        |      1       |   1 CT    |   3 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
+|:--------------:|:------------:|:---------:|:--------:|:---------:|
+|       9        |      1       |   1 CT    |   3 CT   | 10 Meters | 
 
 Merge with Hermes, god of travelers.
-Gain 5 Hp, and double your movespeed for the duration.
-Additionally, 
+Gain 5 Hp, and double your Movespeed for the duration.
+Additionally, you can bless allies in range to move faster, giving them an extra
+5 Movespeed until the end of this boon.
 
 ------------------

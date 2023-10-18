@@ -21,7 +21,7 @@ Death lies in Hades
 
 ***Delphi liberated
 
-***From child of moonlight so hated
+***From child of moonlight hated
 
 ***But the journey is not done
 

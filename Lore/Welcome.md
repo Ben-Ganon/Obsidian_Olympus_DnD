@@ -15,4 +15,4 @@ Hades replies, in a snarky tone "Who wouldn't? you're not exactly the nicest bun
 "Yes boss?"  
 "Remember when I told you about the group of exceptional demigods assembled in Athens for the Summer Solstice?"  
 "sure thing boss"  
-" now would be the time to fetch them for a quest"
+"now would be the time to fetch them for a quest"
