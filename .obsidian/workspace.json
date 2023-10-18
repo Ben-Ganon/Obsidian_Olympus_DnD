@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hermes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hermes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hermes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Athena.md"
+                "file": "Gods and Powers/Hermes.md"
               }
             }
           },
@@ -175,10 +175,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86f14208cf0826b8",
+  "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "General/Afflictions.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Hermes.md",
     "Gods and Powers/Athena.md",
+    "General/Afflictions.md",
     "Gods and Powers/Artemis.md",
     "General/Combat Mechanics.md",
     "Lore/The Prophecy from the Oracle.md",
@@ -193,9 +195,7 @@
     "Gods and Powers/Ares.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hermes.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysus.md",
     "Gods and Powers/Aphrodite.md",
     "Templates/God Info.md",
