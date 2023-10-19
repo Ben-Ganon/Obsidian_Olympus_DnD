@@ -48,13 +48,17 @@ Nyx, Daughter of Hades, is sent to Naxos, where a new portal to hades has opened
 She will open a backdoor to hades with the Black Key, rescue Minos from hades and bring him to Delos, where Persephone is held to complete the ritual.
 Along with Minos come other souls of the undead, and monsters from Tartarus.
 
-Meanwhile, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
+Before she disappears into the gates in search of Minos, she splits the Black Key to three pieces to ensure the gate will not be closed, gives one part to Atlas, another to Selene and the third she keeps to herself.
+
+After departing from the gate to hades, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
 
 Atlas is sent with some magically gifted followers to Thera, where they chain Persephone to the Ruined Temple of Tauros on the island.
 
-During all this, Aphelios is ruling the Cult from Crete.
+During all this, Aphelios is ruling the Cult from Crete, and rebuilding the island.
 Once Persephone is chained, and Minos is brought to Thera, Aphelios will join them and the ritual will commence.
 Where the Minoan Empire was vanquished, it will rise once more, stronger, more dangerous than ever, 
+
+Selene, on her way to the oracle, has her key piece stolen by an unsuspecting thief, and noticing he was heading towards Athens, sends Hector to retrieve it.
 
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.

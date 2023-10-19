@@ -1,7 +1,7 @@
 
 ```mermaid
 graph TD;
-Aphelios --> Selene
+Aphelios --> Selene --> Hector
 Aphelios --> Atlas
 Aphelios --> Nyx
 ```
@@ -14,6 +14,10 @@ Selene, daughter of Artemis.
 She was born defying the sacred oath of Artemis to eternal virginity, so Artemis forced her father, a noble hunter from Crete, to abandon her in the forest to hide her shame.
 Her father later snuck back in secret to retrieve her, and passed her on to be raised in secret by some farmers.
 He told them the story, and they in turn told her. In time, Selene grew bitter and angry at Artemis for forcing her father to abandon her, and when Aphelios met her on his journey to Crete and offered her to join him on his quest to raze Greece, she agreed.
+
+Aphelios appointed Hector, son of Janus, as her second in command.
+Not much is known about Hector, as he usually keeps to himself.
+However, a large scar on his face, which makes hector look quite disfigured, is assumed to be from Janus himself. 
  
 Atlas, son of Ares.
 Atlas was born in a quiet town to a martial artist named Cassandra.

@@ -11,11 +11,9 @@
             "id": "be119213926adeeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lore/Athens Encounter.md",
-                "mode": "source",
-                "source": false
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Athens Encounter.md",
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Athens Encounter.md",
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Athens Encounter.md"
+                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
               }
             }
           },
@@ -165,17 +163,19 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Lore/The Plot.md",
+    "Info and Values/Character Sheet.png",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Lore/Athens Encounter.md",
+    "Lore/The Plot.md",
+    "Lore/The Cult of the Bull.md",
+    "Lore/Types of Creatures.md",
+    "Lore/Welcome.md",
+    "Lore/The Prophecy from the Oracle.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Aphrodite.md",
     "TODO.md",
     "test.md",
     "README.md",
-    "Lore/Welcome.md",
-    "Lore/Types of Creatures.md",
-    "Lore/The Prophecy from the Oracle.md",
-    "Lore/The Cult of the Bull.md",
     "Gods and Powers/Hades.md",
     "General/Afflictions.md",
     "General/Combat Mechanics.md",
@@ -190,7 +190,6 @@
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Demeter.md",
-    "Gods and Powers/Hephaestus.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -201,10 +200,8 @@
     "Resources/Mount Savra.pdf",
     "Resources/dice.png",
     "Resources/Mount Festus.pdf",
-    "Summonable Entities/Buzzard stat sheet.pdf",
     "Resources/d6.jpg",
     "Resources/d6.png",
-    "Pasted image 20231005180111.png",
-    "Info and Values/Character Sheet.png"
+    "Pasted image 20231005180111.png"
   ]
 }
