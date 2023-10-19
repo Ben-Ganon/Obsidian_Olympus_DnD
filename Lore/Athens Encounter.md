@@ -12,6 +12,6 @@ Suddenly, Player_A notices their purse of coins is no longer on them.
 They look up, and see a thief run away with it.
 before they give chase, they see Hector hunting him down and absolutely going to town on him.
 
-Player_A and Player_B Fight (?) Hector and retrieve the end of the Black Key
+Player_A and Player_B Fight (?) Hector and retrieve the Top of [[The Black Key]]
 
 Hermes, on a quest from Zeus, appears before Athens and declares a quest is underway to aid Olympus.

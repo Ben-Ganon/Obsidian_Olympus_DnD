@@ -11,9 +11,11 @@
             "id": "be119213926adeeb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
+                "file": "Gods and Powers/Hermes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "healing",
-                "matchingCase": false,
+                "query": "Black Key",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
+                "file": "Gods and Powers/Hermes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info and Values/Dead_Frost_Play_Aids.pdf",
+                "file": "Gods and Powers/Hermes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info and Values/Dead_Frost_Play_Aids.pdf"
+                "file": "Gods and Powers/Hermes.md"
               }
             }
           },
@@ -163,11 +165,23 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Info and Values/Character Sheet.png",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Lore/Athens Encounter.md",
-    "Lore/The Plot.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Hephaestus.md",
+    "Lore/The Black Key.md",
     "Lore/The Cult of the Bull.md",
+    "Lore/Athens Encounter.md",
+    "Resources/Black Key top 2.jpg",
+    "Resources/Black Key top.jpg",
+    "Resources/Black Key Bottom.jpg",
+    "Resources/Black Key Bitting.jpg",
+    "Resources/Black Key Blade.jpg",
+    "Resources/_82a62a37-30dd-4618-a945-7b895bb3854c.jpg",
+    "Lore/Fake Prophecy.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Info and Values/Character Sheet.png",
+    "Lore/The Plot.md",
     "Lore/Types of Creatures.md",
     "Lore/Welcome.md",
     "Lore/The Prophecy from the Oracle.md",
@@ -176,20 +190,15 @@
     "TODO.md",
     "test.md",
     "README.md",
-    "Gods and Powers/Hades.md",
     "General/Afflictions.md",
     "General/Combat Mechanics.md",
     "General/Dice mechanics.md",
     "Gods and Powers/Hermes.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
-    "Lore/Fake Prophecy.md",
     "Gods and Powers/Poseidon.md",
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Ares.md",
-    "Gods and Powers/Demeter.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -201,7 +210,6 @@
     "Resources/dice.png",
     "Resources/Mount Festus.pdf",
     "Resources/d6.jpg",
-    "Resources/d6.png",
-    "Pasted image 20231005180111.png"
+    "Resources/d6.png"
   ]
 }
