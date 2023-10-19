@@ -5,14 +5,15 @@ Unbeknownst to our intrepid heroes, the cult of the bull have infiltrated the Te
 Player_A, which is in a stall in the market, is checking out the poor, shriveled produce from the fields.
 Player_A had received a mysterious papyrus containing an invitation to the summer solstice in Athens. 
 It wasn't signed by any of the temples, and it had an odd glow to it, so Player_A decided the best course of action would be to follow the instructions and show up.
-Player_B is on the opposite side of the market, looking at silver jewelry to bestow on their beloved back home in Thebes.
-Player_B had also received a letter much like Player_A's, and had decided to come to the summer solstice.
+Likewise, the rest of the party received similar scrolls and decided to show up to the solstice to check things out.
+The party meet in a vegetable stall, notice each others mildly glowing scrolls.
 
 Suddenly, Player_A notices their purse of coins is no longer on them.
 They look up, and see a thief run away with it.
 before they give chase, they see Hector hunting him down and absolutely going to town on him.
 
-Player_A and Player_B Fight (?) Hector and retrieve the Top of [[The Black Key]]
+[Intuition] They see he takes a small, eye-ish looking object from the thieves robes, and run into an alleyway.
 
+Player_A and Player_B Chase (?) Hector through the streets, but lose him quickly.
 
 Hermes, on a quest from Zeus, appears before Athens and declares a quest is underway to aid Olympus.

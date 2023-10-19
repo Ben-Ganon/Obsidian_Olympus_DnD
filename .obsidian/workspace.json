@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Athens Encounter.md",
+                "file": "Gear and Items/Swords.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Athens Encounter.md",
+                "file": "Gear and Items/Swords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Athens Encounter.md",
+                "file": "Gear and Items/Swords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Athens Encounter.md"
+                "file": "Gear and Items/Swords.md"
               }
             }
           },
@@ -165,15 +165,17 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Swords.md",
+    "Lore/Athens Encounter.md",
+    "Gear and Items",
     "Lore/Fake Prophecy.md",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Hephaestus.md",
-    "Lore/The Black Key.md",
     "Lore/The Cult of the Bull.md",
-    "Lore/Athens Encounter.md",
     "Resources/Black Key top 2.jpg",
     "Resources/Black Key top.jpg",
     "Resources/Black Key Bottom.jpg",
@@ -198,7 +200,6 @@
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",
     "Gods and Powers/Apollo.md",
-    "Gods and Powers/Ares.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -208,7 +209,6 @@
     "Resources/Mount Sheet.pdf",
     "Resources/Mount Savra.pdf",
     "Resources/dice.png",
-    "Resources/Mount Festus.pdf",
     "Resources/d6.jpg",
     "Resources/d6.png"
   ]

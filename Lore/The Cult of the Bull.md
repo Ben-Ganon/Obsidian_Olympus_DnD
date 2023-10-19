@@ -43,7 +43,7 @@ Over the months she spent in the realm of the underworld, Nyx fell in love with 
 They developed an intense relationship, leading her to truly feel like someone understood her for the first time in her life.
 But all was not well.
 Hades, seeing his daughter gain respect and power in his realm, grew jealous, and cast Nyx out from his realm.
-As a parting gift, Thanatos gave Nyx [[the Black Key]], which could open a back door to hades, should she ever want to come back to the underworld to see him.
+As a parting gift, Thanatos gave Nyx [[The Black Key]], which could open a back door to hades, should she ever want to come back to the underworld to see him.
 Heartbroken by the sudden loss, Nyx grew tired of this world, and set to take her life the next day. 
 In a surprising twist of fate, just as Nyx emerged from the underworld, she met Aphelios, who promised her this world, and hades with it, could end for all.
 
