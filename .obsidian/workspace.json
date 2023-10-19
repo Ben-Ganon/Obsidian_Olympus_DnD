@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Lore/Athens Encounter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Lore/Athens Encounter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Lore/Athens Encounter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Hermes.md"
+                "file": "Lore/Athens Encounter.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
+    "Lore/Fake Prophecy.md",
+    "Gods and Powers/Hermes.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Hades.md",
@@ -178,7 +180,6 @@
     "Resources/Black Key Bitting.jpg",
     "Resources/Black Key Blade.jpg",
     "Resources/_82a62a37-30dd-4618-a945-7b895bb3854c.jpg",
-    "Lore/Fake Prophecy.md",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Info and Values/Character Sheet.png",
     "Lore/The Plot.md",
@@ -193,7 +194,6 @@
     "General/Afflictions.md",
     "General/Combat Mechanics.md",
     "General/Dice mechanics.md",
-    "Gods and Powers/Hermes.md",
     "Gods and Powers/Poseidon.md",
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",

@@ -14,4 +14,5 @@ before they give chase, they see Hector hunting him down and absolutely going to
 
 Player_A and Player_B Fight (?) Hector and retrieve the Top of [[The Black Key]]
 
+
 Hermes, on a quest from Zeus, appears before Athens and declares a quest is underway to aid Olympus.
