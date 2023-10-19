@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Janus.md",
+                "file": "Gear and Items/Swords and Knives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Janus.md",
+                "file": "Gear and Items/Swords and Knives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Janus.md",
+                "file": "Gear and Items/Swords and Knives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Janus.md"
+                "file": "Gear and Items/Swords and Knives.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +166,9 @@
   "active": "be119213926adeeb",
   "lastOpenFiles": [
     "Gear and Items/The Black Key.md",
+    "General/Metal Types.md",
+    "Gear and Items/Swords and Knives.md",
     "Gods and Powers/Janus.md",
-    "Gear and Items/Swords.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
     "Lore/Fake Prophecy.md",
@@ -199,7 +200,6 @@
     "General/Dice mechanics.md",
     "Gods and Powers/Poseidon.md",
     "General/Metal-Creature interactions.md",
-    "General/Metal Types.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
