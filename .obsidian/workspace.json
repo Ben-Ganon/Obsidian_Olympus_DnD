@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Swords.md",
+                "file": "Gear and Items/The Black Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Swords.md",
+                "file": "Gear and Items/The Black Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Swords.md",
+                "file": "Gear and Items/The Black Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Swords.md"
+                "file": "Gear and Items/The Black Key.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Gear and Items/The Black Key.md",
     "Gear and Items/Swords.md",
+    "Gear and Items/The Black Key.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
     "Lore/Fake Prophecy.md",

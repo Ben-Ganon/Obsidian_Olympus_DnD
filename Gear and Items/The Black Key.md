@@ -4,7 +4,7 @@ The Black Key is a key that opens one of many randomly spawning back doors to ha
 The Key was separated by Nyx, daughter of Hades.
 Each part of the key gives unique Bonuses and they each attract each other, if in 1 Meter range they snap together with a strong magical force.
 
-Black Key Top:
+Black Key Bow:
 ![[Black Key top 2.jpg | 200]]
 The strongest part of the key, on its own.
 The Top of the key allows the holder to see five minutes into the future once a day. This brief vision lasts only seconds but is extremely accurate given the short time frame it has to predict.
