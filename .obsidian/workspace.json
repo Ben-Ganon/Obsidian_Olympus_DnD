@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/The Black Key.md",
+                "file": "Gods and Powers/Janus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/The Black Key.md",
+                "file": "Gods and Powers/Janus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/The Black Key.md",
+                "file": "Gods and Powers/Janus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/The Black Key.md"
+                "file": "Gods and Powers/Janus.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "be119213926adeeb",
   "lastOpenFiles": [
-    "Gear and Items/Swords.md",
     "Gear and Items/The Black Key.md",
+    "Gods and Powers/Janus.md",
+    "Gear and Items/Swords.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
     "Lore/Fake Prophecy.md",
@@ -199,7 +200,6 @@
     "Gods and Powers/Poseidon.md",
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",
-    "Gods and Powers/Apollo.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
