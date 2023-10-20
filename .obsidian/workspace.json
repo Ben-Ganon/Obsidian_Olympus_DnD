@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Swords and Knives.md",
+                "file": "Gear and Items/Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Swords and Knives.md",
+                "file": "Gear and Items/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Swords and Knives.md",
+                "file": "Gear and Items/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Swords and Knives.md"
+                "file": "Gear and Items/Weapons.md"
               }
             }
           },
@@ -167,7 +167,7 @@
   "lastOpenFiles": [
     "Gear and Items/The Black Key.md",
     "General/Metal Types.md",
-    "Gear and Items/Swords and Knives.md",
+    "Gear and Items/Weapons.md",
     "Gods and Powers/Janus.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
