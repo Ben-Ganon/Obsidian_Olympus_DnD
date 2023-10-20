@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Zeus.md"
+                "file": "Gear and Items/Shields and Armor.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,6 +165,19 @@
   },
   "active": "f57705345579ff77",
   "lastOpenFiles": [
+    "ancient-greek-armor-linothorax-3d-model-d6a2383382.jpg",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Shields and Armor.md",
+    "Indo-Persian_war_hammer.jpg",
+    "Gear and Items/The Black Key.md",
+    "Resources/AH3935_L.jpg",
+    "Resources/Mongol_bow.webp",
+    "Resources/long-bow.png",
+    "Resources/product_0_3_0367_recurve_bow.jpg",
+    "Resources/8046128_orig.jpg",
+    "Resources/AH2151-1.jpg",
+    "Resources/AH4111BNx.png",
+    "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
     "Gods and Powers/Hermes.md",
@@ -177,31 +190,19 @@
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
-    "Gear and Items/Weapons.md",
     "Xiphos-Title.webp",
     "Resources/8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg",
-    "Gear and Items/The Black Key.md",
     "General/Metal Types.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
     "Lore/Fake Prophecy.md",
     "Lore/The Cult of the Bull.md",
-    "Resources/Black Key top 2.jpg",
-    "Resources/Black Key top.jpg",
-    "Resources/Black Key Bottom.jpg",
-    "Resources/Black Key Bitting.jpg",
-    "Resources/Black Key Blade.jpg",
-    "Resources/_82a62a37-30dd-4618-a945-7b895bb3854c.jpg",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Info and Values/Character Sheet.png",
     "Lore/The Plot.md",
     "Lore/Types of Creatures.md",
     "Lore/Welcome.md",
     "Lore/The Prophecy from the Oracle.md",
-    "Gods and Powers/Zeus.md",
     "TODO.md",
-    "test.md",
-    "README.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -209,7 +210,6 @@
     "Resources/Anemoi Stat Sheet.pdf",
     "Resources/Mount Sheet Fillable.pdf",
     "Resources/Mount Sheet.pdf",
-    "Resources/Mount Savra.pdf",
-    "Resources/dice.png"
+    "Resources/Mount Savra.pdf"
   ]
 }
