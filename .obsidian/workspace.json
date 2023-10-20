@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Zeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Zeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Weapons.md"
+                "file": "Gods and Powers/Zeus.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,20 +165,26 @@
   },
   "active": "f57705345579ff77",
   "lastOpenFiles": [
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gear and Items/Weapons.md",
     "Xiphos-Title.webp",
     "Resources/8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg",
-    "Gear and Items/Weapons.md",
     "Gear and Items/The Black Key.md",
     "General/Metal Types.md",
-    "Gods and Powers/Janus.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
     "Lore/Fake Prophecy.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Hephaestus.md",
     "Lore/The Cult of the Bull.md",
     "Resources/Black Key top 2.jpg",
     "Resources/Black Key top.jpg",
@@ -193,14 +199,9 @@
     "Lore/Welcome.md",
     "Lore/The Prophecy from the Oracle.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Aphrodite.md",
     "TODO.md",
     "test.md",
     "README.md",
-    "General/Afflictions.md",
-    "General/Combat Mechanics.md",
-    "General/Dice mechanics.md",
-    "Gods and Powers/Poseidon.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -209,7 +210,6 @@
     "Resources/Mount Sheet Fillable.pdf",
     "Resources/Mount Sheet.pdf",
     "Resources/Mount Savra.pdf",
-    "Resources/dice.png",
-    "Resources/d6.jpg"
+    "Resources/dice.png"
   ]
 }
