@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d131b8eac97f422e",
+        "id": "45d8e132096cb304",
         "type": "tabs",
         "children": [
           {
-            "id": "be119213926adeeb",
+            "id": "f57705345579ff77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,11 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be119213926adeeb",
+  "active": "f57705345579ff77",
   "lastOpenFiles": [
+    "Xiphos-Title.webp",
+    "Resources/8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg",
+    "Gear and Items/Weapons.md",
     "Gear and Items/The Black Key.md",
     "General/Metal Types.md",
-    "Gear and Items/Weapons.md",
     "Gods and Powers/Janus.md",
     "Lore/Athens Encounter.md",
     "Gear and Items",
@@ -199,7 +201,6 @@
     "General/Combat Mechanics.md",
     "General/Dice mechanics.md",
     "Gods and Powers/Poseidon.md",
-    "General/Metal-Creature interactions.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",
@@ -209,7 +210,6 @@
     "Resources/Mount Sheet.pdf",
     "Resources/Mount Savra.pdf",
     "Resources/dice.png",
-    "Resources/d6.jpg",
-    "Resources/d6.png"
+    "Resources/d6.jpg"
   ]
 }
