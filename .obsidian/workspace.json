@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f57705345579ff77",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg"
-              }
-            }
-          },
-          {
             "id": "11faae057c3d07eb",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,6 +165,8 @@
   },
   "active": "11faae057c3d07eb",
   "lastOpenFiles": [
+    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
+    "Lore/The Plot.md",
     "Lore/The Prophecy from the Oracle.md",
     "Lore/The Cult of the Bull.md",
     "Lore/Fake Prophecy.md",
@@ -183,7 +174,6 @@
     "Resources/Xiphos-Title.webp",
     "Resources/Pilos-Helmet1.jpg",
     "Resources/Peltaste.jpg",
-    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
     "Gear and Items/Shields and Armor.md",
     "Resources/il_1588xN.1052590995_ad0e.webp",
     "Resources/Greek-Chalcidian-Helmeta.jpg",
@@ -209,7 +199,6 @@
     "General/Metal Types.md",
     "Gear and Items",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Lore/The Plot.md",
     "Lore/Types of Creatures.md",
     "Lore/Welcome.md",
     "TODO.md",
