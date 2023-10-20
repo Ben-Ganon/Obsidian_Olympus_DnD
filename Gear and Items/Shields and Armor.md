@@ -18,9 +18,28 @@ Armor
 | Corinthian Helmet | Heavy Bronze Helmet  |        3         |         8         |
 |                   |                      |                  |                   |
 
-##### Pelr
+##### Peltast
+![[Peltaste.jpg | 150]]
 
+##### Aspis
+![[alexandru-rusu-aspis-artstation.jpg | 320]]
+
+##### Aspída Pórtas
+![[AH3853L-Classical-Roman-Scutum-768x768.jpg | 200]]
 ##### Linothorax
 ![[ancient-greek-armor-linothorax-3d-model-d6a2383382.jpg |300]]
 
-##### 
+##### Panoply
+![[main-image.jpg | 300]]
+
+##### Klimakas
+![[Han_bronze_scale_armor_4.jpg | 300]]
+
+##### Pilos
+![[Pilos-Helmet1.jpg | 300]]
+
+##### Chalcidian Helmet
+![[Greek-Chalcidian-Helmeta.jpg | 300]]
+
+##### Corinthian Helmet
+![[il_1588xN.1052590995_ad0e.webp | 300]]

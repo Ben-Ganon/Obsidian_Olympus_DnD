@@ -11,15 +11,26 @@
             "id": "f57705345579ff77",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg"
+              }
+            }
+          },
+          {
+            "id": "11faae057c3d07eb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Shields and Armor.md",
+                "file": "Lore/The Plot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Shields and Armor.md",
+                "file": "Lore/The Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Shields and Armor.md",
+                "file": "Lore/The Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Shields and Armor.md"
+                "file": "Lore/The Plot.md"
               }
             }
           },
@@ -163,20 +174,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f57705345579ff77",
+  "active": "11faae057c3d07eb",
   "lastOpenFiles": [
-    "ancient-greek-armor-linothorax-3d-model-d6a2383382.jpg",
-    "Gear and Items/Weapons.md",
+    "Lore/The Prophecy from the Oracle.md",
+    "Lore/The Cult of the Bull.md",
+    "Lore/Fake Prophecy.md",
+    "Lore/Athens Encounter.md",
+    "Resources/Xiphos-Title.webp",
+    "Resources/Pilos-Helmet1.jpg",
+    "Resources/Peltaste.jpg",
+    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
     "Gear and Items/Shields and Armor.md",
-    "Indo-Persian_war_hammer.jpg",
+    "Resources/il_1588xN.1052590995_ad0e.webp",
+    "Resources/Greek-Chalcidian-Helmeta.jpg",
+    "Resources/Han_bronze_scale_armor_4.jpg",
+    "Resources/main-image.jpg",
+    "Resources/alexandru-rusu-aspis-artstation.jpg",
+    "Resources/ancient-greek-armor-linothorax-3d-model-d6a2383382.jpg",
+    "Gear and Items/Weapons.md",
     "Gear and Items/The Black Key.md",
-    "Resources/AH3935_L.jpg",
-    "Resources/Mongol_bow.webp",
-    "Resources/long-bow.png",
-    "Resources/product_0_3_0367_recurve_bow.jpg",
-    "Resources/8046128_orig.jpg",
-    "Resources/AH2151-1.jpg",
-    "Resources/AH4111BNx.png",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
@@ -190,18 +206,12 @@
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
-    "Xiphos-Title.webp",
-    "Resources/8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg",
     "General/Metal Types.md",
-    "Lore/Athens Encounter.md",
     "Gear and Items",
-    "Lore/Fake Prophecy.md",
-    "Lore/The Cult of the Bull.md",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Lore/The Plot.md",
     "Lore/Types of Creatures.md",
     "Lore/Welcome.md",
-    "Lore/The Prophecy from the Oracle.md",
     "TODO.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
