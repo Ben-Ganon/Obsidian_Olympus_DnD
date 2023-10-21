@@ -14,7 +14,7 @@ and gain +1 to Might.
 |       1        |      1       |   1 CT    |    -     | 4 Meters | 
 
 Charge an enemy with all your might.
-Move to an enemy in range, dealing your Might roll as damage
+Move to an enemy in range, dealing your Might roll as blunt damage
 (Might 6 - you roll d6 damage, Might 11 you roll d10 damage)
 
 
@@ -56,3 +56,20 @@ This prevents attacks of opportunity on the user while escaping.
 
 ------------------
 
+#### Cyclops
+Cyclops are one-eyed giants that terrorize towns and islands.
+They are also the legendary creators of the Olympians weapons.
+Some of them are kind, though, and through good relations with people have earned the favor of the gods.
+Children of Cyclops appear as slightly larger humanoids, and have one big eye.
+They also gain 1d4 damage whenever they attack with a blunt weapon (hammers)
+
+<b><ins><i>Forge Master:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      1       |  Instant  |   1 CT   |   -   | 
+
+Upgrade your melee weapon with magical forge-fire.
+your next attack deals an extra 1d4 damage.
+
+------------------

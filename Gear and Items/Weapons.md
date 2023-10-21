@@ -1,13 +1,14 @@
-|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirment |
-|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:|
-|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         |
-|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         |
-|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        5         |
-|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        5         |
-|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         |
-|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         |
-| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |        -         |
-|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |        8         |
+|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirment | Damage Type  |
+|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:| ------------ |
+|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         | Melee/Ranged |
+|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         | Melee        |
+|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        5         | Melee        |
+|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        -         | Melee        |
+|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         | Melee/Ranged |
+|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         | Ranged       |
+| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |        -         | Ranged       |
+|     Sfyri     | Hammer                  |       1d6       |        -        |            -             |        1d4        |        6         | Blunt Melee  |
+|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |        8         | Blunt Melee  | 
 
 ##### Akinakes
 ![[8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg | 200]] 
@@ -49,6 +50,11 @@ The arrows fired by a bow cannot be dodged, only blocked.
 ![[Mongol_bow.webp | 300]]
 The Compound bow has powerful damage, with great damage and range to match. 
 
+##### Syfri
+![[Photo+Nov+30,+6+11+57+PM.jpg | 250]]
+The Sfyri is a regular, one handed hammer, but can do incredible damage in strong hands. Does blunt damage
+
 ##### Sagaris
 ![[Indo-Persian_war_hammer.jpg | 100]]
-The Sagaris is a small war hammer, capable of dealing great damage while completely ignoring armor.
+The Sagaris is a war hammer, capable of dealing great damage while completely ignoring armor. Because of it's weight requires dual wielding.
+Does blunt damage

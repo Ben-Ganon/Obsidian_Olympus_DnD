@@ -28,9 +28,16 @@
 	You cannot block blows from Large creatures, or special effects from Boons (Waves, Lighting strikes, etc.)
 	
 - Damage reductions:
-	Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-8 flat reduction).
+	Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-10 flat reduction).
 	Additionally, magical armor can reduce some damage from magical abilities.
-	
+	Regular armor cannot block blunt damage.
+
+
+- Critical Damage:
+	When rolling for damage, if one of the dice you roll hits the maximum (4 for d4, 6 for d6, etc.), roll it again and deal extra damage.
+	Can only re-roll once. (if you roll 1d4 and get 4, then roll 4 again, you do not roll again)
+	Does not apply to Blunt damage rolls.
+
 - Grapples:
 	You can choose to grapple an opponent to the floor, pinning them down and fighting them in close combat.
 	During this time, any weapon other than knives/ small axes gain -3 to their damage rolls.
@@ -57,5 +64,5 @@
 
 - Blunt Damage
 	Blunt damage is done by hammers, boons, and physical damage from various sources.
-	Blunt damage ignores armor and deals direct damage
+	Blunt damage ignores armor and deals direct damage, but cannot crit.
   

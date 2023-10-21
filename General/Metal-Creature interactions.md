@@ -8,9 +8,9 @@ MC{{Magical-Creatures}};
 Animals{{Animals}};
 Undead{{Undead}};
 Spirits{{Spirits}};
-Bronze-->Humans;
+Bronze-->Humanoids;
 Bronze-->Animals;
-CB-->Humans;
+CB-->Humanoids;
 CB-->Animals;
 CB-->MC;
 CB-->Undead
