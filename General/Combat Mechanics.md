@@ -8,20 +8,25 @@
 	This can be done at any point in the turn.
 	You can use the movement, action, and bonus action in any order.
 	
-- Sizes and their effects on combat:
-	Each creature has a size: Small, Medium or Large.
-	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.
-	Some boons grant the ability to change size.
+
+ Movement:
+	Movement is tile-based according to your Movespeed.
+	Movespeed is in Meters/Turn
+	Your Movespeed is $4 \cdot Agility$.
+	Every Turn, you can move up to your Movespeed meters, which on the board is 1 tile per 2 Movespeed.
+	(For example, if you have 10 Movespeed you can move your character 5 times in a turn)
+
 - Attacking with weapon:
 	To attack with a weapon, roll its offensive value.
 	The target can then choose to block the attack with their shield or weapon (according to their defensive stat), or dodge the attack with an Agility roll.
-	
+
 - Firing arrows:
 	First, to fire an arrow one must have a bow and arrow ammunition.
 	To fire an arrow, you must roll the offensive value of the bow for damage.
 	If the target is in the range of the bow, this is treated like a normal attack.
 	If the target is outside the range, you must first succeed on a Dexterity roll to land the attack.
-	In addition to this the target can still block/dodge the arrow.
+	In addition to this the target can still block the arrow.
+	To fire a bow, the user must not be equipped with a helmet.
 	
 - Blocking with a shield or with a sword - what can/cannot be blocked:
 	You can block an attack from a weapon or arrow with the defensive stat of your shield or sword - you must roll a 4 or more to succeed the block.
@@ -31,7 +36,6 @@
 	Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-10 flat reduction).
 	Additionally, magical armor can reduce some damage from magical abilities.
 	Regular armor cannot block blunt damage.
-
 
 - Critical Damage:
 	When rolling for damage, if one of the dice you roll hits the maximum (4 for d4, 6 for d6, etc.), roll it again and deal extra damage.
@@ -62,7 +66,15 @@
 - Attacks of opportunity:
 	If you are directly next to an enemy and move away from them, that enemy gets a free attack on you as you escape.
 
-- Blunt Damage
+- Blunt Damage:
 	Blunt damage is done by hammers, boons, and physical damage from various sources.
 	Blunt damage ignores armor and deals direct damage, but cannot crit.
-  
+
+- Armor Slow:
+	Wearing heavy armor slows you down. 
+	Remove 2 Movespeed when you equip Klimakas or the Corinthian helmet. (each remove 2 Movespeed)
+
+- ~~Sizes and their effects on combat:
+	Each creature has a size: Small, Medium or Large.
+	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.
+	Some boons grant the ability to change size.~~

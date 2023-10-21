@@ -2,7 +2,7 @@
 |:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:| ------------ |
 |   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         | Melee/Ranged |
 |    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         | Melee        |
-|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        5         | Melee        |
+|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        6         | Melee        |
 |     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        -         | Melee        |
 |    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         | Melee/Ranged |
 |     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         | Ranged       |
@@ -46,6 +46,7 @@ The Toxo is the Greek hunting bow.
 Made of simple wood, it has limited range and damage.
 Beyond the firing range, a Dexterity roll success is required to hit a target (not including a block by the target)
 The arrows fired by a bow cannot be dodged, only blocked.
+Firing a bow requires the user to see clearly, so they cannot fire while equipped with a helmet.
 ##### Syntheto Toxo
 ![[Mongol_bow.webp | 300]]
 The Compound bow has powerful damage, with great damage and range to match. 

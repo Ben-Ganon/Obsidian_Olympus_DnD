@@ -3,7 +3,7 @@
 | Name          | Type                   | Defensive Value | Might Requirement |
 | ------------- | ---------------------- |:---------------:|:-----------------:|
 | Peltast       | Wooden Crescent Shield |       1d4       |         -         |
-| Aspís         | Bronze Circle Shield   |       1d6       |         8         |
+| Aspís         | Bronze Circle Shield   |       1d6       |         6         |
 | Aspída Pórtas | Bronze Door Shield     |       1d8       |        11         | 
 
 Armor
