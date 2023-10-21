@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Plot.md",
+                "file": "General/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Black Key",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/The Plot.md",
+                "file": "General/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/The Plot.md",
+                "file": "General/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/The Plot.md"
+                "file": "General/Combat Mechanics.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,43 +166,44 @@
   },
   "active": "11faae057c3d07eb",
   "lastOpenFiles": [
-    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
+    "General/Races.md",
+    "General/Combat Mechanics.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Weapons.md",
+    "General/Character Creation.md",
+    "General/Level Up Chart.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Hades.md",
+    "Lore/Athens Encounter.md",
+    "Gods and Powers/Athena.md",
     "Lore/The Plot.md",
+    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
     "Lore/The Prophecy from the Oracle.md",
     "Lore/The Cult of the Bull.md",
     "Lore/Fake Prophecy.md",
-    "Lore/Athens Encounter.md",
     "Resources/Xiphos-Title.webp",
     "Resources/Pilos-Helmet1.jpg",
     "Resources/Peltaste.jpg",
-    "Gear and Items/Shields and Armor.md",
     "Resources/il_1588xN.1052590995_ad0e.webp",
     "Resources/Greek-Chalcidian-Helmeta.jpg",
     "Resources/Han_bronze_scale_armor_4.jpg",
     "Resources/main-image.jpg",
     "Resources/alexandru-rusu-aspis-artstation.jpg",
     "Resources/ancient-greek-armor-linothorax-3d-model-d6a2383382.jpg",
-    "Gear and Items/Weapons.md",
     "Gear and Items/The Black Key.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
     "General/Metal Types.md",
     "Gear and Items",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Lore/Types of Creatures.md",
-    "Lore/Welcome.md",
-    "TODO.md",
     "Resources/Mount Boar.pdf",
     "Resources/Creature Hellhound.pdf",
     "Resources/Mount Cerberus.pdf",

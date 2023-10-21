@@ -16,7 +16,7 @@ Armor
 | Pilos             | Light Bronze Helmet  |        1         |         -         |
 | Chalcidian Helmet | Medium Bronze Helmet |        2         |         6         |
 | Corinthian Helmet | Heavy Bronze Helmet  |        3         |         8         |
-|                   |                      |                  |                   |
+
 
 ##### Peltast
 ![[Peltaste.jpg | 150]]

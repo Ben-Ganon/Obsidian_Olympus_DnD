@@ -122,7 +122,7 @@ Gain <mark style="background: #004A4CA6;">+1</mark> to all agility and stealth r
 Merge with Hades, god of Death.
 Gain <mark style="background: #045B00A6;">10 Max Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.
 During this time, any monster you control and is brought to <mark style="background: #045B00A6;">0 Hp </mark> can make a willpower saving throw to save themselves from death.
-Additionally, if any PC in the range fails their <mark style="background: #A5A5A5;">Willpower</mark> life saving throw, you can roll <mark style="background: #A5A5A5;">Willpower</mark> for them to attempt to wrestle them from Hades
+Additionally, if any Hero in the range fails their <mark style="background: #A5A5A5;">Willpower</mark> life saving throw, you can roll <mark style="background: #A5A5A5;">Willpower</mark> for them again to attempt to wrestle them from Hades
 
 ------------------
 

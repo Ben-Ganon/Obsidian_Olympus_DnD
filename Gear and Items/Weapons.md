@@ -1,13 +1,13 @@
-|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive |
-|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|
-|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |
-|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |
-|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |
-|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |
-|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |
-|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |
-| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |
-|    Sagaris    | War Hammer              |       1d6       |        -        |            -             |         -         | 
+|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirment |
+|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:|
+|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         |
+|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         |
+|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        5         |
+|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        5         |
+|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         |
+|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         |
+| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |        -         |
+|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |        8         |
 
 ##### Akinakes
 ![[8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg | 200]] 

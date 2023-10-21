@@ -6,6 +6,7 @@
 	Some actions take no time at all and they are defined as Instant Actions.
 	These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
 	This can be done at any point in the turn.
+	You can use the movement, action, and bonus action in any order.
 	
 - Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.
@@ -33,8 +34,9 @@
 - Grapples:
 	You can choose to grapple an opponent to the floor, pinning them down and fighting them in close combat.
 	During this time, any weapon other than knives/ small axes gain -3 to their damage rolls.
-	The grapple is done by a Might roll.
-	To exit the grapple, the target must succeed a might roll.
+	The grapple is successful if you succeed a Might roll.
+	To exit the grapple, the target must succeed a Might roll.
+	Until the target succeeds Might or you decide to end the grapple, the target remains grappled
 	
 - Attacking with a Boon:
 	Some Boons have offensive capabilities. 
@@ -44,4 +46,16 @@
 	For example 2 CT cast time and 3 CT Duration goes:
 	| Cast | Cast | Effect | Effect | Effect | Regular Turn
 	
-	
+- Death:
+	Upon the first time a Hero reaches 0 Hp or less, they are on the verge of death.
+	Every turn, the Hero must roll a Willpower save.
+	If they acquire 2 successes, they revive with 1 Hp.
+	If they acquire 2 fails, they die permanently.
+
+- Attacks of opportunity:
+	If you are directly next to an enemy and move away from them, that enemy gets a free attack on you as you escape.
+
+- Blunt Damage
+	Blunt damage is done by hammers, boons, and physical damage from various sources.
+	Blunt damage ignores armor and deals direct damage
+  
