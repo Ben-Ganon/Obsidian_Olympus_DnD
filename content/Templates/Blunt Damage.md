@@ -1,0 +1,1 @@
+[[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]

@@ -15,8 +15,8 @@ Main Pages:
 [[Aphrodite]] - [[Apollo]] - [[Ares]] - [[Artemis]] - [[Athena]] - [[Athena]] - [[Demeter]]
 [[Dionysos]] - [[Hades]] - [[Hephaestus]] - [[Hermes]] - [[Poseidon]] - [[Zeus]]
 
-#### [[Character Sheet.pdf]]
-
+#### Character Sheet -
+[[Character Sheet.pdf]]
 #### [[Color Codes]]
 #### Character Creation and Leveling
 [[Level Up Chart]] - [[Races]] - [[Starter Kits]] - [[God Bonus Stat Chart]]

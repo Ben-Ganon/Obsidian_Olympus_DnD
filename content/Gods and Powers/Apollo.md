@@ -17,8 +17,8 @@ Children of Apollo play can play as devoted healer and bard, or deadly archer.
 |       1        |      3       |   Instant    |    1 CT     | 60 Meters | 
 
 Coat an arrow with divine light for the current turn.
-The arrow is tipped with divine light from Apollo, dealing a bonus <mark style="background: #9E0000A6;">1d6</mark> damage to an enemy.
-This arrow can be shot into the air to light up a space, and does a bonus <mark style="background: #9E0000A6;">1d8</mark> (instead of 1d6)  damage to undead enemies.
+The arrow is tipped with divine light from Apollo, dealing a bonus <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to an enemy.
+This arrow can be shot into the air to light up a space, and does a bonus <mark style="background: #9E0000A6;">1d8</mark> (instead of 1d6) [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to undead enemies.
 
 ------------------
 <b><ins><i>Wink!:</i></ins></b>
@@ -28,7 +28,7 @@ This arrow can be shot into the air to light up a space, and does a bonus <mark 
 |       1        |      3       |  Instant  |   3 CT   | 20 Meters | 
 
 Bless an ally, causing them a rush of adrenaline.
-The ally gains a <mark style="background: #9E0000A6;">1d6</mark> bonus to their next roll in the duration.
+The ally gains a 1d6 bonus to their next roll in the duration.
 
 ------------------
 <b><ins><i>Healing Song:</i></ins></b>
@@ -38,8 +38,8 @@ The ally gains a <mark style="background: #9E0000A6;">1d6</mark> bonus to their 
 |       3        |      2       |   1  CT   |    -     | 20 Meters | 
 
 Sing an incredibly healing, absolutely angelic song directed at an ally in range.
-This heals the target for <mark style="background: #9E0000A6;">1d6</mark>.
-If you sing the song while equipped with an instrument, heal for <mark style="background: #9E0000A6;">1d8</mark> instead.
+This heals the target for <mark style="background: #045B00A6;">1d6</mark>.
+If you sing the song while equipped with an instrument, heal for <mark style="background: #045B00A6;">1d8</mark> instead.
 
 ------------------
 <b><ins><i>Piercing Shot:</i></ins></b>
@@ -49,7 +49,7 @@ If you sing the song while equipped with an instrument, heal for <mark style="ba
 |       3        |      1       |   1 CT    |    -     | 50 Meters | 
 
 Fire an enchanted arrow that pierces enemies in a line, dealing damage to each enemy it pierces.
-Deals <mark style="background: #9E0000A6;">1d8</mark> damage to the first enemy, <mark style="background: #9E0000A6;">1d6</mark> to the second, and <mark style="background: #9E0000A6;">1d4</mark> to each enemy after that.
+Deals <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] to the first enemy, <mark style="background: #9E0000A6;">1d6</mark> to the second, and <mark style="background: #9E0000A6;">1d4</mark> to each enemy after that.
 
 ------------------
 <b><ins><i>Slam Poetry:</i></ins></b>
@@ -60,7 +60,7 @@ Deals <mark style="background: #9E0000A6;">1d8</mark> damage to the first enemy,
 
 Sing a sick diss at an enemy.
 If the enemy is in range and can hear the mockery, the target must make an Willpower saving roll.
-On failure, the target takes <mark style="background: #9E0000A6;">1d6</mark> damage.
+On failure, the target takes <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
 Either way, afterwards the target will receive a -1 to their next roll in the duration
 
 ------------------
@@ -73,7 +73,7 @@ Either way, afterwards the target will receive a -1 to their next roll in the du
 Fire a guided arrow you can control for a duration.
 While this spell is active, or until you cancel it, you control the guided arrow.
 The arrow cannot go beyond the range away from you.
-It deals <mark style="background: #9E0000A6;">1d6</mark> to each enemy it passes through, and has <mark style="background: #60BB81;">20</mark> movespeed. 
+It deals <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] to each enemy it passes through, and has <mark style="background: #60BB81;">20</mark> movespeed. 
 
 ------------------
 <b><ins><i>Wave of Awesome:</i></ins></b>
@@ -84,7 +84,7 @@ It deals <mark style="background: #9E0000A6;">1d6</mark> to each enemy it passes
 
 Play a magical note on your instrument, dealing damage to all enemies and healing all allies in a cone.
 In a cone <mark style="background: #0900A7A6;">20</mark> meters wide and <mark style="background: #0900A7A6;">30</mark> meters long, 
-deal <mark style="background: #9E0000A6;">1d8</mark> damage to all enemies and heal all allies for <mark style="background: #00A521A6;">1d4</mark>.
+deal <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to all enemies and heal all allies for <mark style="background: #00A521A6;">1d4</mark>.
 
 ------------------
 <b><ins><i>Arrows for Days:</i></ins></b>
@@ -93,7 +93,7 @@ deal <mark style="background: #9E0000A6;">1d8</mark> damage to all enemies and h
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      1       |   1 CT    |    -     |   20 Meters    |
 
-Fire 2 arrows at each target in the range, dealing it's damage to the target twice (counts as two attack rolls)
+Fire 2 arrows at each target in the range, dealing it's damage to the target twice (counts as two ranged attack rolls)
 
 ------------------
 <b><ins><i>Aspect of Music:</i></ins></b>
