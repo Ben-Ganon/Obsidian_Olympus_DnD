@@ -1,3 +1,4 @@
+![[WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg | 300]]
 ***Description***:
 Zeus, Head of the Olympian Gods and God of thunder, lightning, and storms.
 Controls wind spirits and is especially strong in full assault combat. 

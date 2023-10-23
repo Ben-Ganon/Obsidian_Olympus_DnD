@@ -1,3 +1,4 @@
+![[_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg | 300]]
 ***Description:***
 Hades is the god of the dead and king of the underworld.
 Bitter, angry from his lot in eternal life, Hades sulks in the underworld, away from his godly family. 
