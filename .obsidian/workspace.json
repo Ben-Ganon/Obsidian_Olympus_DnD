@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Character Creation.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Character Creation.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Character Creation.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Character Creation.md"
+                "file": "index.md"
               }
             }
           },
@@ -189,50 +189,51 @@
   },
   "active": "11faae057c3d07eb",
   "lastOpenFiles": [
-    "General/Combat Mechanics.md",
-    "General/Character Creation.md",
-    "Character Creation.pdf",
+    "Templates/Color Codes.md",
+    "index.md",
     "Info and Values/Character Sheet.pdf",
+    "Character Sheet.md",
+    "General/Combat Mechanics.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Character Creation.pdf",
+    "README.md",
+    "test.md",
+    "TODO.md",
+    "Images/Photo+Nov+30,+6+11+57+PM.jpg",
+    "General/Character Creation.md",
     "Info and Values/Character Sheet.png",
     "Gear and Items/Shields and Armor.md",
     "General/God Bonus Stat Chart.md",
     "General/Starter Kits.md",
     "Gear and Items/Weapons.md",
-    "Gods and Powers/Playable Patrons.md",
     "General/Races.md",
     "Gear and Items/The Black Key.md",
     "General/Dice mechanics.md",
     "General/Afflictions.md",
-    "Photo+Nov+30,+6+11+57+PM.jpg",
     "General/Metal-Creature interactions.md",
     "General/Metal Types.md",
     "General/Level Up Chart.md",
-    "Gods and Powers/Apollo.md",
     "Gods and Powers/Hades.md",
     "Lore/Athens Encounter.md",
     "Gods and Powers/Athena.md",
     "Lore/The Plot.md",
-    "Resources/AH3853L-Classical-Roman-Scutum-768x768.jpg",
+    "Images/AH3853L-Classical-Roman-Scutum-768x768.jpg",
     "Lore/The Prophecy from the Oracle.md",
-    "Lore/The Cult of the Bull.md",
-    "Lore/Fake Prophecy.md",
-    "Resources/Xiphos-Title.webp",
-    "Resources/Pilos-Helmet1.jpg",
-    "Resources/Peltaste.jpg",
-    "Resources/il_1588xN.1052590995_ad0e.webp",
-    "Resources/Greek-Chalcidian-Helmeta.jpg",
-    "Resources/Han_bronze_scale_armor_4.jpg",
-    "Resources/main-image.jpg",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Janus.md",
+    "Images/Xiphos-Title.webp",
+    "Images/Pilos-Helmet1.jpg",
+    "Images/Peltaste.jpg",
+    "Images/il_1588xN.1052590995_ad0e.webp",
+    "Images/Greek-Chalcidian-Helmeta.jpg",
+    "Images/Han_bronze_scale_armor_4.jpg",
+    "Images/main-image.jpg",
     "Gear and Items",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Resources/Mount Boar.pdf",
-    "Resources/Creature Hellhound.pdf",
-    "Resources/Mount Cerberus.pdf",
-    "Resources/Mount Buzzard.pdf",
-    "Resources/Anemoi Stat Sheet.pdf",
-    "Resources/Mount Sheet Fillable.pdf"
+    "Images/Mount Boar.pdf",
+    "Images/Creature Hellhound.pdf",
+    "Images/Mount Cerberus.pdf",
+    "Images/Mount Buzzard.pdf",
+    "Images/Anemoi Stat Sheet.pdf",
+    "Images/Mount Sheet Fillable.pdf"
   ]
 }
