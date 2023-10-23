@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hades.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Gods and Powers/Hades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Athena.md"
+                "file": "Gods and Powers/Hades.md"
               }
             }
           },
@@ -176,9 +176,14 @@
   },
   "active": "fc40bdf153944ab8",
   "lastOpenFiles": [
+    "General/Afflictions.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
     "Info and Values/Character Sheet.pdf",
     "Gear and Items/Weapons.md",
-    "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
@@ -194,16 +199,12 @@
     "General/Level Up Chart.md",
     "General/Metal Types.md",
     "General/Starter Kits.md",
-    "General/Afflictions.md",
     "Gear and Items/Shields and Armor.md",
     "Templates/Magic Damage.md",
     "Templates/Blunt Damage.md",
     "Templates/Piercing Damage.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Janus.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
     "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
     "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
     "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",

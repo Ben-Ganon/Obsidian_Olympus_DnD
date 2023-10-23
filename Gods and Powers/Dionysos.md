@@ -11,14 +11,14 @@ Children of Dionysos can support the party and poison enemies, either with taint
 
  <b><ins><i>Sacred Booze:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       1        |      2       |   1 CT    |   3 CT   | 1 Meter | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       1        |      2       |   1 CT    |   3 CT   | 2 Meters | 
 
 Bless a nearby liquid container in range to become either form of Sacred Booze.
-Can either - 
+Can be either - 
 - Sacred Wine - Heal for <mark style="background: #00A521A6;">1d6</mark>
-- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d6</mark> damage 
+- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] when in contact with a creature. 
 This booze evaporates after the duration
 ------------------
 
@@ -26,20 +26,20 @@ This booze evaporates after the duration
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+|       1        |      1       |   1 CT    |   3 CT   | 10 Meters | 
 
 Cause a target in range to become drunk for the duration.
-Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls that CT
+Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls for that CT
 
 ------------------
 <b><ins><i>Visions of Madness:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+|       3        |      1       |   1 CT    |   3 CT   | 8 Meters | 
 
 Inflict a target in range with visions of absolute terror for the duration.
-Each turn, the target must make an Intuition saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d4</mark> damage to a nearby target.
+Each turn, the target must make an <mark style="background:  #FFAD0085;">Intuition</mark> saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d4</mark> damage to a nearby target.
 If no target is available they deal <mark style="background: #9E0000A6;">1d4</mark> damage to themselves.
 
 ------------------
@@ -47,7 +47,7 @@ If no target is available they deal <mark style="background: #9E0000A6;">1d4</ma
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   1 CT    |   3 CT   | 20 Meters | 
+|       3        |      1       |   1 CT    |   3 CT   | 8 Meters | 
 
 Inspire a target with a dramatic urge to fight.
 The target receives +1 on all attack rolls, but cannot move away from enemies for the duration.
@@ -57,7 +57,7 @@ The target receives +1 on all attack rolls, but cannot move away from enemies fo
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       5        |      1       |   1 CT    |   5 CT   | 1 Meter | 
+|       5        |      1       |   1 CT    |   5 CT   | 2 Meters | 
 
 Fill a container with a dark red liquid.
 This liquid evaporates after 5 CT.
@@ -73,10 +73,10 @@ When it comes into contact with a creature, roll 1d4:
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |   2 CT   | 30 Meters | 
+|       5        |      1       |   1 CT    |   2 CT   | 12 Meters | 
 
 Cause all targets in range to start dancing.
-Every creature in the range must make an Intuition saving roll or spend their turn dancing, and they are unable to dodge or block.
+Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> saving roll or spend their turn dancing, and they are unable to dodge or block.
 However, whenever they attack, they roll a <mark style="background: #9E0000A6;">1d4</mark> for bonus damage.
 
 ------------------
@@ -84,7 +84,7 @@ However, whenever they attack, they roll a <mark style="background: #9E0000A6;">
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      3       |   1 CT    |   3 CT   | 20 Meters | 
+|       7        |      3       |   1 CT    |   3 CT   | 8 Meters | 
 
 Turn a target into a beast for the duration.
 Roll 1d4:
@@ -92,13 +92,14 @@ Roll 1d4:
 3-4: Turn Target into a Bear, can only take action on land.
 
 Both have <mark style="background: #00A521A6;">15 Hp</mark>, can attack for <mark style="background: #9E0000A6;">1d6</mark>.
+Both cannot dodge or block any attack.
 
 ------------------
 <b><ins><i>Bacchanalia:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   2 CT    |   5 CT   | 40 Meters | 
+|       7        |      1       |   2 CT    |   5 CT   | 16 Meters | 
 
 The area around you erupts in absolute madness.
 Every ally in the range will receive a <mark style="background: #FFAD0085;">+1</mark> to all Intuition and Attack rolls.

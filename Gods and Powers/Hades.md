@@ -15,10 +15,11 @@ Children of hades play in 1 of two ways:
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       1        |      1       |   2 CT    |   5 CT   | 1 Meter |
+|       1        |      1       |   1 CT    |   5 CT   | 2 Meters |
 
 Summon a fallen warrior from Elysium to aide you.
-Summon [[Achilles]], [[Hercules]] or [[Zagreus]]
+Summon [[Achilles]], [[Hercules]] or [[Zagreus]].
+The warrior can only act on your next turn.
 
 ------------------
 <b><ins><i>Invisibility Cloak:</i></ins></b>
@@ -27,19 +28,18 @@ Summon [[Achilles]], [[Hercules]] or [[Zagreus]]
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      1       |   1 CT    |   3 CT   |   -    |
 
-Turn a medium or smaller creature  invisible.
-Creatures passed must make an <mark style="background:  #FFAD0085;">intuition</mark> throw - on success, the invisible creature is seen.
-Attacking during the invisibility ends the effect and gains <mark style="background: #930000A6;">+1</mark> to the attack roll
+Turn a medium or smaller creature [[Afflictions#Invisible | Invisible]].
+Attacking during the invisibility ends the effect and gains <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to the attack roll
 
 ------------------
 <b><ins><i>Reanimate Monster:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       3        |      3       |   1 CT    |   5 CT   | 1 Meter | 
+|       3        |      3       |   1 CT    |   5 CT   | 2 Meters | 
 
 Reanimate a fallen monster to fight for you.
-Roll $monster hp \over 20$ d6.
+Roll $monster \space hp \over 20$ d6.
 If you get more than 3 on all rolls, you will successfully animate the monster with half stats.
 If you fail even one roll, you fail to reanimate the monster and instead summon a [[Hellhound]]
 
@@ -48,7 +48,7 @@ If you fail even one roll, you fail to reanimate the monster and instead summon 
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      3       |  Instant  |    -     | 50 Meters | 
+|       3        |      3       |  Instant  |    -     | 16 Meters | 
 
 Summon a small, blue-flamed skull in your hand.
 The skull can be thrown and then fly up to the range and can bite foes for <mark style="background: #930000A6;">1d4</mark> damage.
@@ -60,10 +60,10 @@ When a foe is bit by the skull, they must make a <mark style="background: #A5A5A
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |  Instant  |   3 CT   | 50 Meters | 
+|       5        |      1       |  Instant  |   3 CT   | 20 Meters | 
 
-Summon the goddess Styx to shroud enemies in darkness.
-Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">intuition</mark> throw or turn blind for the duration, and cannot see or hear.
+Channel the goddess Styx to shroud enemies in darkness.
+Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">intuition</mark> roll or turn [[Afflictions#Blind |blind]] for the duration.
 Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
 for the duration.
 
@@ -72,13 +72,12 @@ for the duration.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |   2 CT   | 50 Meters | 
+|       5        |      1       |   1 CT    |   2 CT   | 10 Meters | 
 
 Cast dark visions from Tartarus into the targets mind.
-The target takes <mark style="background: #930000A6;">2d4</mark> damage.
-Additionally, the caster both roll <mark style="background: #A5A5A5;">Willpower</mark>.
-If the caster rolls higher than the target, the target is stunned for the difference. During the stun the target cannot move or take action.
-(example - caster does a d12 willpower roll and rolls 10, target does d20 willpower roll and rolls 10, target is stunned for 2 turns)
+The target takes <mark style="background: #930000A6;">2d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
+Additionally, the caster and target both roll <mark style="background: #A5A5A5;">Willpower</mark>.
+If the caster rolls higher than the target, the target is [[Afflictions#Stunned|stunned]] for the duration. 
 
 ------------------
 <b><ins><i>Soul Siphon :</i></ins></b>
@@ -88,8 +87,9 @@ If the caster rolls higher than the target, the target is stunned for the differ
 |       7        |      1       |  Instant  |    -     | 3 Meters | 
 
 Channel the spirit of a living creature into Hades through you, absorbing some of their essence.
-Target must make a <mark style="background: #3800D7A6;">Might</mark> roll, on save the target takes <mark style="background: #930000A6;">1d4</mark> damage,
-If the target fails the roll, target takes <mark style="background: #930000A6;">2d4</mark> damage instead.
+Target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll, on save the target takes <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]],
+If the target fails the roll, they take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  instead.
+This boon does not stop 
 
 ------------------
 
