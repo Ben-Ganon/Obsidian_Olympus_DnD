@@ -22,5 +22,10 @@ Prone targets lay flat on the ground, and gain -1 to all rolls.
 They must use $1 \over 2$ their Movespeed on their turn to get up.
 
 #### Invisible
-Invisible creatures cannot be seen with the naked eye.
+Invisible creatures cannot be seen easily with the naked eye.
 Any creature they pass must make an <mark style="background:  #FFAD0085;">Intuition</mark> roll to see them.
+Attacking breaks the affliction.
+
+#### On fire
+Targets on fire take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] each turn until the effect ends.
+Default duration - 3 CT

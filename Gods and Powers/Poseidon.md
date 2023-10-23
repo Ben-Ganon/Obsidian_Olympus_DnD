@@ -44,12 +44,14 @@ From deep inside you erupts a massive flow of water, dealing <mark style="backgr
 This Boon summons a large amount of water - if you are in an enclosed space, consider this area a flooded area or a body of water.
 
 ------------------
-<b><ins><i>Healing Water:</i></ins></b>
+<b><ins><i>Fisherman's Hook :</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |
 |:--------------:|:------------:|:---------:|:--------:|
-|       3        |      1       |      <mark style="background: #620075A6;">1 CT</mark>     |    -      |
-Channel the healing power of water to heal yourself or another character.  Roll Intuition, and on success heal the chosen character <mark style="background: #045B00A6;">1d4</mark> Hp. If you are near a body of water heal <mark style="background: #045B00A6;">1d6</mark> instead.
+|       3        |      1       |      Instant     |    -      |
+
+Use a heavenly hook to pull a target up to <mark style="background: #000B67A6;">4 Meters</mark> towards you. 
+Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] to them.
 
 ------------------
 <b><ins><i>Water Whip:</i></ins></b>
@@ -58,32 +60,35 @@ Channel the healing power of water to heal yourself or another character.  Roll 
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       5         |       2       |    Instant       |     <mark style="background: #620075A6;">3 CT </mark>    |   <mark style="background: #000B67A6;">5 Meters</mark>    |
 
-Summon a water whip. The water whip can be used to deal  damage or lasso creatures.
-choose either attack:
-***Whip*** - do <mark style="background: #930000A6;">2d4</mark> blunt damage
-***Lasso*** -The creature must make an agility saving throw or take <mark style="background: #930000A6;">1d6</mark> and be pulled towards the caster or slammed to the ground.
+Summon a water tool. The water tool can be used to deal damage or move creatures.
+choose one attack:
+***Whip*** - do <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]
+***Lasso*** -The target must make an <mark style="background: #00BB4D;">Dexterity</mark> saving roll or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] and be slammed to the ground.
+***Hook*** - The target must make an <mark style="background: #004A4CA6;">Agility</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  and be pulled <mark style="background: #000B67A6;">2 Meters</mark> towards the caster
+***Fist*** - The target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] and be pushed <mark style="background: #000B67A6;">2 Meters </mark> away from the caster.
+
 
 -----------------
 <b><ins><i>Water Grenade:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |  <mark style="background: #620075A6;">Intsant</mark>   |    <mark style="background: #620075A6;">3 CT</mark>     | <mark style="background: #000B67A6;">10 Meters </mark>| 
+|       5        |      1       |  <mark style="background: #620075A6;">Intsant</mark>   |    <mark style="background: #620075A6;">3 CT</mark>     | <mark style="background: #000B67A6;">2 Meters </mark>| 
 
 Summon a small watery object in your hand.
-This object can be placed or thrown up to the range from you.
+This object can be placed or thrown up to Might + 2 Meters from you.
 If thrown, explodes immediately.
 If placed, you can place a timer on it.
-The explosion deals <mark style="background: #930000A6;">1d6</mark> damage and spawns a body of water
+The explosion deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] to all creatures in the range and spawns a body of water.
 
 ------------------
 <b><ins><i>Earthquake:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       7         |      1        |     <mark style="background: #620075A6;">Instant</mark>      |    -      | <mark style="background: #000B67A6;">20 Meters</mark>       |
+|       7         |      1        |     <mark style="background: #620075A6;">Instant</mark>      |    -      | <mark style="background: #000B67A6;">10 Meters</mark>       |
 
-The ground beneath your feet rumbles, as everything around you takes <mark style="background: #930000A6;">1d12</mark> damage. Creatures in the Earthquake must make an agility saving throw to avoid damage
+The ground beneath your feet rumbles, as everything around you takes <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]. Creatures in the Earthquake must make an <mark style="background: #004A4CA6;">Agility</mark> saving throw to avoid damage
 Cannot cast on water.
 
 ------------------
@@ -91,9 +96,9 @@ Cannot cast on water.
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       7        |      1       |  <mark style="background: #620075A6;">Insant</mark>   |     <mark style="background: #620075A6;">5 CT</mark>     |   <mark style="background: #000B67A6;">20 Meters</mark>    |
+|       7        |      1       |  <mark style="background: #620075A6;">Insant</mark>   |     <mark style="background: #620075A6;">5 CT</mark>     |   <mark style="background: #000B67A6;">10 Meters</mark>    |
 
-summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</mark> damage to everything in a radius each combat turn. Cannot cast on land
+summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</mark> damage to everything in a radius around you each combat turn. Needs a body of water nearby to cast.
 
 ------------------
 <b><ins><i>Aspect of the Waves:</i></ins></b>
@@ -103,28 +108,16 @@ summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</
 |       9       |      1       |  <mark style="background: #620075A6;">Instant</mark>  |   <mark style="background: #620075A6;">5 CT</mark>   |   -   | 
 
 You merge with Poseidon, god of waves: 
-Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+10</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive value, <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark>
+Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+4</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive [[Combat Mechanics#Damage Types#Magic Damage |magic damage]], <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]]
 (can only be held with 2 hands)
 
 ------------------
-<mark style="background: #00A521A6;">Green - Hp</mark>
-<mark style="background: #9E0000A6;">Red - Damage</mark>
-<mark style="background: #620075A6;">Purple - Time</mark>
-<mark style="background: #0900A7A6;">Blue - Area or Distance</mark>
-<mark style="background: #004A4CA6;">Cyan - Agility</mark>
-<mark style="background: #FFAD0085;">Orange - Intuition</mark>
-<mark style="background: #CACFD9A6;">Grey - Willpower</mark>
-<mark style="background: #3800D7A6;">Dark Purple - Might</mark>
-<mark style="background: #60BB81;">Turqoise - Movespeed</mark> 
-<mark style="background: #620075A6;">CT - Combat Turn</mark>
-
 
 ***Traits:***
 - Poseidon's Boons spawn magical water that extinguishes Greek Fire. 
 - Can talk to and command Horses (command - need to beat at a willpower roll)
 - Can talk to and command small fish and underwater creatures  (command - need to beat at a willpower roll)
 - Can breath underwater
-- 
 
 
 

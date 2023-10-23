@@ -84,6 +84,8 @@ This damage can crit (upon rolling the maximum number on a die) and can also be 
 ##### Magic Damage
 Magic damage is caused by boons and other spells, and cannot crit or be blocked by non-magical armor.
 
+#### Reaction
+Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
 #### ~~Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.
 	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.

@@ -29,7 +29,8 @@ The warrior can only act on your next turn.
 |       1        |      1       |   1 CT    |   3 CT   |   -    |
 
 Turn a medium or smaller creature [[Afflictions#Invisible | Invisible]].
-Attacking during the invisibility ends the effect and gains <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to the attack roll
+Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to the attack roll.
+This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the enemy to succeed on an <mark style="background:  #FFAD0085;">Intuition</mark> roll or miss the attack
 
 ------------------
 <b><ins><i>Reanimate Monster:</i></ins></b>
@@ -63,7 +64,7 @@ When a foe is bit by the skull, they must make a <mark style="background: #A5A5A
 |       5        |      1       |  Instant  |   3 CT   | 20 Meters | 
 
 Channel the goddess Styx to shroud enemies in darkness.
-Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">intuition</mark> roll or turn [[Afflictions#Blind |blind]] for the duration.
+Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">Intuition</mark> roll or turn [[Afflictions#Blind |blind]] for the duration.
 Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
 for the duration.
 
@@ -78,6 +79,7 @@ Cast dark visions from Tartarus into the targets mind.
 The target takes <mark style="background: #930000A6;">2d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
 Additionally, the caster and target both roll <mark style="background: #A5A5A5;">Willpower</mark>.
 If the caster rolls higher than the target, the target is [[Afflictions#Stunned|stunned]] for the duration. 
+This boon does not stop [[Afflictions#Invisible|invisibility]].
 
 ------------------
 <b><ins><i>Soul Siphon :</i></ins></b>
@@ -89,7 +91,7 @@ If the caster rolls higher than the target, the target is [[Afflictions#Stunned|
 Channel the spirit of a living creature into Hades through you, absorbing some of their essence.
 Target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll, on save the target takes <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]],
 If the target fails the roll, they take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  instead.
-This boon does not stop 
+This boon does not stop [[Afflictions#Invisible|invisibility]].
 
 ------------------
 
@@ -122,18 +124,10 @@ Gain <mark style="background: #004A4CA6;">+1</mark> to all agility and stealth r
 
 Merge with Hades, god of Death.
 Gain <mark style="background: #045B00A6;">10 Max Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.
-During this time, any monster you control and is brought to <mark style="background: #045B00A6;">0 Hp </mark> can make a willpower saving throw to save themselves from death.
+During this time, any monster you control and is brought to <mark style="background: #045B00A6;">0 Hp </mark> can make a <mark style="background: #A5A5A5;">Willpower</mark> saving throw to save themselves from death.
 Additionally, if any Hero in the range fails their <mark style="background: #A5A5A5;">Willpower</mark> life saving throw, you can roll <mark style="background: #A5A5A5;">Willpower</mark> for them again to attempt to wrestle them from Hades
 
 ------------------
 
 
-| Spell Name | Effect | Level Required | Uses Per Day |
-| :--: | -- | :--: | :--: | 
-| Summon Fallen Warrior| Summon a fallen warrior from Elysium to aide you for <mark style="background: #A100B8A6;">5 Combat Turns</mark>. <br> 3 Options to summon: <br> [[Achilles]], [[Hercules]], [[Zagreus]]| 1 | 1 | 
-|Reanimate Monster | Reanimate a fallen monster to fight for you until the end of combat <br> | 3 | 1 |
-|Summon Cerberus | Summon Cerberus for <mark style="background: #A100B8A6;">7 Combat Turns</mark> to aide you.| 5 | 1 |
-| Aspect of Death| For <mark style="background: #A100B8A6;">5 Combat Rounds</mark> you merge with Hades, god of Death. <br> Any ally that falls in combat can be resurrected with a <mark style="background: #CACFD9A6;">Willpower Roll</mark>. <br>  | | |
-
 ***Traits:*** 
-//TODO: Decide what Boons to Give hades
