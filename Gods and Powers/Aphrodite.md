@@ -54,7 +54,7 @@ If ***Shimmer*** is active, this effect happens even if you beat one of the roll
 |       3        |      2       |  Instant  |   3 CT   |   -   | 
 
 Summon a blood-blade.
-The blade deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage|magic]] damage.
+The blade deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic]] damage.
 Any damage dealt by the blade heals you for the same amount
 
 ------------------
@@ -76,7 +76,7 @@ Every creature in the range must make a <mark style="background: #A5A5A5;">Willp
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make a <mark style="background: #3800D7A6;">Might</mark> save or be stunned in terror for 1 CT.
-Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing]] damage each attack for the duration.
+Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
 Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you
 
 ------------------
@@ -99,8 +99,8 @@ If they fail, they attack the nearest creature to them for the duration
 |       7        |      2       |   1 CT    |    3 CT     | 1 Meter | 
 Touch the target, draining their life force.
 The target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
-On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
-On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
+On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
+On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
 Afterwards the target is stunned for the duration
 
 ------------------
@@ -113,7 +113,7 @@ You merge with Aphrodite, goddess of passion.
 For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #004A4CA6;">Agility</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.
 On failure, they become your slave for the duration.
-On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
+On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 
 ------------------
 

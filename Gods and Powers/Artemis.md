@@ -29,7 +29,7 @@ The effect and the mark expire after the duration.
 |       1        |      1       |   1 CT    |    -     | 40 Meters | 
 
 Fire an enchanted magic missile at a target that never misses.  
-Deals  <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]], and ***Marks*** the target
+Deals  <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]], and ***Marks*** the target
 (Uses ammunition)
 
 ------------------
@@ -52,7 +52,7 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an Agility saving roll (this volley cannot be blocked) or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
+These targets must make an Agility saving roll (this volley cannot be blocked) or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
 If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> damage instead.
 (Uses ammunition)
 
@@ -76,7 +76,7 @@ If the moon is shining (either at night or with ***Moonlight Flare***), gain <ma
 |       5        |      1       |  Instant  |   3 CT   |   -   |
 
 Coat your projectiles in lethal poison.
-Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">1</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  damage each turn for 1d4 turns.
+Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">1</mark> [[Combat Mechanics#Magic Damage |magic damage]]  damage each turn for 1d4 turns.
 This poison stacks - if you land 2 poison arrows with duration 1 and 2, the target will take 2 for <mark style="background: #A100B8A6;">1 CT</mark> then 1 damage for another.
 
 ------------------
@@ -134,4 +134,4 @@ Additionally, every blade you posses shifts into Artemis' Hunting Knife, grantin
 ***Notes:***
 ***Marked*** - Marked targets have a harder time concealing themselves from you, gaining <mark style="background: #000000;">-1</mark> on all stealth rolls. 
 Additionally, gain 5 movespeed towards marked targets. 
-A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d4</mark> extra damage
+A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d4</mark> extra [[Combat Mechanics#Magic Damage |magic damage]] 

@@ -19,9 +19,9 @@ Recommended for new players
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       1        |      3       |  1 CT  |    -     | 10 Meters | 
 
-Call a lightning bolt from the sky to Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]. Cannot cast underground.
+Call a lightning bolt from the sky to Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic damage]]. Cannot cast underground.
 If you cast this while ***Flying***, deal <mark style="background: #930000A6;">1d8</mark> instead.
-If the target is in the air, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+If the target is in the air, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage|magic damage]] .
 
 ------------------
 <b><ins><i>Charge Weapon:</i></ins></b>
@@ -44,7 +44,7 @@ This cancels the rest of the effect.
 |       3        |      1       |   1 CT    |    -     | 12 Meters | 
 
 Cast a bolt of lightning at target. If there are other enemies within <mark style="background: #000B67A6;">4 Meters</mark> of the target, the lightning bounces to an additional 1d4 enemies.
-Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage | magic damage]] .
 If you cast this while ***Flying***, targets take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] instead
 
 ------------------

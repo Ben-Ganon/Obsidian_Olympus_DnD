@@ -30,7 +30,7 @@ When the warrior reaches 0 Hp they automatically return back to hades.
 |       1        |      1       |   1 CT    |   3 CT   |   -    |
 
 Turn a medium or smaller creature [[Afflictions#Invisible | Invisible]].
-Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to the attack roll.
+Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Magic Damage |magic damage]] to the attack roll.
 This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the enemy to succeed on an <mark style="background:  #FFAD0085;">Intuition</mark> roll or miss the attack
 
 ------------------
@@ -77,7 +77,7 @@ for the duration.
 |       5        |      1       |   1 CT    |   2 CT   | 10 Meters | 
 
 Cast dark visions from Tartarus into the targets mind.
-The target takes <mark style="background: #930000A6;">2d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
+The target takes <mark style="background: #930000A6;">2d4</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 Additionally, the caster and target both roll <mark style="background: #A5A5A5;">Willpower</mark>.
 If the caster rolls higher than the target, the target is [[Afflictions#Stunned|stunned]] for the duration. 
 This boon does not stop [[Afflictions#Invisible|invisibility]].
@@ -90,8 +90,8 @@ This boon does not stop [[Afflictions#Invisible|invisibility]].
 |       7        |      1       |  Instant  |    -     | 3 Meters | 
 
 Channel the spirit of a living creature into Hades through you, absorbing some of their essence.
-Target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll, on save the target takes <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]],
-If the target fails the roll, they take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  instead.
+Target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll, on save the target takes <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]],
+If the target fails the roll, they take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead.
 This boon does not stop [[Afflictions#Invisible|invisibility]].
 
 ------------------

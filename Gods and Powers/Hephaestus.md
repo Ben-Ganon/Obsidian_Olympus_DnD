@@ -62,7 +62,7 @@ The rabbit can go up to <mark style="background: #0900A7A6;">12 meters</mark> aw
 <b><ins><i>Greek Fire Grenade:</i></ins></b>
 Craft a small glass orb containing a writhing green liquid.
 If the orb cracks or is thrown, it explodes, spreading Greek fire in a <mark style="background: #0900A7A6;">4 Meter</mark> radius.
-Greek fire is immune to water, deals <mark style="background: #930000A6;">1d6</mark> damage to everyone touching it every CT, and cannot be put out unless with magic.
+Greek fire is immune to water, deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]]  to everyone touching it every CT, and cannot be put out unless with magic.
 Burns itself out in <mark style="background: #A100B8A6;">3 CT</mark>
 <b><ins><i>Spring Shield:</i></ins></b>
 The Spring shield is a flimsy shield that can fold up to fit on the arm.
@@ -77,10 +77,10 @@ The shield can be cast instantly as a [[Combat Mechanics#Reaction|reaction]] to 
 
 Craft a heavy, complicated crossbow that only a child of Hephaestus can operate.
 The crossbow can fire 3 times before it dismantles.
-All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] and have 1 additional effect:
+All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] and have 1 additional effect:
 **_Greek Fire Arrow_** - Arrow coated in Greek fire that can light the target on fire for 3 CT if the shot is not blocked.
 **_Heavy Arrow_** - enemies trying to block this gain -2 to their block save.
-**_Exploding Arrow_** - If the hits, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
+**_Exploding Arrow_** - If the hits, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics# Damage |magic damage]].
 **_Net Arrow_** - enemies hit must make an <mark style="background: #004A4CA6;">Agility</mark> save or be stunned for 1 CT
 
 ------------------
@@ -93,14 +93,14 @@ All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechan
 Craft a master-weapon inspired by Hephaestus' forge, that disperses after a duration.
 You can use this weapon or grant it to a party member.
 <b><ins><i>Gauntlets:</i></ins></b>
-You can attack twice per CT, each time dealing <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] and defending for <mark style="background: #930000A6;">1d4</mark>, 
+You can attack twice per CT, each time dealing <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and defending for <mark style="background: #930000A6;">1d4</mark>, 
 <b><ins><i>Hammer:</i></ins></b>
 You need to wind up attacks, taking <mark style="background: #A100B8A6;">1 CT</mark> to charge them.
 The hammer deals <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]
 <b><ins><i>Katar:</i></ins></b>
 The Katar is excellent at puncturing weak points.
-Roll 1d4. If you roll 1 or 2, you miss the weak points and deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
-If you roll 3 or 4, you puncture the enemies' weak point, dealing <mark style="background: #930000A6;">1d6</mark> and making the enemy bleed out, dealing <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] every CT for <mark style="background: #A100B8A6;">2 CT</mark>. (does not stack)
+Roll 1d4. If you roll 1 or 2, you miss the weak points and deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
+If you roll 3 or 4, you puncture the enemies' weak point, dealing <mark style="background: #930000A6;">1d6</mark> and making the enemy bleed out, dealing <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] every CT for <mark style="background: #A100B8A6;">2 CT</mark>. (does not stack)
 
 ------------------
 <b><ins><i>Fire Breath:</i></ins></b>
@@ -129,8 +129,8 @@ Craft [[Savra|Sávra]], the Dragon Automaton!
 |       7        |      1       |   1 CT    |   5 CT   | 4 Meters | 
 
 Surround yourself with magical, hot forge-fire.
-Each turn, all creatures in range take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
-If you are not immune to fire, roll 1d4 - On a 1 or 2, take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] as well.
+Each turn, all creatures in range take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
+If you are not immune to fire, roll 1d4 - On a 1 or 2, take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] as well.
 
 
 ------------------

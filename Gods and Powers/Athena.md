@@ -38,8 +38,8 @@ All allies in the formation gain a bonus 1d4 to their block rolls and +1 to thei
 |       3        |      3       |  Insant   |   1 CT   | 10 Meters | 
 
 Mark a target.
-If the target is flanked (two enemies or more in 180 or 90 degree separation), Your next attack on them in the duration receives bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d8</mark>.
-Any other attack against them in the duration receives bonus [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d4</mark>.
+If the target is flanked (two enemies or more in 180 or 90 degree separation), Your next attack on them in the duration receives bonus [[Combat Mechanics#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d8</mark>.
+Any other attack against them in the duration receives bonus [[Combat Mechanics#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d4</mark>.
 
 If the target is not flanked, only your next attack against them receives a bonus of <mark style="background: #930000A6;">1d4</mark>
 
@@ -51,7 +51,7 @@ If the target is not flanked, only your next attack against them receives a bonu
 |       3        |      3       |   1 CT    |    -     | 4 Meters | 
 
 Lunge at an enemy and bash them with your shield.
-Deal Might + Shield Defense roll as [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] to one target in range.
+Deal Might + Shield Defense roll as [[Combat Mechanics#Blunt Damage|blunt damage]] to one target in range.
 This damages the shield slightly and removes all bonuses for block on you.
 Moves you towards the target.
 
@@ -64,7 +64,7 @@ Moves you towards the target.
 
 When fighting an enemy, find a weak spot and take advantage.
 Roll Intuition.
-On success, your next hit on the target hits the weak spot and deals an extra 1d8 [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
+On success, your next hit on the target hits the weak spot and deals an extra 1d8 [[Combat Mechanics#Piercing Damage |piercing damage]].
 On failure, your next attack on the target deals 1d4 ***less*** damage.
 
 ------------------

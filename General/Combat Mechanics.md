@@ -19,9 +19,9 @@ Weapons can be dual wielded, but only one can be used each turn.
 #### Movement
 Movement is tile-based according to your Movespeed.
 Movespeed is in Meters/Turn
-Your Movespeed is $4 \cdot Agility$.
+Your Movespeed is $3 \cdot Agility$.
 Every Turn, you can move up to your Movespeed meters, which on the board is 1 tile per 2 Movespeed.
-(For example, if you have 10 Movespeed you can move your character 5 times in a turn)
+(For example, if you have 10 Movespeed you can move your character 5 tiles in a turn)
 
 #### Attacking with weapon
 To attack with a weapon, roll its offensive value.
@@ -81,19 +81,22 @@ Wearing heavy armor slows you down.
 Remove 2 Movespeed when you equip Klimakas or the Corinthian helmet. (each remove 2 Movespeed)
 
 #### Damage Types
-##### Blunt Damage:
+#### Blunt Damage:
 Blunt damage is done by hammers, boons, and physical damage from various sources.
 Blunt damage ignores armor and deals direct damage, but cannot crit.
 
-##### Piercing Damage
+#### Piercing Damage
 Piercing damage is done by swords, axes and spears.
 This damage can crit (upon rolling the maximum number on a die) and can also be blocked by armor.
 
-##### Magic Damage
+#### Magic Damage
 Magic damage is caused by boons and other spells, and cannot crit or be blocked by non-magical armor.
 
 #### Reaction
 Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
+
+#### Test
+##### undertest
 #### ~~Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.
 	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.

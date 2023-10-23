@@ -27,8 +27,8 @@ Using this ability prevents enemies from getting attacks of opportunity on you.
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      2       |  Instant  |    -     |   -   | 
 
-Your next attack on a target deals a bonus <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
-If you are attacking target from behind add an additional <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
+Your next attack on a target deals a bonus <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
+If you are attacking target from behind add an additional <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Piercing Damage |piercing damage]].
 
 ------------------
 <b><ins><i>Doctor's Note:</i></ins></b>
@@ -49,7 +49,7 @@ Prescribe some medicine to an ally, healing them for <mark style="background: #0
 Conjure the winged sandals of Hermes.
 These can be worn or given to an ally.
 When worn, they give the ability to jump up to 10 Meters high, then land down up to double your movespeed away.
-When landing, if you attack an enemy on the same turn, deal an extra <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+When landing, if you attack an enemy on the same turn, deal an extra <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 After you jump, the sandals disappear.
 They last for up to an hour.
 This movespeed bonus does not stack with ***Dash***
@@ -74,7 +74,7 @@ If you fail again, cut the damage of the attack by half.
 |       5        |      1       |  Instant  |   3 CT   | 6 Meters | 
 
 Pick a target in range.
-For the duration, you gain +1 to Stealth, Dexterity and Agility rolls made against this target, and <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] every time you damage the target.
+For the duration, you gain +1 to Stealth, Dexterity and Agility rolls made against this target, and <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Piercing Damage |piercing damage]] every time you damage the target.
 
 ------------------
 <b><ins><i>Jack of All Trades:</i></ins></b>

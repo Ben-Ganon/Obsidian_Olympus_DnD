@@ -10,5 +10,5 @@ To create your character, do the following steps:
 	1. Movespeed - it is exactly 3 times your Agility
 	2. Hp Max - exactly 4 times your Might
 	3. Magical Armor rating - starts at 0
-	4. Level - 1
-	5. Size Category - Children of Minotaur/Cyclops are Large, all else are regular sized
+	4. Level - 0
+	5. Size Category - medium

@@ -27,5 +27,5 @@ Any creature they pass must make an <mark style="background:  #FFAD0085;">Intuit
 Attacking breaks the affliction.
 
 #### On fire
-Targets on fire take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] each turn until the effect ends.
+Targets on fire take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] each turn until the effect ends.
 Default duration - 3 CT

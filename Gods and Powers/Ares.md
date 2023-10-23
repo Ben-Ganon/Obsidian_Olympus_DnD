@@ -91,7 +91,7 @@ An enemy you make eye contact with must make a Willpower save or be [[Affliction
 |       7        |      1       |   1 CT    |   3 CT   | 2 Meters | 
 
 Become surrounded by a vortex of Celestial Bronze weapons  
-While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 
 ------------------
 <b><ins><i>Vital Strike:</i></ins></b>

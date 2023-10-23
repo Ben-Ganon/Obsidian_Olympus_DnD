@@ -51,7 +51,7 @@ This Boon summons a large amount of water - if you are in an enclosed space, con
 |       3        |      1       |      Instant     |    -      |
 
 Use a heavenly hook to pull a target up to <mark style="background: #000B67A6;">4 Meters</mark> towards you. 
-Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] to them.
+Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
 
 ------------------
 <b><ins><i>Water Whip:</i></ins></b>
@@ -62,10 +62,10 @@ Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</
 
 Summon a water tool. The water tool can be used to deal damage or move creatures.
 choose one attack:
-***Whip*** - do <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]
-***Lasso*** -The target must make an <mark style="background: #00BB4D;">Dexterity</mark> saving roll or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] and be slammed to the ground.
-***Hook*** - The target must make an <mark style="background: #004A4CA6;">Agility</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  and be pulled <mark style="background: #000B67A6;">2 Meters</mark> towards the caster
-***Fist*** - The target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] and be pushed <mark style="background: #000B67A6;">2 Meters </mark> away from the caster.
+***Whip*** - do <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
+***Lasso*** -The target must make an <mark style="background: #00BB4D;">Dexterity</mark> saving roll or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] and be slammed to the ground.
+***Hook*** - The target must make an <mark style="background: #004A4CA6;">Agility</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] and be pulled <mark style="background: #000B67A6;">2 Meters</mark> towards the caster
+***Fist*** - The target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and be pushed <mark style="background: #000B67A6;">2 Meters </mark> away from the caster.
 
 
 -----------------
@@ -79,7 +79,7 @@ Summon a small watery object in your hand.
 This object can be placed or thrown up to Might + 2 Meters from you.
 If thrown, explodes immediately.
 If placed, you can place a timer on it.
-The explosion deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]] to all creatures in the range and spawns a body of water.
+The explosion deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] to all creatures in the range and spawns a body of water.
 
 ------------------
 <b><ins><i>Earthquake:</i></ins></b>
@@ -88,7 +88,7 @@ The explosion deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mec
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7         |      1        |     <mark style="background: #620075A6;">Instant</mark>      |    -      | <mark style="background: #000B67A6;">10 Meters</mark>       |
 
-The ground beneath your feet rumbles, as everything around you takes <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]. Creatures in the Earthquake must make an <mark style="background: #004A4CA6;">Agility</mark> saving throw to avoid damage
+The ground beneath your feet rumbles, as everything around you takes <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]]. Creatures in the Earthquake must make an <mark style="background: #004A4CA6;">Agility</mark> saving throw to avoid damage
 Cannot cast on water.
 
 ------------------
@@ -108,7 +108,7 @@ summon a Typhoon around you, dealing <mark style="background: #930000A6;">1d4</
 |       9       |      1       |  <mark style="background: #620075A6;">Instant</mark>  |   <mark style="background: #620075A6;">5 CT</mark>   |   -   | 
 
 You merge with Poseidon, god of waves: 
-Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+4</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive [[Combat Mechanics#Damage Types#Magic Damage |magic damage]], <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]]
+Gain <mark style="background: #045B00A6;">+15 Max Hp</mark>. Infuse yourself with the speed of the waves and gain <mark style="background: #004A4CA6;">+1</mark> to agility and <mark style="background: #60BB81;">+4</mark> to movespeed. Gain the Trident of Poseidon which has <mark style="background: #9E0000A6;">1d20</mark> offensive [[Combat Mechanics#Magic Damage |magic damage]], <mark style="background: #9E0000A6;">1d12</mark> defensive value and can be thrown (then vanishes) for <mark style="background: #9E0000A6;">1d20</mark> [[Combat Mechanics#Piercing Damage |piercing damage]]
 (can only be held with 2 hands)
 
 ------------------
