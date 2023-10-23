@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "General/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7ed89f0db4277d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Info and Values/Character Sheet.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "General/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
+                "file": "General/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Zeus.md"
+                "file": "General/Combat Mechanics.md"
               }
             }
           },
@@ -176,35 +166,41 @@
   },
   "active": "fc40bdf153944ab8",
   "lastOpenFiles": [
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Playable Patrons.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "General/Metal Types.md",
-    "General/Afflictions.md",
     "Gods and Powers/Hades.md",
-    "General/Combat Mechanics.md",
-    "General/Character Creation.md",
-    "Gear and Items/The Black Key.md",
-    "General/God Bonus Stat Chart.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "Info and Values/Character Sheet.pdf",
+    "Summonable Entities/Achilles.pdf",
+    "Summonable Entities/Achilles.md",
+    "Summonable Entities/Hercules.pdf",
+    "Summonable Entities/Hercules.md",
+    "Summonable Entities/Zagreus.pdf",
+    "Summonable Entities/Wolf.md",
+    "Summonable Entities/Zagreus.md",
+    "Summonable Entities/Owl Sentry.pdf",
+    "Summonable Entities/Boar.md",
+    "Summonable Entities/Cerberus.md",
+    "Summonable Entities/Hellhound.md",
     "Gear and Items/Weapons.md",
+    "Gear and Items/Shields and Armor.md",
+    "General/Combat Mechanics.md",
+    "Gods and Powers/Athena.md",
+    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Images/Hector.pdf",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Lore - do not read!/Characters/Gregor Othonos.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "General/Character Creation.md",
+    "General/Dice mechanics.md",
+    "Lore/Untitled",
+    "Info and Values/Character Sheet.pdf",
+    "Lore - do not read!/The Plot.md",
+    "Lore - do not read!/Fake Prophecy.md",
+    "Lore - do not read!/Welcome.md",
+    "Lore - do not read!/Types of Creatures.md",
     "Gods and Powers/Artemis.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "General/Metal-Creature interactions.md",
-    "General/Races.md",
+    "Lore - do not read!/Characters",
     "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
     "Character Creation.pdf",
-    "Gods and Powers/Aphrodite.md",
-    "General/Dice mechanics.md",
-    "General/Level Up Chart.md",
-    "General/Starter Kits.md",
-    "Gear and Items/Shields and Armor.md",
-    "Templates/Magic Damage.md",
     "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
     "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
     "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
@@ -214,13 +210,6 @@
     "Images/_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg",
     "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
     "Images/_49e3e98e-24a2-41dc-804a-6c3637f41fc2.jpg",
-    "Gear and Items",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Images/Mount Boar.pdf",
-    "Images/Creature Hellhound.pdf",
-    "Images/Mount Cerberus.pdf",
-    "Images/Mount Buzzard.pdf",
-    "Images/Anemoi Stat Sheet.pdf",
-    "Images/Mount Sheet Fillable.pdf"
+    "Gear and Items"
   ]
 }

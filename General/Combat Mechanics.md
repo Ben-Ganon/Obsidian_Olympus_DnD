@@ -7,8 +7,15 @@ Some actions take no time at all and they are defined as Instant Actions.
 These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
 This can be done at any point in the turn.
 You can use the movement, action, and bonus action in any order.
+You can only do one bonus action, one action, and one movement action per turn, unless stated otherwise in a boon or ability.
 
-
+#### Weapons and Inventory
+You can switch weapons during combat.
+If the weapon was equipped (written on the character sheet figure) then this action costs 1 action (lasts 1 CT).
+If the Weapon is in your inventory, it costs 2 CT (two turns) to swap them out.
+Likewise, retrieving any item not equipped to use in combat will cost 2 CT.
+A knife or axe that is equipped can be drawn as a bonus action and used instantly.
+Weapons can be dual wielded, but only one can be used each turn.
 #### Movement
 Movement is tile-based according to your Movespeed.
 Movespeed is in Meters/Turn
@@ -19,6 +26,7 @@ Every Turn, you can move up to your Movespeed meters, which on the board is 1 ti
 #### Attacking with weapon
 To attack with a weapon, roll its offensive value.
 The target can then choose to block the attack with their shield or weapon (according to their defensive stat), or dodge the attack with an Agility roll.
+Melee attacks with a weapon can only be made to enemies adjacent to you (within 1 tile or 2 Meters)
 
 #### Firing arrows
 First, to fire an arrow one must have a bow and arrow ammunition.

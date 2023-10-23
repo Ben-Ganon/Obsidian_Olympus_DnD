@@ -16,7 +16,7 @@ Children of Athena play a mixed role of fighter who stacks block bonuses to deal
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      1       |   1 CT    |   3 CT   |    40 Meters    |
 
-Conjure a sacred owl of Athena, and send it fly to a position up to <mark style="background: #0900A7A6;">40 Meters</mark> away.
+Conjure a sacred [[Owl Sentry.pdf|owl of Athena]], and send it fly to a position up to <mark style="background: #0900A7A6;">40 Meters</mark> away.
 This sentry can sense for you - you can hear and see what it does.
 Additionally, once per summon you can switch places with it instantly
 

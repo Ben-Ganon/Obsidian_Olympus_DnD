@@ -1,6 +1,6 @@
 The $Plot^{TM}$ so far:
-The year is roughly 800 bce.
-300 years ago (roughly 110 bce) the island of Crete and surrounding Islands were populated by the Minoan Empire. 
+The year is 431 bce.
+700 years ago (roughly 1100 bce) the island of Crete and surrounding Islands were populated by the Minoan Empire. 
 At the head of the Minoan Empire ruled Minos, the dreaded tyrant from Knossos. 
 Minos was a demigod, born of the [[Zeus]] and Europa, and resented the gods of Olympus - both his father Zeus for abandoning him in childhood and Poseidon for cursing him with the bull that fathered the dreaded Minotaur.
 Slowly losing his mind from anger and jealousy, Minos turned to another god:

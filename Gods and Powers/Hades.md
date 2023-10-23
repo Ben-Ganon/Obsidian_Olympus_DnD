@@ -15,11 +15,12 @@ Children of hades play in 1 of two ways:
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       1        |      1       |   1 CT    |   5 CT   | 2 Meters |
+|       1        |      1       |   1 CT    |   3 CT   | 2 Meters |
 
 Summon a fallen warrior from Elysium to aide you.
-Summon [[Achilles]], [[Hercules]] or [[Zagreus]].
-The warrior can only act on your next turn.
+Summon [[Achilles.pdf|Achilles]], [[Hercules.pdf |Hercules]] or [[Zagreus.pdf|Zagreus]].
+The warrior can only act from your next turn.
+When the warrior reaches 0 Hp they automatically return back to hades.
 
 ------------------
 <b><ins><i>Invisibility Cloak:</i></ins></b>
@@ -39,7 +40,7 @@ This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the e
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       3        |      3       |   1 CT    |   5 CT   | 2 Meters | 
 
-Reanimate a fallen monster to fight for you.
+Reanimate a fallen medium/small monster to fight for you.
 Roll $monster \space hp \over 20$ d6.
 If you get more than 3 on all rolls, you will successfully animate the monster with half stats.
 If you fail even one roll, you fail to reanimate the monster and instead summon a [[Hellhound]]
