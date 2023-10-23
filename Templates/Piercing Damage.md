@@ -1,0 +1,1 @@
+[[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]]

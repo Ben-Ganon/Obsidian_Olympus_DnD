@@ -1,14 +1,15 @@
-|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirment | Damage Type  |
-|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:| ------------ |
-|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         | Melee/Ranged |
-|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         | Melee        |
-|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        6         | Melee        |
-|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        -         | Melee        |
-|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         | Melee/Ranged |
-|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         | Ranged       |
-| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |        -         | Ranged       |
-|     Sfyri     | Hammer                  |       1d6       |        -        |            -             |        1d4        |        6         | Blunt Melee  |
-|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |        8         | Blunt Melee  | 
+|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirment | Damage Type                                                                           |
+|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:----------------:| ------------------------------------------------------------------------------------- |
+|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |        -         | [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]] / Ranged Piercing | 
+|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |        -         | [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]]                   |
+|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |        6         | [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]]                   |
+|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |        -         | [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]]                   |
+|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |        6         | [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]]                   |
+|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |        -         | Ranged [[Combat Mechanics#Damage Types#Piercing Damage \|piercing damage]]            |
+| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |        -         | Ranged [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]]                                                                              |
+|     Sfyri     | Hammer                  |       1d6       |        -        |            -             |        1d4        |        6         | [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]                                                                           |
+|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |        8         | [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]                                                                           |
+|     Lyre      | Instrument              |       1d4       |        -        |            -             |         -         |        -         | [[Combat Mechanics#Damage Types#Magic Damage \|magic damage]]                         |
 
 ##### Akinakes
 ![[8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg | 200]] 
