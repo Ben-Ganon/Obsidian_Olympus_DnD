@@ -1,3 +1,4 @@
+![[_80f452f8-8c10-487b-90b2-b020548220e6.jpg | 300]]
 ***Description:***
 Hermes is the god of travel and travelers, merchants, doctors, thieves and a psychopomp - a guide of souls into the afterlife.
 

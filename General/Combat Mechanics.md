@@ -29,17 +29,18 @@
 	To fire a bow, the user must not be equipped with a helmet.
 	
 - Blocking with a shield or with a sword - what can/cannot be blocked:
-	You can block an attack from a weapon or arrow with the defensive stat of your shield or sword - you must roll a 4 or more to succeed the block.
+	You can block an attack with the defensive stat of your shield or weapon - you must roll a 4 or more to succeed the block.
 	You cannot block blows from Large creatures, or special effects from Boons (Waves, Lighting strikes, etc.)
+	You cannot block arrows with a weapon.
 	
 - Damage reductions:
 	Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-10 flat reduction).
 	Additionally, magical armor can reduce some damage from magical abilities.
-	Regular armor cannot block blunt damage.
+	Regular armor cannot block blunt or magical damage.
 
 - Critical Damage:
 	When rolling for damage, if one of the dice you roll hits the maximum (4 for d4, 6 for d6, etc.), roll it again and deal extra damage.
-	Can only re-roll once. (if you roll 1d4 and get 4, then roll 4 again, you do not roll again)
+	Can only re-roll once. (if you roll 1d4 and get 4, then roll 1d4 to get 4 again, you do not roll again)
 	Does not apply to Blunt damage rolls.
 
 - Grapples:

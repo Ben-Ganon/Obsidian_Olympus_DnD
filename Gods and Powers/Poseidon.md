@@ -1,3 +1,4 @@
+![[_3c8cb5cd-03c5-459f-9649-e83fc43ec8e4.jpg | 300]]
 ***Description:***
 Poseidon, God of the oceans and brother to Zeus and Hades, is his more relaxed, but nonetheless powerful parallel on Olympus.
 Poseidon rules the oceans, the tides and all creatures within.

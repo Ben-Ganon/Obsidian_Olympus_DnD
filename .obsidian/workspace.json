@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11faae057c3d07eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc40bdf153944ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Combat Mechanics.md",
+                "file": "General/Dice mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "General/Dice mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "General/Dice mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "General/Dice mechanics.md"
               }
             }
           },
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,46 +176,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11faae057c3d07eb",
+  "active": "fc40bdf153944ab8",
   "lastOpenFiles": [
-    "Templates/Color Codes.md",
+    "General/Combat Mechanics.md",
+    "General/Afflictions.md",
+    "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
+    "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
+    "Gods and Powers/Hermes.md",
+    "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
+    "Gods and Powers/Aphrodite.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Zeus.md",
+    "Images/_3c8cb5cd-03c5-459f-9649-e83fc43ec8e4.jpg",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Athena.md",
+    "Images/_08710e9e-b6d2-4843-8d22-10696817f37a.jpg",
+    "Demeter.jpg",
+    "WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
+    "Images/_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Artemis.md",
+    "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
+    "Images/_49e3e98e-24a2-41dc-804a-6c3637f41fc2.jpg",
+    "General/Starter Kits.md",
     "index.md",
+    "Templates/Color Codes.md",
     "Info and Values/Character Sheet.pdf",
     "Character Sheet.md",
-    "General/Combat Mechanics.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Playable Patrons.md",
     "Character Creation.pdf",
     "README.md",
     "test.md",
     "TODO.md",
-    "Images/Photo+Nov+30,+6+11+57+PM.jpg",
     "General/Character Creation.md",
-    "Info and Values/Character Sheet.png",
     "Gear and Items/Shields and Armor.md",
     "General/God Bonus Stat Chart.md",
-    "General/Starter Kits.md",
     "Gear and Items/Weapons.md",
-    "General/Races.md",
-    "Gear and Items/The Black Key.md",
-    "General/Dice mechanics.md",
-    "General/Afflictions.md",
-    "General/Metal-Creature interactions.md",
-    "General/Metal Types.md",
-    "General/Level Up Chart.md",
-    "Gods and Powers/Hades.md",
-    "Lore/Athens Encounter.md",
-    "Gods and Powers/Athena.md",
-    "Lore/The Plot.md",
-    "Images/AH3853L-Classical-Roman-Scutum-768x768.jpg",
-    "Lore/The Prophecy from the Oracle.md",
-    "Images/Xiphos-Title.webp",
-    "Images/Pilos-Helmet1.jpg",
-    "Images/Peltaste.jpg",
-    "Images/il_1588xN.1052590995_ad0e.webp",
-    "Images/Greek-Chalcidian-Helmeta.jpg",
-    "Images/Han_bronze_scale_armor_4.jpg",
-    "Images/main-image.jpg",
     "Gear and Items",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Mount Boar.pdf",

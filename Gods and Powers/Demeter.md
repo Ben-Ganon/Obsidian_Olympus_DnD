@@ -1,3 +1,4 @@
+![[_f9641c7c-768f-4072-919e-03e4f95d6773.jpg | 300]]
 Demeter is the goddess of agriculture and harvest.
 Usually kind and forgiving, Demeter is the easing and homely presence on Olympus. 
 Lately, Demeter has grown cold and bitter - crops fail to yield and the ground is almost frozen solid.
