@@ -33,7 +33,7 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |     1     |   2 CT   | 20 Meters | 
+|       3        |      1       |     1     |   2 CT   | 6 Meters | 
 
 Taunt a humanoid, animal or undead into combat, forcing them to attack you.  
 They have <mark style="background: #930000A6;">+1</mark> on all attack rolls but <mark style="background: #930000A6;">-2</mark> on all defense and dodge rolls
@@ -57,7 +57,7 @@ You can also sweep attack with the spear dealing <mark style="background: #93000
 <b><ins><i>Xiphos:</i></ins></b>
 You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d4</mark> each time.
 Each attack is considered separate.
-Every time an enemy is hit by the xiphos, heal <mark style="background: #045B00A6;">$1d4 \over 2$ </mark>
+Every time an enemy is hit by the Xiphos, heal <mark style="background: #045B00A6;">$1d4 \over 2$ </mark>
 
 Additionally, any enemy damaged in the duration grants you <mark style="background: #045B00A6;">+5 max Hp</mark>
 (Once per enemy)
@@ -67,7 +67,7 @@ Additionally, any enemy damaged in the duration grants you <mark style="backgrou
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       5        |      1       |  Instant  |   5 CT   | 5 Meters | 
+|       5        |      1       |  Instant  |   5 CT   | 4 Meters | 
 
 Gain valor of the strongest warriors.
 For the duration, your you gain <mark style="background: #930000A6;">+2</mark> to all block rolls,
@@ -78,7 +78,7 @@ Additionally, gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for eve
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      2       |   1 CT    |    -     | 10 Meters | 
+|       5        |      2       |   1 CT    |    -     | 4 Meters | 
 
 You channel Deimos, the god of terror.
 An enemy you make eye contact with must make a Willpower save or be [[Afflictions#Stunned | Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
@@ -88,10 +88,10 @@ An enemy you make eye contact with must make a Willpower save or be [[Affliction
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   1 CT    |   3 CT   | 3 Meters | 
+|       7        |      1       |   1 CT    |   3 CT   | 2 Meters | 
 
 Become surrounded by a vortex of Celestial Bronze weapons  
-While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save or take <mark style="background: #930000A6;">1d6</mark> magic damage each turn.
+While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
 
 ------------------
 <b><ins><i>Vital Strike:</i></ins></b>

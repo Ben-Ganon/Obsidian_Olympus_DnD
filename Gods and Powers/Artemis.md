@@ -19,17 +19,17 @@ Children of Artemis play the role of Ranger Assassin - marking targets for death
 
 Enchant your weapon with moonlight.
 The next time you attack deal <mark style="background: #930000A6;">1d4</mark> bonus damage and ***Mark*** the target. 
-Expires after the duration
+The effect and the mark expire after the duration.
 
 ------------------
 <b><ins><i>Deadly Missile:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       1        |      1       |   1 CT    |    -     | 100 Meters | 
+|       1        |      1       |   1 CT    |    -     | 40 Meters | 
 
 Fire an enchanted magic missile at a target that never misses.  
-Deals  <mark style="background: #930000A6;">1d6</mark> damage, and ***Marks*** the target
+Deals  <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]], and ***Marks*** the target
 (Uses ammunition)
 
 ------------------
@@ -37,21 +37,22 @@ Deals  <mark style="background: #930000A6;">1d6</mark> damage, and ***Marks***
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       3        |      1       |  Instant  |   5 CT   |   -   | 
+|       3        |      1       |  Instant  |   3 CT   |   -   | 
 
 For the duration, your quiver/knife pack produces infinite ammunition.
-Additionally, when using a bow or throwing knife, fire or throw 2 projectiles instead of 1.
+Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2 projectiles instead of 1.
+(Counts as 2 separate attacks)
 
 -----------------
 <b><ins><i>Volley:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   1 CT    |    -     | 30 Meters | 
+|       3        |      1       |   1 CT    |    -     | 20 Meters | 
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an agility saving roll (this volley cannot be blocked) or take <mark style="background: #930000A6;">1d6</mark> damage.
+These targets must make an Agility saving roll (this volley cannot be blocked) or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]].
 If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> damage instead.
 (Uses ammunition)
 
@@ -63,9 +64,9 @@ If you cast this while **Wild Hunt** is active, deal <mark style="background: #9
 |       4        |      1       |   1 CT    |   5 CT   |   -   | 
 
 Channel the power of the Wild Hunt.
-For the duration, you gain <mark style="background: #60BB81;">10 Movespeed</mark> when moving towards an enemy,
+For the duration, you gain <mark style="background: #60BB81;">4 Movespeed</mark> when moving towards an enemy,
 and gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #00BB4D;">+1</mark> to Dexterity rolls.
-If the moon is shining, gain <mark style="background: #261F22D6;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made to ***Marked*** enemies.
+If the moon is shining (either at night or with ***Moonlight Flare***), gain <mark style="background: #261F22D6;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made against ***Marked*** enemies.
 
 ------------------
 <b><ins><i>Poison Projectiles:</i></ins></b>
@@ -75,7 +76,7 @@ If the moon is shining, gain <mark style="background: #261F22D6;">+1</mark> to s
 |       5        |      1       |  Instant  |   3 CT   |   -   |
 
 Coat your projectiles in lethal poison.
-Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">1</mark> damage each turn for 1d4 turns.
+Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">1</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]  damage each turn for 1d4 turns.
 This poison stacks - if you land 2 poison arrows with duration 1 and 2, the target will take 2 for <mark style="background: #A100B8A6;">1 CT</mark> then 1 damage for another.
 
 ------------------
@@ -83,9 +84,9 @@ This poison stacks - if you land 2 poison arrows with duration 1 and 2, the targ
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       5        |      1       |   1 CT    |   3 CT   | 50 Meters | 
+|       5        |      1       |   1 CT    |   3 CT   | 30 Meters | 
 
-Shine godly moonlight on the battlefield in a <mark style="background: #0900A7A6;">10 Meter</mark> radius in a location in the range.
+Shine godly moonlight on the battlefield in a <mark style="background: #0900A7A6;">4 Meter</mark> radius in a location in the range.
 All invisible creatures in the moonlight beam are revealed for the duration.
 Additionally, all enemies in the moonlight beam are slower - 
 They lose 5 Movespeed and suffer <mark style="background: #004A4CA6;">-1</mark> on all Agility rolls.
@@ -95,7 +96,7 @@ They lose 5 Movespeed and suffer <mark style="background: #004A4CA6;">-1</mark> 
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       7        |      1       |   1 CT    |   5 CT   | 10 Meter | 
+|       7        |      1       |   1 CT    |   5 CT   | 6 Meters | 
 
 Summon a sacred [[Boar]] companion to aid you on the hunt.
 The boar obeys your commands and can act independently or as a mount. 
@@ -106,7 +107,7 @@ Cannot stray more than the range away from you or it will vanish
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       7        |      1       |   1 CT    |   5 CT   | 100 Meters | 
+|       7        |      1       |   1 CT    |   5 CT   | 50 Meters | 
 
 Summon a sacred [[Buzzard]] scout to aide you on the hunt.
 The Buzzard flies at a 20 meter altitude can report back to you on what it sees and hears.
@@ -119,10 +120,10 @@ Cannot stray more than the range away from you or it will vanish.
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       9       |      1       |   1 CT    |   3 CT   |   -   | 
 
-Merge with Artemis, goddess of the wilderness.
-Gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #000000;">+1</mark> to Stealth rolls and +10 Movespeed.
+Merge with Artemis, goddess of the hunt.
+Gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #011111;">+1</mark> to Stealth rolls and +2 Movespeed.
 Additionally, Gain the Bow of Artemis - 
-Every projectile fired gets ***Deadly Missile*** as bonus damage and cannot miss.
+Every projectile fired or thrown is a ***Deadly Missile*** and deals it's damage as bonus damage and cannot miss.
 Additionally, every blade you posses shifts into Artemis' Hunting Knife, granting <mark style="background: #930000A6;">+2</mark> to attack rolls made to ***Marked*** targets.
 
 ------------------

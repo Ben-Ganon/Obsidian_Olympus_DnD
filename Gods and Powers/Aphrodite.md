@@ -19,7 +19,8 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 
 Change your appearance to look like the ideal beauty standard for humanoids within the range.
 This gives <mark style="background: #FFAD0085;">+1</mark> to to intuition rolls meant to ***Charm***, bluff or persuade.
-***Shimmer*** can also be used on other humanoids to hide their [[Races | race]] or other physicals features.
+***Shimmer*** can also be used on other humanoids to hide their [[Races |race]] or other physicals features.
+If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>

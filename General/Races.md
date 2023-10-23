@@ -5,58 +5,55 @@ When Creating a character, choose a race:
 #### Minotaur:
 Half bull and half man, these creatures are large and powerful, and gain a boon from Tauros, the bull god.
 Minotaur's children appear as large, muscle covered humanoids with small horns protruding from their heads,
-and gain +1 to Might.
+and gain +1 to the Might stat.
 
 <b><ins><i>Bull Charge:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      1       |   1 CT    |    -     | 4 Meters | 
+|       0        |      1       |   1 CT    |    -     | 4 Meters | 
 
 Charge an enemy with all your might.
-Move to an enemy in range, dealing your Might roll as blunt damage
+Move to an enemy in range, dealing your Might roll as [[Combat Mechanics#Damage Types#Blunt Damage |blunt]] damage.
 (Might 6 - you roll d6 damage, Might 11 you roll d10 damage)
 
 
 ------------------
-
 #### Dryad
 Dryads are spirits of the forest, each one inhabiting a tree or plant.
 They are said to be the guardians of nature, and have a keen eye for botany.
 Dryad children have slightly brownish-green skin, it's texture like bark.
-and gain +1 to block.
+Children of Dryads are hardy and gain +1 to the Willpower stat.
 
 <b><ins><i>Nature Form:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      1       |  Instant  |   1 CT   |   -   | 
+|       0        |      1       |  Instant  |   1 CT   |   -   | 
 
 Turn into your plant form, becoming hardy.
 Your next turn is spent as a plant, you cannot take damage but also cannot take any action.
 Heal for 1d6 that turn.
 
 ------------------
-
-#### Nymphs 
+#### Nymph
 Nymphs are water spirits, inhabiting lakes and rivers.
 The nymphs are a gentle bunch, and usually prefer not to partake in combat.
 However, nymphs are exceptionally good at dodging any attacks due to their watery form.
 Nymph children have clear, pale skin,
-and gain +1 to dodge attempts.
+and gain +1 to the Agility stat.
 
 <b><ins><i>Flow Away:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      1       |  Instant  |    -     | 4 Meters | 
+|       0        |      1       |  Instant  |    -     | 4 Meters |
 
 Turn momentarily into water, and flow away from enemies up to 4 Meters away.
-This prevents attacks of opportunity on the user while escaping.
+This prevents attacks of opportunity on the user while flowing.
 
 ------------------
-
-#### Cyclops
+#### Cyclop
 Cyclops are one-eyed giants that terrorize towns and islands.
 They are also the legendary creators of the Olympians weapons.
 Some of them are kind, though, and through good relations with people have earned the favor of the gods.
@@ -67,9 +64,50 @@ They also gain 1d4 damage whenever they attack with a blunt weapon (hammers)
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      1       |  Instant  |   1 CT   |   -   | 
+|       0        |      1       |  Instant  |   1 CT   |   -   |
 
 Upgrade your melee weapon with magical forge-fire.
 your next attack deals an extra 1d4 damage.
+
+------------------
+#### Satyr
+Satyrs are nature oriented creatures, and are described as goat-men hybrids with furry bottoms, horns, and hairy human top halves.
+Satyrs usually worship Dionysos and Pan, and will fight fiercely to protect their wild habitat.
+Children of Satyrs are inclined to be very agile, and gain +2 to Movespeed. 
+They appear as hooved, slightly hairier humanoids with pointed ears.
+
+<b><ins><i>Guardian of the Forest:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       0        |      1       |  Instant  |   1 CT   |   -   | 
+
+Channel the power of Pan, Guardian of nature to enhance your armor, shield and weapons with heavy wood.
+for this CT and the next, you gain +3 armor and +1 to all block attempts.
+
+------------------
+
+#### Harpy
+Harpies are bird-women hybrids who usually do the bidding of gods - retrieve objects and people for them to Olympus.
+Harpies are usually feathery, beaked women with razor sharp talons and teeth, with an affection for prophecies.
+Children of Harpies are humanoids with extremely sharp, shark-like teeth, feathery arms, and sharp talon-like fingernails.
+They inherently understand inflicting damage with sharp objects, and gain +1d4 damage to any attack with a [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] weapon (Swords, Spears, Axes, Knives).
+
+<b><ins><i>Slash:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       0        |      1       |  Instant  |    -     | 2 Meters | 
+
+If you are unarmed with one hand, you can use that hand to slash an enemy with your talons as a bonus action, dealing 1d4 bonus [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] to them.
+
+<b><ins><i>Bite:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       0        |      1       |  Instant  |    -     | 1 Meters | 
+
+Bite an enemy with razor sharp fangs.
+If you are in a grapple or otherwise extremely close to an enemy, or an enemy is prone adjacent to you, you can bite them for 1d6 [[Combat Mechanics#Damage Types#Piercing Damage |piercing damage]] as a bonus action.
 
 ------------------

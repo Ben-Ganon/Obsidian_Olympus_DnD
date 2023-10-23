@@ -14,12 +14,10 @@ Flanked targets take extra damage from attacks and receive -1 on all disengage a
 In order to grapple a target a hero must make an [[Dice mechanics#Opposed rolls |opposed]] Might roll against an enemy.
 Grappled targets are pinned to the ground (Prone) and cannot move, block or dodge.
 Each CT they must roll Might to be released from the grapple.
-
 #### Blinded
 Blinded targets cannot see the battlefield.
 Blinded enemies have disadvantage on attack, dodge and Intuition rolls.
-
 #### Prone
-Prone targets are laid flat on the ground, and gain -1 to all rolls.
+Prone targets lay flat on the ground, and gain -1 to all rolls.
 They must use $1 \over 2$ their Movespeed on their turn to get up.
 

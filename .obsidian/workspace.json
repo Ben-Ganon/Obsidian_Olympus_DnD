@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Afflictions.md",
+                "file": "Gods and Powers/Athena.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,9 @@
             "id": "3a7ed89f0db4277d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Gear and Items/Weapons.md",
-                "mode": "source",
-                "source": false
+                "file": "Info and Values/Character Sheet.pdf"
               }
             }
           }
@@ -60,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grapple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Afflictions.md",
+                "file": "Gods and Powers/Athena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Afflictions.md",
+                "file": "Gods and Powers/Athena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Afflictions.md"
+                "file": "Gods and Powers/Athena.md"
               }
             }
           },
@@ -179,44 +176,43 @@
   },
   "active": "fc40bdf153944ab8",
   "lastOpenFiles": [
-    "General/Combat Mechanics.md",
+    "Info and Values/Character Sheet.pdf",
     "Gear and Items/Weapons.md",
-    "Gear and Items/Shields and Armor.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
-    "General/Starter Kits.md",
+    "General/Metal-Creature interactions.md",
+    "General/Races.md",
+    "General/Character Creation.md",
+    "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
+    "Character Creation.pdf",
+    "General/God Bonus Stat Chart.md",
     "Gods and Powers/Aphrodite.md",
+    "General/Combat Mechanics.md",
+    "General/Dice mechanics.md",
+    "General/Level Up Chart.md",
+    "General/Metal Types.md",
+    "General/Starter Kits.md",
+    "General/Afflictions.md",
+    "Gear and Items/Shields and Armor.md",
     "Templates/Magic Damage.md",
     "Templates/Blunt Damage.md",
     "Templates/Piercing Damage.md",
-    "Gods and Powers/Artemis.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "index.md",
-    "General/Character Creation.md",
-    "General/Dice mechanics.md",
-    "General/Afflictions.md",
     "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
     "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
     "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
     "Images/_3c8cb5cd-03c5-459f-9649-e83fc43ec8e4.jpg",
-    "Gods and Powers/Playable Patrons.md",
     "Images/_08710e9e-b6d2-4843-8d22-10696817f37a.jpg",
-    "Demeter.jpg",
-    "WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
+    "Images/Demeter.jpg",
     "Images/_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg",
     "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
     "Images/_49e3e98e-24a2-41dc-804a-6c3637f41fc2.jpg",
-    "Templates/Color Codes.md",
-    "Info and Values/Character Sheet.pdf",
-    "Character Creation.pdf",
     "Gear and Items",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Mount Boar.pdf",
