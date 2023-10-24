@@ -1,4 +1,5 @@
 ![[_7707d6d9-b19f-4649-8f3f-22e30d690a6e.jpg | 300]]
+***Description:***
 Aphrodite is the goddess of love, lust, passion and beauty.
 Aphrodite is as beautiful as she is deadly -
 She will take any chance to cause drama and strife, and in the case of gods this usually causes untold damage.
