@@ -40,9 +40,9 @@ Give an armor, weapon or shield +1d4 to either block or attack for the duration.
 
 Your hands become so hot your weapons and shield catch fire.
 This gives a bonus of +1d4 to your next attack or block roll.
-All enemies who you block successfully while this is active take <mark style="background: #9E0000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+All enemies who you block successfully while this is active take <mark style="background: #9E0000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 If you are not immune to fire when casting this, take <mark style="background: #9E0000A6;">1</mark> damage.
-Additionally, you can also attack with your bear hands for <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] 
+Additionally, you can also attack with your bear hands for <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] 
 This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 
 
@@ -96,7 +96,7 @@ You can use this weapon or grant it to a party member.
 You can attack twice per CT, each time dealing <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and defending for <mark style="background: #930000A6;">1d4</mark>, 
 <b><ins><i>Hammer:</i></ins></b>
 You need to wind up attacks, taking <mark style="background: #A100B8A6;">1 CT</mark> to charge them.
-The hammer deals <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Damage Types#Blunt Damage|blunt damage]]
+The hammer deals <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
 <b><ins><i>Katar:</i></ins></b>
 The Katar is excellent at puncturing weak points.
 Roll 1d4. If you roll 1 or 2, you miss the weak points and deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].

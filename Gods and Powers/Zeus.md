@@ -31,9 +31,9 @@ If the target is in the air, deal an extra <mark style="background: #930000A6;">
 |       1        |      2       |   1 CT    |  3 CT   |    -   |
 
 Imbue your weapon with godly lightning for the duration.
-Every time you successfully land an attack, deal an additional <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
-Additionally, you can ***discharge*** the remaining energy in your weapon to deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] to an enemy up to <mark style="background: #000B67A6;">6 Meters</mark> away.
-If the enemy is in the air, ***discharge*** deals <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] instead.
+Every time you successfully land an attack, deal an additional <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]].
+Additionally, you can ***discharge*** the remaining energy in your weapon to deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] to an enemy up to <mark style="background: #000B67A6;">6 Meters</mark> away.
+If the enemy is in the air, ***discharge*** deals <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead.
 This cancels the rest of the effect.
 
 ------------------
@@ -44,8 +44,8 @@ This cancels the rest of the effect.
 |       3        |      1       |   1 CT    |    -     | 12 Meters | 
 
 Cast a bolt of lightning at target. If there are other enemies within <mark style="background: #000B67A6;">4 Meters</mark> of the target, the lightning bounces to an additional 1d4 enemies.
-Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage | magic damage]] .
-If you cast this while ***Flying***, targets take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] instead
+Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage | magic damage]].
+If you cast this while ***Flying***, targets take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead
 
 ------------------
 <b><ins><i>Summon Anemoi:</i></ins></b>
@@ -98,7 +98,7 @@ Cannot move through walls (This ability is not a teleport, rather extremely fast
 
 Summon an intense lightning storm around you.
 In the eye of the storm (<mark style="background: #000B67A6;">4 Meter</mark> radius from your position), enemies are pulled away towards the storm and must make a <mark style="background: #3800D7A6;">Might</mark> save roll every turn in the duration, or be swept <mark style="background: #000B67A6;">2 Meters</mark> into the storm.
-Enemies in the storm (<mark style="background: #000B67A6;">4-8 Meters radius</mark> from your position) roll 1d4 each turn. On failure, they are struck by lightning, being dealt <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]] .
+Enemies in the storm (<mark style="background: #000B67A6;">4-8 Meters radius</mark> from your position) roll 1d4 each turn. On failure, they are struck by lightning, being dealt <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 
 ------------------
 <b><ins><i>Charged Assault:</i></ins></b>
@@ -108,7 +108,7 @@ Enemies in the storm (<mark style="background: #000B67A6;">4-8 Meters radius</ma
 |       7        |      2       |   1 CT    |   2 CT   |   -    |
 
 Become infused with essence of lightning, gaining <mark style="background: #004A4CA6;">+1</mark> to Agility rolls and 4 movespeed.
-You can end this charge period with a lightning-infused tackle that deals <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]].
+You can end this charge period with a lightning-infused tackle that deals <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 If you cast this while ***Flying***, ***BECOME THE LIGHTNING*** and deal <mark style="background: #930000A6;">1d20</mark> instead.
 The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll, or be stunned for 1d4 turns
 
@@ -121,7 +121,7 @@ The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll,
 
 You merge with Zeus, God of Thunder.
 For the Duration, you gain <mark style="background: #045B00A6;">15 Max Hp</mark>,
-and any creature that comes within range of you must roll an <mark style="background: #004A4CA6;">Agility</mark> saving roll or be struck by lightning for <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Damage Types#Magic Damage |magic damage]]. This does not repeat if the creature stays in range of you next CT.
+and any creature that comes within range of you must roll an <mark style="background: #004A4CA6;">Agility</mark> saving roll or be struck by lightning for <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]]. This does not repeat if the creature stays in range of you next CT.
 If the creature rolled a 1, it is dealt <mark style="background: #930000A6;">1d8</mark> instead
 Additionally, you can cast Blink each turn while this boon is active.
 
