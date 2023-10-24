@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
+                "file": "Gods and Powers/Hades.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
+                "file": "Gods and Powers/Hades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
+                "file": "Gods and Powers/Hades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Demeter.md"
+                "file": "Gods and Powers/Hades.md"
               }
             }
           },
@@ -164,24 +164,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d9c0dccc54816b8",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Ares.md",
+    "Gods and Powers/Dionysos.md",
     "Gods and Powers/Aphrodite.md",
     "Gods and Powers/Apollo.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
-    "_753eef88-29fd-4567-897c-d4112cecba0a.jpg",
-    "_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
-    "_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
-    "_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
-    "_7707d6d9-b19f-4649-8f3f-22e30d690a6e.jpg",
-    "WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
+    "Gods and Powers/Demeter.md",
+    "beng97_Cartoonish_Digital_Art_of_Greek_god_Dionysos_purple_eyes_be2f6c62-cd97-440f-ba38-d29c56381d2b.png",
+    "Gods and Powers/Hades.md",
+    "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
+    "Images/8._Akinak_(dagger)_bural_mound_Arzhan_(VIII.-VII._B.C.)_Tuva.jpg",
+    "Images/_d3cba9c5-8b56-4cf5-a18f-68b2e0aa8c32.jpg",
+    "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
+    "Images/_1367120d-80ff-427e-8f4b-a2a8db715315.jpg",
+    "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
+    "Images/_08710e9e-b6d2-4843-8d22-10696817f37a.jpg",
+    "Images/_82a62a37-30dd-4618-a945-7b895bb3854c.jpg",
+    "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
     "Lore - do not read!/Characters/Penelope Diakos.md",
-    "_1de54838-0efd-4210-b618-15c780fcda48.jpg",
     "General/Combat Mechanics.md",
     "Templates/Piercing Damage.md",
     "Templates/Magic Damage.md",
@@ -207,9 +210,6 @@
     "Lore/Untitled",
     "Info and Values/Character Sheet.pdf",
     "Lore - do not read!/Characters",
-    "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
-    "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
-    "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
     "Gear and Items"
   ]
 }
