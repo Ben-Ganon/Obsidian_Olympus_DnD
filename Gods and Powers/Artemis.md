@@ -1,4 +1,4 @@
-![[_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg | 300]]
+![[_a88ecda1-66d1-4961-9cde-a11496957046.jpg | 300]]
 ***Description:***
 Goddess of the hunt, wild animals, archery and the Moon.
 Artemis is the cold, calculated hunter all animals fear on instinct.

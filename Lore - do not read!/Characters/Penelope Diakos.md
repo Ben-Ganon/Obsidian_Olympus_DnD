@@ -1,3 +1,4 @@
+![[_1de54838-0efd-4210-b618-15c780fcda48.jpg | 400]]
 Grand Priestess to Athena at the Parthenos in Athens.
 Demigod - daughter of Athena.
 Growing up in extreme poverty, Penelope set her sights as high as she could.

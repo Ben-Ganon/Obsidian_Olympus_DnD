@@ -1,4 +1,4 @@
-![[_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg | 300]]
+![[_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg | 300]]
 ***Description:***
 Apollo is the god of music, archery, medicine, Prophecy and the sun.
 Apollo is described as being heavenly handsome, even for a god, and has the ego to match.

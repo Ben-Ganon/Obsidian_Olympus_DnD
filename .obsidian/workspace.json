@@ -11,8 +11,12 @@
             "id": "9d9c0dccc54816b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Demeter.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Damage Types",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gods and Powers/Demeter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gods and Powers/Demeter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gods and Powers/Demeter.md"
+              }
             }
           },
           {
@@ -143,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +166,21 @@
   },
   "active": "9d9c0dccc54816b8",
   "lastOpenFiles": [
+    "Gods and Powers/Athena.md",
+    "_753eef88-29fd-4567-897c-d4112cecba0a.jpg",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Ares.md",
+    "_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
+    "_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
+    "_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
+    "_7707d6d9-b19f-4649-8f3f-22e30d690a6e.jpg",
+    "WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "_1de54838-0efd-4210-b618-15c780fcda48.jpg",
     "General/Combat Mechanics.md",
     "Templates/Piercing Damage.md",
     "Templates/Magic Damage.md",
@@ -169,22 +192,13 @@
     "General/Metal Types.md",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hades.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
     "Templates/Blunt Damage.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Aphrodite.md",
     "General/Afflictions.md",
     "General/Character Creation.md",
     "General.md",
     "General/Starter Kits.md",
     "General/Metal-Creature interactions.md",
-    "General/Level Up Chart.md",
     "Character Creation.pdf",
-    "Lore - do not read!/Characters/Lysander Hasapis.md",
-    "Lore - do not read!/Characters/Hector Pantazis.md",
     "Summonable Entities/Achilles.pdf",
     "Summonable Entities/Hercules.pdf",
     "Summonable Entities/Zagreus.pdf",
@@ -196,13 +210,6 @@
     "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
     "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
     "Images/_0a4f8117-aed7-46b3-ad2a-1cdfb3b1fc64.jpg",
-    "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
-    "Images/_3c8cb5cd-03c5-459f-9649-e83fc43ec8e4.jpg",
-    "Images/_08710e9e-b6d2-4843-8d22-10696817f37a.jpg",
-    "Images/Demeter.jpg",
-    "Images/_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg",
-    "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
-    "Images/_49e3e98e-24a2-41dc-804a-6c3637f41fc2.jpg",
     "Gear and Items"
   ]
 }

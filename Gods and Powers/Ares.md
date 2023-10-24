@@ -1,4 +1,4 @@
-![[_d3cba9c5-8b56-4cf5-a18f-68b2e0aa8c32.jpg | 300]]
+![[_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg | 300]]
 ***Description:***
 Ares is the god of war, bloodshed and massacres.
 Ares is a hot headed army of one, Matching even the power of Zeus in full-on combat.
