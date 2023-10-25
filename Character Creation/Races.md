@@ -15,7 +15,7 @@ and gain +1 to the Might stat.
 
 Charge an enemy with all your might.
 Move to an enemy in range, dealing your Might roll as [[Combat Mechanics#Blunt Damage |blunt]] damage.
-(Might 6 - you roll d6 damage, Might 11 you roll d10 damage)
+(Might 6 - you roll d6 damage, Might 11 you roll d10 damage).
 
 
 ------------------

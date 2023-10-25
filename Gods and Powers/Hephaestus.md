@@ -17,7 +17,7 @@ Or drown their enemies in fire and sword slashes.
 |       0        |      2       |   Instant   |   3 CT   |   -   | 
 
 Your skin becomes molten iron.
-For the duration, you are immune to fire, and gain +1 to all block rolls.
+For the duration, you are immune to fire, and gain +1 armor rating
 This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 
 ---------------

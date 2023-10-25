@@ -10,7 +10,7 @@
 [[Shields and Armor#Armor|Linothorax]], [[Shields and Armor#Pilos|Pilos]], [[Shields and Armor#Peltast|Peltast]], [[Weapons#Xiphos|Xiphos]],/[[Weapons#Dory|Dory]]/[[Weapons#Syfri|Syfri]], [[Weapons#Akinakes|Akinakes]] x5
 
 #### Muse Kit:
-[[Shields and Armor#Armor|Linothorax]], [[Weapons#Lyre|Lyre]], [[Weapons#Akinakes|Akinakes]], [[Weapons#Toxo|Toxo]], Arrows x10
+[[Shields and Armor#Armor|Linothorax]], [[Weapons#Lyre|Lyre]], [[Weapons#Akinakes|Akinakes]], [[Weapons#Toxo|Toxo]], Arrows x10, [[Quivers#Muse's Quiver|Muse's Quiver]]
 
 #### Assassin Kit
-[[Weapons#Aspída Sfentónas|Aspidas Sfentonas]], [[Weapons#Toxo|Toxo]], [[Weapons#Xiphos|Xiphos]], [[Weapons#Akinakes|Akinakes]] x10 Arrows x5
+[[Weapons#Aspída Sfentónas|Aspidas Sfentonas]], [[Weapons#Toxo|Toxo]], [[Weapons#Xiphos|Xiphos]], [[Weapons#Akinakes|Akinakes]] x10 Arrows x5 [[Quivers#Assassins Quiver|Assassin's Quiver]]

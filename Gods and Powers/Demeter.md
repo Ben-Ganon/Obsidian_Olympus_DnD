@@ -1,4 +1,4 @@
-![[beng97_Portrait_of_a_woman_with_brown_hair_and_icy_blue_eyes_sh_01ef87bf-03fc-4cc5-8c3e-7f7fbecce011.png |300]]
+![[beng97_Portrait_of_a_woman_with_brown_hair_and_icy_blue_eyes_sh_01ef87bf-03fc-4cc5-8c3e-7f7fbecce011 1.png|300]]
 ***Description:***
 Demeter is the goddess of agriculture and harvest.
 Usually kind and forgiving, Demeter is the easing and homely presence on Olympus. 

@@ -12,6 +12,7 @@ Aphelios --> Nyx
  Aphelios has three lieutenants in the cult:
  
 Selene, daughter of Artemis.
+![[WhatsApp Image 2023-10-25 at 12.46.04.jpeg|400]]
 She was born defying the sacred oath of Artemis to eternal virginity, so Artemis forced her father, a noble hunter from Crete, to abandon her in the forest to hide her shame.
 Her father later snuck back in secret to retrieve her, and passed her on to be raised in secret by some farmers.
 He told them the story, and they in turn told her. In time, Selene grew bitter and angry at Artemis for forcing her father to abandon her.

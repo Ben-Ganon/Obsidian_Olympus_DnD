@@ -1,3 +1,4 @@
+![[WhatsApp Image 2023-10-25 at 10.38.59.jpeg |400]]
 Lysander Hasapis is a General on the Council of Athens, and high ranking Cult of the Bull member.
 Demigod - Son of Dionysos.
 Growing up with an absent father was rough enough in Athens, but growing up with a drunkard mother was even harder. 
