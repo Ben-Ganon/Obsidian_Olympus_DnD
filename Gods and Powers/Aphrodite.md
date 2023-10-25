@@ -1,4 +1,5 @@
 ![[_7707d6d9-b19f-4649-8f3f-22e30d690a6e.jpg | 300]]
+
 ***Description:***
 Aphrodite is the goddess of love, lust, passion and beauty.
 Aphrodite is as beautiful as she is deadly -
@@ -28,7 +29,7 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       1        |      3       |   1 CT    |   2 CT   | 5 Meters | 
+|       1        |      3       |   1 CT    |   2 CT   | 4 Meters | 
 
 Siphon the life energy of the target from afar.
 Deal <mark style="background: #930000A6;">1d6</mark> magic damage to the target.
@@ -40,7 +41,7 @@ On failure, the target suffers from extreme fatigue, getting -1 on all rolls unt
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       3        |      1       |   1 CT    |   2 CT   | 5 Meters | 
+|       3        |      1       |   1 CT    |   2 CT   | 4 Meters | 
 
 Charm a target into submission.
 Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark>.
@@ -85,7 +86,7 @@ Each enemy slain with these claws restores <mark style="background: #045B00A6;">
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   1 CT    |   3 CT   | 40 Meters | 
+|       7        |      1       |   1 CT    |   3 CT   | 14 Meters | 
 
 You cause surrounding creatures to fight over you.
 Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
@@ -98,6 +99,7 @@ If they fail, they attack the nearest creature to them for the duration
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       7        |      2       |   1 CT    |    3 CT     | 1 Meter | 
+
 Touch the target, draining their life force.
 The target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
 On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
@@ -110,6 +112,7 @@ Afterwards the target is stunned for the duration
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       9       |      1       |   1 CT    |   5 CT   | 1 Meter | 
+
 You merge with Aphrodite, goddess of passion.
 For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #004A4CA6;">Agility</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.

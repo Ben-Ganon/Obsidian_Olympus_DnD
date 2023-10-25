@@ -1,15 +1,16 @@
-|     Name      | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirement |
-|:-------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:-----------------:|
-|   Akinakes    | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |         -         |
-|    Xiphos     | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |         -         |
-|     Kopis     | Long Sword              |       1d8       |       1d4       |            -             |         -         |         6         |
-|     Dory      | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |         -         |
-|    Labrys     | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |         6         |
-|     Toxo      | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |         -         |
-| Syntheto Toxo | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |         -         |
-|     Sfyri     | Hammer                  |       1d6       |        -        |            -             |        1d4        |         6         |
-|    Sagaris    | War Hammer              |      1d10       |        -        |            -             |         -         |         8         |
-|     Lyre      | Instrument              |       1d4       |        -        |         6 Meters         |         -         |         -         |
+|       Name       | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirement |
+|:----------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:-----------------:|
+|     Akinakes     | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |         -         |
+|      Xiphos      | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |         -         |
+|      Kopis       | Long Sword              |       1d8       |       1d4       |            -             |         -         |         6         |
+|       Dory       | Spear                   |     2d4/1d6     |       1d4       |         6 Meters         |         -         |         -         |
+|      Labrys      | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |         6         |
+|       Toxo       | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |         -         |
+|  Syntheto Toxo   | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |         -         |
+|      Sfyri       | Hammer                  |       1d6       |        -        |            -             |        1d4        |         6         |
+|     Sagaris      | War Hammer              |      1d10       |        -        |            -             |         -         |         8         |
+|       Lyre       | Instrument              |       1d4       |        -        |         6 Meters         |         -         |         -         |
+| Aspída Sfentónas | Sling Shield            |       1d4       |       1d4       |         6 Meters         |        1d4        |         -         | 
 
 #### Weapons Damage Types
 Knives, Swords, and Axes do Melee [[Combat Mechanics#Piercing Damage |piercing damage]].
@@ -66,3 +67,10 @@ The Sfyri is a regular, one handed hammer, but can do incredible damage in stron
 ![[Indo-Persian_war_hammer.jpg | 100]]
 The Sagaris is a war hammer, capable of dealing great damage while completely ignoring armor. Because of it's weight requires dual wielding.
 Does blunt damage
+
+#### Lyre
+
+
+#### Aspída Sfentónas
+Sling Shield, both a defensive shield and a sling in the same item.
+You can use it to shoot arrows at enemies and block attacks (though not very well)
