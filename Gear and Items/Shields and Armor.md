@@ -1,4 +1,4 @@
-#### Shields
+### Shields
 
 | Name          | Type                   | Defensive Value | Might Requirement |
 | ------------- | ---------------------- |:---------------:|:-----------------:|
@@ -6,7 +6,7 @@
 | Aspís         | Bronze Circle Shield   |       1d6       |         6         |
 | Aspída Pórtas | Bronze Door Shield     |       1d8       |        11         | 
 
-Armor
+### Armor
 
 | Name              | Type                 | Damage Reduction | Might requirement |
 | ----------------- | -------------------- |:----------------:|:-----------------:|

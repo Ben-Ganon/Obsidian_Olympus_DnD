@@ -1,4 +1,4 @@
-![[_753eef88-29fd-4567-897c-d4112cecba0a.jpg]]
+![[_753eef88-29fd-4567-897c-d4112cecba0a.jpg | 300]] 
 ***Description:***
 Athena is the goddess of wisdom and strategy.
 As her domain implies, Athena is extremely sharp and tends to think things through.
