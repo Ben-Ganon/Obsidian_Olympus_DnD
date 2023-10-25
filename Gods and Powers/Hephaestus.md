@@ -142,7 +142,7 @@ If you are not immune to fire, roll 1d4 - On a 1 or 2, take <mark style="backgro
 
 Merge with Hephaestus, god of forges.
 Your skin becomes Celestial Bronze, 
-Gain <mark style="background: #045B00A6;">+20 Hp</mark>, and immunity to fire.
+Gain <mark style="background: #045B00A6;">+20 Hp</mark>, +3 magical armor rating, +3 armor rating, and immunity to fire.
 In the duration, you can only be harmed by [[Metal Types#Celestial Bronze| Celestial Bronze]].
 Enemies in your range feel the heat of the forge, taking <mark style="background: #930000A6;">1d4</mark> damage each CT for the duration.
 This stacks with fire storm and fire breath, and upgrades their range by <mark style="background: #000B67A6;">2 Meters</mark>.

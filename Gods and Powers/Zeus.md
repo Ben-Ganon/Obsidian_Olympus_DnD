@@ -13,7 +13,17 @@ Dealing massive damage to multiple and single targets but still good at close-ra
 Recommended for new players
 
 ***Boons***:
+<b><ins><i>Fly!:</i></ins></b>
 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       0        |      3       |   Instant    |   3 CT   |   -   | 
+
+Roll <mark style="background: #000B67A6;">Might</mark>.
+You can fly up to that many meters in the air for the duration.
+If you succeeded the might roll (4 and above), you can drag an adjacent (<mark style="background: #000B67A6;">2 Meter radius</mark>) medium/small enemy into the air with you.
+
+------------
 <b><ins><i>Smite!:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
@@ -58,16 +68,6 @@ If you cast this while ***Flying***, targets take <mark style="background: #9300
 Summon an [[Anemoi]], a wind spirit in the shape of a horse, to aide you in battle.
 If you cast this while ***Flying***, the Anemoi can also fly with you
 
-------------------
-<b><ins><i>Fly!:</i></ins></b>
-
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       4        |      3       |   Instant    |   3 CT   |   -   | 
-
-Roll <mark style="background: #000B67A6;">Might</mark>.
-You can fly up to that many meters in the air for the duration.
-If you succeeded the might roll (4 and above), you can drag an adjacent (<mark style="background: #000B67A6;">2 Meter radius</mark>) medium/small enemy into the air with you.
 
 ------------------
 <b><ins><i>Gust:</i></ins></b>

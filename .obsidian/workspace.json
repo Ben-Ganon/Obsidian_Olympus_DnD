@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e3324fab24c51fed",
+        "id": "e097ee9c44511e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "4ede98e8d29d12c9",
+            "id": "b5cbbf5212fad2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/Characters/Gregor Othonos.md",
+                "file": "Gods and Powers/Apollo.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d0432c54d8a10b4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Characters/Gregor Othonos.md",
+                "file": "Gods and Powers/Apollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Characters/Gregor Othonos.md",
+                "file": "Gods and Powers/Apollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Characters/Gregor Othonos.md"
+                "file": "Gods and Powers/Apollo.md"
               }
             }
           },
@@ -174,51 +166,51 @@
   },
   "active": "b37d173fb8e13678",
   "lastOpenFiles": [
-    "Lore - do not read!/Characters/The Cult of the Bull.md",
-    "WhatsApp Image 2023-10-25 at 12.46.04.jpeg",
-    "Lore - do not read!/Characters/Hector Pantazis.md",
-    "WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
-    "Lore - do not read!/Characters/Gregor Othonos.md",
-    "Lore - do not read!/Characters/Lysander Hasapis.md",
-    "Lore - do not read!/Characters/Penelope Diakos.md",
-    "WhatsApp Image 2023-10-25 at 10.38.59(2).jpeg",
-    "WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
-    "Gods and Powers/Hermes.md",
-    "Images/beng97_Portrait_of_a_woman_with_brown_hair_and_icy_blue_eyes_sh_01ef87bf-03fc-4cc5-8c3e-7f7fbecce011 1.png",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Apollo.md",
+    "Images/Hermes.png",
     "Gods and Powers/Aphrodite.md",
-    "Gods and Powers/Ares.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Shields and Armor.md",
+    "Character Creation/Starter Kits.md",
+    "Character Creation/Races.md",
+    "Character Creation/Character Creation Guide.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Mechanics/Combat Mechanics.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Demeter.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gear and Items/The Black Key.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Quivers.md",
-    "Gear and Items/Weapons.md",
-    "Character Creation/Character Creation Guide.md",
-    "Info and Values/Character Sheet.pdf",
-    "Images/Black Key Bit.jpeg",
-    "Images/Black Key Spine.jpeg",
-    "Images/Black Key Top.jpeg",
-    "Images/WhatsApp Image 2023-10-25 at 11.17.38.jpeg",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Races.md",
-    "Character Creation/Starter Kits.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Hermes.md",
+    "Mechanics/Level Up Chart.md",
+    "Mechanics/Dice mechanics.md",
+    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Lore - do not read!/Characters/Gregor Othonos.md",
+    "Images/Mongol_bow.webp",
+    "Images/Mount Boar.pdf",
+    "Images/Mount Buzzard.pdf",
+    "Images/Mount Sheet.pdf",
+    "Images/Mount Sheet Fillable.pdf",
     "Images/Owl Sentry.pdf",
+    "Images/Peltaste.jpg",
+    "Images/Photo+Nov+30,+6+11+57+PM.jpg",
+    "Images/WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
+    "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
+    "Images/WhatsApp Image 2023-10-25 at 11.17.38.jpeg",
+    "Images/Xiphos-Title.webp",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "WhatsApp Image 2023-10-25 at 12.46.04.jpeg",
+    "WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "WhatsApp Image 2023-10-25 at 10.38.59(2).jpeg",
+    "Info and Values/Character Sheet.pdf",
     "Images/Hercules.pdf",
     "Images/Achilles.pdf",
-    "Images/WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
     "Character Creation",
-    "Images/Character Creation.pdf",
-    "Images/Zagreus.pdf",
-    "Images/Hector.pdf",
-    "Lore/Untitled",
-    "Lore - do not read!/Characters"
+    "Images/Character Creation.pdf"
   ]
 }

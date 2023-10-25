@@ -13,25 +13,26 @@ A force to be reckoned with, Poseidon grants extraordinary boons both in combat 
 |:--------------:|:------------:|:---------:|:--------:| :--:|
 |       1        |      1       |  <mark style="background: #620075A6;"> 1 CT</mark>    |   <mark style="background: #620075A6;">5 CT</mark>   | - |
 
-Summon a huge wave to lift you up. +15 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead.
+Summon a huge wave to lift you up. +10 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility.
+You Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead.
 
 ------------------
 <b><ins><i>Control Water:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:| :---: |
-|       1        |      2       |   <mark style="background: #620075A6;">1 CT</mark>    |   <mark style="background: #620075A6;">3 CT</mark>   | <mark style="background: #000B67A6;">50-Meters</mark> |
+|       1        |      2       |   <mark style="background: #620075A6;">1 CT</mark>    |   <mark style="background: #620075A6;">3 CT</mark>   | <mark style="background: #000B67A6;">8-Meters</mark> |
 
 You can move and control nearby water.
 Pick between one of the following effects:
 <b><ins><i>Flood:</i></ins></b>
-Raise the level of a nearby Body of water by <mark style="background: #000B67A6;">1d4</mark> * 10 Meters
+Raise the level of a nearby Body of water by <mark style="background: #000B67A6;">1d4</mark> * 2 Meters
 <b><ins><i>Redirect Flow:</i></ins></b>
 You cause flowing water in the area to move in a direction you choose.
 <b><ins><i>Vortex:</i></ins></b>
 This effect requires a large body of water.
-Create a vortex in the body of water, <mark style="background: #000B67A6;">50 Meters</mark> across and <mark style="background: #000B67A6;">10 Meters</mark> deep.
-Creatures in the area are pulled towards the vortex and must make a <mark style="background: #3800D7A6;">Might</mark> saving throw to swim out
+Create a vortex in the body of water, <mark style="background: #000B67A6;">8 Meters</mark> across and <mark style="background: #000B67A6;">10 Meters</mark> deep.
+Creatures in the area are pulled towards the vortex and must make a <mark style="background: #3800D7A6;">Might</mark> saving throw to swim out.
 
 ------------------
 <b><ins><i>Geiser:</i></ins></b>

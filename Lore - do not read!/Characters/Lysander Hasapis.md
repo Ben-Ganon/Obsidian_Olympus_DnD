@@ -1,8 +1,8 @@
 ![[WhatsApp Image 2023-10-25 at 10.38.59.jpeg |400]]
 Lysander Hasapis is a General on the Council of Athens, and high ranking Cult of the Bull member.
-Demigod - Son of Dionysos.
+Demigod - Son of [[Dionysos]].
 Growing up with an absent father was rough enough in Athens, but growing up with a drunkard mother was even harder. 
-Lysanders mother, Agatha, did not take Dionysos departure lightly, and has lost herself in alcohol and misery.
+Lysanders mother, Agatha, did not take Dionysos' departure lightly, and has lost herself in alcohol and misery.
 Lysander absorbed the brunt of the damage, having to scrape by to take care of his slowly wilting mother while she abused him, his face forever reminding her of a long lost lover.
 He found he was extremely good at socializing and connecting with Athens' elite - something about the way he partied and always had a glass of wine full for them made the generals and judges spill all their secrets to him.
 This granted him immense power, and eventually led to him acquiring many jobs as a high ranking Bureaucrat.

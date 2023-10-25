@@ -25,3 +25,13 @@ Combined rolls are used when the action you are performing does not match exactl
 For example, climbing a wall quickly takes both Might and Agility.
 To do a combined roll, make a check with both stats, then average the results.
 For example, if you try to scale a wall quickly with Might stat 6 and Agility stat 4, and you roll Might 5 and Agility 3, your final roll will be ${5 +3 \over 2} = 4$ (this roll succeeds) 
+
+#### Types of Common Combined Rolls:
+Deception - Intuition + Stealth
+Intimidation - Might + Intuition
+Investigation - Intuition + Dexterity
+Athletics - Might + Agility
+Acrobatics Agility + Dexterity
+Sleight of Hand - Dexterity + Stealth
+Persuasion - Intuition + Willpower
+

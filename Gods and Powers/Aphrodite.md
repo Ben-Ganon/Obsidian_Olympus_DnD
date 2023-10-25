@@ -67,7 +67,7 @@ Any damage dealt by the blade heals you for the same amount
 |       5        |      1       |   1 CT    |   2 CT   | 20 Meters | 
 
 Let out a siren call, making all creatures in the range infatuated with the sound.
-Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly towards you for the duration.
+Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly towards you for the duration.
 
 ------------------
 <b><ins><i>Succubus/Incubus:</i></ins></b>
@@ -89,7 +89,7 @@ Each enemy slain with these claws restores <mark style="background: #045B00A6;">
 |       7        |      1       |   1 CT    |   3 CT   | 14 Meters | 
 
 You cause surrounding creatures to fight over you.
-Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
+Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save.
 If they fail, they attack the nearest creature to them for the duration
 
 
@@ -101,7 +101,7 @@ If they fail, they attack the nearest creature to them for the duration
 |       7        |      2       |   1 CT    |    3 CT     | 1 Meter | 
 
 Touch the target, draining their life force.
-The target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
+The target must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save.
 On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
 On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
 Afterwards the target is stunned for the duration

@@ -98,8 +98,9 @@ Magic damage is caused by boons and other spells, and cannot crit or be blocked 
 #### Reaction
 Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
 
-#### Test
-##### undertest
+#### Fall Damage
+When a character falls, they take 1 damage for each 2 Meters they fall.
+
 #### ~~Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.
 	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.
