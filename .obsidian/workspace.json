@@ -11,9 +11,11 @@
             "id": "b5cbbf5212fad2e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Ares.png"
+                "file": "Lore - do not read!/Athens Encounter.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Ares.png",
+                "file": "Lore - do not read!/Athens Encounter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Ares.png",
+                "file": "Lore - do not read!/Athens Encounter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Ares.png"
+                "file": "Lore - do not read!/Athens Encounter.md"
               }
             }
           },
@@ -164,8 +166,8 @@
   },
   "active": "b5cbbf5212fad2e2",
   "lastOpenFiles": [
-    "Olympian Family Tree.pdf",
     "Images/Ares.png",
+    "Olympian Family Tree.pdf",
     "Lore - do not read!/Characters/Gregor Othonos.md",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Lore - do not read!/Characters/Hector Pantazis.md",
