@@ -1,6 +1,8 @@
 ---
 title: Welcome to Olympus!
 ---
+![[beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_bd1b093f-3a71-4ac2-8262-fe2c9798def4.png | 800]]
+
 This is a homebrew DnD Campaign made by Ben Ganon.
 
 If Your're looking for the Character Creation guide, check it out [[Character Creation Guide|here]].
