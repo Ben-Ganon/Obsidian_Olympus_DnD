@@ -1,8 +1,8 @@
-![[_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg | 300]]
+![[Ares.png | 300]]
 ***Description:***
 Ares is the god of war, bloodshed and massacres.
-Ares is a hot headed army of one, Matching even the power of Zeus in full-on combat.
-Don't be fooled by his combat prowess - Ares is easily fooled, and even more easily provoked to fight stupid wars.
+Ares is a hot headed army of one, matching even the power of Zeus  one-on-one combat.
+Don't be fooled by his combat prowess - Ares is not the brightest on Olympus, and is easily provoked to fight stupid, ego driven fights.
 
 Children of Ares play as either front line tanks that absorb damage for their party, or rage-filled barbarians dealing massive damage to enemies, sometimes at the cost of their teammates Hp.
 
@@ -67,11 +67,11 @@ Additionally, any enemy damaged in the duration grants you <mark style="backgrou
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       5        |      1       |  Instant  |   5 CT   | 4 Meters | 
+|       5        |      1       |  Instant  |   3 CT   | 4 Meters | 
 
 Gain valor of the strongest warriors.
-For the duration, your you gain <mark style="background: #930000A6;">+2</mark> to all block rolls,
-Additionally, gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for every enemy the radius
+For the duration, your you gain <mark style="background: #930000A6;">+2</mark> to all block rolls and +2 Armor Rating,
+Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for every enemy the radius when you cast.
 
 ------------------
 <b><ins><i>Terrify:</i></ins></b>

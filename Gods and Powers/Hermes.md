@@ -1,4 +1,4 @@
-![[Hermes.png|300]]
+![[beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png | 300]]
 ***Description:***
 Hermes is the god of travel and travelers, merchants, doctors, thieves and a psychopomp - a guide of souls into the afterlife.
 

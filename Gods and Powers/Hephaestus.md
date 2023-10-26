@@ -1,8 +1,11 @@
 ![[Hephaestus.png |300]]
 ***Description:***
 Hephaestus is the god of the forge, fire, blacksmithing, stonemasonry and other crafts.
-Hephaestus is described as incredibly ugly, and can mostly be found diligently working his forge on mount Olympus.
+Hephaestus is described as incredibly ugly, but smart and very competent at his various crafts.
+He can usually be found diligently working his forge on mount Olympus.
 He is extremely interested in the events that happen on Olympus, especially those that include his wife Aphrodite.
+Hephaestus has made himself very useful to many gods, and so is extremely popular among the Olympians.
+His raw power in combat might not be equal to Zeus or Ares, but he can certainly hold his own.
 
 Children of Hephaestus play as masters of fire and arms, especially armor.
 They can help their party equip massively powerful artifacts that grant, for a short time, the power of Hephaestus,

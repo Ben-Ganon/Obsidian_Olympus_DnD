@@ -2,12 +2,12 @@
 ***Description:***
 Hades is the god of the dead and king of the underworld.
 Bitter, angry from his lot in eternal life, Hades sulks in the underworld, away from his godly family. 
-Don't be fooled by his childish behavior, behind the sulky anger lies true power over the underworld and all the realms within. 
+Don't be fooled by his childish behavior, behind the sulky anger lies true power and dominion over the underworld and all the realms within. 
 
-Children of hades play in 1 of two ways:
-- Warlock who summons a small army of minions to do his bidding, defending and fighting for the party. Not recommended for  beginners!
+Children of hades play in 1 of two roles:
+- Warlock who summons a small army of minions to do his bidding, defending and fighting for the party. Not recommended for beginners!
 
-- Assassin who uses the shadows to sneak up on and incapacitate targets.
+- Assassin who uses the shadows to sneak up on and remove targets.
 
 ***Boons***:
 

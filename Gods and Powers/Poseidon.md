@@ -1,9 +1,14 @@
 ![[Poseidon.png|300]]
 ***Description:***
-Poseidon, God of the oceans and brother to Zeus and Hades, is his more relaxed, but nonetheless powerful parallel on Olympus.
+Poseidon, God of the oceans and brother to Zeus and Hades, is their more relaxed, but nonetheless powerful parallel on Olympus.
 Poseidon rules the oceans, the tides and all creatures within.
-While Poseidon is not as temperamental as his brothers, the ocean can still be calm and flat as black mirrors in the night, or crush ships in it's rage.
-A force to be reckoned with, Poseidon grants extraordinary boons both in combat and utility
+
+While Poseidon is not as temperamental as his brothers, the ocean can be calm and flat as black mirrors in the night, or crush ships in it's rage.
+A force to be reckoned with, Poseidon grants extraordinary boons both in combat and utility.
+
+Children of Poseidon play 1 of two roles:
+ - Water bender, able to manipulate water to control enemies and shift the battlefield in their favor
+ - Battle-Mage, using the water around them or water they summon to deal massive damage to multiple enemies.
 
 ***Boons***:
 
