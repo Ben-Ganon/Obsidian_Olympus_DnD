@@ -1,19 +1,27 @@
 The Heroes are gathered in Athens for the summer solstice.
 The weather is foggy, grey clouds smothering the sun, bitter cold biting into all.
 The Athenians, wondering what could have stopped summer from coming, hold the festivities at the temple of Athena anyway.
-Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Temple of Athena and are looking out for Heroes on quests to aid the Olympians.
-Player_A, which is in a stall in the market, is checking out the poor, shriveled produce from the fields.
-Player_A had received a mysterious papyrus containing an invitation to the summer solstice in Athens. 
-It wasn't signed by any of the temples, and it had an odd glow to it, so Player_A decided the best course of action would be to follow the instructions and show up.
-Likewise, the rest of the party received similar scrolls and decided to show up to the solstice to check things out.
-The party meet in a vegetable stall, notice each others mildly glowing scrolls.
 
-Suddenly, Player_A notices their purse of coins is no longer on them.
-They look up, and see a thief run away with it.
-before they give chase, they see Hector hunting him down and absolutely going to town on him.
+Athens, even while shrouded in dark clouds and frost, still glimmers white and gold.
+The massive stone temples strewn about the city and the acropolis almost seem to glow even if no light is shining on them.
+In the streets, the citizens of Athens are a varied bunch: 
+Vendors yell in the market stalls to sell produce, jewelry and other art.
+In the docks, sailors are loading massive triremes with boxes of supplies and hoisting sails and oars.
+Teachers and small classes sit outside, studying various sciences and philosophy.
+In the slave district, chained slaves walk in long lines towards giant auction houses. 
 
-[Intuition] They see he takes a small, eye-ish looking object from the thieves robes, and run into an alleyway.
+On the day of the Solstice, a massive festival is underway.
+On the streets, plays can be seen with large crowds attending. 
+Stalls of food and drink are plenty, and the citizens partake with great gusto.
+In the temples, prayers are being chanted to the gods, and many animals sacrificed.
+The ruling class host extravagant parties, and even some common citizens are invited to join the merriment.
+The cold does not stop the way of life here, but everyone can feel the weight of worry smothering the excitement.
+There is worry winter will simply never leave, and with only a year's worth of food stored, this may be an inconvenient year, to say the least.
+Even so, all of Athens is partaking in the events, hoping their sacrifices and joy echo to the heavens.
 
-Player_A and Player_B Chase (?) Hector through the streets, but lose him quickly.
+Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Council, and are looking out for Heroes on quests to aid the Olympians.
 
-Hermes, on a quest from Zeus, appears before Athens and declares a quest is underway to aid Olympus.
+#### Amara
+Amara, daughter of Aphrodite and a gorgon, is talking to a vendor near the slave quarters, trying to bargain for a better price for various pieces of jewelry. 
+The seller, a slave trader doubling as a seller in his booth, abuses a slave to go get the pretty lady something from the back.
+
