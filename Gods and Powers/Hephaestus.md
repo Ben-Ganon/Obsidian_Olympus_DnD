@@ -1,4 +1,4 @@
-![[beng97_Greek_god_Hephaestus_forging_bronze_sword_on_anvil_muscu_db3af030-b44b-46d8-852d-ae882b6ebaad.png | 300]]
+![[Hephaestus.png |300]]
 ***Description:***
 Hephaestus is the god of the forge, fire, blacksmithing, stonemasonry and other crafts.
 Hephaestus is described as incredibly ugly, and can mostly be found diligently working his forge on mount Olympus.

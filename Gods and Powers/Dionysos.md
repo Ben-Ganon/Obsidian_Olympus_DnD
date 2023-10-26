@@ -1,4 +1,4 @@
-![[beng97_Cartoonish_Digital_Art_of_Greek_god_Dionysos_purple_eyes_be2f6c62-cd97-440f-ba38-d29c56381d2b.png | 300]]
+![[Dionysus.png | 300]]
 ***Description:***
 Dionysos is the god of wine, parties, and pure madness.
 Dionysos is the youngest of the Olympian Gods, but make no mistake- there is an ancient madness in his eyes, and his constant drinking does not help.

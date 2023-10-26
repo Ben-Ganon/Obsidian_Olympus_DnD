@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Apollo.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Apollo.md",
+                "file": "Gods and Powers/Zeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Apollo.md",
+                "file": "Gods and Powers/Zeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Apollo.md"
+                "file": "Gods and Powers/Zeus.md"
               }
             }
           },
@@ -164,10 +164,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b37d173fb8e13678",
+  "active": "b5cbbf5212fad2e2",
   "lastOpenFiles": [
-    "Images/Hermes.png",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
+    "Images/Demeter_winter.png",
+    "Images/Dionysus.png",
+    "Images/Hades.png",
+    "Images/Poseidon.png",
+    "Images/Zeus.png",
+    "Images/Hephaestus.png",
+    "Images/Hermes.png",
     "Gear and Items/The Black Key.md",
     "Gear and Items/Shields and Armor.md",
     "Character Creation/Starter Kits.md",
@@ -175,16 +192,8 @@
     "Character Creation/Character Creation Guide.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Playable Patrons.md",
     "Gods and Powers/Janus.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
     "Mechanics/Combat Mechanics.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Hermes.md",
     "Mechanics/Level Up Chart.md",
     "Mechanics/Dice mechanics.md",
     "Lore - do not read!/Characters/Lysander Hasapis.md",
@@ -198,15 +207,6 @@
     "Images/Owl Sentry.pdf",
     "Images/Peltaste.jpg",
     "Images/Photo+Nov+30,+6+11+57+PM.jpg",
-    "Images/WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
-    "Images/WhatsApp Image 2023-10-21 at 15.51.15 (1).jpeg",
-    "Images/WhatsApp Image 2023-10-25 at 11.17.38.jpeg",
-    "Images/Xiphos-Title.webp",
-    "Lore - do not read!/Characters/The Cult of the Bull.md",
-    "WhatsApp Image 2023-10-25 at 12.46.04.jpeg",
-    "WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
-    "Lore - do not read!/Characters/Penelope Diakos.md",
-    "WhatsApp Image 2023-10-25 at 10.38.59(2).jpeg",
     "Info and Values/Character Sheet.pdf",
     "Images/Hercules.pdf",
     "Images/Achilles.pdf",

@@ -1,4 +1,4 @@
-![[beng97_Greek_god_Hermes_running_with_a_leather_bag_winged_sanda_baea431a-f327-4a8b-a0c8-19b4ef84e1ea.png | 300]]
+![[Hermes.png|300]]
 ***Description:***
 Hermes is the god of travel and travelers, merchants, doctors, thieves and a psychopomp - a guide of souls into the afterlife.
 
