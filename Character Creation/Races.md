@@ -2,6 +2,22 @@ Ancient Greece was filled with magical races.
 Greek gods often have children with the various races of creatures, and these creatures have unique properties and abilities.
 When Creating a character, choose a race:
 
+
+#### Human:
+The dominant race in ancient Greece. 
+Humans are highly creative, have superior willpower to accomplish their goals and are very charismatic, and have an easy time blending in to their surroundings.
+Heroes who are children of humans gain +1 to the Intuition stat.
+
+<b><ins><i>Eternal Willpower:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      1       |  Instant  |   1 CT     |   -   | 
+
+For this CT, gain +1 to any willpower roll.
+
+------------------
+
 #### Minotaur:
 Half bull and half man, these creatures are large and powerful, and gain a boon from Tauros, the bull god.
 Minotaur's children appear as large, muscle covered humanoids with small horns protruding from their heads,
