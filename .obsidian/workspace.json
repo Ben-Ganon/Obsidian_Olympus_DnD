@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Hermes.md"
+                "file": "Gods and Powers/Aphrodite.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "b5cbbf5212fad2e2",
   "lastOpenFiles": [
+    "Gods and Powers/Hermes.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Gods and Powers/Artemis.md",
     "Character Creation/Races.md",
@@ -185,7 +186,6 @@
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
-    "Gods and Powers/Hermes.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Ares.md",
