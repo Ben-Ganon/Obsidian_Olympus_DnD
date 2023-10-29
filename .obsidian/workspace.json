@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Ares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Ares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Ares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md"
+                "file": "Gods and Powers/Ares.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "b5cbbf5212fad2e2",
   "lastOpenFiles": [
+    "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
     "Mechanics/Combat Mechanics.md",
     "Mechanics/Dice mechanics.md",
@@ -185,7 +186,6 @@
     "Lore - do not read!/Characters/Penelope Diakos.md",
     "Lore - do not read!/Characters/Lysander Hasapis.md",
     "Gods and Powers/Olympian Family Tree.md",
-    "Gods and Powers/Apollo.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Janus.md",
     "Gods and Powers/Hades.md",
