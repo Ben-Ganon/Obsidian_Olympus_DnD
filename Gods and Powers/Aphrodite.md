@@ -17,12 +17,22 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      3       |  Instant   |   3 CT   | 10 Meters | 
+|       0        |      3       |  Instant   |   1 CT   | 10 Meters | 
 
-Change your appearance to look like the ideal beauty standard for humanoids within the range.
+Change your appearance to look like the ideal beauty standard for creatures within the range.
 This gives <mark style="background: #FFAD0085;">+1</mark> to to intuition rolls meant to ***Charm***, bluff or persuade.
 ***Shimmer*** can also be used on other humanoids to hide their [[Races |race]] or other physicals features.
 If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
+
+------------------
+<b><ins><i>Lust:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       1        |      2       |  Instant  |   1 CT   | 2 Meters | 
+
+Channel Eros, god of carnal love to confuse enemies around you.
+All enemies around you gain -1 to all attack rolls on you until your next turn.
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -64,7 +74,7 @@ Any damage dealt by the blade heals you for the same amount
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |   2 CT   | 20 Meters | 
+|       5        |      1       |   1 CT    |   1 CT   | 20 Meters | 
 
 Let out a siren call, making all creatures in the range infatuated with the sound.
 Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly towards you for the duration.
@@ -101,7 +111,7 @@ If they fail, they attack the nearest creature to them for the duration
 |       7        |      2       |   1 CT    |    3 CT     | 1 Meter | 
 
 Touch the target, draining their life force.
-The target must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save.
+Make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save against the target.
 On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
 On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
 Afterwards the target is stunned for the duration

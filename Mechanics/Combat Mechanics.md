@@ -11,7 +11,7 @@ You can only do one bonus action, one action, and one movement action per turn, 
 
 #### Weapons and Inventory
 You can switch weapons during combat.
-If the weapon was equipped (written on the character sheet figure) then this action costs 1 action (lasts 1 CT).
+If the weapon was equipped (written on the character sheet figure) but not in your hand, then this costs 1 action (lasts 1 CT).
 If the Weapon is in your inventory, it costs 2 CT (two turns) to swap them out.
 Likewise, retrieving any item not equipped to use in combat will cost 2 CT.
 A knife or axe that is equipped can be drawn as a bonus action and used instantly.
@@ -19,7 +19,7 @@ Weapons can be dual wielded, but only one can be used each turn.
 #### Movement
 Movement is tile-based according to your Movespeed.
 Movespeed is in Meters/Turn
-Your Movespeed is $3 \cdot Agility$.
+Your Movespeed is $2 \cdot Agility$.
 Every Turn, you can move up to your Movespeed meters, which on the board is 1 tile per 2 Movespeed.
 (For example, if you have 10 Movespeed you can move your character 5 tiles in a turn)
 
@@ -63,7 +63,9 @@ Until the target succeeds Might or you decide to end the grapple, the target rem
 Some Boons have offensive capabilities. 
 If a Boon says Instant cast time, you can use it as a bonus action at any point during your turn.
 If a Boon says it takes 1 CT to cast, then you must use your action on that turn to cast it. The Boon takes effect immediately after you finish casting it.
-If a boon has X CT cast time and Y CT Duration, then you cast it during your turn for X turns, and it lasts from the moment you finished casting until the end of the Y turn after the cast.
+If a boon is Instant, and you cast it at the beginning of your turn, then it starts applying this turn
+If the duration is 1 CT, then the effect applies until your next turn.
+If a boon has X CT cast time and Y CT Duration, then you cast it during your turn for X turns, and it lasts from the moment you finished casting until the end of the Y of your turns after the cast.
 For example 2 CT cast time and 3 CT Duration goes:
 | Cast | Cast | Effect | Effect | Effect | Regular Turn
 

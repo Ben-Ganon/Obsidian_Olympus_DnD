@@ -7,7 +7,7 @@ To create your character, do the following steps:
    [Link](https://www.canva.com/design/DAFxuW4K1IE/Hls7OlTbuuPU4dCBlH2EoA/edit?utm_content=DAFxuW4K1IE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
    
    Then Fill it out according to the following:
-	1. Movespeed - it is exactly 3 times your Agility
+	1. Movespeed - it is exactly 2 times your Agility
 	2. Hp Max - exactly 4 times your Might
 	3. Magical Armor rating - starts at 0
 	4. Level - 0
