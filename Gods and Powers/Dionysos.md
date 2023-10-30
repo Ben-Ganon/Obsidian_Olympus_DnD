@@ -13,20 +13,22 @@ Children of Dionysos can support the party and poison enemies, either with taint
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      2       |   1 CT    |   3 CT   | 2 Meters | 
+|       1        |      2       |   Instant   |   3 CT   | 2 Meters | 
 
 Bless a nearby liquid container in range to become either form of Sacred Booze.
 Can be either - 
 - Sacred Wine - Heal for <mark style="background: #00A521A6;">1d6</mark>
 - Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] when in contact with a creature. 
-This booze evaporates after the duration
+This booze evaporates after the duration.
+This container can be thrown up to Might + 2 Meters away from you, to explode and effect all creatures in a 2 Meter radius around the impact point.
+
 ------------------
 
 <b><ins><i>Drunken Idiot:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      1       |   1 CT    |   3 CT   | 10 Meters | 
+|       1        |      1       |   Instant   |   3 CT   | 10 Meters | 
 
 Cause a target in range to become drunk for the duration.
 Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls for that CT
@@ -36,7 +38,7 @@ Each CT, target must make an Intuition saving roll or stumble, causing them rece
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   1 CT    |   3 CT   | 8 Meters | 
+|       3        |      1       |   Instant    |   3 CT   | 8 Meters | 
 
 Inflict a target in range with visions of absolute terror for the duration.
 Each turn, the target must make an <mark style="background:  #FFAD0085;">Intuition</mark> saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d4</mark> damage to a nearby target.

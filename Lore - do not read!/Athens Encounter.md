@@ -83,3 +83,5 @@ In an odd turn of events, Penelope agrees, and this makes her extremely suspicio
 The priestess rolls out the sacred bull to be sacrificed, and the heroes roll [Initiative] to try to figure out what is up.
 
 Start encounter.
+
+[[Athens Guards.pdf]]

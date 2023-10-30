@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/God Bonus Stat Chart.md",
+                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/God Bonus Stat Chart.md",
+                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/God Bonus Stat Chart.md",
+                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/God Bonus Stat Chart.md"
+                "file": "Lore - do not read!/The Prophecy from the Oracle.md"
               }
             }
           },
@@ -178,14 +178,25 @@
   },
   "active": "0ea31ac17838fe6a",
   "lastOpenFiles": [
-    "Character Creation/Character Creation Guide.md",
-    "Character Creation/God Bonus Stat Chart.md",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "Lore - do not read!/Welcome.md",
+    "Lore - do not read!/Types of Creatures.md",
+    "Lore - do not read!/The Prophecy from the Oracle.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Images/Athens Guards.pdf",
     "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "Images/Lysander.pdf",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
     "Gear and Items/Weapons.md",
     "Gear and Items/Shields and Armor.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Character Creation/Character Creation Guide.md",
     "Character Creation/Starter Kits.md",
     "Info and Values/Character Sheet.pdf",
-    "Lore - do not read!/Athens Encounter.md",
     "Lore - do not read!/The Plot.md",
     "Lore - do not read!/Fake Prophecy.md",
     "Character Creation/Races.md",
@@ -196,15 +207,6 @@
     "Mechanics/Dice mechanics.md",
     "Mechanics/Combat Mechanics.md",
     "Gods and Powers/Olympian Family Tree.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Aphrodite.md",
-    "Mechanics/Afflictions.md",
-    "Gods and Powers/Zeus.md",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",
@@ -212,8 +214,6 @@
     "Images/Mount Savra.pdf",
     "Images/Mount Sheet.pdf",
     "Images/Mount Sheet Fillable.pdf",
-    "Images/Creature Cerberus.pdf",
-    "Images/Creature Hellhound 1.pdf",
     "Images/Ares.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/Hades 1.png",

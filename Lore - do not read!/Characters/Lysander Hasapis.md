@@ -16,3 +16,5 @@ He plans to drive a wedge between Athena and her priestesses at the Parthenos.
 At the Summer Solstice, there are many animal sacrifices to the gods.
 However, Lysander knew well that the gods despised human sacrifices.
 A shame if someone were to blackmail a child of Aphrodite on the council to use her Shimmer to disguise a small girl as a bull, and then drag the child to the temple to have her sacrificed to Athena...
+
+[[Lysander.pdf]] 
