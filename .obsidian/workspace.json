@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summonable Entities/Zagreus.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summonable Entities/Zagreus.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summonable Entities/Zagreus.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summonable Entities/Zagreus.md"
+                "file": "index.md"
               }
             }
           },
@@ -164,8 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34c628dd36940f3b",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
+    "README.md",
+    "Summonable Entities/Zagreus.md",
+    "Images/Zagreus.pdf",
+    "Images/Zagreus.pdf",
+    "Mechanics/Dice mechanics.md",
     "Summonable Entities/Wolf.md",
     "Summonable Entities/Savra.md",
     "Summonable Entities/Owl Sentry.md",
@@ -176,7 +181,6 @@
     "Summonable Entities/Anemoi.md",
     "Summonable Entities/Boar.md",
     "Summonable Entities/Cerberus.md",
-    "Mechanics/Dice mechanics.md",
     "Images/Mount Savra 1.pdf",
     "Images/Mount Cerberus.pdf",
     "Images/Mount Savra.pdf",
@@ -185,8 +189,6 @@
     "Images/Creature Cerberus.pdf",
     "Images/Creature Hellhound 1.pdf",
     "Images/Creature Buzzard.pdf",
-    "Images/Creature Owl.pdf",
-    "Images/Mount Boar 1.pdf",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
@@ -202,8 +204,6 @@
     "Lore - do not read!/Characters/Gregor Othonos.md",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Lore - do not read!/Characters/Hector Pantazis.md",
-    "Lore - do not read!/Welcome.md",
-    "Lore - do not read!/Characters/Penelope Diakos.md",
     "Images/Hades 1.png",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/Zeus.png",
