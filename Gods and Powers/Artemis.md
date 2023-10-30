@@ -28,8 +28,9 @@ The effect and the mark expire after the duration.
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       1        |      1       |   1 CT    |    -     | 40 Meters | 
 
-Fire an enchanted magic missile at a target that never misses.  
-Deals  <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]], and ***Marks*** the target
+Enchant an arrow to deal bonus damage.
+Your next projectile becomes an enchanted magic missile that never misses.  
+Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]], and ***Marks*** the target
 (Uses ammunition)
 
 ------------------
@@ -52,7 +53,7 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an Agility saving roll (this volley cannot be blocked) or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
+These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/Projectile attack + bonus damage for each attack).
 If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> damage instead.
 (Uses ammunition)
 

@@ -64,7 +64,7 @@ Our Heroes start in Athens for the summer solstice, (which looks like winter sol
 Zeus sends Hermes to assemble them.
 The heroes must travel to the island of Crete and free Persephone, defeat Aphelios and save Greece!
 
-During this time, Persephone has been missing for 6 months, Selene has overtaken the Oracle 3-4 months ago and Nyx is on her way to open the gates in Naxos.
+During this time, Persephone has been missing for 6 months, Selene has overtaken the Oracle 3-4 months ago and Nyx is on her way to Minos in Tartarus.
 
 #### Phase 1: 
 The Heroes must make their way to Delphi to receive the Oracles quest and her blessing.

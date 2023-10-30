@@ -23,6 +23,7 @@ Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Co
 
 #### Amara
 Amara, daughter of Aphrodite and a gorgon, is talking to a vendor near the slave quarters, trying to bargain for a better price for various pieces of jewelry. 
+He tells her that she looks like his wife, who is missing - possibly defected or kidnapped by some cult she was obsessed with.
 The seller, Gregor Othonos, a slave trader doubling as a seller in his booth, abuses a slave to go get the pretty lady something from the back.
 
 #### Adamantios

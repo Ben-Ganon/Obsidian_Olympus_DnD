@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Mechanics/Metal Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Mechanics/Metal Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Mechanics/Metal Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Mechanics/Metal Types.md"
               }
             }
           },
@@ -164,8 +164,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b37d173fb8e13678",
+  "active": "34c628dd36940f3b",
   "lastOpenFiles": [
+    "Mechanics/Metal-Creature interactions.md",
+    "Lore - do not read!/Types of Creatures.md",
+    "Lore - do not read!/The Prophecy from the Oracle.md",
+    "Lore - do not read!/The Plot.md",
+    "Lore - do not read!/Fake Prophecy.md",
+    "Lore - do not read!/Athens Government.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Ares.md",
+    "index.md",
     "README.md",
     "Summonable Entities/Zagreus.md",
     "Images/Zagreus.pdf",
@@ -178,9 +194,6 @@
     "Summonable Entities/Hercules.md",
     "Summonable Entities/Hellhound.md",
     "Summonable Entities/Buzzard.md",
-    "Summonable Entities/Anemoi.md",
-    "Summonable Entities/Boar.md",
-    "Summonable Entities/Cerberus.md",
     "Images/Mount Savra 1.pdf",
     "Images/Mount Cerberus.pdf",
     "Images/Mount Savra.pdf",
@@ -189,21 +202,8 @@
     "Images/Creature Cerberus.pdf",
     "Images/Creature Hellhound 1.pdf",
     "Images/Creature Buzzard.pdf",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Aphrodite.md",
-    "Mechanics/Combat Mechanics.md",
-    "Character Creation/Character Creation Guide.md",
-    "Gods and Powers/Hermes.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Gods and Powers/Artemis.md",
-    "Character Creation/Races.md",
-    "Gear and Items/Weapons.md",
-    "Lore - do not read!/Athens Encounter.md",
     "Images/Ares.png",
-    "Lore - do not read!/Characters/Gregor Othonos.md",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
-    "Lore - do not read!/Characters/Hector Pantazis.md",
     "Images/Hades 1.png",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/Zeus.png",
