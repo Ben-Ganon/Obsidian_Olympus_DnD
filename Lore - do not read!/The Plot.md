@@ -66,7 +66,11 @@ The heroes must travel to the island of Crete and free Persephone, defeat Apheli
 
 During this time, Persephone has been missing for 6 months, Selene has overtaken the Oracle 3-4 months ago and Nyx is on her way to Minos in Tartarus.
 
-#### Phase 1: 
+
+#### Phase 1:
+Our heroes start their journey in the [[Athens Encounter]], receiving boons from Hermes and meeting Hector, Penelope and Lysander.
+
+#### Phase 2: 
 The Heroes must make their way to Delphi to receive the Oracles quest and her blessing.
 Unbeknownst to them the Cult of the Bull have poisoned the oracle, giving Tauros a peek into the future, while preventing the Olympians from seeing it.
 The Heroes must kill Aphelios second in command, Selena, who has been controlling the oracle for a few months now.

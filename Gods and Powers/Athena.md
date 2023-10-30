@@ -16,7 +16,7 @@ Children of Athena play a mixed role of fighter who stacks block bonuses to deal
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      1       |   1 CT    |   3 CT   |    40 Meters    |
 
-Conjure a sacred [[Owl Sentry.pdf|owl of Athena]], and send it fly to a position up to <mark style="background: #0900A7A6;">40 Meters</mark> away.
+Conjure a sacred [[Owl Sentry.pdf|Owl of Athena]], and send it fly to a position up to <mark style="background: #0900A7A6;">40 Meters</mark> away.
 This sentry can sense for you - you can hear and see what it does.
 Additionally, once per summon you can switch places with it instantly
 
@@ -25,10 +25,10 @@ Additionally, once per summon you can switch places with it instantly
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      1       |   1 CT    |   5 CT   | 10 Meters |
+|       1        |      1       |   1 CT    |   3 CT   | 10 Meters |
 
 Form a close formation with your nearby allies.
-All allies in the formation gain a bonus 1d4 to their block rolls and +1 to their armor rating.
+All allies in the range gain a bonus 1d4 to their block rolls and +2 to their armor rating for the duration.
 
 ------------------
 <b><ins><i>Flank:</i></ins></b>
@@ -37,7 +37,7 @@ All allies in the formation gain a bonus 1d4 to their block rolls and +1 to thei
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       3        |      3       |  Insant   |   1 CT   | 10 Meters | 
 
-Mark a target.
+Choose a target.
 If the target is flanked (two enemies or more in 180 or 90 degree separation), Your next attack on them in the duration receives bonus [[Combat Mechanics#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d8</mark>.
 Any other attack against them in the duration receives bonus [[Combat Mechanics#Magic Damage |magic damage]]  of <mark style="background: #930000A6;">1d4</mark>.
 
@@ -52,20 +52,21 @@ If the target is not flanked, only your next attack against them receives a bonu
 
 Lunge at an enemy and bash them with your shield.
 Deal Might + Shield Defense roll as [[Combat Mechanics#Blunt Damage|blunt damage]] to one target in range.
+Includes all bonuses on block to you (Phalanx or other boons)
 This damages the shield slightly and removes all bonuses for block on you.
-Moves you towards the target.
+Moves you to the target.
 
 ------------------
-<b><ins><i>Detect Weakness:</i></ins></b>
+<b><ins><i>Weak Spot:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      2       |   Instant    |    -     | 4 Meters | 
+|       5        |      2       |   Instant    |    1 CT     | 4 Meters | 
 
 When fighting an enemy, find a weak spot and take advantage.
-Roll Intuition.
-On success, your next hit on the target hits the weak spot and deals an extra 1d8 [[Combat Mechanics#Piercing Damage |piercing damage]].
-On failure, your next attack on the target deals 1d4 ***less*** damage.
+Make an opposed <mark style="background:  #FFAD0085;">Intuition</mark> roll against a target in range.
+On success, your next hit on the target hits the weak spot and deals an extra <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
+On failure, your next attack on the target deals <mark style="background: #930000A6;">1d4</mark> ***less*** damage.
 
 ------------------
 <b><ins><i>Aegis:</i></ins></b>

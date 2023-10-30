@@ -28,12 +28,12 @@ To attack with a weapon, roll its offensive value.
 The target can then choose to block the attack with their shield or weapon (according to their defensive stat), or dodge the attack with an Agility roll.
 Melee attacks with a weapon can only be made to enemies adjacent to you (within 1 tile or 2 Meters)
 
-#### Firing arrows
-First, to fire an arrow one must have a bow and arrow ammunition.
-To fire an arrow, you must roll the offensive value of the bow for damage.
-If the target is in the range of the bow, this is treated like a normal attack.
+#### Ranged Projectile Attacks (Arrows/Knives/Axes)
+First, to fire a projectile one must have a bow and arrow and ammunition, or a knife/axe equipped.
+To fire the projectile, you must roll the offensive value of the bow/weapon for damage.
+If the target is in the range, this is treated like a normal attack.
 If the target is outside the range, you must first succeed on a Dexterity roll to land the attack.
-In addition to this the target can still block the arrow.
+In addition to this the target can still block the projectile.
 To fire a bow, the user must not be equipped with a helmet.
 
 #### Blocking

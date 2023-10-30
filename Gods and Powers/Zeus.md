@@ -35,11 +35,11 @@ If you cast this while ***Flying***, deal <mark style="background: #930000A6;">1
 If the target is in the air, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage|magic damage]] .
 
 ------------------
-<b><ins><i>Charge Weapon:</i></ins></b>
+<b><ins><i>Charged Weapon:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      2       |   1 CT    |  3 CT   |    -   |
+|       1        |      2       |   1 CT    |  3 CT   |    6 Meters   |
 
 Imbue your weapon with godly lightning for the duration.
 Every time you successfully land an attack, deal an additional <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]].
@@ -54,19 +54,21 @@ This cancels the rest of the effect.
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       3        |      1       |   1 CT    |    -     | 12 Meters | 
 
-Cast a bolt of lightning at target. If there are other enemies within <mark style="background: #000B67A6;">4 Meters</mark> of the target, the lightning bounces to an additional 1d4 enemies.
+Cast a bolt of lightning at target. The Lightning can then bounce up to 1d4 times to another target within 4 Meters of the last.
 Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage | magic damage]].
 If you cast this while ***Flying***, targets take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead
 
 ------------------
-<b><ins><i>Summon Anemoi:</i></ins></b>
+<b><ins><i>Thunder Clap:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       3        |      1       |   1 CT    |   5 CT   |   -   | 
+|       3        |      1       |   1 CT    |   -   |   6 Meters   | 
 
-Summon an [[Anemoi]], a wind spirit in the shape of a horse, to aide you in battle.
-If you cast this while ***Flying***, the Anemoi can also fly with you
+Pulse a mighty thunder wave that damages and knocks back enemies.
+Enemies in the range are dealt <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] and must make an opposed Might roll.
+On failure, they take an additional <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] and are knocked back 2 Meters away from you.
+
 
 
 ------------------
@@ -77,7 +79,7 @@ If you cast this while ***Flying***, the Anemoi can also fly with you
 |       5        |      1       |  Instant  |    -     | 20 Meters | 
 
 Sweep up enemies in a gust of wind. 
-Enemies in a cone <mark style="background: #000B67A6;">20 Meters</mark> in length and <mark style="background: #000B67A6;">10 Meters</mark> wide are swept <mark style="background: #000B67A6;">4 Meters</mark> towards you. 
+Enemies in a cone <mark style="background: #000B67A6;">20 Meters</mark> in length are swept <mark style="background: #000B67A6;">4 Meters</mark> towards you. 
 If you are in the air while casting Gust, you can additionally sweep enemies up to your height in the air.
 
 ------------------
@@ -98,8 +100,8 @@ Cannot move through walls (This ability is not a teleport, rather extremely fast
 |       7        |      1       |   1 CT    |   3 CT   | 50 Meters | 
 
 Summon an intense lightning storm around you.
-In the eye of the storm (<mark style="background: #000B67A6;">4 Meter</mark> radius from your position), enemies are pulled away towards the storm and must make a <mark style="background: #3800D7A6;">Might</mark> save roll every turn in the duration, or be swept <mark style="background: #000B67A6;">2 Meters</mark> into the storm.
-Enemies in the storm (<mark style="background: #000B67A6;">4-8 Meters radius</mark> from your position) roll 1d4 each turn. On failure, they are struck by lightning, being dealt <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]].
+In the eye of the storm (<mark style="background: #000B67A6;">4 Meter</mark> radius from your position), enemies are pulled away towards the storm and must make a <mark style="background: #3800D7A6;">Might</mark> save roll every turn in the duration, or be swept <mark style="background: #000B67A6;">4 Meters</mark> into the storm.
+Enemies in the storm (<mark style="background: #000B67A6;">4-10 Meters radius</mark> from your position) roll 1d4 each turn. On failure, they are struck by lightning, being dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 
 ------------------
 <b><ins><i>Charged Assault:</i></ins></b>
@@ -108,10 +110,10 @@ Enemies in the storm (<mark style="background: #000B67A6;">4-8 Meters radius</ma
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      2       |   1 CT    |   2 CT   |   -    |
 
-Become infused with essence of lightning, gaining <mark style="background: #004A4CA6;">+1</mark> to Agility rolls and 4 movespeed.
+Become infused with essence of lightning, gaining <mark style="background: #004A4CA6;">+1</mark> to Agility rolls and 4 movespeed for the duration.
 You can end this charge period with a lightning-infused tackle that deals <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 If you cast this while ***Flying***, ***BECOME THE LIGHTNING*** and deal <mark style="background: #930000A6;">1d20</mark> instead.
-The target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll, or be stunned for 1d4 turns
+Additionally, the target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll, or be stunned for 1d4 turns
 
 ------------------
 <b><ins><i>Apect of Thunder:</i></ins></b>
@@ -124,7 +126,7 @@ You merge with Zeus, God of Thunder.
 For the Duration, you gain <mark style="background: #045B00A6;">15 Max Hp</mark>,
 and any creature that comes within range of you must roll an <mark style="background: #004A4CA6;">Agility</mark> saving roll or be struck by lightning for <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]]. This does not repeat if the creature stays in range of you next CT.
 If the creature rolled a 1, it is dealt <mark style="background: #930000A6;">1d8</mark> instead
-Additionally, you can cast Blink each turn while this boon is active.
+Additionally, you can cast Blink each turn while this boon is active, and your weapon becomes a ***Charged Weapon ***.
 
 ------------------
 

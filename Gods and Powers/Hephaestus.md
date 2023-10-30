@@ -110,9 +110,9 @@ If you roll 3 or 4, you puncture the enemies' weak point, dealing <mark style="b
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       5        |      1       |   1 CT    |    -     | 4 Meters | 
+|       5        |      1       |   1 CT    |    -     | 6 Meters | 
 
-Channel Hephaestus' forge to breath fire at your enemies, dealing <mark style="background: #930000A6;">1d6</mark> to all enemies in a cone up to the range. The cone is <mark style="background: #000B67A6;">4 Meters </mark> wide.
+Channel Hephaestus' forge to breath fire at your enemies, dealing <mark style="background: #930000A6;">1d8</mark> to all enemies in a cone up to the range. The cone is <mark style="background: #000B67A6;">4 Meters </mark> long.
 You also take <mark style="background: #930000A6;">1d4</mark> damage unless you are immune to fire.
 
 ------------------

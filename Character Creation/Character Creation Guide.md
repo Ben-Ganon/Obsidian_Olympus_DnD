@@ -4,7 +4,7 @@ To create your character, do the following steps:
 3. Check out your godly bonuses in the [[God Bonus Stat Chart]]
 4. Pick out a starting set from [[Starter Kits]]
 5. Fill Out the character sheet in printed form or fill it out digitally in the Canva Form:
-   [Link](https://www.canva.com/design/DAFxuW4K1IE/Hls7OlTbuuPU4dCBlH2EoA/edit?utm_content=DAFxuW4K1IE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   [Link](https://www.canva.com/design/DAFywl-s8QA/iVJ6wLB5tGLCaUHVLS8IWQ/edit?utm_content=DAFywl-s8QA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
    
    Then Fill it out according to the following:
 	1. Movespeed - it is exactly 2 times your Agility

@@ -28,7 +28,7 @@ The effect and the mark expire after the duration.
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       1        |      1       |   1 CT    |    -     | 40 Meters | 
 
-Enchant an arrow to deal bonus damage.
+Enchant a projectile to deal bonus damage.
 Your next projectile becomes an enchanted magic missile that never misses.  
 Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]], and ***Marks*** the target
 (Uses ammunition)
@@ -40,7 +40,7 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       3        |      1       |  Instant  |   3 CT   |   -   | 
 
-For the duration, your quiver/knife pack produces infinite ammunition.
+For the duration, your quiver/knife pack produces infinite ammunition and you do not expend ammunition when firing projectiles.
 Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2 projectiles instead of 1.
 (Counts as 2 separate attacks)
 
@@ -53,8 +53,8 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/Projectile attack + bonus damage for each attack).
-If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> damage instead.
+These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
+If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> bonus damage instead.
 (Uses ammunition)
 
 ------------------

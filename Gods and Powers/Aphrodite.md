@@ -20,7 +20,7 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 |       0        |      3       |  Instant   |   1 CT   | 10 Meters | 
 
 Change your appearance to look like the ideal beauty standard for creatures within the range.
-This gives <mark style="background: #FFAD0085;">+1</mark> to to intuition rolls meant to ***Charm***, bluff or persuade.
+This gives <mark style="background: #FFAD0085;">+1</mark> to to Intuition or willpower  rolls meant to ***Charm***, intimidate, deceive or persuade.
 ***Shimmer*** can also be used on other humanoids to hide their [[Races |race]] or other physicals features.
 If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
 

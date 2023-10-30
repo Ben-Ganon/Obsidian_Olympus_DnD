@@ -17,7 +17,7 @@ In the temples, prayers are being chanted to the gods, and many animals sacrific
 The ruling class host extravagant parties, and even some common citizens are invited to join the merriment.
 The cold does not stop the way of life here, but everyone can feel the weight of worry smothering the excitement.
 There is worry winter will simply never leave, and with only a year's worth of food stored, this may be an inconvenient year, to say the least.
-Even so, all of Athens is partaking in the events, hoping their sacrifices and joy echo to the heavens.
+Even so, all of Athens is partaking in the events, hoping their sacrifices and joy echo to the heavens above.
 
 Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Council, and are looking out for Heroes on quests to aid the Olympians.
 
@@ -30,6 +30,7 @@ The seller, Gregor Othonos, a slave trader doubling as a seller in his booth, ab
 Adamantios is on the opposite side of the stall, looking at shiny bronze swords and armor.
 He listens in on the interaction with the slave and intervenes?
 
+A thief steals something from one of the heroes, and a 
 
 Later, the heroes are gathered at the newly built Parthenon for the main sacrifice happening soon at mid-day.
 The Parthenon shines brightly, as if beckoning the people gathered to come closer and appreciate its marvel.

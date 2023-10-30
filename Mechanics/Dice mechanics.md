@@ -19,6 +19,7 @@ If you have +2 from one source and -1 from another, you roll with +1.
 #### Opposed rolls:
 Opposed rolls are dice rolls you make vs. an opponent.
 You both roll the same stat (Might, Agility, etc.) and to "win" the opposed roll you must roll at least 1 more than your opponent.
+If you are making an opposed roll against multiple enemies, you roll only once.
 
 #### Combined Rolls:
 Combined rolls are used when the action you are performing does not match exactly with the stats available to you.
