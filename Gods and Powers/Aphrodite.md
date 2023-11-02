@@ -39,13 +39,11 @@ All enemies around you gain -1 to all attack rolls on you until your next turn.
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      3       |   1 CT    |    -     | 4 Meters |
+|       1        |      3       |   1 CT    |    -     | 6 Meters |
 
 Siphon the life energy of the target from afar.
 Deal <mark style="background: #930000A6;">1d6</mark> magic damage to the target.
-This heals you for <mark style="background: #045B00A6;">1d4</mark>
-Additionally, the target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
-On failure, the target suffers from extreme fatigue, getting -1 on all rolls until the end of the duration
+This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 
 ------------------
 <b><ins><i>Charm:</i></ins></b>
@@ -68,17 +66,17 @@ If ***Shimmer*** is active, this effect happens even if you beat one of the roll
 
 Summon a blood-blade.
 The blade deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic]] damage.
-Any damage dealt by the blade heals you for the same amount
+Any damage dealt by the blade heals you for the same amount.
 
 ------------------
 <b><ins><i>Siren Call:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |   1 CT   | 20 Meters | 
+|       5        |      1       |   1 CT    |   1 CT   | 16 Meters | 
 
 Let out a siren call, making all creatures in the range infatuated with the sound.
-Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly towards you for the duration.
+Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save, or be stunned, walking slowly (2 Meters/Turn) towards you for the duration.
 
 ------------------
 <b><ins><i>Succubus/Incubus:</i></ins></b>
@@ -88,9 +86,9 @@ Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]
 |       5        |      1       |   1 CT    |   5 CT   | 10 Meters | 
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
-Creatures in the range must make a <mark style="background: #3800D7A6;">Might</mark> save or be stunned in terror for 1 CT.
+Creatures in the range must make an opposed <mark style="background:  #FFAD0085;">Intuition</mark> save or be stunned in terror for 1 CT.
 Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
-Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you
+Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you.
 
 ------------------
 <b><ins><i>Jealousy:</i></ins></b>

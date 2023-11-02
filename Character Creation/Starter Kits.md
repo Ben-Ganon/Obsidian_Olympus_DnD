@@ -4,7 +4,7 @@
 #### Heavy Kit:
 - Requires Might 6
 
-[[Shields and Armor#Armor|Panoply]], [[Shields and Armor#Shields|Aspis]], [[Shields and Armor#Armor|Chalcidian Helmet]], [[Weapons#Akinakes|Akinakes]], [[Weapons#Kopis|Kopis]]/[[Weapons#Syfri|Syfri]].
+[[Shields and Armor#Armor|Panoply]], [[Shields and Armor#Shields|Aspis]], [[Shields and Armor#Armor|Chalcidian Helmet]], [[Weapons#Dory|Dory]], [[Weapons#Akinakes|Akinakes]], [[Weapons#Kopis|Kopis]]/[[Weapons#Syfri|Syfri]].
 
 #### Fighter Kit:
 [[Shields and Armor#Armor|Linothorax]], [[Shields and Armor#Pilos|Pilos]], [[Shields and Armor#Peltast|Peltast]], [[Weapons#Xiphos|Xiphos]],/[[Weapons#Dory|Dory]]/[[Weapons#Syfri|Syfri]], [[Weapons#Akinakes|Akinakes]] x5

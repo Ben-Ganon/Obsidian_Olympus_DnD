@@ -22,7 +22,7 @@ If the result is 1, strike the nearest closest ally. If none are nearby, you are
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      1       |   1 CT    |   3 CT   |   -   | 
+|       1        |      2       |   1 CT    |   3 CT   |   -   | 
 
 Gain a blood infusion from Ares, making you stronger and more resistant.
 For the duration, you gain <mark style="background: #045B00A6;">+5 Max Hp</mark> each CT, 
@@ -33,9 +33,9 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |     1     |   3 CT   | 6 Meters | 
+|       3        |      1       |     1     |   2 CT   | 6 Meters | 
 
-Taunt all humanoid, animal or undead in range into combat, forcing them to attack you.  
+Taunt all creatures in range into combat, forcing them to attack you.  
 They have <mark style="background: #930000A6;">-1</mark> on all attack rolls and <mark style="background: #930000A6;">-2</mark> on all defense and dodge rolls
 During this time, you can attack another time each turn as a bonus action in the duration
 

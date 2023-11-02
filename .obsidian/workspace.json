@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md"
+                "file": "Gods and Powers/Hephaestus.md"
               }
             }
           },
@@ -166,14 +166,20 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Shields and Armor.md",
+    "Character Creation/Starter Kits.md",
     "Mechanics/Dice mechanics.md",
     "Images/Aphelios.png",
     "Mechanics/Level Up Chart.md",
-    "Gear and Items/Weapons.md",
     "Character Creation/Character Creation Guide.md",
-    "Gear and Items/Shields and Armor.md",
     "Templates/Disadvantage.md",
-    "Gods and Powers/Aphrodite.md",
     "Mechanics/Combat Mechanics.md",
     "Templates/Advantage.md",
     "Character Creation/Races.md",
@@ -188,13 +194,8 @@
     "index.md",
     "Lore - do not read!/Welcome.md",
     "Lore - do not read!/Types of Creatures.md",
-    "Lore - do not read!/Athens Encounter.md",
     "Images/Athens Guards.pdf",
     "Images/Lysander.pdf",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
     "Info and Values/Character Sheet.pdf",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
