@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/The Prophecy from the Oracle.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/The Prophecy from the Oracle.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           },
@@ -176,16 +176,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ea31ac17838fe6a",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
+    "Mechanics/Dice mechanics.md",
     "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Images/Atlas.png",
     "Lore - do not read!/Characters/Penelope Diakos.md",
+    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Lore - do not read!/Characters/Gregor Othonos.md",
+    "Lore - do not read!/The Prophecy from the Oracle.md",
+    "index.md",
     "Lore - do not read!/Welcome.md",
     "Lore - do not read!/Types of Creatures.md",
-    "Lore - do not read!/The Prophecy from the Oracle.md",
     "Lore - do not read!/Athens Encounter.md",
     "Images/Athens Guards.pdf",
-    "Lore - do not read!/Characters/Lysander Hasapis.md",
     "Images/Lysander.pdf",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
@@ -203,10 +208,6 @@
     "Gear and Items/Quivers.md",
     "Gear and Items/The Black Key.md",
     "Mechanics/Metal Types.md",
-    "Mechanics/Level Up Chart.md",
-    "Mechanics/Dice mechanics.md",
-    "Mechanics/Combat Mechanics.md",
-    "Gods and Powers/Olympian Family Tree.md",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",
@@ -222,7 +223,6 @@
     "Images/Zeus.png",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
     "Images/beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_bd1b093f-3a71-4ac2-8262-fe2c9798def4.png",
-    "beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_90fafcb3-dbf0-4d13-a104-dc7a64b4ff91.webp",
-    "Images/WhatsApp Image 2023-10-25 at 12.46.04.jpeg"
+    "beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_90fafcb3-dbf0-4d13-a104-dc7a64b4ff91.webp"
   ]
 }

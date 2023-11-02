@@ -27,6 +27,7 @@ Aphelios appointed Hector, son of Janus, as her third in command.
 Not much is known about Hector, as he usually keeps to himself.
 However, a large scar on his face, which makes hector look quite disfigured, is assumed to be from Janus himself. 
  
+![[Atlas.png |400]]
 Atlas, son of Ares.
 Atlas was born in a quiet town on the Egyptian coast to a martial artist named Cassandra.
 When Ares showed interest in her prowess, Cassandra thought it was the best thing that could have happened to her, and sparred with him happily.
