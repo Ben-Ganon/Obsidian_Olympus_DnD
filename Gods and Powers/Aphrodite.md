@@ -20,7 +20,7 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 |       0        |      3       |  Instant   |   1 CT   | 10 Meters | 
 
 Change your appearance to look like the ideal beauty standard for creatures within the range.
-This gives <mark style="background: #FFAD0085;">+1</mark> to to Intuition or willpower  rolls meant to ***Charm***, intimidate, deceive or persuade.
+This gives <mark style="background: #FFAD0085;">+1</mark> to rolls meant to ***Charm***, intimidate, deceive or persuade.
 ***Shimmer*** can also be used on other humanoids to hide their [[Races |race]] or other physicals features.
 If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
 
@@ -37,12 +37,13 @@ All enemies around you gain -1 to all attack rolls on you until your next turn.
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       1        |      3       |   1 CT    |   2 CT   | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+|:--------------:|:------------:|:---------:|:--------:|:--------:|
+|       1        |      3       |   1 CT    |    -     | 4 Meters |
 
 Siphon the life energy of the target from afar.
 Deal <mark style="background: #930000A6;">1d6</mark> magic damage to the target.
+This heals you for <mark style="background: #045B00A6;">1d4</mark>
 Additionally, the target must make a <mark style="background: #A5A5A5;">Willpower</mark> save.
 On failure, the target suffers from extreme fatigue, getting -1 on all rolls until the end of the duration
 

@@ -79,6 +79,7 @@ The Sagaris is a war hammer, capable of dealing great damage while completely ig
 Does blunt damage
 
 #### Lyre
+Magical Instrument given from the gods, this weapon deals small amounts of magical damage and can boost healing boons. 
 
 #### Aspída Sfentónas
 Sling Shield, both a defensive shield and a sling in the same item.

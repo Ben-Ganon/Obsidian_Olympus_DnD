@@ -11,8 +11,12 @@
             "id": "39a07bd2e6b78a89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Aphrodite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gods and Powers/Aphrodite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gods and Powers/Aphrodite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gods and Powers/Aphrodite.md"
+              }
             }
           },
           {
@@ -159,14 +166,17 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Mechanics/Dice mechanics.md",
+    "Images/Aphelios.png",
+    "Mechanics/Level Up Chart.md",
+    "Gear and Items/Weapons.md",
+    "Character Creation/Character Creation Guide.md",
     "Gear and Items/Shields and Armor.md",
     "Templates/Disadvantage.md",
     "Gods and Powers/Aphrodite.md",
     "Mechanics/Combat Mechanics.md",
-    "Mechanics/Dice mechanics.md",
     "Templates/Advantage.md",
     "Character Creation/Races.md",
-    "Character Creation/Character Creation Guide.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Lore - do not read!/Characters/The Cult of the Bull.md",
     "Images/Atlas.png",
@@ -185,10 +195,7 @@
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",
-    "Gear and Items/Weapons.md",
-    "Character Creation/Starter Kits.md",
     "Info and Values/Character Sheet.pdf",
-    "Lore - do not read!/The Plot.md",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",
@@ -203,7 +210,6 @@
     "Images/Zeus.png",
     "Images/Zeus.png",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
-    "Images/beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_bd1b093f-3a71-4ac2-8262-fe2c9798def4.png",
-    "beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_90fafcb3-dbf0-4d13-a104-dc7a64b4ff91.webp"
+    "Images/beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_bd1b093f-3a71-4ac2-8262-fe2c9798def4.png"
   ]
 }

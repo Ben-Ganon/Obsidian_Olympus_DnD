@@ -32,7 +32,7 @@ Deception - Intuition + Stealth
 Intimidation - Might + Intuition
 Investigation - Intuition + Dexterity
 Athletics - Might + Agility
-Acrobatics Agility + Dexterity
+Acrobatics - Agility + Dexterity
 Sleight of Hand - Dexterity + Stealth
 Persuasion - Intuition + Willpower
 
