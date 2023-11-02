@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aed79687f74fb815",
+        "id": "332cc12e70b8f9de",
         "type": "tabs",
         "children": [
           {
-            "id": "0ea31ac17838fe6a",
+            "id": "39a07bd2e6b78a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Combat Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3eca170680fc84b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gear and Items/Shields and Armor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "+1",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mechanics/Combat Mechanics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,9 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b37d173fb8e13678",
+  "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Gear and Items/Shields and Armor.md",
+    "Templates/Disadvantage.md",
+    "Gods and Powers/Aphrodite.md",
+    "Mechanics/Combat Mechanics.md",
     "Mechanics/Dice mechanics.md",
+    "Templates/Advantage.md",
+    "Character Creation/Races.md",
+    "Character Creation/Character Creation Guide.md",
+    "Character Creation/God Bonus Stat Chart.md",
     "Lore - do not read!/Characters/The Cult of the Bull.md",
     "Images/Atlas.png",
     "Lore - do not read!/Characters/Penelope Diakos.md",
@@ -197,17 +186,9 @@
     "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",
     "Gear and Items/Weapons.md",
-    "Gear and Items/Shields and Armor.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Character Creation Guide.md",
     "Character Creation/Starter Kits.md",
     "Info and Values/Character Sheet.pdf",
     "Lore - do not read!/The Plot.md",
-    "Lore - do not read!/Fake Prophecy.md",
-    "Character Creation/Races.md",
-    "Gear and Items/Quivers.md",
-    "Gear and Items/The Black Key.md",
-    "Mechanics/Metal Types.md",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",

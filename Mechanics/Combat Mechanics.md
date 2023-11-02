@@ -47,6 +47,10 @@ Your armor can reduce the damage you take (if an attack lands) by a fixed amount
 Additionally, magical armor can reduce some damage from magical abilities.
 Regular armor cannot block blunt or magical damage.
 
+#### Armor Rating
+Your Armor Rating (AR) is the amount of damage you block when a [[Combat Mechanics#Piercing Damage |piercing damage]] attack lands. This is calculated by summing all armor currently equipped to you.
+For example - a character equipped with Heavy Bronze Armor and a Corinthian Helmet has an AR of 2 (Bronze armor) + 3 (Corinthian Helmet) = 5.
+
 #### Critical Damage:
 When rolling for damage, if one of the dice you roll hits the maximum (4 for d4, 6 for d6, etc.), roll it again and deal extra damage.
 Can only re-roll once. (if you roll 1d4 and get 4, then roll 1d4 to get 4 again, you do not roll again)
@@ -81,9 +85,10 @@ If you are directly next to an enemy and move away from them, that enemy gets a 
 #### Disengage
 You can spend 1 CT as an action to disengage enemies and then move away, preventing attacks of opportunity on you.
 
-#### Armor Slow:
-Wearing heavy armor slows you down. 
-Remove 2 Movespeed when you equip Klimakas or the Corinthian helmet. (each remove 2 Movespeed)
+#### Heavy Armor:
+Wearing heavy armor makes you take less damage, but slows you down. 
+Remove 2 Movespeed when you equip Klimakas or the Corinthian helmet. (for each item equipped remove 2 Movespeed)
+Equipping a heavy shield
 
 #### Damage Types
 #### Blunt Damage:
@@ -102,6 +107,15 @@ Boons and other effects that can be cast as a reaction can be cast instantly, ev
 
 #### Fall Damage
 When a character falls, they take 1 damage for each 2 Meters they fall.
+
+#### Swimming
+When in calm water, a character can swim for half their movespeed.
+If the character is in heavy armor (Klimakas, Corinthian Helmet), They must make a Might saving roll each turn or drown, taking 1d4 damage and falling beneath the waves, becoming Submerged.
+
+#### Submerged
+Submerged characters move $1\over4$ of their movespeed. 
+Character in heavy armor must make a Might saving roll with disadvantage or take 1d6 damage at the beginning of each turn they are submerged. 
+A submerged character can take an action + movement on their turn to surface.
 
 #### ~~Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.

@@ -9,7 +9,7 @@
 
 ### Armor
 
-| Name              | Type                 | Damage Reduction | Might requirement |
+| Name              | Type                 | (Armor Rating) Damage Reduction | Might requirement |
 | ----------------- | -------------------- |:----------------:|:-----------------:|
 | Linothorax        | Light Linen Armor    |        1         |         -         |
 | Panoply           | Heavy Bronze Armor   |        2         |         6         |

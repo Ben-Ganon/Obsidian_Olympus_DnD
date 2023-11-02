@@ -99,7 +99,7 @@ They appear as hooved, slightly hairier humanoids with pointed ears.
 |       0        |      1       |  Instant  |   1 CT   |   -   | 
 
 Channel the power of Pan, Guardian of nature to enhance your armor, shield and weapons with heavy wood.
-for this CT and the next, you gain +3 armor and +1 to all block attempts.
+for this CT and the next, you gain +3 armor and [[advantage]] to all block attempts.
 
 ------------------
 #### Harpy

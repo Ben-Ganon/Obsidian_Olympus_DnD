@@ -10,5 +10,6 @@ To create your character, do the following steps:
 	1. Movespeed - it is exactly 2 times your Agility
 	2. Hp Max - exactly 4 times your Might
 	3. Magical Armor rating - starts at 0
-	4. Level - 0
-	5. Size Category - medium
+	4. Armor Rating - Your [[Combat Mechanics#Armor Rating|Armor Rating]] is the sum of the armor and helmet armor rating equipped to you.
+	5. Level - 0
+	6. Size Category - medium
