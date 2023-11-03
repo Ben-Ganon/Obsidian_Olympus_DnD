@@ -9,13 +9,27 @@ This can be done at any point in the turn.
 You can use the movement, action, and bonus action in any order.
 You can only do one bonus action, one action, and one movement action per turn, unless stated otherwise in a boon or ability.
 
+#### Equipment
+A weapon or item is equipped to you if it is on your body, in a sheath or in a quiver that is on you.
+This means it has to be written somewhere on your character sheet, like so- 
+![[Pasted image 20231103131033.png |250]]
+In this example, the character has a water pot, a knife (Akinakes), a sword (Kopis), a shield (Aspis), and bronze armor (Panoply) all equipped to them.
+
+The Ammo box represents the characters quiver over the shoulder.
+If they have an [[Quivers#Assassins Quiver |Assassin's Quiver]], for example, they can hold in that slot up to 3 arrows/knives/axes.
+The Back Box represents a large equipped item - 
+You can still hold small things there (like a water pot or a knife), but can also store a bow or a spear there.
+The Extra Slots are small items - knives, pots, small orbs or any other small item.
+
 #### Weapons and Inventory
 You can switch weapons during combat.
-If the weapon was equipped (written on the character sheet figure) but not in your hand, then this costs 1 action (lasts 1 CT).
-If the Weapon is in your inventory, it costs 2 CT (two turns) to swap them out.
-Likewise, retrieving any item not equipped to use in combat will cost 2 CT.
-A knife or axe that is equipped can be drawn as a bonus action and used instantly.
+If the weapon was equipped (written on the character sheet figure) but not in your hand, then is a bonus action and can happen instantly.
+If the Weapon is in your inventory, it costs 1 CT (one action) to swap them out.
+Likewise, retrieving any item not equipped to use in combat will cost 1 CT.
+A knife or axe that is equipped can be drawn and thrown as a bonus action.
+This means if you have a knife/axe equipped (or bow and arrow) you can fire a projectile / use the knife or axe in an attack and then as a bonus action in the same turn throw another knife/axe.
 Weapons can be dual wielded, but only one can be used each turn.
+
 #### Movement
 Movement is tile-based according to your Movespeed.
 Movespeed is in Meters/Turn
@@ -26,7 +40,7 @@ Every Turn, you can move up to your Movespeed meters, which on the board is 1 ti
 #### Attacking with weapon
 To attack with a weapon, roll its offensive value.
 The target can then choose to block the attack with their shield or weapon (according to their defensive stat), or dodge the attack with an Agility roll.
-Melee attacks with a weapon can only be made to enemies adjacent to you (within 1 tile or 2 Meters)
+Melee attacks with a weapon can only be made to enemies adjacent to you (within 1 tile or 2 Meters).
 
 #### Ranged Projectile Attacks (Arrows/Knives/Axes)
 First, to fire a projectile one must have a bow and arrow and ammunition, or a knife/axe equipped.

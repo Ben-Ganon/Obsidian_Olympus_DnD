@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Lore - do not read!/Characters/Zeno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Lore - do not read!/Characters/Zeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Ares.md",
+                "file": "Lore - do not read!/Characters/Zeno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Ares.md"
+                "file": "Lore - do not read!/Characters/Zeno.md"
               }
             }
           },
@@ -166,6 +166,25 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Lore - do not read!/Characters/Sokrates.md",
+    "Lore - do not read!/Characters/Zeno.md",
+    "Lore - do not read!/Characters/Alkibialdes.md",
+    "Lore - do not read!/Characters/Perikles.md",
+    "Lore - do not read!/Characters/Gregor Othonos.md",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Gods and Powers/Ares.md",
+    "Mechanics/Afflictions.md",
+    "Summonable Entities/Hercules.md",
+    "Summonable Entities/Achilles.md",
+    "Mechanics/Combat Mechanics.md",
+    "Gear and Items/Quivers.md",
+    "Pasted image 20231103131033.png",
+    "Pasted image 20231103131030.png",
+    "Pasted image 20231103130856.png",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Playable Patrons.md",
@@ -173,26 +192,10 @@
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Hades.md",
-    "Mechanics/Afflictions.md",
     "Gods and Powers/Dionysos.md",
-    "Mechanics/Combat Mechanics.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Character Creation Guide.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Aphrodite.md",
-    "Character Creation/Races.md",
-    "Character Creation/Starter Kits.md",
-    "Gear and Items/Weapons.md",
-    "Gear and Items/The Black Key.md",
-    "Gear and Items/Shields and Armor.md",
-    "Mechanics/Dice mechanics.md",
     "Images/Aphelios.png",
-    "Mechanics/Level Up Chart.md",
-    "Templates/Disadvantage.md",
     "Images/Atlas.png",
     "Images/Athens Guards.pdf",
     "Images/Lysander.pdf",
@@ -208,9 +211,6 @@
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/Hades 1.png",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
-    "Images/Zeus.png",
-    "Images/Zeus.png",
-    "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
-    "Images/beng97_Mount_Olympus_Greek_Polis_on_top_of_a_huge_mountain_shin_bd1b093f-3a71-4ac2-8262-fe2c9798def4.png"
+    "Images/Zeus.png"
   ]
 }
