@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/Characters/Zeno.md",
+                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Characters/Zeno.md",
+                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Characters/Zeno.md",
+                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Characters/Zeno.md"
+                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md"
               }
             }
           },
@@ -166,8 +166,12 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
-    "Lore - do not read!/Characters/Sokrates.md",
+    "Lore - do not read!/Athens Government.md",
+    "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+    "Lore - do not read!/Oracle Caves",
+    "Lore - do not read!/Untitled.md",
     "Lore - do not read!/Characters/Zeno.md",
+    "Lore - do not read!/Characters/Sokrates.md",
     "Lore - do not read!/Characters/Alkibialdes.md",
     "Lore - do not read!/Characters/Perikles.md",
     "Lore - do not read!/Characters/Gregor Othonos.md",
@@ -192,9 +196,6 @@
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Hades.md",
-    "Gods and Powers/Dionysos.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Character Creation Guide.md",
     "Images/Aphelios.png",
     "Images/Atlas.png",
     "Images/Athens Guards.pdf",
@@ -206,7 +207,6 @@
     "Images/Mount Cerberus.pdf",
     "Images/Mount Savra.pdf",
     "Images/Mount Sheet.pdf",
-    "Images/Mount Sheet Fillable.pdf",
     "Images/Ares.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/Hades 1.png",
