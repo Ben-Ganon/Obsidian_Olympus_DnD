@@ -17,10 +17,10 @@ Children of Dionysos can support the party and poison enemies, either with taint
 
 Bless a nearby liquid container in range to become either form of Sacred Booze.
 Can be either - 
-- Sacred Wine - Heal for <mark style="background: #00A521A6;">1d6</mark>
-- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] when in contact with a creature. 
+- Sacred Wine - Heal for <mark style="background: #00A521A6;">1d8</mark>
+- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] when in contact with a creature. 
 This booze evaporates after the duration.
-This container can be thrown up to Might + 2 Meters away from you, to explode and effect all creatures in a 2 Meter radius around the impact point.
+This container can be thrown up to 2 + <mark style="background: #000B67A6;">Might</mark> Meters away from you, to explode and effect all creatures in a 2 Meter radius around the impact point.
 
 ------------------
 
@@ -28,7 +28,7 @@ This container can be thrown up to Might + 2 Meters away from you, to explode an
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      1       |   Instant   |   3 CT   | 10 Meters | 
+|       1        |      2       |   Instant   |   3 CT   | 10 Meters | 
 
 Cause a target in range to become drunk for the duration.
 Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls for that CT
@@ -41,8 +41,8 @@ Each CT, target must make an Intuition saving roll or stumble, causing them rece
 |       3        |      1       |   Instant    |   3 CT   | 8 Meters | 
 
 Inflict a target in range with visions of absolute terror for the duration.
-Each turn, the target must make an <mark style="background:  #FFAD0085;">Intuition</mark> saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d4</mark> damage to a nearby target.
-If no target is available they deal <mark style="background: #9E0000A6;">1d4</mark> damage to themselves.
+Each turn, the target must make an <mark style="background:  #FFAD0085;">Intuition</mark> saving roll or be subjected to madness - causing them to lose control of themselves and lash out, dealing <mark style="background: #9E0000A6;">1d6</mark> damage to a nearby target.
+If no target is available they deal <mark style="background: #9E0000A6;">1d8</mark> damage to themselves.
 
 ------------------
 <b><ins><i>Drama Queen:</i></ins></b>
@@ -65,7 +65,7 @@ Fill a container with a dark red liquid.
 This liquid evaporates after 5 CT.
 This container can then be drunk or thrown.
 When it comes into contact with a creature, roll 1d4:
-1. The liquid becomes a deadly poison, dealing <mark style="background: #9E0000A6;">1d6</mark> damage
+1. The liquid becomes a deadly poison, dealing <mark style="background: #9E0000A6;">1d8</mark> damage
 2. The liquid is incredibly potent wine, causing target to become a ***Drunken Idiot*** for 2 CT
 3.  The liquid becomes a potion of madness, causing target to become inflicted with ***Visions of Madness*** for 2 CT
 4. The liquid is regular wine and does nothing

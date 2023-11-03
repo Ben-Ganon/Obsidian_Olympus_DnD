@@ -52,14 +52,13 @@ Summon a weapon infused with the blood of Ares.
 Rain arrows in a <mark style="background: #000B67A6;">2 Meter</mark> Radius around a point up to <mark style="background: #000B67A6;">20 Meters</mark> away.
 Each enemy in the area must make a blocking save or take <mark style="background: #930000A6;">1d6</mark> damage
 <b><ins><i>Spear:</i></ins></b>
-The blood spears attacks and defends for <mark style="background: #930000A6;">1d8</mark>. 
-You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d4</mark> damage to all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> range.
+The blood spears attacks and defends for <mark style="background: #930000A6;">1d12</mark>. 
+You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d6</mark> damage to all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> range.
 (Considered 1 attack)
 <b><ins><i>Xiphos:</i></ins></b>
-You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d4</mark> each time.
+You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d6</mark> each time.
 Each attack is considered separate.
 Every time an enemy is hit by the Xiphos, heal <mark style="background: #045B00A6;">$1d4 \over 2$ </mark>
-
 Additionally, any enemy damaged in the duration grants you <mark style="background: #045B00A6;">+5 max Hp</mark>
 (Once per enemy)
 
@@ -82,7 +81,7 @@ Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max 
 |       5        |      2       |   1 CT    |    -     | 4 Meters | 
 
 You channel Deimos, the god of terror.
-You appear as a demonic war monster, terrifying nearby enemies.
+You appear as a war demon, terrifying nearby enemies.
 All enemies in the range must make a Willpower save or be [[Afflictions#Stunned |Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
 
 ------------------
@@ -93,7 +92,7 @@ All enemies in the range must make a Willpower save or be [[Afflictions#Stunned 
 |       7        |      1       |   1 CT    |   3 CT   | 2 Meters | 
 
 Become surrounded by a vortex of Celestial Bronze weapons  
-While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
+While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 
 ------------------
 <b><ins><i>Vital Strike:</i></ins></b>

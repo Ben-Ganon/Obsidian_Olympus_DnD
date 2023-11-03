@@ -30,8 +30,8 @@ If you succeeded the might roll (4 and above), you can drag an adjacent (<mark s
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       1        |      3       |  1 CT  |    -     | 10 Meters | 
 
-Call a lightning bolt from the sky to Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic damage]]. Cannot cast underground.
-If you cast this while ***Flying***, deal <mark style="background: #930000A6;">1d8</mark> instead.
+Call a lightning bolt from the sky to Deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage|magic damage]]. Cannot cast underground.
+If you cast this while ***Flying***, deal <mark style="background: #930000A6;">1d12</mark> instead.
 If the target is in the air, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage|magic damage]] .
 
 ------------------
@@ -42,7 +42,7 @@ If the target is in the air, deal an extra <mark style="background: #930000A6;">
 |       1        |      2       |   1 CT    |  3 CT   |    6 Meters   |
 
 Imbue your weapon with godly lightning for the duration.
-Every time you successfully land an attack, deal an additional <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]].
+Every time you successfully land an attack, deal an additional <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 Additionally, you can ***discharge*** the remaining energy in your weapon to deal <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] to an enemy up to <mark style="background: #000B67A6;">6 Meters</mark> away.
 If the enemy is in the air, ***discharge*** deals <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead.
 This cancels the rest of the effect.
@@ -54,7 +54,7 @@ This cancels the rest of the effect.
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
 |       3        |      1       |   1 CT    |    -     | 12 Meters | 
 
-Cast a bolt of lightning at target. The Lightning can then bounce up to 1d4 times to another target within 4 Meters of the last.
+Cast a bolt of lightning at target. The Lightning can then bounce up to 1d6 times to another random target within 4 Meters of the last.
 Each enemy affected takes <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage | magic damage]].
 If you cast this while ***Flying***, targets take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] instead
 

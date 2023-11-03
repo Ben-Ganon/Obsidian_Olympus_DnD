@@ -117,6 +117,13 @@ Submerged characters move $1\over4$ of their movespeed.
 Character in heavy armor must make a Might saving roll with disadvantage or take 1d6 damage at the beginning of each turn they are submerged. 
 A submerged character can take an action + movement on their turn to surface.
 
+#### Sneaking
+You can try to sneak up on a creature unseen.
+every movement you make towards the target/s, make a stealth saving roll to determine whether you are seen.
+#### Sneak Attack
+If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
+This breaks the sneaking, and all adjacent enemies are now aware of your presence. 
+
 #### ~~Sizes and their effects on combat:
 	Each creature has a size: Small, Medium or Large.
 	Small creatures gain +1 to dodge and Agility rolls, and large creatures gain +1 to block and Might rolls.

@@ -42,7 +42,7 @@ All enemies around you gain -1 to all attack rolls on you until your next turn.
 |       1        |      3       |   1 CT    |    -     | 6 Meters |
 
 Siphon the life energy of the target from afar.
-Deal <mark style="background: #930000A6;">1d6</mark> magic damage to the target.
+Deal <mark style="background: #930000A6;">1d8</mark> magic damage to the target.
 This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 
 ------------------
@@ -65,7 +65,7 @@ If ***Shimmer*** is active, this effect happens even if you beat one of the roll
 |       3        |      2       |  Instant  |   3 CT   |   -   | 
 
 Summon a blood-blade.
-The blade deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic]] damage.
+The blade deals <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage|magic]] damage.
 Any damage dealt by the blade heals you for the same amount.
 
 ------------------
@@ -87,7 +87,7 @@ Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make an opposed <mark style="background:  #FFAD0085;">Intuition</mark> save or be stunned in terror for 1 CT.
-Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
+Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
 Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you.
 
 ------------------
@@ -111,7 +111,7 @@ If they fail, they attack the nearest creature to them for the duration
 
 Touch the target, draining their life force.
 Make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save against the target.
-On failure, the target is dealt <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d6</mark>.
+On failure, the target is dealt <mark style="background: #930000A6;">2d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">2d4</mark>.
 On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
 Afterwards the target is stunned for the duration
 

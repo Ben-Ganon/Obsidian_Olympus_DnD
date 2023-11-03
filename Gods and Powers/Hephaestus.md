@@ -17,10 +17,10 @@ Or drown their enemies in fire and sword slashes.
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       0        |      2       |   Instant   |   3 CT   |   -   | 
+|       0        |      2       |   Instant   |   2 CT   |   -   | 
 
 Your skin becomes molten iron.
-For the duration, you are immune to fire, and gain +1 armor rating
+For the duration, you are immune to fire, and gain +1 armor rating.
 This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 
 ---------------
@@ -31,8 +31,8 @@ This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 |       1        |      3       |   1 CT    |   3 CT   | 4 Meters | 
 
 Upgrade a weapon with your tools.
-Give an armor, weapon or shield +1d4 to either block or attack for the duration.
-
+Give a weapon or shield +1d4 to either block or attack for the duration.
+Or, give a piece of armor +3 to armor rating and magical armor rating for the duration.
 
 ------------------
 <b><ins><i>Molten Hands:</i></ins></b>
@@ -42,9 +42,9 @@ Give an armor, weapon or shield +1d4 to either block or attack for the duration.
 |       1        |      3       |  Instant  |   1 CT   |   -   | 
 
 Your hands become so hot your weapons and shield catch fire.
-This gives a bonus of +1d4 to your next attack or block roll.
+This gives a bonus of +<mark style="background: #930000A6;">1d6</mark> to your next attack or block roll.
 All enemies who you block successfully while this is active take <mark style="background: #9E0000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
-If you are not immune to fire when casting this, take <mark style="background: #9E0000A6;">1</mark> damage.
+If you are not immune to fire when casting this, take <mark style="background: #9E0000A6;">2</mark> damage.
 Additionally, you can also attack with your bear hands for <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] 
 This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 
@@ -69,7 +69,7 @@ Greek fire is immune to water, deals <mark style="background: #930000A6;">1d6</m
 Burns itself out in <mark style="background: #A100B8A6;">3 CT</mark>
 <b><ins><i>Spring Shield:</i></ins></b>
 The Spring shield is a flimsy shield that can fold up to fit on the arm.
-The shield can be cast instantly as a [[Combat Mechanics#Reaction|reaction]] to block one attack completely, but breaks upon impact.
+The shield can be cast instantly as a [[Combat Mechanics#Reaction|reaction]] to block one attack/boon completely, but breaks upon impact.
 
 ------------------
 <b><ins><i>Crossbow:</i></ins></b>

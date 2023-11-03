@@ -14,7 +14,7 @@ Children of Hermes play as either a shifty rogue, zipping between enemies to kil
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      3       |   1 CT    |    -     |   -   | 
+|       1        |      2       |   1 CT    |    -     |   -   | 
 
 Run very, very fast.
 You move up to double your movespeed.
@@ -37,14 +37,14 @@ If you are attacking target from behind add an additional <mark style="backgroun
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       3        |      2       |   1 CT    |    -     | 6 Meters | 
 
-Prescribe some medicine to an ally, healing them for <mark style="background: #045B00A6;">1d6</mark>.
+Prescribe some medicine to an ally, healing them for <mark style="background: #045B00A6;">1d8</mark>.
 
 ------------------
 <b><ins><i>Winged Kicks:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       3        |      1       |  Instant  |   2 CT   | 2 Meters | 
+|       3        |      2       |  Instant  |   2 CT   | 2 Meters | 
 
 Conjure the winged sandals of Hermes.
 These can be worn or given to an ally.
@@ -71,7 +71,7 @@ If you fail again, cut the damage of the attack by half.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |  Instant  |   3 CT   | 6 Meters | 
+|       5        |      2       |  Instant  |   3 CT   | 6 Meters | 
 
 Pick a target in range.
 For the duration, you gain +1 to Stealth, Dexterity and Agility rolls made against this target, and <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Piercing Damage |piercing damage]] every time you damage the target.

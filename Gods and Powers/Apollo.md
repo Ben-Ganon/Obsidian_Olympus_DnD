@@ -38,8 +38,8 @@ The ally gains a 1d6 bonus to their next roll in the duration.
 |       3        |      2       |   1  CT   |    -     | 8 Meters | 
 
 Sing an incredibly healing, absolutely angelic song directed at an ally in range.
-This heals the target for <mark style="background: #045B00A6;">1d6</mark>.
-If you sing the song while equipped with an instrument, heal for <mark style="background: #045B00A6;">1d8</mark> instead.
+This heals the target for <mark style="background: #045B00A6;">1d8</mark>.
+If you sing the song while equipped with an instrument, heal for <mark style="background: #045B00A6;">1d12</mark> instead.
 
 ------------------
 <b><ins><i>Piercing Shot:</i></ins></b>
@@ -60,8 +60,8 @@ Deals <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Piercin
 
 Sing a sick diss at an enemy.
 If the enemy is in range and can hear the mockery, the target must make an Willpower saving roll.
-On failure, the target takes <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]].
-If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d8</mark> damage instead.
+On failure, the target takes <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]].
+If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d12</mark> damage instead.
 Either way, afterwards the target will receive a -1 to their next roll in the duration.
 
 ------------------
@@ -74,7 +74,8 @@ Either way, afterwards the target will receive a -1 to their next roll in the du
 Fire a guided arrow you can control for a duration.
 While this spell is active, or until you cancel it, you control the guided arrow.
 The arrow cannot go beyond the range away from you.
-It deals <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] to each enemy it passes through, and has <mark style="background: #60BB81;">10</mark> movespeed. 
+You can guide the arrow on your turn as a bonus action.
+It deals <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] to each enemy it passes through, and has <mark style="background: #60BB81;">10</mark> movespeed. 
 
 ------------------
 <b><ins><i>Wave of Awesome:</i></ins></b>
@@ -85,7 +86,7 @@ It deals <mark style="background: #9E0000A6;">1d6</mark> [[Combat Mechanics#Pier
 
 Play a magical note on your instrument, dealing [[Combat Mechanics#Magic Damage|magic damage]] to all enemies and healing all allies in a cone.
 In a cone <mark style="background: #0900A7A6;">12</mark> meters long, 
-deal <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] to all enemies and heal all allies for <mark style="background: #00A521A6;">1d4</mark>.
+deal <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] to all enemies and heal all allies for <mark style="background: #00A521A6;">1d6</mark>.
 If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d12</mark> damage instead
 
 ------------------

@@ -23,15 +23,16 @@ One leads to where you teleported, the other to a random location 5 Meters from 
 |       3        |      1       |   1 CT    |   5 CT   | 20 Meters | 
 
 Summon Two portals up to 20 Meters away.
-Once per CT per portal, a projectile or strike that enters one exits out the other for the duration.
+Once per CT per portal, a projectile or strike that enters one exits out the other for the duration., and deals it's damage to the attacker (counts as the same attack from the caster).
 Additionally, once per CT as a bonus action, you can move one or both portals up to 5 Meters.
+An enemy that moves adjacent to the portal must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or be sucked into the portal for <mark style="background: #620075A6;">1 CT</mark>
 
 ------------------
 <b><ins><i>Mortal Choice :</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |    -     | 10 Meters | 
+|       5        |      2       |   1 CT    |    -     | 10 Meters | 
 
 Make an enemy choose on 1-2 or 3-4. Roll 1d4.
 1-2: Enemy takes 1d6 damage.

@@ -26,7 +26,7 @@ The effect and the mark expire after the duration.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range    |
 |:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       1        |      1       |   1 CT    |    -     | 40 Meters | 
+|       1        |      1       |   Instant    |    -     | 40 Meters | 
 
 Enchant a projectile to deal bonus damage.
 Your next projectile becomes an enchanted magic missile that never misses.  
@@ -38,10 +38,10 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       3        |      1       |  Instant  |   3 CT   |   -   | 
+|       3        |      2       |  Instant  |   3 CT   |   -   | 
 
 For the duration, your quiver/knife pack produces infinite ammunition and you do not expend ammunition when firing projectiles.
-Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2 projectiles instead of 1.
+Additionally, when using a bow, throwing knife, or throwing axe, fire 2 projectiles instead of 1.
 (Counts as 2 separate attacks)
 
 -----------------
@@ -49,12 +49,12 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire or throw 2
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   1 CT    |    -     | 20 Meters | 
+|       3        |      2       |   1 CT    |    -     | 20 Meters | 
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
-If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d8</mark> bonus damage instead.
+These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
+If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d12</mark> bonus damage instead.
 (Uses ammunition)
 
 ------------------
@@ -77,8 +77,8 @@ If the moon is shining (either at night or with ***Moonlight Flare***), gain <ma
 |       5        |      1       |  Instant  |   3 CT   |   -   |
 
 Coat your projectiles in lethal poison.
-Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">1</mark> [[Combat Mechanics#Magic Damage |magic damage]]  damage each turn for 1d4 turns.
-This poison stacks - if you land 2 poison arrows with duration 1 and 2, the target will take 2 for <mark style="background: #A100B8A6;">1 CT</mark> then 1 damage for another.
+Every projectile you successfully land in the duration deals <mark style="background: #930000A6;">2</mark> [[Combat Mechanics#Magic Damage |magic damage]]  damage each turn for 1d4 turns.
+This poison stacks - if you land 2 poison arrows with duration 1 and 2, the target will take 4 for <mark style="background: #A100B8A6;">1 CT</mark> then 2 damage for another.
 
 ------------------
 <b><ins><i>Moonlight Flare:</i></ins></b>

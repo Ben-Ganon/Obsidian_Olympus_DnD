@@ -15,9 +15,9 @@ Children of Demeter play a crowd control oriented roll, tending to keep enemies 
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       1        |      3       |   1 CT    |   2 CT   | 16 Meters | 
+|       1        |      3       |   1 CT    |   1 CT   | 16 Meters | 
 
-Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnared]] an enemy in the range for the duration.  
+Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnaring]] all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> radius in the range for the duration.  
 
 ------------------
 <b><ins><i>Frozen Earth:</i></ins></b>
@@ -26,7 +26,7 @@ Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnared]] an enem
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
 |       1        |      3       |   1 CT    |  10 CT / 2CT   | 4 Meters | 
 
-Spawn a mud trap up to 4 Meters away from you, that freezes solid when an enemy steps in it.
+Spawn a mud trap up to 4 Meters away from you, that freezes solid all enemies in a 2 Meter radius when an enemy steps in it.
 The trap lasts for 10 CT, and an enemy that steps on a trap is [[#Ensnared]] for 2 CT.
 
 ------------------
@@ -35,7 +35,7 @@ The trap lasts for 10 CT, and an enemy that steps on a trap is [[#Ensnared]] for
 | Level Required | Uses Per Day | Cast Time | Duration |  Range  |
 |:--------------:|:------------:|:---------:|:--------:|:-------:|
 |       3        |      1       |   1 CT    |    -     | 2 Meter | 
-Spawn 3 Sour Healing Fruit from the ground, that when eaten heal for <mark style="background: #045B00A6;">1d6</mark>
+Spawn 3 Sour Healing Fruit from the ground, that when eaten heal for <mark style="background: #045B00A6;">1d8</mark>
 Eating the fruit is difficult, however, and will take<mark style="background: #620075A6;"> 1 CT</mark>.
 The fruit lasts for <mark style="background: #620075A6;">3 Hours</mark>.
 
@@ -47,7 +47,7 @@ The fruit lasts for <mark style="background: #620075A6;">3 Hours</mark>.
 |       3        |      1       |   1 CT    |   3 CT   | 10 Meters | 
 Spawn a wall of vines in the range.
 The wall is 10 Meters wide, 10 Meters tall, can block regular projectiles, and prevents enemies from passing.
-Enemies who try to climb or destroy the wall must make a Might saving roll or become [[#Ensnared]] for 2 CT.
+Enemies who try to climb or destroy the wall must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or become [[#Ensnared]] for 1 CT.
 The wall can endure up to 10 damage before collapsing.
 
 
@@ -56,17 +56,17 @@ The wall can endure up to 10 damage before collapsing.
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |    -     | 10 Meters | 
+|       5        |      3       |   1 CT    |    -     | 10 Meters | 
 A frozen vine erupts from your position, targeting an enemy.
 This attack cannot be blocked, but it is slow and receives +1 to dodge rolls against it.
-Deals <mark style="background: #930000A6;">2d4</mark> damage, and latches on to the foe making them [[#Ensnared]] for 2 CT
+Deals <mark style="background: #930000A6;">1d12</mark> damage, and latches on to the foe making them [[#Ensnared]] for 2 CT
 
 ------------------
 <b><ins><i>Chill:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |    3CT     | 10 Meters | 
+|       5        |      1       |   1 CT    |    3CT     | 20 Meters | 
 Freeze the air around you, slowing enemies.
 Enemies in the range are slowed and receive -1 to their dodge attempts and -4 to their movespeed in the duration.
 
@@ -77,7 +77,7 @@ Enemies in the range are slowed and receive -1 to their dodge attempts and -4 to
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      3       |   1 CT    |    -     |   -   | 
-The vines you have spawned grow thorns, making any enemy that is currently [[#Ensnared]] take 1d4 damage every turn until they are free
+The vines you have spawned grow thorns, making any enemy that is currently [[#Ensnared]] take <mark style="background: #930000A6;">1d8</mark> damage every turn until they are free
 
 ------------------
 <b><ins><i>Nightshade:</i></ins></b>
@@ -86,7 +86,7 @@ The vines you have spawned grow thorns, making any enemy that is currently [[#En
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       7        |      1       |   1 CT    |   3 CT   | 20 Meters |
 Grow a deadly enhanced nightshade flower from the ground.
-Enemies in a 2 Meter radius of the flower take 1d4 damage each turn until the duration ends.
+Enemies in a 2 Meter radius of the flower take <mark style="background: #930000A6;">1d4</mark> damage each turn until the duration ends.
 
 ------------------
 <b><ins><i>Aspect of the Harvest:</i></ins></b>

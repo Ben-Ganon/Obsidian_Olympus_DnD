@@ -16,17 +16,17 @@ Children of Poseidon play 1 of two roles:
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:| :--:|
-|       1        |      1       |  <mark style="background: #620075A6;"> 1 CT</mark>    |   <mark style="background: #620075A6;">5 CT</mark>   | - |
+|       1        |      1       |  <mark style="background: #620075A6;"> 1 CT</mark>    |   <mark style="background: #620075A6;">3 CT</mark>   | - |
 
 Summon a huge wave to lift you up. +10 to movespeed and <mark style="background: #004A4CA6;"> -1</mark> to agility.
-You Can crash this wave on an opponent for <mark style="background: #930000A6;">1d6</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d4</mark> instead.
+You Can crash this wave on an opponent for <mark style="background: #930000A6;">1d8</mark> , ending the effect. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #930000A6;">2d6</mark> instead.
 
 ------------------
 <b><ins><i>Control Water:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:| :---: |
-|       1        |      2       |   <mark style="background: #620075A6;">1 CT</mark>    |   <mark style="background: #620075A6;">3 CT</mark>   | <mark style="background: #000B67A6;">8-Meters</mark> |
+|       1        |      3       |   <mark style="background: #620075A6;">1 CT</mark>    |   <mark style="background: #620075A6;">3 CT</mark>   | <mark style="background: #000B67A6;">8-Meters</mark> |
 
 You can move and control nearby water.
 Pick between one of the following effects:
@@ -34,6 +34,7 @@ Pick between one of the following effects:
 Raise the level of a nearby Body of water by <mark style="background: #000B67A6;">1d4</mark> * 2 Meters
 <b><ins><i>Redirect Flow:</i></ins></b>
 You cause flowing water in the area to move in a direction you choose.
+This water can move up to 10 Meters
 <b><ins><i>Vortex:</i></ins></b>
 This effect requires a large body of water.
 Create a vortex in the body of water, <mark style="background: #000B67A6;">8 Meters</mark> across and <mark style="background: #000B67A6;">10 Meters</mark> deep.
@@ -42,11 +43,12 @@ Creatures in the area are pulled towards the vortex and must make a <mark style=
 ------------------
 <b><ins><i>Geiser:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |
-|:--------------:|:------------:|:---------:|:--------:|
-|       3        |      2       |  <mark style="background: #620075A6;">Instant</mark>  |    -     | 
+| Level Required | Uses Per Day |                      Cast Time                      | Duration | range |
+|:--------------:|:------------:|:---------------------------------------------------:|:--------:| ----- |
+|       3        |      1       | <mark style="background: #620075A6;">Instant</mark> |    -     |    10 Meters   | 
 
-From deep inside you erupts a massive flow of water, dealing <mark style="background: #9E0000A6;">2d6</mark> to everything in its path. If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #9E0000A6;">2d4</mark> instead.
+From deep inside you erupts a massive flow of water, in a straight line up to the range away from you, dealing <mark style="background: #9E0000A6;">1d12</mark> to everything in its path. 
+If you are near a body of water (<mark style="background: #0900A7A6;">20-Meters</mark>), deal <mark style="background: #9E0000A6;">2d8</mark> instead.
 This Boon summons a large amount of water - if you are in an enclosed space, consider this area a flooded area or a body of water.
 
 ------------------
@@ -54,10 +56,10 @@ This Boon summons a large amount of water - if you are in an enclosed space, con
 
 | Level Required | Uses Per Day | Cast Time | Duration |
 |:--------------:|:------------:|:---------:|:--------:|
-|       3        |      1       |      Instant     |    -      |
+|       3        |      3       |      Instant     |    -      |
 
 Use a heavenly hook to pull a target up to <mark style="background: #000B67A6;">4 Meters</mark> towards you. 
-Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
+Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
 
 ------------------
 <b><ins><i>Water Whip:</i></ins></b>
@@ -69,7 +71,7 @@ Then, if the target is an enemy, deal <mark style="background: #930000A6;">1d6</
 Summon a water tool. The water tool can be used to deal damage or move creatures.
 choose one attack:
 ***Whip*** - do <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
-***Lasso*** -The target must make an <mark style="background: #00BB4D;">Dexterity</mark> saving roll or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] and be slammed to the ground.
+***Lasso*** -The target must make an <mark style="background: #00BB4D;">Dexterity</mark> saving roll or take <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]] and be slammed to the ground, becoming [[Afflictions#Stunned|stunned]] for 1 CT.
 ***Hook*** - The target must make an <mark style="background: #004A4CA6;">Agility</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] and be pulled <mark style="background: #000B67A6;">2 Meters</mark> towards the caster
 ***Fist*** - The target must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or take <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and be pushed <mark style="background: #000B67A6;">2 Meters </mark> away from the caster.
 
@@ -79,13 +81,13 @@ choose one attack:
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |  <mark style="background: #620075A6;">Intsant</mark>   |    <mark style="background: #620075A6;">3 CT</mark>     | <mark style="background: #000B67A6;">2 Meters </mark>| 
+|       5        |      2       |  <mark style="background: #620075A6;">Intsant</mark>   |    <mark style="background: #620075A6;">3 CT</mark>     | <mark style="background: #000B67A6;">2 Meters </mark>| 
 
 Summon a small watery object in your hand.
-This object can be placed or thrown up to Might + 2 Meters from you.
-If thrown, explodes immediately.
+This object can be placed or thrown up to 2 + <mark style="background: #3800D7A6;">Might</mark> Meters from you.
+If thrown, explodes immediately on impact.
 If placed, you can place a timer on it.
-The explosion deals <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] to all creatures in the range and spawns a body of water.
+The explosion deals <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] to all creatures in the range and spawns a body of water.
 
 ------------------
 <b><ins><i>Earthquake:</i></ins></b>
