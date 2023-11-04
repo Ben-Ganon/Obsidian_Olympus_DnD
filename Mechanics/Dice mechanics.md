@@ -1,6 +1,6 @@
 In the Olympus DnD game, every attribute (strength, agility, wisdom ) value corresponds to a different dice roll (in character sheer.
 For example, having an Agility Value of 5 will mean you roll a D6 for agility checks. 
-having a value of 12+ means rolling a D20.
+having a value of 17+ means rolling a D20.
 
 #### Advantage:
 Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D20 and so on)
