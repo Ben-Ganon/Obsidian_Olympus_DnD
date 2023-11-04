@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+                "file": "Gods and Powers/Tauros.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "+1",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+                "file": "Gods and Powers/Tauros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+                "file": "Gods and Powers/Tauros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Oracle Caves/Potion Riddle.md"
+                "file": "Gods and Powers/Tauros.md"
               }
             }
           },
@@ -166,10 +166,14 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
-    "Lore - do not read!/Athens Government.md",
+    "Lore - do not read!/The Plot.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Tauros.md",
+    "Lore - do not read!/Oracle Caves/The Prophecy from the Oracle.md",
+    "Lore - do not read!/Greek Curse Words.md",
     "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+    "Lore - do not read!/Athens Government.md",
     "Lore - do not read!/Oracle Caves",
-    "Lore - do not read!/Untitled.md",
     "Lore - do not read!/Characters/Zeno.md",
     "Lore - do not read!/Characters/Sokrates.md",
     "Lore - do not read!/Characters/Alkibialdes.md",
@@ -192,10 +196,6 @@
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Playable Patrons.md",
-    "Gods and Powers/Janus.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
     "Images/Aphelios.png",
     "Images/Atlas.png",
     "Images/Athens Guards.pdf",

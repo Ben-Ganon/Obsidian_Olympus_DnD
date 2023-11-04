@@ -1,0 +1,8 @@
+- amathés - fool
+- aphòdeuma - shit
+- malakas - wanker
+- pornìdion - slut
+- chalkòs - cheeky, impudent
+- es kòrakas . fuck off
+- katàratos - cursed
+- 
