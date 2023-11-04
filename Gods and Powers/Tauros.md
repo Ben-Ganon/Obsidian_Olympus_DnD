@@ -16,7 +16,7 @@ The powers he gives to his believers and children, then, are a mix of combat pro
 Charge an enemy with extreme force and speed.
 Deal <mark style="background: #3800D7A6;">Might</mark> + <mark style="background: #004A4CA6;">Agility</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] to an enemy in range.
 This moves you to the enemy.
-The target makes a might saving roll, and n success, target takes half damage.
+The target makes a might saving roll, and on success, target takes half damage.
 
 ------------------
 

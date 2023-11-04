@@ -11,11 +11,9 @@
             "id": "39a07bd2e6b78a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Ares.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
+                "file": "Images/Ares.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
+                "file": "Images/Ares.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Tauros.md"
+                "file": "Images/Ares.png"
               }
             }
           },
@@ -146,12 +144,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39a07bd2e6b78a89",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
+    "Gods and Powers/Tauros.md",
     "Lore - do not read!/The Plot.md",
     "Gods and Powers/Janus.md",
-    "Gods and Powers/Tauros.md",
     "Lore - do not read!/Oracle Caves/The Prophecy from the Oracle.md",
     "Lore - do not read!/Greek Curse Words.md",
     "Lore - do not read!/Oracle Caves/Potion Riddle.md",
