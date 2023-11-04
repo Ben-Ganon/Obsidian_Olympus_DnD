@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Gods and Powers/Poseidon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md"
+                "file": "Gods and Powers/Poseidon.md"
               }
             }
           },
@@ -166,9 +166,19 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
     "Info and Values/Character Sheet.pdf",
     "Mechanics/Combat Mechanics.md",
-    "Gods and Powers/Demeter.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Weapons.md",
     "Gods and Powers/Aphrodite.md",
     "Mechanics/Dice mechanics.md",
     "Images/Ares.png",
@@ -185,15 +195,6 @@
     "Lore - do not read!/Characters/Alkibialdes.md",
     "Lore - do not read!/Characters/Perikles.md",
     "Lore - do not read!/Characters/Gregor Othonos.md",
-    "Lore - do not read!/Characters/The Cult of the Bull.md",
-    "Lore - do not read!/Characters/Hector Pantazis.md",
-    "Lore - do not read!/Characters/Lysander Hasapis.md",
-    "Lore - do not read!/Characters/Penelope Diakos.md",
-    "Lore - do not read!/Athens Encounter.md",
-    "Gods and Powers/Ares.md",
-    "Mechanics/Afflictions.md",
-    "Summonable Entities/Hercules.md",
-    "Summonable Entities/Achilles.md",
     "Pasted image 20231103131033.png",
     "Pasted image 20231103131030.png",
     "Pasted image 20231103130856.png",
