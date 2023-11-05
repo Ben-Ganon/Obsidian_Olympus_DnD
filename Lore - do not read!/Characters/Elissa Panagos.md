@@ -1,0 +1,5 @@
+Head Priestess of the Temple of Aphrodite in Athens.
+A meek woman, she rose to be head of the temple not because of ambition and hard work, but due to her incredible beauty and intense magic given by Aphrodite as sort of a cruel game.
+Elissa has a tendency to get a little too drunk at parties to relieve the stress of a position she is not equipped to handle, and this caused a troublesome habit of getting a little bit too promiscuous with married nobility.
+Catching the eye of [[Lysander Hasapis]], he immediately made her spill all her  secrets in an ill fated night of heavy drinking. 
+This gave Lysander an incredible leverage over her, and he would use this to force her to use her magic to server him often, even though it usually a trivial favor such as convincing one city official or another to be lenient with Lysander's raging nepotistic tendencies of filling council seats with cult members.

@@ -11,7 +11,7 @@ Heroes who are children of humans gain +1 to the <mark style="background:  #FFAD
 
 
 ------------------
-
+![[beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png | 300]]
 #### Minotaur:
 Half bull and half man, these creatures are large and powerful, and gain a boon from Tauros, the bull god.
 Minotaur's children appear as large, muscle covered humanoids with small horns protruding from their heads,
