@@ -6,15 +6,9 @@ When Creating a character, choose a race:
 #### Human:
 The dominant race in ancient Greece. 
 Humans are highly creative, have superior willpower to accomplish their goals and are very charismatic, and have an easy time blending in to their surroundings.
-Heroes who are children of humans gain +1 to the Intuition stat.
+Heroes who are children of humans gain +1 to the <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark> stats.
 
-<b><ins><i>Eternal Willpower:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      1       |  Instant  |   1 CT     |   -   | 
-
-For this CT, gain +1 to any willpower roll.
 
 ------------------
 
