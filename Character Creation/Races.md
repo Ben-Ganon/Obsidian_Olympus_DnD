@@ -29,6 +29,7 @@ Move to an enemy in range, dealing your Might roll as [[Combat Mechanics#Blunt D
 
 
 ------------------
+![[Dryad.png | 300]]
 #### Dryad
 Dryads are spirits of the forest, each one inhabiting a tree or plant.
 They are said to be the guardians of nature, and have a keen eye for botany.
@@ -46,6 +47,7 @@ Your next turn is spent as a plant, you cannot take damage but also cannot take 
 Heal for <mark style="background: #045B00A6;">1d6</mark> that turn.
 
 ------------------
+![[Nymph.png | 300]]
 #### Nymph
 Nymphs are water spirits, inhabiting lakes and rivers.
 The nymphs are a gentle bunch, and usually prefer not to partake in combat.
@@ -63,6 +65,7 @@ Turn momentarily into water, and flow away from enemies up to <mark style="backg
 This prevents attacks of opportunity on the user while flowing.
 
 ------------------
+![[cyclops.jpg |300]]
 #### Cyclop
 Cyclops are one-eyed giants that terrorize towns and islands.
 They are also the legendary creators of the Olympians weapons.
@@ -80,6 +83,7 @@ Upgrade your melee weapon with magical forge-fire.
 your next attack deals an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]]
 
 ------------------
+![[beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png | 300]]
 #### Satyr
 Satyrs are nature oriented creatures, and are described as goat-men hybrids with furry bottoms, horns, and hairy human top halves.
 Satyrs usually worship Dionysos and Pan, and will fight fiercely to protect their wild habitat.
@@ -137,5 +141,3 @@ This can be quickly splashed on an ally next turn to heal them for <mark style="
 
 ------------------
 
-#### Test
-##### undertest
