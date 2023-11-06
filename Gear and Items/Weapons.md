@@ -4,7 +4,7 @@
 |      Xiphos      | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |         -         |
 |      Kopis       | Long Sword              |       1d8       |       1d4       |            -             |         -         |         6         |
 |       Dory       | Spear                   |     2d4/1d6     |       1d4       |         4 Meters         |         -         |         -         |
-|      Labrys      | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |         6         |
+|      Labrys      | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |         -         |
 |       Toxo       | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |         -         |
 |  Syntheto Toxo   | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |         -         |
 |      Sfyri       | Hammer                  |       1d6       |        -        |            -             |        1d4        |         6         |

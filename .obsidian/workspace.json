@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "Lore - do not read!/Characters/Elissa Panagos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "Lore - do not read!/Characters/Elissa Panagos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "Lore - do not read!/Characters/Elissa Panagos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Races.md"
+                "file": "Lore - do not read!/Characters/Elissa Panagos.md"
               }
             }
           },
@@ -166,15 +166,21 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
-    "Nymph.png",
-    "Satyr.png",
-    "cyclops.jpg",
-    "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Shields and Armor.md",
+    "Images/Satyr.png",
+    "Images/Nymph.png",
+    "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
+    "index.md",
+    "Character Creation/Character Creation Guide.md",
+    "Character Creation/Starter Kits.md",
     "Character Creation/Races.md",
-    "Dryad.png",
-    "beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
-    "beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
-    "beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
+    "Images/cyclops.jpg",
+    "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
+    "Images/Dryad.png",
+    "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
+    "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
     "Lore - do not read!/Characters/Elissa Panagos.md",
     "Info and Values/Character Sheet.pdf",
     "Character Creation/God Bonus Stat Chart.md",
@@ -190,20 +196,14 @@
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
     "Mechanics/Combat Mechanics.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Weapons.md",
     "Gods and Powers/Aphrodite.md",
     "Mechanics/Dice mechanics.md",
     "Images/Ares.png",
     "Gods and Powers/Tauros.md",
     "Lore - do not read!/The Plot.md",
     "Gods and Powers/Janus.md",
-    "Lore - do not read!/Oracle Caves/The Prophecy from the Oracle.md",
-    "Lore - do not read!/Greek Curse Words.md",
-    "Lore - do not read!/Oracle Caves/Potion Riddle.md",
     "Lore - do not read!/Oracle Caves",
-    "Pasted image 20231103131033.png",
-    "Pasted image 20231103131030.png",
+    "Images/Pasted image 20231103131033.png",
     "Images/Athens Guards.pdf",
     "Images/Lysander.pdf",
     "Images/Zagreus.pdf",
