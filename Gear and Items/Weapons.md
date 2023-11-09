@@ -1,4 +1,4 @@
-|       Name       | Type                    | Offensive Value | Defensive Value | Effective Range (Thrown) | Grapple Offensive | Might Requirement |
+|       Name       | Type                    | Offense Value | Defense Value | Effective Range | Grapple Dmg | Might Required |
 |:----------------:| ----------------------- |:---------------:|:---------------:|:------------------------:|:-----------------:|:-----------------:|
 |     Akinakes     | Knife                   |       1d4       |        -        |         4 Meters         |        1d6        |         -         |
 |      Xiphos      | Short Sword             |       1d6       |       1d4       |            -             |        1d4        |         -         |

@@ -10,11 +10,12 @@ To create your character, do the following steps:
 	2. How are they as a person? (kind, angry, flirty...)
 	3. Personal history (loving family, friends and enemies, social standing...)
 	4. What are their motivations? (wants power, wants love, wants to be famous...)
+	5. Who do they get along with? who do they hate? (in the party/in the world)
    
    Then fill the [[Character Sheet.pdf|character sheet]] according to the following:
 	1. Movespeed - it is exactly 2 times your Agility
 	2. Hp Max - exactly 4 times your Might
 	3. Magical Armor rating - starts at 0
-	4. Armor Rating - Your [[Combat Mechanics#Armor Rating|Armor Rating]] is the sum of the armor and helmet armor rating equipped to you.
+	4. Armor Rating - Your [[Combat Mechanics#Armor Rating|Armor Rating]] is the sum of the armor and helmet equipped to you.
 	5. Level - 0
 	6. Size Category - medium
