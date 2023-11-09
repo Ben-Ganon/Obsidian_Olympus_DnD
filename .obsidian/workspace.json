@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md",
+                "file": "Lore - do not read!/Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md",
+                "file": "Lore - do not read!/Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md",
+                "file": "Lore - do not read!/Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md"
+                "file": "Lore - do not read!/Names.md"
               }
             }
           },
@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
+    "width": 345.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,6 +166,8 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
+    "Character Creation/Character Creation Guide.md",
+    "Lore - do not read!/Names.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Races.md",
     "Character Creation/Starter Kits.md",
@@ -184,7 +186,6 @@
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
     "index.md",
-    "Character Creation/Character Creation Guide.md",
     "Images/cyclops.jpg",
     "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
     "Images/Dryad.png",
@@ -200,7 +201,6 @@
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
     "Images/Ares.png",
     "Lore - do not read!/Oracle Caves",
     "Images/Pasted image 20231103131033.png",
