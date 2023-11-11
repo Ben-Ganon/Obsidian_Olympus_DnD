@@ -21,6 +21,13 @@
 - The Back Box represents a large equipped item - 
   You can still hold small things there (like a water pot or a knife), but can also store a bow or a spear there.
 - The Extra Slots are small items - knives, pots, small orbs or any other small item.
+- Each item and where it can go:
+  Spears, Swords, Hammers, Bow, Lyre, Shields - Hands, Back Slot
+  Axes, Knives - Hand, Back, Extra Slot, Ammo Slot
+  Quiver - Ammo Slot
+  Small items (pots, small orbs, small books) - any Slot
+  Large Items (heavy pieces of wood, large pots) - Hands, Back
+
 ### Weapons and Inventory
 - You can switch weapons during combat.
 - If the weapon was equipped (written on the character sheet figure) but not in your hand, then is a bonus action and can happen instantly.

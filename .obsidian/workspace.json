@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/Names.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Names.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Names.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Names.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           },
@@ -166,15 +166,16 @@
   },
   "active": "39a07bd2e6b78a89",
   "lastOpenFiles": [
-    "Character Creation/Character Creation Guide.md",
-    "Lore - do not read!/Names.md",
-    "Character Creation/God Bonus Stat Chart.md",
+    "Gear and Items/Weapons.md",
+    "Mechanics/Combat Mechanics.md",
     "Character Creation/Races.md",
     "Character Creation/Starter Kits.md",
+    "Info and Values/Canva Resources.md",
+    "Lore - do not read!/Names.md",
+    "Character Creation/Character Creation Guide.md",
+    "Character Creation/God Bonus Stat Chart.md",
     "Gear and Items/Quivers.md",
-    "Gear and Items/Weapons.md",
     "Mechanics/Dice mechanics.md",
-    "Mechanics/Combat Mechanics.md",
     "Mechanics/Afflictions.md",
     "Gear and Items/The Black Key.md",
     "Gear and Items/Shields and Armor.md",
@@ -200,7 +201,6 @@
     "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
     "Images/Ares.png",
     "Lore - do not read!/Oracle Caves",
     "Images/Pasted image 20231103131033.png",
