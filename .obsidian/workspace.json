@@ -4,15 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "1eea91004094c002",
+        "id": "d29bd51275dce790",
         "type": "tabs",
+        "dimension": 53.18532818532818,
         "children": [
           {
-            "id": "8d2d8bbfaacbc084",
+            "id": "7188133fa6c1201e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Athens Encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e0cf6619616f6901",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Session 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c6814f6a54b00f9d",
+        "type": "tabs",
+        "dimension": 46.81467181467182,
+        "children": [
+          {
+            "id": "4ecc9bab6fe7848b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "af478f6715644447",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Races.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore - do not read!/Session 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lore - do not read!/Session 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lore - do not read!/Session 1 Notes.md"
+              }
             }
           },
           {
@@ -156,12 +215,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d2d8bbfaacbc084",
+  "active": "e0cf6619616f6901",
   "lastOpenFiles": [
-    "Lore - do not read!/Athens Government.md",
-    "Lore - do not read!/The Plot.md",
     "Lore - do not read!/Athens Encounter.md",
     "Lore - do not read!/Session 1 Notes.md",
+    "Lore - do not read!/Names.md",
+    "Character Creation/Races.md",
+    "Lore - do not read!/Greek Curse Words.md",
+    "Lore - do not read!/Athens Government.md",
+    "Character Creation/Starter Kits.md",
+    "Lore - do not read!/The Plot.md",
     "Lore - do not read!/Characters/Penelope Diakos.md",
     "Lore - do not read!/Characters/Hector Pantazos.md",
     "Lore - do not read!/Characters/Gregor Othonos.md",
@@ -176,17 +239,13 @@
     "Lore - do not read!/Characters/Alkibialdes.md",
     "Images/Lysander.pdf",
     "Images/Akropolis.png",
-    "Lore - do not read!/Names.md",
     "Mechanics/Afflictions.md",
     "index.md",
     "Gear and Items/Shields and Armor.md",
-    "Character Creation/Starter Kits.md",
     "Gods and Powers/Olympian Family Tree.md",
     "Gods and Powers/Ares.md",
-    "Character Creation/Races.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Gods and Powers/Hephaestus.md",
-    "README.md",
     "Images/Satyr.png",
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
