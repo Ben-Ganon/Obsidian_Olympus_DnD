@@ -35,6 +35,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "89a3703332db489e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Greek Curse Words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -219,9 +231,9 @@
   "lastOpenFiles": [
     "Lore - do not read!/Athens Encounter.md",
     "Lore - do not read!/Session 1 Notes.md",
+    "Lore - do not read!/Greek Curse Words.md",
     "Lore - do not read!/Names.md",
     "Character Creation/Races.md",
-    "Lore - do not read!/Greek Curse Words.md",
     "Lore - do not read!/Athens Government.md",
     "Character Creation/Starter Kits.md",
     "Lore - do not read!/The Plot.md",

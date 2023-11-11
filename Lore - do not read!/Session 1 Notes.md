@@ -4,6 +4,7 @@
 	- Adamantios - Market encounter with Gregor Orthonos
 	- Demi - Market encounter with Adamantios and Gregor
 	- Anthosia - Demeter encounter in her temple
+	- Pierre - Center square dance off.
 - Hermes Crashes - 
 	- Heroes move to Akropolis
 	- Hermes crashes down 
@@ -34,3 +35,8 @@
 - Lysander Hasapis
 - Demeter
 - Hector Pantazos
+
+
+### Live notes 
+Theodore - slave in possession of Gregor, wants freedom but is very attached to his father figure.
+Dolores the chicken. 
