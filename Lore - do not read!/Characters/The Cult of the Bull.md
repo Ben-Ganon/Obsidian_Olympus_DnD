@@ -58,9 +58,9 @@ They developed an intense relationship, leading her to truly feel like someone u
 But all was not well.
 Hades, seeing his daughter gain respect and power in his realm, grew jealous, and cast Nyx out from his realm.
 As a parting gift, Thanatos gave Nyx [[The Black Key]], which could open a back door to hades, should she ever want to come back to the underworld to see him.
-Heartbroken by the sudden loss, Nyx grew tired of this world, and set to take her life the next day. 
+Heartbroken by the sudden loss, Nyx grew tired of this world, and set to take her life the next day, just to force her father to let her rejoin the underworld, if only in Asphodel. 
 In a surprising twist of fate, just as Nyx emerged from the underworld, she met Aphelios, who promised her this world, and hades with it, could end for all.
-
+Seeing this as a much better option, Nyx decided this was the best path for her - slay her father, ruin the underworld, and reunite with Thanatos.
 
 The Cult of the bull, lead by the three lieutenants, was sent to the gates of Hades at Crete, the Oracle at Delphi, and the island of Delos.
 There - through her powers Nyx was able to avoid detection and open a small gate in Hades, through which souls could escape.

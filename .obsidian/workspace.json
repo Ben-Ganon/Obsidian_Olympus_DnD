@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "332cc12e70b8f9de",
+        "id": "1eea91004094c002",
         "type": "tabs",
         "children": [
           {
-            "id": "636e5bb8af27f78e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Athens Government.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b2894152ab7e0285",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/The Plot.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "aabd176ad49ebe02",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Athens Encounter.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7aa7ff5b4c91d497",
+            "id": "8d2d8bbfaacbc084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Characters/Selene.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Characters/Selene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Characters/Selene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lore - do not read!/Characters/Selene.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,20 +156,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7aa7ff5b4c91d497",
+  "active": "8d2d8bbfaacbc084",
   "lastOpenFiles": [
-    "Lore - do not read!/Characters/The Cult of the Bull.md",
-    "Lore - do not read!/Characters/Selene.md",
-    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Lore - do not read!/Athens Government.md",
+    "Lore - do not read!/The Plot.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Lore - do not read!/Session 1 Notes.md",
+    "Lore - do not read!/Characters/Penelope Diakos.md",
+    "Lore - do not read!/Characters/Hector Pantazos.md",
     "Lore - do not read!/Characters/Gregor Othonos.md",
+    "Lore - do not read!/Oracle Caves/Potion Riddle.md",
+    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "Hector Pantazis.png",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Lore - do not read!/Characters/Atlas.md",
+    "Lore - do not read!/Characters/Selene.md",
+    "Lore - do not read!/Characters/Perikles.md",
     "Lore - do not read!/Characters/Elissa Panagos.md",
     "Lore - do not read!/Characters/Alkibialdes.md",
-    "Lore - do not read!/Athens Encounter.md",
     "Images/Lysander.pdf",
     "Images/Akropolis.png",
-    "Lore - do not read!/Athens Government.md",
     "Lore - do not read!/Names.md",
-    "Lore - do not read!/The Plot.md",
     "Mechanics/Afflictions.md",
     "index.md",
     "Gear and Items/Shields and Armor.md",
@@ -231,12 +187,6 @@
     "Character Creation/God Bonus Stat Chart.md",
     "Gods and Powers/Hephaestus.md",
     "README.md",
-    "Mechanics/Metal Types.md",
-    "Mechanics/Combat Mechanics.md",
-    "Gods and Powers/Dionysos.md",
-    "Templates/Color Codes.md",
-    "Gear and Items/Weapons.md",
-    "Info and Values/Canva Resources.md",
     "Images/Satyr.png",
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
@@ -246,7 +196,6 @@
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
     "Info and Values/Character Sheet.pdf",
-    "Images/Ares.png",
     "Lore - do not read!/Oracle Caves",
     "Images/Athens Guards.pdf",
     "Images/Zagreus.pdf",
