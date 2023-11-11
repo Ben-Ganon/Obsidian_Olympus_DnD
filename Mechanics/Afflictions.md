@@ -5,15 +5,15 @@ Target can still attack, block, and use abilities
 Target cannot move, block, attack, or use boons and abilities.
 Target can still see and hear. 
 ### Marked
-Marked targets have a harder time concealing themselves from you, gaining <mark style="background: #000000;">-1</mark> on all stealth rolls. 
-Additionally, gain 5 movespeed towards marked targets. 
-A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d4</mark> extra damage
+Marked targets have a harder time concealing themselves from you, gaining <mark style="background: #222224;">-1</mark> on all stealth rolls. 
+Additionally, gain 6 movespeed towards marked targets. 
+A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d6</mark> extra damage and the mark is removed.
 ### Flanked
 Flanked targets take extra damage from attacks and receive -1 on all disengage attacks.
 #### Grapple
 In order to grapple a target a hero must make an [[Dice mechanics#Opposed rolls |opposed]] Might roll against an enemy.
 Grappled targets are pinned to the ground (Prone) and cannot move, block or dodge.
-Each CT they must roll Might to be released from the grapple.
+Each CT they must roll an opposed Might check to be released from the grapple.
 #### Blind
 Blinded targets cannot see the battlefield.
 Blinded enemies have disadvantage on attack, dodge and Intuition rolls.

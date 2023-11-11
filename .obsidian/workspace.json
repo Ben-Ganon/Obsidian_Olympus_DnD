@@ -8,18 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39a07bd2e6b78a89",
+            "id": "636e5bb8af27f78e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Athens Government.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b2894152ab7e0285",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/The Plot.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "aabd176ad49ebe02",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Athens Encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7aa7ff5b4c91d497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Lore - do not read!/Characters/Selene.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Lore - do not read!/Characters/Selene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "Lore - do not read!/Characters/Selene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md"
+                "file": "Lore - do not read!/Characters/Selene.md"
               }
             }
           },
@@ -164,48 +207,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39a07bd2e6b78a89",
+  "active": "7aa7ff5b4c91d497",
   "lastOpenFiles": [
-    "Gear and Items/Weapons.md",
-    "Mechanics/Combat Mechanics.md",
-    "Character Creation/Races.md",
-    "Character Creation/Starter Kits.md",
-    "Info and Values/Canva Resources.md",
-    "Lore - do not read!/Names.md",
-    "Character Creation/Character Creation Guide.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Gear and Items/Quivers.md",
-    "Mechanics/Dice mechanics.md",
-    "Mechanics/Afflictions.md",
-    "Gear and Items/The Black Key.md",
-    "Gear and Items/Shields and Armor.md",
-    "Mechanics/Metal-Creature interactions.md",
-    "Mechanics/Metal Types.md",
-    "Mechanics/Level Up Chart.md",
+    "Lore - do not read!/Characters/The Cult of the Bull.md",
+    "Lore - do not read!/Characters/Selene.md",
+    "Lore - do not read!/Characters/Hector Pantazis.md",
+    "Lore - do not read!/Characters/Gregor Othonos.md",
     "Lore - do not read!/Characters/Elissa Panagos.md",
+    "Lore - do not read!/Characters/Alkibialdes.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Images/Lysander.pdf",
+    "Images/Akropolis.png",
+    "Lore - do not read!/Athens Government.md",
+    "Lore - do not read!/Names.md",
+    "Lore - do not read!/The Plot.md",
+    "Mechanics/Afflictions.md",
+    "index.md",
+    "Gear and Items/Shields and Armor.md",
+    "Character Creation/Starter Kits.md",
+    "Gods and Powers/Olympian Family Tree.md",
+    "Gods and Powers/Ares.md",
+    "Character Creation/Races.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Gods and Powers/Hephaestus.md",
+    "README.md",
+    "Mechanics/Metal Types.md",
+    "Mechanics/Combat Mechanics.md",
+    "Gods and Powers/Dionysos.md",
+    "Templates/Color Codes.md",
+    "Gear and Items/Weapons.md",
+    "Info and Values/Canva Resources.md",
     "Images/Satyr.png",
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
-    "index.md",
     "Images/cyclops.jpg",
     "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
     "Images/Dryad.png",
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
     "Info and Values/Character Sheet.pdf",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Demeter.md",
     "Images/Ares.png",
     "Lore - do not read!/Oracle Caves",
-    "Images/Pasted image 20231103131033.png",
     "Images/Athens Guards.pdf",
-    "Images/Lysander.pdf",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",

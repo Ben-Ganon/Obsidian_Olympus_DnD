@@ -1,11 +1,11 @@
-The Heroes are gathered in Athens for the summer solstice.
+The Heroes are gathered in Athens for the summer solstice, each for their own reasons.
 The weather is foggy, grey clouds smothering the sun, bitter cold biting into all.
-The Athenians, wondering what could have stopped summer from coming, hold the festivities at the temple of Athena anyway.
+The Athenians, wondering what could have stopped summer from coming, hold the festivities at the Akropolis anyway.
 
 Athens, even while shrouded in dark clouds and frost, still glimmers white and gold.
-The massive stone temples strewn about the city and the acropolis almost seem to glow even if no light is shining on them.
+The massive stone temples strewn about the city and the acropolis almost seem to glow even if no direct light is shining on them.
 In the streets, the citizens of Athens are a varied bunch: 
-Vendors yell in the market stalls to sell produce, jewelry and other art.
+Vendors yell in the market stalls to sell produce, jewelry, pottery and other art.
 In the docks, sailors are loading massive triremes with boxes of supplies and hoisting sails and oars.
 Teachers and small classes sit outside, studying various sciences and philosophy.
 In the slave district, chained slaves walk in long lines towards giant auction houses. 
@@ -22,17 +22,37 @@ Even so, all of Athens is partaking in the events, hoping their sacrifices and j
 Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Council, and are looking out for Heroes on quests to aid the Olympians.
 
 #### Amara
-Amara, daughter of Aphrodite and a gorgon, is talking to a vendor near the slave quarters, trying to bargain for a better price for various pieces of jewelry. 
-He tells her that she looks like his wife, who is missing - possibly defected or kidnapped by some cult she was obsessed with.
-The seller, Gregor Othonos, a slave trader doubling as a seller in his booth, abuses a slave to go get the pretty lady something from the back.
-
+Amara, daughter of Aphrodite and a regular man, is praying at the temple of Aphrodite in Athens, giving thanks for her safe arrival to the big city.
+The revelation of her gorgon curse has turned her life upside down, and she hopes to find both answers and solace in the city.
+To do this, she must find her lost father, who since has disappeared into the large metropolis.
+The priestesses at the mountain temple do not know of the curse, only that it can be lifted with enough godly magic.
 #### Adamantios
-Adamantios is on the opposite side of the stall, looking at shiny bronze swords and armor.
-He listens in on the interaction with the slave and intervenes?
+Adamantios, a half minotaur and freed slave from sparta, 
+His life was not easy - his mother died when he was an infant, and being raised as a spartan slave to a general is not a walk in the park either. 
+He comes to Athens to follow his earthly parentage - who was his mother? does Adamantios have more family that could accept him for who he really is, horns and all?
+We find him searching for weapons in a stall near the slave quarters. 
+Adamantios notices the seller has an assistant, and starts to suspect he is not there by choice.
 
-A thief steals something from one of the heroes, and a 
+#### Anthosia
+Anthosia meant to live a peaceful life. 
+She really did.
+This whole "Persephone-kidnapped-no-spring" thing really made that purpose hard.
+When Demeter discovered her daughter was missing, Anthosia could feel it instantly - suddenly her temper shifted and she could feel a deep rage inside of her - this is a powerful internal conflict with her more relaxed flowy nature.
+Her mother being a nymph, she had a great connection with nature and despised people who would abuse it to their benefit.
+But now she must venture into the city to figure out what happened - even though she never touched a marble building in her life.
+She heads to the temple of Demeter in Athens, in hopes her mother would help her figure out what is going on. 
+Will she answer?
 
-Later, the heroes are gathered at the newly built Parthenon for the main sacrifice happening soon at mid-day.
+#### Demi
+Demi is the daughter of Zeus and a man.
+Zeus promised to protect her mother and care for her, but then typically disappeared once their affair was over. 
+She grew up very poor in the streets of Athens, so she has abundant street smarts. She hates the gods with an intense passion, and wants Zeus to answer for his poor treatment of her mother - one way or another.
+Even though she feels intense rage towards him, with every day that passes she realizes she is becoming more like him with each passing day.
+We find her working one of the stalls, Where nearby Adamantios is discovering that even in enlightened Athens the slave trade is blossoming.
+
+
+![[Akropolis.png | 300]]
+Later, the heroes are gathered at the newly built Parthenon for the main sacrifice happening within the hour at mid-day.
 The Parthenon shines brightly, as if beckoning the people gathered to come closer and appreciate its marvel.
 The impossibly tall stone columns almost seem to convey that they will always be above you, silently judging.
 About an hour before the grand sacrifice, the crowd at the Acropolis is getting denser by the minute. 
@@ -42,11 +62,11 @@ The hum and buzz of the crowd is almost deafening, but in a gentle, pleasant way
 Suddenly, a giant crack of thunder is heard throughout the city.
 A lightning bolt strikes the main plaza. 
 The plaza and people unharmed, the heroes can see an impossibly large man (around 2-3 meters in height) kneeling in the impact zone.
-"Gods I'll never get used to that"
+"Malakas, I'll never get used to that"
 He rises up, snaps his fingers and the dust evaporates from him.
 He looks to be quite young, simultaneously teenage and child, with golden eyes, shaggy brown hair and a quirky, mischievous smile.
 In his hands, a large bronze staff is writhing - the Caduceus.
-He seems quite twitchy, speaking fast and with a certain haste to his words - like he's trying to wrap up a meeting to rush home because his oven is on.
+He seems quite twitchy, speaking fast and with a certain haste to his words - like he's trying to wrap up a meeting because he is late to his second job delivering mail.
 He starts to levitate slightly, and his voice beams across the Acropolis:
 "Good citizens of our glorious Athens!"
 The crowd is stunned. Everybody knows the gods exist, and many of them have seen both miracles and monsters, but having a god visit you directly is either incredible news or a terrible omen.
@@ -54,13 +74,16 @@ Considering the weather, the people in the Acropolis aren't very optimistic.
 "I have come to aide you in your time of need!
 You've probably noticed the horrible weather. 
 Not my dad for sure. However, we're pretty sure this is because Persephone is missing".
-Gasps arise from the crowd. How could a god be...missing?
+Gasps arise from the crowd. They all suspected this was the case, but having a god confirm it was something else entirely.
+How could a god be...missing?
 "To tackle this, the Olympians have decided to assemble a small team of heroes to try to address this.. **Problem**"
 A small scrolls pops into his hands.
 He unfurls it, and starts reading:
-"I am here by summoning our Heroes:
+"I am hereby summoning our Heroes:
 Amara, daughter of Aphrodite
 Adamantios, son of Ares
+Demi, Daughter of Zeus ***lightning crashes***
+Anthosia, Daughter of Demeter
 ___ ....
 Step forward mighty Heroes, so that you may receive the god's blessings on this difficult journey"
 The crowd is aghast with murmurs of excitement and anticipation.
@@ -85,3 +108,4 @@ The priestess rolls out the sacred bull to be sacrificed, and the heroes roll [I
 Start encounter.
 
 [[Athens Guards.pdf]]
+[[Lysander.pdf]]
