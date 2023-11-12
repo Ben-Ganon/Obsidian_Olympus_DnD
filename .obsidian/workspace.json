@@ -47,9 +47,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0891348e42f56dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Demeter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efe624138f2aa7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore - do not read!/Session 2 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "c6814f6a54b00f9d",
@@ -148,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Session 1 Notes.md",
+                "file": "Lore - do not read!/Session 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Session 1 Notes.md",
+                "file": "Lore - do not read!/Session 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Session 1 Notes.md"
+                "file": "Lore - do not read!/Session 2 Notes.md"
               }
             }
           },
@@ -227,12 +251,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0cf6619616f6901",
+  "active": "efe624138f2aa7b1",
   "lastOpenFiles": [
-    "Lore - do not read!/Athens Encounter.md",
-    "Lore - do not read!/Session 1 Notes.md",
-    "Lore - do not read!/Greek Curse Words.md",
+    "Lore - do not read!/Session 2 Notes.md",
     "Lore - do not read!/Names.md",
+    "Lore - do not read!/Session 1 Notes.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Aphrodite.md",
+    "Lore - do not read!/Athens Encounter.md",
+    "Lore - do not read!/Greek Curse Words.md",
     "Character Creation/Races.md",
     "Lore - do not read!/Athens Government.md",
     "Character Creation/Starter Kits.md",
@@ -253,11 +282,6 @@
     "Images/Akropolis.png",
     "Mechanics/Afflictions.md",
     "index.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gods and Powers/Olympian Family Tree.md",
-    "Gods and Powers/Ares.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Gods and Powers/Hephaestus.md",
     "Images/Satyr.png",
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
