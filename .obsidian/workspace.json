@@ -9,34 +9,6 @@
         "dimension": 53.18532818532818,
         "children": [
           {
-            "id": "7188133fa6c1201e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Athens Encounter.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e0cf6619616f6901",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Session 1 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "89a3703332db489e",
             "type": "leaf",
             "state": {
@@ -73,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "c6814f6a54b00f9d",
