@@ -1,4 +1,11 @@
 ### Battle with Lysander
+Agility Roles:
+Adamantios - 6 
+Amara - 2
+Anthosia - 1
+Demi - 1
+Pierre -1 
+
 - Introduce Hector
 - Hector escapes to warn the city guard
 ### After the Battle
@@ -7,7 +14,7 @@
 	- Use the underground tunnels to evade the guards and travel through the mountains to Delphi
 	- Fight your way out directly
 	- Go to the docks and steal a ship to sail to Delphi
-- Players can still move about the city, must make a stealth roll each time they choose an action - if the result is 1, 2 guards appear
+- Players can still move about the city, must make a stealth roll each time they choose an action - if the result is 1, 1d4 guards appear
 
 ### The Way to Delphi
 - By Land -
@@ -17,12 +24,8 @@
 		- Husband remains tied up
 		- Cult members are looting the house
 	- Hydra Encounter
-	- 
+- By Sea -
+	- War Ship encounter
+	- Hydra Encounter
 
 
-Agility Roles:
-Adamantios - 6 
-Amara - 2
-Anthosia - 1
-Demi - 1
-Pierre -1 
