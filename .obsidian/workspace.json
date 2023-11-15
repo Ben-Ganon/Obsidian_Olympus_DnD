@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed825749fe694ac0",
+        "id": "eb42f83a6ad2f2da",
         "type": "tabs",
         "children": [
           {
-            "id": "112f2a46ec76be06",
+            "id": "e8aa5b1023e619c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Hector Pantazis.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Hector Pantazis.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/Hector Pantazis.png"
+              }
             }
           },
           {
@@ -156,8 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "112f2a46ec76be06",
+  "active": "b37d173fb8e13678",
   "lastOpenFiles": [
+    "DM Lore/Session 1 Notes.md",
+    "DM Lore/Athens Encounter.md",
     "Player Lore/Athens Government.md",
     "DM Lore/Session 2 Notes.md",
     "Gear and Items/Item Prices.md",
@@ -167,11 +173,9 @@
     "Gear and Items/Weapons.md",
     "Gods and Powers/Demeter.md",
     "Player Lore/Names.md",
-    "DM Lore/Session 1 Notes.md",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Aphrodite.md",
-    "DM Lore/Athens Encounter.md",
     "Character Creation/Races.md",
     "Character Creation/Starter Kits.md",
     "DM Lore/The Plot.md",
@@ -180,7 +184,7 @@
     "DM Lore/Characters/Gregor Othonos.md",
     "DM Lore/Oracle Caves/Potion Riddle.md",
     "DM Lore/Characters/Lysander Hasapis.md",
-    "Hector Pantazis.png",
+    "Images/Hector Pantazis.png",
     "DM Lore/Characters/The Cult of the Bull.md",
     "DM Lore/Characters/Atlas.md",
     "DM Lore/Characters/Selene.md",
