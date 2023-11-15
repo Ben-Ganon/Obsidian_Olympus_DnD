@@ -3,6 +3,6 @@
 - malakas - wanker
 - pornìdion - slut
 - chalkòs - cheeky, impudent
-- es kòrakas . fuck off
+- es kòrakas - fuck off
 - katàratos - cursed
 - 

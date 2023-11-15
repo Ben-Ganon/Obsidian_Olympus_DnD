@@ -6,7 +6,6 @@
       {
         "id": "d29bd51275dce790",
         "type": "tabs",
-        "dimension": 53.18532818532818,
         "children": [
           {
             "id": "89a3703332db489e",
@@ -14,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore - do not read!/Greek Curse Words.md",
+                "file": "Player Lore/Athens Government.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad091998b5da456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Lore/Session 2 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,59 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Demeter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efe624138f2aa7b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Session 2 Notes.md",
+                "file": "Gear and Items/Item Prices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "c6814f6a54b00f9d",
-        "type": "tabs",
-        "dimension": 46.81467181467182,
-        "children": [
-          {
-            "id": "4ecc9bab6fe7848b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore - do not read!/Names.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "af478f6715644447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Races.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore - do not read!/Session 2 Notes.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore - do not read!/Session 2 Notes.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore - do not read!/Session 2 Notes.md"
+                "file": "DM Lore/Session 2 Notes.md"
               }
             }
           },
@@ -223,37 +189,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efe624138f2aa7b1",
+  "active": "4ad091998b5da456",
   "lastOpenFiles": [
-    "Lore - do not read!/Session 2 Notes.md",
-    "Lore - do not read!/Names.md",
-    "Lore - do not read!/Session 1 Notes.md",
+    "Player Lore/Athens Government.md",
+    "Player Lore/Greek Curse Words.md",
+    "Player Lore",
+    "Gear and Items/Item Prices.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Weapons.md",
     "Gods and Powers/Demeter.md",
+    "DM Lore/Session 2 Notes.md",
+    "Player Lore/Names.md",
+    "DM Lore/Session 1 Notes.md",
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Aphrodite.md",
-    "Lore - do not read!/Athens Encounter.md",
-    "Lore - do not read!/Greek Curse Words.md",
+    "DM Lore/Athens Encounter.md",
     "Character Creation/Races.md",
-    "Lore - do not read!/Athens Government.md",
     "Character Creation/Starter Kits.md",
-    "Lore - do not read!/The Plot.md",
-    "Lore - do not read!/Characters/Penelope Diakos.md",
-    "Lore - do not read!/Characters/Hector Pantazos.md",
-    "Lore - do not read!/Characters/Gregor Othonos.md",
-    "Lore - do not read!/Oracle Caves/Potion Riddle.md",
-    "Lore - do not read!/Characters/Lysander Hasapis.md",
+    "DM Lore/The Plot.md",
+    "DM Lore/Characters/Penelope Diakos.md",
+    "DM Lore/Characters/Hector Pantazos.md",
+    "DM Lore/Characters/Gregor Othonos.md",
+    "DM Lore/Oracle Caves/Potion Riddle.md",
+    "DM Lore/Characters/Lysander Hasapis.md",
     "Hector Pantazis.png",
-    "Lore - do not read!/Characters/The Cult of the Bull.md",
-    "Lore - do not read!/Characters/Atlas.md",
-    "Lore - do not read!/Characters/Selene.md",
-    "Lore - do not read!/Characters/Perikles.md",
-    "Lore - do not read!/Characters/Elissa Panagos.md",
-    "Lore - do not read!/Characters/Alkibialdes.md",
+    "DM Lore/Characters/The Cult of the Bull.md",
+    "DM Lore/Characters/Atlas.md",
+    "DM Lore/Characters/Selene.md",
+    "DM Lore/Characters/Perikles.md",
     "Images/Lysander.pdf",
     "Images/Akropolis.png",
-    "Mechanics/Afflictions.md",
-    "index.md",
     "Images/Satyr.png",
     "Images/Nymph.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
@@ -263,13 +229,12 @@
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
     "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
     "Info and Values/Character Sheet.pdf",
-    "Lore - do not read!/Oracle Caves",
+    "DM Lore/Oracle Caves",
     "Images/Athens Guards.pdf",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",
     "Images/Mount Cerberus.pdf",
-    "Images/Mount Savra.pdf",
-    "Images/Mount Sheet.pdf"
+    "Images/Mount Savra.pdf"
   ]
 }
