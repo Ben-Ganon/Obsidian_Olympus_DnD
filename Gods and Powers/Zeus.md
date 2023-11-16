@@ -1,6 +1,8 @@
 
 ***Description***:
 ![[Zeus.png |300]]
+
+***Description***
 Zeus, Head of the Olympian Gods and God of thunder, lightning, and storms.
 Controls wind spirits and is especially strong in full assault combat. 
 Highly egocentric and extremely arrogant, high off of his not so distant victory over the Titans, Zeus is a force not to be trifled with - he is as quick to anger as he is to violence. 

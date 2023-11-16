@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "DM Lore/Characters/Elissa Panagos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "DM Lore/Characters/Elissa Panagos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Races.md",
+                "file": "DM Lore/Characters/Elissa Panagos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Races.md"
+                "file": "DM Lore/Characters/Elissa Panagos.md"
               }
             }
           },
@@ -166,51 +166,51 @@
   },
   "active": "e8aa5b1023e619c1",
   "lastOpenFiles": [
-    "Harpy.png",
-    "Harpy.jfif",
-    "Mechanics/Afflictions.md",
-    "Player Lore/Athens Government.md",
-    "Character Creation/Races.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Character Creation Guide.md",
-    "Images/beng97_sleek_Digital_art_of_a_greek_Satyr_man_goat_hybrid_furry_c0905af0-18d2-459e-9fb6-d2db78ea844b 1.png",
-    "beng97_sleek_Digital_art_of_a_greek_Satyr_man_goat_hybrid_furry_c0905af0-18d2-459e-9fb6-d2db78ea844b.png",
-    "Fujitsu meeting notes 15.11.md",
-    "Images/Hector Pantazis.png",
-    "DM Lore/Session 1 Notes.md",
-    "DM Lore/Athens Encounter.md",
-    "DM Lore/Session 2 Notes.md",
-    "Gear and Items/Item Prices.md",
-    "Player Lore/Greek Curse Words.md",
-    "Player Lore",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Weapons.md",
-    "Gods and Powers/Demeter.md",
-    "Player Lore/Names.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Aphrodite.md",
-    "Character Creation/Starter Kits.md",
-    "DM Lore/The Plot.md",
-    "DM Lore/Characters/Penelope Diakos.md",
-    "DM Lore/Characters/Hector Pantazos.md",
     "DM Lore/Characters/Gregor Othonos.md",
-    "DM Lore/Oracle Caves/Potion Riddle.md",
+    "DM Lore/Characters/Hector Pantazos.md",
     "DM Lore/Characters/Lysander Hasapis.md",
-    "Images/Lysander.pdf",
-    "Images/Akropolis.png",
-    "Images/Satyr.png",
-    "Images/Nymph.png",
+    "DM Lore/Characters/Penelope Diakos.md",
+    "DM Lore/Characters/Perikles.md",
+    "DM Lore/Characters/Selene.md",
+    "DM Lore/Characters/Sokrates.md",
+    "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
+    "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
-    "Images/cyclops.jpg",
-    "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
-    "Images/Dryad.png",
-    "Info and Values/Character Sheet.pdf",
-    "DM Lore/Oracle Caves",
+    "Images/Atlas.png",
     "Images/Athens Guards.pdf",
+    "Images/Ares.png",
+    "Images/Aphelios.png",
+    "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
+    "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
+    "Images/_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
+    "Images/_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Ares.md",
+    "Info and Values/Character Sheet.pdf",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Aphrodite.md",
+    "Character Creation/Races.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Janus.md",
+    "index.md",
+    "Mechanics/Metal-Creature interactions.md",
+    "Mechanics/Metal Types.md",
+    "Mechanics/Level Up Chart.md",
+    "Mechanics/Dice mechanics.md",
+    "Mechanics/Combat Mechanics.md",
+    "Harpy.jfif",
+    "Player Lore",
+    "Images/Lysander.pdf",
+    "DM Lore/Oracle Caves",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
-    "Images/Mount Savra 1.pdf",
-    "Images/Mount Cerberus.pdf"
+    "Images/Mount Savra 1.pdf"
   ]
 }

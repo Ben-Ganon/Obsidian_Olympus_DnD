@@ -126,6 +126,7 @@ Bite an enemy with razor sharp fangs.
 If you are in a grapple or otherwise extremely close to an enemy, or an enemy is prone adjacent to you, you can bite them for <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] as a bonus action.
 
 ------------------
+![[OIG.8pgXU80OPMUlX5.png |300]]
 #### Gorgon
 Gorgons are mythical monsters created by the gods - ugly creatures, with sharp talons, bronze scale armor-like skin, sharp fangs, snake hair and poison blood on one side of their body.
 Children of Gorgons are humanoids that have bronze colored scaly skin, that shines dimly under the light. Their blood retains some of the magic of their monstrous parent - upon being cut by piercing damage, the attacker must roll a dexterity saving throw to avoid being hit by their acid blood.
