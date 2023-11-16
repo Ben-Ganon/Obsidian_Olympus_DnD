@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Lore/Characters/Elissa Panagos.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Lore/Characters/Elissa Panagos.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Lore/Characters/Elissa Panagos.md",
+                "file": "Gods and Powers/Hephaestus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Lore/Characters/Elissa Panagos.md"
+                "file": "Gods and Powers/Hephaestus.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "e8aa5b1023e619c1",
   "lastOpenFiles": [
+    "DM Lore/Characters/Elissa Panagos.md",
     "DM Lore/Characters/Gregor Othonos.md",
     "DM Lore/Characters/Hector Pantazos.md",
     "DM Lore/Characters/Lysander Hasapis.md",
@@ -204,7 +205,6 @@
     "Mechanics/Metal Types.md",
     "Mechanics/Level Up Chart.md",
     "Mechanics/Dice mechanics.md",
-    "Mechanics/Combat Mechanics.md",
     "Harpy.jfif",
     "Player Lore",
     "Images/Lysander.pdf",
