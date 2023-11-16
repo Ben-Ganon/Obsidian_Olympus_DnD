@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hephaestus.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Hephaestus.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Hephaestus.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Hephaestus.md"
+                "file": "DM Lore/Session 2 Notes.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "e8aa5b1023e619c1",
   "lastOpenFiles": [
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Hephaestus.md",
     "DM Lore/Characters/Elissa Panagos.md",
     "DM Lore/Characters/Gregor Othonos.md",
     "DM Lore/Characters/Hector Pantazos.md",
@@ -190,7 +192,6 @@
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Gods and Powers/Athena.md",
-    "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Hades.md",
@@ -204,7 +205,6 @@
     "Mechanics/Metal-Creature interactions.md",
     "Mechanics/Metal Types.md",
     "Mechanics/Level Up Chart.md",
-    "Mechanics/Dice mechanics.md",
     "Harpy.jfif",
     "Player Lore",
     "Images/Lysander.pdf",
