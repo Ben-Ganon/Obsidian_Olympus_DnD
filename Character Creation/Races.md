@@ -83,7 +83,7 @@ Upgrade your melee weapon with magical forge-fire.
 your next attack deals an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]]
 
 ------------------
-![[beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png | 300]]
+![[beng97_sleek_Digital_art_of_a_greek_Satyr_man_goat_hybrid_furry_c0905af0-18d2-459e-9fb6-d2db78ea844b 1.png |300]]
 #### Satyr
 Satyrs are nature oriented creatures, and are described as goat-men hybrids with furry bottoms, horns, and hairy human top halves.
 Satyrs usually worship Dionysos and Pan, and will fight fiercely to protect their wild habitat.
@@ -100,6 +100,8 @@ Channel the power of Pan, Guardian of nature to enhance your armor, shield and w
 for this CT and the next, you gain +3 armor and [[advantage]] to all block attempts.
 
 ------------------
+
+![[Harpy.png |300]]
 #### Harpy
 Harpies are bird-women hybrids who usually do the bidding of gods - retrieve objects and people for them to Olympus.
 Harpies are feathery, beaked women with razor sharp talons and teeth, with an affection for prophecies.
@@ -121,7 +123,7 @@ If you are unarmed with one hand, you can use that hand to slash an enemy with y
 |       0        |      1       |  Instant  |    -     | 1 Meters | 
 
 Bite an enemy with razor sharp fangs.
-If you are in a grapple or otherwise extremely close to an enemy, or an enemy is prone adjacent to you, you can bite them for 1d6 [[Combat Mechanics#Piercing Damage |piercing damage]] as a bonus action.
+If you are in a grapple or otherwise extremely close to an enemy, or an enemy is prone adjacent to you, you can bite them for <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] as a bonus action.
 
 ------------------
 #### Gorgon

@@ -11,24 +11,15 @@
             "id": "e8aa5b1023e619c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7fd68ca2426dea57",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Fujitsu meeting notes 15.11.md",
+                "file": "Character Creation/Races.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fujitsu meeting notes 15.11.md",
+                "file": "Character Creation/Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fujitsu meeting notes 15.11.md",
+                "file": "Character Creation/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fujitsu meeting notes 15.11.md"
+                "file": "Character Creation/Races.md"
               }
             }
           },
@@ -173,13 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fd68ca2426dea57",
+  "active": "e8aa5b1023e619c1",
   "lastOpenFiles": [
-    "Images/Hector Pantazis.png",
+    "Harpy.png",
+    "Harpy.jfif",
+    "Mechanics/Afflictions.md",
+    "Player Lore/Athens Government.md",
+    "Character Creation/Races.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Character Creation/Character Creation Guide.md",
+    "Images/beng97_sleek_Digital_art_of_a_greek_Satyr_man_goat_hybrid_furry_c0905af0-18d2-459e-9fb6-d2db78ea844b 1.png",
+    "beng97_sleek_Digital_art_of_a_greek_Satyr_man_goat_hybrid_furry_c0905af0-18d2-459e-9fb6-d2db78ea844b.png",
     "Fujitsu meeting notes 15.11.md",
+    "Images/Hector Pantazis.png",
     "DM Lore/Session 1 Notes.md",
     "DM Lore/Athens Encounter.md",
-    "Player Lore/Athens Government.md",
     "DM Lore/Session 2 Notes.md",
     "Gear and Items/Item Prices.md",
     "Player Lore/Greek Curse Words.md",
@@ -191,7 +190,6 @@
     "Gods and Powers/Dionysos.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Aphrodite.md",
-    "Character Creation/Races.md",
     "Character Creation/Starter Kits.md",
     "DM Lore/The Plot.md",
     "DM Lore/Characters/Penelope Diakos.md",
@@ -199,9 +197,6 @@
     "DM Lore/Characters/Gregor Othonos.md",
     "DM Lore/Oracle Caves/Potion Riddle.md",
     "DM Lore/Characters/Lysander Hasapis.md",
-    "DM Lore/Characters/The Cult of the Bull.md",
-    "DM Lore/Characters/Atlas.md",
-    "DM Lore/Characters/Selene.md",
     "Images/Lysander.pdf",
     "Images/Akropolis.png",
     "Images/Satyr.png",
@@ -210,15 +205,12 @@
     "Images/cyclops.jpg",
     "_19827c50-007c-448a-b3a6-43d82855ebd9.jpg",
     "Images/Dryad.png",
-    "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4 1.png",
-    "Images/beng97_Greek_Satyr_man_hybrid_small_horns_furry_legs_toga_sleek_8faba94a-890f-477a-9eb0-f2a491a7edc4.png",
     "Info and Values/Character Sheet.pdf",
     "DM Lore/Oracle Caves",
     "Images/Athens Guards.pdf",
     "Images/Zagreus.pdf",
     "Images/Zagreus.pdf",
     "Images/Mount Savra 1.pdf",
-    "Images/Mount Cerberus.pdf",
-    "Images/Mount Savra.pdf"
+    "Images/Mount Cerberus.pdf"
   ]
 }
