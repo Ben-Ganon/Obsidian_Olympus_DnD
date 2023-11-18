@@ -36,3 +36,6 @@ Pierre -1
 - 
 
 
+Notes:
+- Sebastian and Simon the gay couple from Plataia.
+- Sebastian - friend of adamantios
