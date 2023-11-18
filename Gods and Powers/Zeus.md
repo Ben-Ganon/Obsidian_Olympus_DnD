@@ -24,6 +24,7 @@ Recommended for new players
 Roll <mark style="background: #000B67A6;">Might</mark>.
 You can fly up to that many meters in the air for the duration.
 If you succeeded the might roll (4 and above), you can drag an adjacent (<mark style="background: #000B67A6;">2 Meter radius</mark>) medium/small enemy into the air with you.
+If the enemy is then dropped they lie prone for 1 CT.
 
 ------------
 <b><ins><i>Smite!:</i></ins></b>

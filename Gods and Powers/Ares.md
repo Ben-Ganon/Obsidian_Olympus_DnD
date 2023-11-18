@@ -16,6 +16,7 @@ Children of Ares play as either front line tanks that absorb damage for their pa
 |       1        |      2       |  Instant  |   3 CT   |   -   | 
 
 Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain <mark style="background: #9E0000A6;">+1</mark> on all attack rolls, but each time you attack roll 1d8. 
+If the Result is 8, attack the nearest ally with disadvantage.
 If the result is 1, attack the nearest closest ally. If none are nearby, you are stunned for <mark style="background: #620075A6;">1 CT</mark>
 
 ------------------

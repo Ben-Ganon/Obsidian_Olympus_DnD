@@ -24,7 +24,7 @@ Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnaring]] all en
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      3       |   1 CT    |  10 CT / 2CT   | 4 Meters | 
+|       1        |      3       |   Instant    |  10 CT / 2CT   | 4 Meters | 
 
 Spawn a mud trap up to 4 Meters away from you, that freezes solid all enemies in a 2 Meter radius when an enemy steps in it.
 The trap lasts for 10 CT, and an enemy that steps on a trap is [[#Ensnared]] for 2 CT.

@@ -16,13 +16,15 @@
               {
                 "id": "edede0fc321e83ed",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "DM Lore/Session 2 Combat.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ]
@@ -43,8 +45,33 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "1fe988957c3af547",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gods and Powers/Aphrodite.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eff0e61dab00d60e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gods and Powers/Ares.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -84,12 +111,16 @@
             "id": "cbd04ac973513e23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Starter Kits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mechanics/Combat Mechanics.md"
+              }
             }
           },
           {
@@ -230,33 +265,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbd04ac973513e23",
+  "active": "da06495582dc5456",
   "lastOpenFiles": [
+    "Character Creation/Starter Kits.md",
+    "Gods and Powers/Zeus.md",
     "DM Lore/Session 2 Combat.md",
-    "Images/Hector.pdf",
     "Mechanics/Combat Mechanics.md",
-    "Mechanics/Afflictions.md",
-    "DM Lore/Characters/Hector Pantazos.md",
+    "Gods and Powers/Demeter.md",
+    "Gear and Items/Weapons.md",
+    "Gods and Powers/Aphrodite.md",
     "DM Lore/Session 2 Notes.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Apollo.md",
+    "Mechanics/Afflictions.md",
+    "Mechanics/Dice mechanics.md",
+    "Images/Hector.pdf",
+    "DM Lore/Characters/Hector Pantazos.md",
     "Player Lore/Athens Government.md",
     "DM Lore/Session 1 Notes.md",
     "DM Lore/Athens Encounter.md",
     "Player Lore/Greek Curse Words.md",
     "Player Lore/Names.md",
-    "Gods and Powers/Aphrodite.md",
-    "Gear and Items/Weapons.md",
     "Gear and Items/Quivers.md",
     "DM Lore/Oracle Caves/Riddles.md",
     "DM Lore/Oracle Caves/Potion Riddle.md",
-    "Gods and Powers/Apollo.md",
     "Gods and Powers/Hephaestus.md",
     "DM Lore/Characters/Elissa Panagos.md",
     "DM Lore/Characters/Gregor Othonos.md",
     "DM Lore/Characters/Lysander Hasapis.md",
-    "DM Lore/Characters/Penelope Diakos.md",
-    "DM Lore/Characters/Perikles.md",
-    "DM Lore/Characters/Selene.md",
-    "DM Lore/Characters/Sokrates.md",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
@@ -268,7 +305,6 @@
     "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
     "Images/_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
     "Images/_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
-    "Gods and Powers/Dionysos.md",
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Harpy.jfif",
