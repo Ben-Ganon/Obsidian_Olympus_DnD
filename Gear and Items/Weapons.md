@@ -5,8 +5,8 @@
 |      Kopis       | Long Sword              |       1d8       |       1d4       |            -             |         -         |         6         |
 |       Dory       | Spear                   |     2d4/1d6     |       1d4       |         4 Meters         |         -         |         -         |
 |      Labrys      | Small Double-Headed Axe |       1d6       |        -        |         4 Meters         |        1d4        |         -         |
-|       Toxo       | Hunting Bow             |       1d4       |        -        |         8 Meters         |         -         |         -         |
-|  Syntheto Toxo   | Composite Bow           |       1d6       |        -        |        10 Meters         |         -         |         -         |
+|       Toxo       | Hunting Bow             |       1d6       |        -        |         10 Meters         |         -         |         -         |
+|  Syntheto Toxo   | Composite Bow           |       1d8       |        -        |        12 Meters         |         -         |         -         |
 |      Sfyri       | Hammer                  |       1d6       |        -        |            -             |        1d4        |         6         |
 |     Sagaris      | War Hammer              |      1d10       |        -        |            -             |         -         |         8         |
 |       Lyre       | Instrument              |       1d4       |        -        |         6 Meters         |         -         |         -         |

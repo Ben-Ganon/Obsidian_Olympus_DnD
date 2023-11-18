@@ -6,12 +6,12 @@
       {
         "id": "8c2fad28afa9fd70",
         "type": "split",
-        "dimension": 45.87378640776699,
+        "dimension": 30.598455598455597,
         "children": [
           {
             "id": "422aa8f686c4e2de",
             "type": "tabs",
-            "dimension": 49.705882352941174,
+            "dimension": 29.411764705882355,
             "children": [
               {
                 "id": "edede0fc321e83ed",
@@ -32,10 +32,10 @@
           {
             "id": "134d3f21f84663f9",
             "type": "tabs",
-            "dimension": 50.294117647058826,
+            "dimension": 70.58823529411765,
             "children": [
               {
-                "id": "a1c7254f450c67a5",
+                "id": "1fe988957c3af547",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -45,33 +45,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "1fe988957c3af547",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gods and Powers/Aphrodite.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eff0e61dab00d60e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gods and Powers/Ares.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -79,20 +54,8 @@
       {
         "id": "eb42f83a6ad2f2da",
         "type": "tabs",
-        "dimension": 54.12621359223301,
+        "dimension": 69.4015444015444,
         "children": [
-          {
-            "id": "8ade25fe6e10bcc8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Images/Hector.pdf"
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "da06495582dc5456",
             "type": "leaf",
@@ -108,12 +71,48 @@
             }
           },
           {
+            "id": "a1c7254f450c67a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/The Black Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cbd04ac973513e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Starter Kits.md",
+                "file": "Gods and Powers/Demeter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a9aa0e00b641fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Races.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd8782bbff200cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,6 +164,18 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "eff0e61dab00d60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Ares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -186,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "DM Lore/Session 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md"
+                "file": "DM Lore/Session 2 Notes.md"
               }
             }
           },
@@ -265,22 +276,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da06495582dc5456",
+  "active": "1fe988957c3af547",
   "lastOpenFiles": [
-    "Character Creation/Starter Kits.md",
-    "Gods and Powers/Zeus.md",
     "DM Lore/Session 2 Combat.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Item Prices.md",
+    "DM Lore/Session 2 Notes.md",
+    "Gear and Items/Weapons.md",
+    "Character Creation/Races.md",
+    "Gods and Powers/Zeus.md",
     "Mechanics/Combat Mechanics.md",
     "Gods and Powers/Demeter.md",
-    "Gear and Items/Weapons.md",
-    "Gods and Powers/Aphrodite.md",
-    "DM Lore/Session 2 Notes.md",
+    "Images/Hector.pdf",
+    "Character Creation/Starter Kits.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Apollo.md",
     "Mechanics/Afflictions.md",
     "Mechanics/Dice mechanics.md",
-    "Images/Hector.pdf",
     "DM Lore/Characters/Hector Pantazos.md",
     "Player Lore/Athens Government.md",
     "DM Lore/Session 1 Notes.md",
@@ -290,10 +305,6 @@
     "Gear and Items/Quivers.md",
     "DM Lore/Oracle Caves/Riddles.md",
     "DM Lore/Oracle Caves/Potion Riddle.md",
-    "Gods and Powers/Hephaestus.md",
-    "DM Lore/Characters/Elissa Panagos.md",
-    "DM Lore/Characters/Gregor Othonos.md",
-    "DM Lore/Characters/Lysander Hasapis.md",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",

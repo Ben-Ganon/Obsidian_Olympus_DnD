@@ -70,6 +70,7 @@
 - Can only re-roll once. (if you roll 1d4 and get 4, then roll 1d4 to get 4 again, you do not roll again)
 - Does not apply to [[Combat Mechanics#Blunt Damage|blunt damage]] rolls.
 ### Grapples:
+- Grapple is a bonus action
 - You can choose to grapple an opponent to the floor, pinning them down and fighting them in close combat.
 - During this time, only weapons with grapple stats can be used (knife/small axe/hammer)
 - The grapple is successful if you succeed an opposed Might roll.
