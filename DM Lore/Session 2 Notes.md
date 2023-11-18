@@ -1,5 +1,9 @@
 ### Battle with Lysander
 Agility Roles:
+Archer - 5
+Guard 1 - 5
+Guard 2 - 1 
+Guard 3 - 4
 Adamantios - 6 
 Amara - 2
 Anthosia - 1
@@ -7,8 +11,8 @@ Demi - 1
 Pierre -1 
 
 - Introduce Hector
-- Hector escapes to warn the city guard
-- PC's can chase Hector down or focus on the battle.
+- Lysander escapes
+- PC's can chase Lysander down or focus on the battle.
 ### After the Battle
 - The city guard is on their way - only about 5 minutes to decide what to do
 - Penelope warns them that there are 3 main ways of escaping Athens and reaching the oracle -

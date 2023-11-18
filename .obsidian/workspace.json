@@ -4,22 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "eb42f83a6ad2f2da",
-        "type": "tabs",
+        "id": "8c2fad28afa9fd70",
+        "type": "split",
+        "dimension": 45.87378640776699,
         "children": [
           {
-            "id": "e8aa5b1023e619c1",
+            "id": "422aa8f686c4e2de",
+            "type": "tabs",
+            "dimension": 49.705882352941174,
+            "children": [
+              {
+                "id": "edede0fc321e83ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Lore/Session 2 Combat.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "134d3f21f84663f9",
+            "type": "tabs",
+            "dimension": 50.294117647058826,
+            "children": [
+              {
+                "id": "a1c7254f450c67a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Lore/Session 2 Notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "eb42f83a6ad2f2da",
+        "type": "tabs",
+        "dimension": 54.12621359223301,
+        "children": [
+          {
+            "id": "8ade25fe6e10bcc8",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Images/Hector.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "da06495582dc5456",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Lore/Session 2 Notes.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cbd04ac973513e23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Lore/Session 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Lore/Session 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Lore/Session 2 Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,16 +230,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8aa5b1023e619c1",
+  "active": "cbd04ac973513e23",
   "lastOpenFiles": [
+    "DM Lore/Session 2 Combat.md",
+    "Images/Hector.pdf",
+    "Mechanics/Combat Mechanics.md",
+    "Mechanics/Afflictions.md",
+    "DM Lore/Characters/Hector Pantazos.md",
+    "DM Lore/Session 2 Notes.md",
+    "Player Lore/Athens Government.md",
+    "DM Lore/Session 1 Notes.md",
+    "DM Lore/Athens Encounter.md",
+    "Player Lore/Greek Curse Words.md",
+    "Player Lore/Names.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Quivers.md",
     "DM Lore/Oracle Caves/Riddles.md",
     "DM Lore/Oracle Caves/Potion Riddle.md",
-    "DM Lore/Session 2 Notes.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Hephaestus.md",
     "DM Lore/Characters/Elissa Panagos.md",
     "DM Lore/Characters/Gregor Othonos.md",
-    "DM Lore/Characters/Hector Pantazos.md",
     "DM Lore/Characters/Lysander Hasapis.md",
     "DM Lore/Characters/Penelope Diakos.md",
     "DM Lore/Characters/Perikles.md",
@@ -191,26 +269,13 @@
     "Images/_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
     "Images/_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
     "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Ares.md",
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Poseidon.md",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Aphrodite.md",
-    "Character Creation/Races.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Janus.md",
-    "index.md",
     "Harpy.jfif",
     "Player Lore",
     "Images/Lysander.pdf",
     "DM Lore/Oracle Caves",
     "Images/Zagreus.pdf",
-    "Images/Zagreus.pdf",
-    "Images/Mount Savra 1.pdf"
+    "Images/Zagreus.pdf"
   ]
 }
