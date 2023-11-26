@@ -4,43 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "422aa8f686c4e2de",
-        "type": "tabs",
-        "dimension": 51.91740412979351,
-        "children": [
-          {
-            "id": "edede0fc321e83ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Lore/Session 2 Combat.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "71fcdadd5b81a45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gear and Items/Weapons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "75f1b26a3d156966",
         "type": "tabs",
-        "dimension": 48.08259587020649,
         "children": [
           {
             "id": "217687e553977a1e",
@@ -48,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Oracles Trident.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Oracles Trident.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Oracles Trident.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Oracles Trident.md"
+                "file": "Mechanics/Dice mechanics.md"
               }
             }
           },
@@ -213,44 +178,44 @@
   },
   "active": "217687e553977a1e",
   "lastOpenFiles": [
-    "Gear and Items/Weapons.md",
-    "Gear and Items/Oracles Trident.md",
-    "DM Lore/Session 2 Combat.md",
     "Mechanics/Combat Mechanics.md",
-    "Player Lore/Names.md",
-    "Gods and Powers/Demeter.md",
-    "DM Lore/Session 2 Notes.md",
-    "Gear and Items/The Black Key.md",
-    "Gods and Powers/Aphrodite.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Item Prices.md",
-    "Character Creation/Races.md",
-    "Gods and Powers/Zeus.md",
-    "Images/Hector.pdf",
+    "Images/Athens Guards.pdf",
+    "Images/Ares.png",
+    "Images/Atlas.png",
+    "Images/AH4111BNx.png",
+    "DM Lore/Characters/Zeno.md",
+    "DM Lore/Characters/Sokrates.md",
+    "DM Lore/Characters/Selene.md",
+    "DM Lore/Characters/Penelope Diakos.md",
+    "DM Lore/Characters/Lysander Hasapis.md",
+    "DM Lore/Characters/Elissa Panagos.md",
+    "DM Lore/Characters/Atlas.md",
+    "DM Lore/Characters/Alkibialdes.md",
     "Character Creation/Starter Kits.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Apollo.md",
-    "Mechanics/Afflictions.md",
-    "Mechanics/Dice mechanics.md",
-    "DM Lore/Characters/Hector Pantazos.md",
-    "Player Lore/Athens Government.md",
-    "DM Lore/Session 1 Notes.md",
-    "DM Lore/Athens Encounter.md",
-    "Player Lore/Greek Curse Words.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Weapons.md",
     "Gear and Items/Quivers.md",
-    "DM Lore/Oracle Caves/Riddles.md",
+    "Gear and Items/Oracles Trident.md",
+    "Gear and Items/Item Prices.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Tauros.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Aphrodite.md",
+    "DM Lore/Session 2 Combat.md",
+    "Images/Hector.pdf",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
-    "Images/Atlas.png",
-    "Images/Athens Guards.pdf",
-    "Images/Ares.png",
     "Images/Aphelios.png",
     "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
     "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
     "Images/_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
-    "Images/_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Harpy.jfif",
