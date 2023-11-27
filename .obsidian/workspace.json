@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "DM Lore/Oracle Caves/The Prophecy from the Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "DM Lore/Oracle Caves/The Prophecy from the Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "DM Lore/Oracle Caves/The Prophecy from the Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Dice mechanics.md"
+                "file": "DM Lore/Oracle Caves/The Prophecy from the Oracle.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "217687e553977a1e",
   "lastOpenFiles": [
+    "index.md",
+    "Mechanics/Dice mechanics.md",
     "Mechanics/Combat Mechanics.md",
     "Images/Athens Guards.pdf",
     "Images/Ares.png",
@@ -206,8 +208,6 @@
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Ares.md",
-    "Gods and Powers/Aphrodite.md",
-    "DM Lore/Session 2 Combat.md",
     "Images/Hector.pdf",
     "Images/beng97_Greek_god_young_man_toga_running._Caduceus_staff_rod_lon_3e3c96ed-358c-4ae7-aace-712b153064b2.png",
     "Images/beng97_Ancient_Athenian_trader_balding_mean_man_with_plain_brow_87b8fcbf-3d21-468e-8fa0-c9aa75967dfa.png",
