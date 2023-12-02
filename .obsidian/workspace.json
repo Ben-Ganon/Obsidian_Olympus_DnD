@@ -11,25 +11,29 @@
           {
             "id": "217687e553977a1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DM Lore/Session 3 Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "0949550d57fb8b94",
+            "id": "d91c4d3664f1edac",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DM Lore/Oracle Caves/The writing on the wall.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -55,13 +59,15 @@
           {
             "id": "18120bc75d84a70c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DM Lore/Oracle Caves/Trials of Heroes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -139,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -155,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Lore/Oracle Caves/The writing on the wall.md",
+                "file": "DM Lore/Oracle Caves/Trials of Heroes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Lore/Oracle Caves/The writing on the wall.md",
+                "file": "DM Lore/Oracle Caves/Trials of Heroes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Lore/Oracle Caves/The writing on the wall.md"
+                "file": "DM Lore/Oracle Caves/Trials of Heroes.md"
               }
             }
           },
@@ -234,10 +241,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0949550d57fb8b94",
+  "active": "18120bc75d84a70c",
   "lastOpenFiles": [
-    "DM Lore/Session 3 Notes.md",
     "DM Lore/Oracle Caves/The writing on the wall.md",
+    "DM Lore/Session 3 Notes.md",
+    "DM Lore/Untitled.md",
     "DM Lore/Oracle Caves/Trials of Heroes.md",
     "Mechanics/Dice mechanics.md",
     "Player Lore/Names.md",
@@ -261,7 +269,6 @@
     "DM Lore/Oracle Caves/The Prophecy from the Oracle.md",
     "DM Lore/Characters/Elissa Panagos.md",
     "DM Lore/Player Summaries/Demi.md",
-    "DM Lore/Player Summaries/Amara.md",
     "DM Lore/Player Summaries",
     "Images/Athens Guards.pdf",
     "Images/Ares.png",
