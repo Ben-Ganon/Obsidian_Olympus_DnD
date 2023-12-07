@@ -34,6 +34,18 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 (Uses ammunition)
 
 ------------------
+<b><ins><i>Camouflage:</i></ins></b>
+
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+|:--------------:|:------------:|:---------:|:--------:|:-----:|
+|       1        |      2       |  Instant  |   2 CT   |   -   | 
+
+Blend in to your surroundings and vanish.
+You become [[Afflictions#Invisible|Invisible]] for the duration, and can ***Mark*** an enemy once.
+Your next attack on a ***Marked*** target does double [[Combat Mechanics#Sneak Attack|sneak attack]] damage.
+(2d6 bonus damage + 1d4 ***Mark*** damage)
+
+------------------
 <b><ins><i>Swift Quiver:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
