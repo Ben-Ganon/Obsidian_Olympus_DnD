@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Artemis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Artemis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear and Items/Weapons.md"
+                "file": "Gods and Powers/Artemis.md"
               }
             }
           },
@@ -189,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77cee5ecff652368",
+  "active": "18fd28d12e9ce22c",
   "lastOpenFiles": [
+    "Gear and Items/Weapons.md",
     "Character Creation/Races.md",
     "Gods and Powers/Artemis.md",
     "Mechanics/Combat Mechanics.md",
@@ -203,7 +203,6 @@
     "Mechanics/Dice mechanics.md",
     "Player Lore/Names.md",
     "Gods and Powers/Dionysos.md",
-    "Gear and Items/Weapons.md",
     "Gear and Items/Oracles Trident.md",
     "Gear and Items/Item Prices.md",
     "Gear and Items/Oracles Bow.md",
