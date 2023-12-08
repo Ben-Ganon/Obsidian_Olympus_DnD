@@ -41,7 +41,7 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 |       1        |      2       |  Instant  |   2 CT   |   -   | 
 
 Blend in to your surroundings and vanish.
-You become [[Afflictions#Invisible|Invisible]] for the duration, and can ***Mark*** an enemy once.
+You become [[Afflictions#Invisible|Invisible]] for the duration, and can ***Mark*** an enemy once on the same turn of the cast.
 Your next attack on a ***Marked*** target does double [[Combat Mechanics#Sneak Attack|sneak attack]] damage.
 (2d6 bonus damage + 1d4 ***Mark*** damage)
 

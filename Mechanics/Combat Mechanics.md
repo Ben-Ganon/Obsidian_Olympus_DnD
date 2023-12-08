@@ -127,3 +127,4 @@ When a character falls, they take 1 damage for each 2 Meters they fall.
 ### Sneak Attack
 - If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
 - This breaks the sneaking, and all adjacent enemies are now aware of your presence. 
+- PC's who try to evade a sneak attack suffer -1 to dodge and block attempts
