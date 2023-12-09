@@ -26,3 +26,7 @@
 - If the party does not find the secret room, Selene takes them to the back room to receive the fake prophecy and engages them, trying to kill them.
 - Selene can notice the part of the Black Key sitting on the parties inventory (Ask them where it is before combat)
 - After the party defeats Selene, they can receive the Prophecy from the oracle in it's full form
+
+
+## Live Notes
+

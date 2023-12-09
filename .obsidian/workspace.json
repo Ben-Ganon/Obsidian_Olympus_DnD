@@ -4,46 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "4da9621a23bb7ccd",
+        "id": "11739eb9320a3609",
         "type": "tabs",
         "children": [
           {
             "id": "18fd28d12e9ce22c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DM Lore/Session 4 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d08c33adff16d6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Lore/Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77cee5ecff652368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Combat Mechanics.md",
-                "mode": "source",
-                "source": false
+                "file": "Player Lore/Cave Stone Gaurdian.pdf"
               }
             }
           }
         ]
+      },
+      {
+        "id": "de26faafc2b56986",
+        "type": "split",
+        "children": [
+          {
+            "id": "33ac6251ec00c93a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d08c33adff16d6eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Lore/Session 4 Notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a127411f661b7040",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a33cfb78ac83634b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gear and Items/Oracles Bow.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -121,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Lore/Session 4 Notes.md",
+                "file": "Gear and Items/Oracles Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Lore/Session 4 Notes.md",
+                "file": "Gear and Items/Oracles Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Lore/Session 4 Notes.md"
+                "file": "Gear and Items/Oracles Bow.md"
               }
             }
           },
@@ -200,18 +217,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18fd28d12e9ce22c",
+  "active": "a33cfb78ac83634b",
   "lastOpenFiles": [
+    "Gear and Items/Oracles Trident.md",
+    "Gear and Items/Oracles Bow.md",
+    "DM Lore/Session 4 Notes.md",
+    "Player Lore/Names.md",
+    "Player Lore/Greek Curse Words.md",
+    "Mechanics/Combat Mechanics.md",
+    "Player Lore/Cave Stone Gaurdian.pdf",
     "DM Lore/Session 3 Notes.md",
     "DM Lore/The Plot.md",
     "Gods and Powers/Tauros.md",
-    "DM Lore/Session 4 Notes.md",
     "DM Lore/Session 1 Notes.md",
-    "Player Lore/Names.md",
     "DM Lore/Session 2 Notes.md",
     "DM Lore/Session 2 Combat.md",
     "Gods and Powers/Artemis.md",
-    "Mechanics/Combat Mechanics.md",
     "Gear and Items/Weapons.md",
     "Character Creation/Races.md",
     "Mechanics/Afflictions.md",
@@ -221,13 +242,10 @@
     "DM Lore/Untitled.md",
     "Mechanics/Dice mechanics.md",
     "Gods and Powers/Dionysos.md",
-    "Gear and Items/Oracles Trident.md",
     "Gear and Items/Item Prices.md",
-    "Gear and Items/Oracles Bow.md",
     "Gear and Items/Shields and Armor.md",
     "Gods and Powers/Apollo.md",
     "DM Lore/Oracle Caves/Session 3 Combat.md",
-    "DM Lore/Welcome.md",
     "DM Lore/Player Summaries",
     "Images/Athens Guards.pdf",
     "Images/Ares.png",
@@ -246,7 +264,6 @@
     "Harpy.jfif",
     "Player Lore",
     "Images/Lysander.pdf",
-    "DM Lore/Oracle Caves",
-    "Images/Zagreus.pdf"
+    "DM Lore/Oracle Caves"
   ]
 }
