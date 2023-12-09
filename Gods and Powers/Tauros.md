@@ -7,6 +7,8 @@ Primordial and older even than the Olympians, Tauros represents both the raw pow
 The powers he gives to his believers and children, then, are a mix of combat prowess and sacrificial shadow magic.
 
 
+
+
 <b><ins><i>Bull Rush:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |

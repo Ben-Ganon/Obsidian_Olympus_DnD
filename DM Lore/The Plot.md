@@ -35,6 +35,9 @@ Tauros guides Aphelios on how to revive the Minoan empire, but because Tauros is
 
 With the renewed strength and influence all over Greece, Tauros is now strong enough to enact the next step of his plan.
 
+Additionally, Tauros gains power from human sacrifice - Blood, limbs, and life.
+Making human sacrifices has a double effect - it both weakens the Olympians (and increases their disdain towards humans), and strengthens Tauros.
+
 Aphelios, on his journey to Crete, met his trusted lieutenants Nyx, Atlas and Selene.
 He sends each of them out on missions with members of the cult.
 
