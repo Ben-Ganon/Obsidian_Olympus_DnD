@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Gods and Powers/Artemis.md",
+                    "file": "Mechanics/Dice mechanics.md",
                     "mode": "source",
                     "source": false
                   }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Artemis.md"
+                "file": "Mechanics/Dice mechanics.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "a33cfb78ac83634b",
   "lastOpenFiles": [
-    "Gear and Items/Weapons.md",
+    "Gods and Powers/Artemis.md",
     "DM Lore/Session 4 Notes.md",
+    "Gear and Items/Weapons.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Oracles Trident.md",
     "Player Lore/Names.md",
@@ -233,7 +234,6 @@
     "DM Lore/Session 1 Notes.md",
     "DM Lore/Session 2 Notes.md",
     "DM Lore/Session 2 Combat.md",
-    "Gods and Powers/Artemis.md",
     "Character Creation/Races.md",
     "Mechanics/Afflictions.md",
     "Character Creation/God Bonus Stat Chart.md",
