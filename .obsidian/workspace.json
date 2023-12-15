@@ -4,63 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "11739eb9320a3609",
+        "id": "ba9d4b3b186bb75a",
         "type": "tabs",
         "children": [
           {
-            "id": "18fd28d12e9ce22c",
+            "id": "e3d174a2ff518db8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Player Lore/Cave Stone Gaurdian.pdf"
-              }
+                "file": "Mechanics/Combat Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "de26faafc2b56986",
-        "type": "split",
+        "id": "33ac6251ec00c93a",
+        "type": "tabs",
         "children": [
           {
-            "id": "33ac6251ec00c93a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d08c33adff16d6eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DM Lore/Session 4 Notes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "id": "c2216bcd52e817fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Dice mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           },
           {
-            "id": "a127411f661b7040",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a33cfb78ac83634b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mechanics/Dice mechanics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "d08c33adff16d6eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Artemis.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "ac503ed0db303338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Dionysos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,6 +123,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14e937c8b16c55c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Lore/Cave Stone Gaurdian.pdf",
+                "file": "Gods and Powers/Dionysos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Lore/Cave Stone Gaurdian.pdf",
+                "file": "Gods and Powers/Dionysos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Lore/Cave Stone Gaurdian.pdf"
+                "file": "Gods and Powers/Dionysos.md"
               }
             }
           },
@@ -217,18 +231,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18fd28d12e9ce22c",
+  "active": "ac503ed0db303338",
   "lastOpenFiles": [
-    "Mechanics/Dice mechanics.md",
-    "Gods and Powers/Artemis.md",
-    "DM Lore/Session 4 Notes.md",
-    "Gear and Items/Weapons.md",
     "Gear and Items/Oracles Bow.md",
+    "Gear and Items/Weapons.md",
+    "Gods and Powers/Artemis.md",
+    "Mechanics/Dice mechanics.md",
+    "DM Lore/Session 4 Notes.md",
+    "Player Lore/Cave Stone Gaurdian.pdf",
+    "Mechanics/Combat Mechanics.md",
     "Gear and Items/Oracles Trident.md",
     "Player Lore/Names.md",
     "Player Lore/Greek Curse Words.md",
-    "Mechanics/Combat Mechanics.md",
-    "Player Lore/Cave Stone Gaurdian.pdf",
     "DM Lore/Session 3 Notes.md",
     "DM Lore/The Plot.md",
     "Gods and Powers/Tauros.md",
@@ -245,7 +259,6 @@
     "Gear and Items/Item Prices.md",
     "Gear and Items/Shields and Armor.md",
     "Gods and Powers/Apollo.md",
-    "DM Lore/Oracle Caves/Session 3 Combat.md",
     "DM Lore/Player Summaries",
     "Images/Athens Guards.pdf",
     "Images/Ares.png",
