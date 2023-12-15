@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "abfaf536efd2e772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Lore/Session 4 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "33ac6251ec00c93a",
@@ -59,14 +72,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Dionysos.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Dionysos.md",
+                "file": "Gods and Powers/Artemis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Dionysos.md",
+                "file": "Gods and Powers/Artemis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Dionysos.md"
+                "file": "Gods and Powers/Artemis.md"
               }
             }
           },
@@ -231,15 +244,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac503ed0db303338",
+  "active": "d08c33adff16d6eb",
   "lastOpenFiles": [
+    "DM Lore/Session 4 Notes.md",
+    "Mechanics/Dice mechanics.md",
+    "Mechanics/Combat Mechanics.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Dionysos.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Weapons.md",
     "Gods and Powers/Artemis.md",
-    "Mechanics/Dice mechanics.md",
-    "DM Lore/Session 4 Notes.md",
     "Player Lore/Cave Stone Gaurdian.pdf",
-    "Mechanics/Combat Mechanics.md",
     "Gear and Items/Oracles Trident.md",
     "Player Lore/Names.md",
     "Player Lore/Greek Curse Words.md",
@@ -255,7 +270,6 @@
     "DM Lore/Oracle Caves/Trials of Heroes.md",
     "DM Lore/Oracle Caves/The writing on the wall.md",
     "DM Lore/Untitled.md",
-    "Gods and Powers/Dionysos.md",
     "Gear and Items/Item Prices.md",
     "Gear and Items/Shields and Armor.md",
     "Gods and Powers/Apollo.md",
