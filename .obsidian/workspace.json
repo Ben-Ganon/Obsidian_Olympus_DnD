@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "33ac6251ec00c93a",
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Artemis.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           },
@@ -244,8 +243,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d08c33adff16d6eb",
+  "active": "e3d174a2ff518db8",
   "lastOpenFiles": [
+    "Gods and Powers/Artemis.md",
     "DM Lore/Session 4 Notes.md",
     "Mechanics/Dice mechanics.md",
     "Mechanics/Combat Mechanics.md",
@@ -253,7 +253,6 @@
     "Gods and Powers/Dionysos.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Weapons.md",
-    "Gods and Powers/Artemis.md",
     "Player Lore/Cave Stone Gaurdian.pdf",
     "Gear and Items/Oracles Trident.md",
     "Player Lore/Names.md",
