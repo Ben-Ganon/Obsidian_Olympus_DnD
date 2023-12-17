@@ -1,0 +1,21 @@
+- The party has received the true prophecy from the oracle
+- they venture out towards Thera, and then Knossos in Crete
+- On the way, They stop in Athens
+- When they arrive,  they happen to find Theodore
+	- He tells them the city has descended to chaos now that Lysander has taken over the council
+	- Lysander ordered his cult followers to loot the Olympian temples and bring the spoils back to his palace
+	- Says Penelope hasn't been seen since the Cult sacked the Parthenos, she might be in Lysander's palace
+	- Knows a good place to hide - takes them to a slave hideout near the palace
+	- Theodore offers them all wine and drink
+	- Betrayal! Theodore is working with Lysander - the hideout is a trap for the party
+- The party passes out from the tainted wine and wake up in the cellar of Lysanders palace
+- Penelope is chained up with them - she seems in rough shape
+- Lysander villain speech - 
+	- Mad that they killed his lieutenant hector - he had a part of the key!! Selene specifically said if the key was to be lost it's his head 
+	- No matter, Lysander would still like them to join him - 
+		- Tragic backstory
+		- The cult is trying to bring down Olympus
+		- They worship a different god
+		- Perhaps this god will be better - so Aphelios says
+- Let's them think about it for the night 
+- 
