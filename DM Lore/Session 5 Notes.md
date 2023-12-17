@@ -1,7 +1,14 @@
 - The party has received the true prophecy from the oracle
 - they venture out towards Thera, and then Knossos in Crete
-- On the way, They stop in Athens
-- When they arrive,  they happen to find Theodore
+- On the way, They will stop in Athens
+- On the way to Athens they meet the farmer Heraklion
+	- On the outskirts of the Athens suburbs
+	- He tells them the Cult has taken over most of the formal offices
+	- Seems very very tense
+	- His family is upstairs being sacrificed to Tauros
+	- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger"
+	- On the upper floor they find Larissa, Heraklion's wife, tied up with two cultists about to sacrifice her
+- When they arrive at Athens,  they happen to find Theodore
 	- He tells them the city has descended to chaos now that Lysander has taken over the council
 	- Lysander ordered his cult followers to loot the Olympian temples and bring the spoils back to his palace
 	- Says Penelope hasn't been seen since the Cult sacked the Parthenos, she might be in Lysander's palace
@@ -18,4 +25,5 @@
 		- They worship a different god
 		- Perhaps this god will be better - so Aphelios says
 - Let's them think about it for the night 
+- Leaves them with Idiotos to guard them
 - 
