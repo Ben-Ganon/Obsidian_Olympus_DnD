@@ -1,12 +1,12 @@
 - The party has received the true prophecy from the oracle
 - they venture out towards Thera, and then Knossos in Crete
 - On the way, They will stop in Athens
-- On the way to Athens they meet the farmer Heraklion
+- On the way to Athens they meet the farmer Heraklion, with a man next to him
 	- On the outskirts of the Athens suburbs
 	- He tells them the Cult has taken over most of the formal offices
 	- Seems very very tense
 	- His family is upstairs being sacrificed to Tauros
-	- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger"
+	- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger" "דם אדם יעיר קרניים, נשימה אחרונה תמית שמים"
 	- On the upper floor they find Larissa, Heraklion's wife, tied up with two cultists about to sacrifice her
 - When they arrive at Athens,  they happen to find Theodore
 	- He tells them the city has descended to chaos now that Lysander has taken over the council
