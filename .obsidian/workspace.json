@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -181,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,12 +201,12 @@
   },
   "active": "ac503ed0db303338",
   "lastOpenFiles": [
+    "Mechanics/Dice mechanics.md",
     "Gods and Powers/Zeus.md",
     "DM Lore/Session 5 Notes.md",
     "DM Lore/Session 4 Notes.md",
     "Mechanics/Combat Mechanics.md",
     "Gods and Powers/Artemis.md",
-    "Mechanics/Dice mechanics.md",
     "Gods and Powers/Dionysos.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Weapons.md",
