@@ -5,4 +5,3 @@
 - chalkòs - cheeky, impudent
 - es kòrakas - fuck off
 - katàratos - cursed
-- 

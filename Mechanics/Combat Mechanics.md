@@ -1,13 +1,14 @@
 ### How turns work - Action + movement + bonus action
 - Each turn in combat is roughly 10 seconds, equal to 1 CT.
 - The battle is split up into turns according to Agility rolls, meaning the person who rolled the highest agility goes first, and his turn lasts 1 CT.
-- Each CT, a character can do two things: move, according to their Movespeed (Meters/Second) and attack.
+- Each CT, a character can do two things: move, according to their Movespeed (Meters/CT) and attack.
 - Instead of attacking, Characters can take other actions, such as using a Boon, doing some action in the world (Trying to knock over a small statue takes 1 CT).
 - Some actions take no time at all and they are defined as Instant Actions.
 - These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
 - This can be done at any point in the turn.
 - You can use the movement, action, and bonus action in any order.
-- You can only do one bonus action, one action, and one movement action per turn, unless stated otherwise in a boon or ability.
+- You can move, take an action (anything taking 1 CT), and do one bonus action each turn. 
+- Additionally, you can cast unlimited boons in a single turn as long as they have cast time "Instant"
 ### Equipment
 - A weapon or item is equipped to you if it is on your body, in a sheath or in a quiver that is on you.
 - This means it has to be written somewhere on your character sheet, like so- 
@@ -91,7 +92,7 @@
 - If they acquire 2 successes, they revive with 1 Hp.
 - If they acquire 2 fails, they die permanently.
 ### Attacks of opportunity:
-If you are directly next to an enemy and move away from them, that enemy gets a free attack on you as you escape.
+If you are in an enemies attack range (melee weapon only) and move away from them, that enemy gets a free attack on you as you escape.
 ### Disengage
 You can spend 1 CT as an action to disengage enemies and then move away, preventing attacks of opportunity on you.
 ### Heavy Armor:
@@ -101,19 +102,19 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 - Equipping a heavy shield (Aspída Pórtas) removes 2 Movespeed as well.
 
 ### Damage Types
-###      Blunt Damage:
+### Blunt Damage
 - Blunt damage is done by hammers, boons, and physical damage from various sources.
 - Blunt damage ignores armor and deals direct damage, but cannot crit.
 
-###      Piercing Damage
+### Piercing Damage
 - Piercing damage is done by swords, axes and spears.
 - This damage can crit (upon rolling the maximum number on a die) and can also be blocked by armor.
-###      Magic Damage
+### Magic Damage
 - Magic damage is caused by boons and other spells, and cannot crit or be blocked by non-magical armor.
 ### Reaction
 Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
 ### Fall Damage
-When a character falls, they take 1 damage for each 2 Meters they fall.
+When a character falls, they take 1d4 damage for each 2 Meters they fall.
 ### Swimming
 - When in calm water, a character can swim for half their movespeed.
 - If the character is in heavy armor (Klimakas, Corinthian Helmet), They must make a Might saving roll each turn or drown, taking 1d4 damage and falling beneath the waves, becoming Submerged.
