@@ -8,8 +8,6 @@
 	- His family is upstairs being sacrificed to Tauros
 	- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger" "דם אדם יעיר קרניים, נשימה אחרונה תמית שמים"
 	- On the upper floor they find Larissa, Heraklion's wife, tied up with two cultists about to sacrifice her
-	- Two Cultists seize them
-	- But Great Luck! Orpheus is summoned from a portal from hades to save them
 - When they arrive at Athens,  they happen to find Theodore
 	- He tells them the city has descended to chaos now that Lysander has taken over the council
 	- Lysander ordered his cult followers to loot the Olympian temples and bring the spoils back to his palace

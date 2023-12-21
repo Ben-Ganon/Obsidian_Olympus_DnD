@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Lore/Names.md",
+                "file": "DM Stuff/Session 5 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Lore/Names.md",
+                "file": "DM Stuff/Session 5 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Lore/Names.md",
+                "file": "DM Stuff/Session 5 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Lore/Names.md"
+                "file": "DM Stuff/Session 5 Notes.md"
               }
             }
           },
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +186,7 @@
   },
   "active": "ac503ed0db303338",
   "lastOpenFiles": [
+    "Player Lore/Names.md",
     "Player Lore/Greek Curse Words.md",
     "Player Lore/Athens Government.md",
     "Summonable Entities/Cerberus.md",
@@ -197,7 +199,6 @@
     "Summonable Entities/Buzzard.md",
     "Summonable Entities/Anemoi.md",
     "Summonable Entities/Achilles.md",
-    "Player Lore/Names.md",
     "Mechanics/Metal-Creature interactions.md",
     "Mechanics/Metal Types.md",
     "Mechanics/Level Up Chart.md",
