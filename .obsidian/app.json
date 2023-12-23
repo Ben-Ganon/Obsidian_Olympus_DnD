@@ -1,9 +1,10 @@
 {
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": true,
     "margin": "1",
-    "downscalePercent": 79
+    "downscalePercent": 71
   },
   "alwaysUpdateLinks": true,
   "readableLineLength": true

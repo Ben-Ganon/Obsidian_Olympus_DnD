@@ -1,15 +1,22 @@
 - The party has received the true prophecy from the oracle
 - they venture out towards Thera, and then Knossos in Crete
 - On the way, They will stop in Athens
-- On the way to Athens they meet the farmer Heraklion, with a man next to him
-	- On the outskirts of the Athens suburbs
-	- He tells them the Cult has taken over most of the formal offices
-	- Seems very very tense
-	- His family is upstairs being sacrificed to Tauros
-	- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger" "דם אדם יעיר קרניים, נשימה אחרונה תמית שמים"
-	- On the upper floor they find Larissa, Heraklion's wife, tied up with two cultists about to sacrifice her
+- On the way to Athens, on the outskirts of the city, they meet the farmer Heraklion, with a man next to him
+	- Heraklion says he's fine and everything is ok
+	- The man next to him chortles "yeah, we're all good here, move on"
+	- [On success intuition] PC's notice the man's arm is behind Heraklion's back
+	  and they both seem tense
+-  In the house, they can hear a struggle 
+- The party can hear from the first floor the cultists chant "Blood and flesh, sate your hunger" "דם אדם יעיר קרניים, נשימה אחרונה תמית שמים"
+- On the upper floor they can see through a crack in the door a woman, tied up with two cultists about to sacrifice her
+	- (Larissa, Heraklion's wife)
+	- The cultists are dressed in brownish red togas, that seem to sparkle - almost as if they are soaked in blood
+	- Dressed in masks with an enhanced bull-like snout and horns
+	- Underneath her a circle sprawled on the floor around her drawn in blood
+	- Every time the cultists chant,  the markings explode with bright red light
 - When they arrive at Athens,  they happen to find Theodore
 	- He tells them the city has descended to chaos now that Lysander has taken over the council
+	- He tells them the Cult has taken over most of the formal offices
 	- Lysander ordered his cult followers to loot the Olympian temples and bring the spoils back to his palace
 	- Says Penelope hasn't been seen since the Cult sacked the Parthenos, she might be in Lysander's palace
 	- Knows a good place to hide - takes them to a slave hideout near the palace
@@ -26,4 +33,3 @@
 		- Perhaps this god will be better - so Aphelios says
 - Let's them think about it for the night 
 - Leaves them with Idiotos to guard them
-- 
