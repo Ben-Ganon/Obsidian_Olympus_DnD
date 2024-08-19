@@ -23,11 +23,10 @@
             "id": "a23691ba60f35a9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Tauros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gods and Powers/Tauros.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,13 +193,14 @@
   },
   "active": "a23691ba60f35a9f",
   "lastOpenFiles": [
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Hades.md",
     "Player Lore/Types of Creatures.md",
     "Images/Zagreus.pdf",
     "Mechanics/Afflictions.md",
@@ -225,7 +220,6 @@
     "Gear and Items/Oracles Trident.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Item Prices.md",
-    "DM Stuff/The Plot.md",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
     "DM Stuff/Campaign 2",
