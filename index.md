@@ -7,6 +7,11 @@ If You're looking for the Character Creation guide, check it out [[Character Cre
 
 If You're looking for the god list and powers, check it out [[Playable Patrons|here]] 
 ## Main Pages:
+
+### Lore
+- [[Intro - The World| A Short Intro to the World]]
+- [[Inciting Incident | A Short Intro to the Plot]]
+- [[Athens Government]]
 ### Core Mechanics
 [[Combat Mechanics]]  - [[Dice mechanics]] - [[Afflictions]] 
 
