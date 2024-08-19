@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac503ed0db303338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Campaign 1/Session 6 Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a23691ba60f35a9f",
+            "id": "3a2fde8415b9184e",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
                 "staged": false
+              }
+            }
+          },
+          {
+            "id": "edce3f059cb55c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -191,8 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a23691ba60f35a9f",
+  "active": "edce3f059cb55c01",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Player Lore/The World.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
@@ -218,8 +224,6 @@
     "Gear and Items/Shields and Armor.md",
     "Gear and Items/Quivers.md",
     "Gear and Items/Oracles Trident.md",
-    "Gear and Items/Oracles Bow.md",
-    "Gear and Items/Item Prices.md",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
     "DM Stuff/Campaign 2",
