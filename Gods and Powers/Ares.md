@@ -2,8 +2,8 @@
 
 ***Description:***
 Ares is the god of war, bloodshed and massacres.
-Ares is a hot headed army of one, matching even the power of Zeus  one-on-one combat.
-Don't be fooled by his combat prowess - Ares is not the brightest on Olympus, and is easily provoked to fight stupid, ego driven fights.
+Ares is a hot headed army of one, matching even the power of Zeus in one-on-one combat.
+Don't be fooled by his combat prowess - Ares is not the brightest on Olympus, and is easily provoked to engage in stupid, ego driven fights.
 
 Children of Ares play as either front line tanks that absorb damage for their party, or rage-filled barbarians dealing massive damage to enemies, sometimes at the cost of their teammates Hp.
 
@@ -33,11 +33,11 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 ------------------
 <b><ins><i>Dangerous Taunt:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |     1     |   2 CT   | 6 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       3        |      1       |  Instant  |   2 CT   | 6 Meters |     |
 
-Taunt all creatures in range into combat, forcing them to attack you for the duration.  
+Taunt ***all*** creatures in range into combat, forcing them to attack you for the duration.  
 They have <mark style="background: #930000A6;">-1</mark> on all attack rolls and <mark style="background: #930000A6;">-2</mark> on all defense and dodge rolls
 During this time, you can attack another time each turn as a bonus action in the duration
 
@@ -49,31 +49,31 @@ During this time, you can attack another time each turn as a bonus action in the
 |       3        |      1       |  Instant  |   3 CT   |   -   | 
 
 Summon a weapon infused with the blood of Ares.
-(you can also transform your current weapon)
+(you can also temporarily transform your current weapon)
 <b><ins><i>War Bow:</i></ins></b>
 Rain arrows in a <mark style="background: #000B67A6;">2 Meter</mark> Radius around a point up to <mark style="background: #000B67A6;">20 Meters</mark> away.
 Each enemy in the area must make a blocking save or take <mark style="background: #930000A6;">1d6</mark> damage
 <b><ins><i>Spear:</i></ins></b>
-The blood spears attacks and defends for <mark style="background: #930000A6;">1d12</mark>. 
+The blood spear attacks and defends for <mark style="background: #930000A6;">1d12</mark>. 
 You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d6</mark> damage to all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> range.
 (Considered 1 attack)
 <b><ins><i>Xiphos:</i></ins></b>
 You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d6</mark> each time.
 Each attack is considered separate.
-Every time an enemy is hit by the Xiphos, heal <mark style="background: #045B00A6;">$1d4 \over 2$ </mark>
+Every time an enemy is hit by the Xiphos, heal <mark style="background: #045B00A6;">half of 1d4 </mark>
 Additionally, any enemy damaged in the duration grants you <mark style="background: #045B00A6;">+5 max Hp</mark>
 (Once per enemy)
 
 ------------------
 <b><ins><i>Combat Valor:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       5        |      1       |  Instant  |   3 CT   | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       5        |      1       |  Instant  |   3 CT   | 4 Meters |     |
 
 Gain valor of the strongest warriors.
 For the duration, your you gain <mark style="background: #930000A6;">+2</mark> to all block rolls and +2 Armor Rating,
-Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for every enemy the radius when you cast.
+Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for every enemy the radius when you cast this boon.
 
 ------------------
 <b><ins><i>Terrify:</i></ins></b>

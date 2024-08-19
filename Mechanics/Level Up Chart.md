@@ -1,13 +1,13 @@
 | Level |             Bonus             |
-|:-----:|:-----------------------------:|
+| :---: | :---------------------------: |
 |   0   | Race Ability / Automatic Boon |
-|   1   |             Boon              |
-|   2   |             Skill             |
-|   3   |             Boon              |
+|   1   |      Boon + Skill Point       |
+|   2   |          Skill Point          |
+|   3   |      Boon + Skill Point       |
 |   4   |             Skill             |
-|   5   |             Boon              |
+|   5   |      Boon + Skill Point       |
 |   6   |             Skill             |
-|   7   |             Boon              |
+|   7   |      Boon + Skill Point       |
 |   8   |             Skill             |
 |   9   |          Aspect Boon          |
 
