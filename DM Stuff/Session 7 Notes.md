@@ -1,0 +1,12 @@
+- The heroes are in a safe house in Athens
+- The heroes escape Athens? 
+- On arrival to Thera, they see the once Mediterranean island has transformed into a lush jungle-like abomination
+- They manage to land on one of the plant-infested shores
+- There is a nearby town named Sellada, or at least what houses and temples they can see poking out of the mountain of vegetation
+- They see the harbor of the town is completely covered in thick algae, preventing the boats from leaving
+### Thera's forest 
+- The forest makes traversing it magically difficult
+- The party must make an investigation check to get from point A to point B, and if they fail they simply loop around in circles
+- The Nimean Lion has spawned as a guardian of the forest (not malicious necessarily)
+- Nimean Lion Stats - Str 15 Agi 10 Int 4 Hp 100
+- 
