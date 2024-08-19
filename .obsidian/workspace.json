@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ed096e6e87c85f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "0709d9f1d6c8e25d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bda430f2dc33c8d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7f746fd5d743ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "565c2db3a536fe4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37d173fb8e13678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7952978d7b781d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a433bb2dff01413",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e972b03425ecf45",
+    "type": "split",
+    "children": [
+      {
+        "id": "063613e4114c7e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a501dd7b91a7eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f2289ea620711d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a70c2e33339287c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82fce2e41c9e512b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "86f14208cf0826b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b753882752ce781",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1bda430f2dc33c8d",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Player Lore/The World.md",
+    "index.md",
+    "Player Lore/Types of Creatures.md",
+    "Player Lore/Intro - The World.md",
+    "Player Lore/Inciting Incident.md",
+    "Player Lore/Athens and It's Characters/Sokrates.md",
+    "Player Lore/Athens and It's Characters/Perikles.md",
+    "Player Lore/Athens and It's Characters/Gregor Othonos.md",
+    "Player Lore/Athens and It's Characters/Athens Government.md",
+    "Player Lore/Athens and It's Characters/Alkibialdes.md",
+    "Player Lore/Athens and It's Characters",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/Campaign 2",
+    "DM Stuff/Campaign 1/Player Summaries/Demi.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Session 3 Combat.md",
+    "DM Stuff/Campaign 1/Player Summaries/Amara.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Trials of Heroes.md",
+    "DM Stuff/Campaign 1/Player Summaries/Adamantios.md",
+    "DM Stuff/Campaign 1/Oracle Caves/The writing on the wall.md",
+    "DM Stuff/Campaign 1/Oracle Caves/The Prophecy from the Oracle.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Riddles.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Potion Riddle.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Fake Prophecy.md",
+    "DM Stuff/Campaign 1/Session 7 Notes.md",
+    "DM Stuff/Campaign 1/Session 6 Notes.md",
+    "DM Stuff/Campaign 1/Session 4 + 5 Notes.md",
+    "DM Stuff/Campaign 1/Session 3 Notes.md",
+    "DM Stuff/Campaign 1/Player Summaries",
+    "DM Stuff/Campaign 1/Oracle Caves",
+    "DM Stuff/Campaign 1",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Info and Values/Character Sheet.pdf",
+    "Player Lore",
+    "Mechanics",
+    "Images/_f9641c7c-768f-4072-919e-03e4f95d6773.jpg",
+    "Images/_d3cba9c5-8b56-4cf5-a18f-68b2e0aa8c32.jpg",
+    "Images/_d0a5a8f7-ea14-4123-a9e2-fa6f11deadee.jpg",
+    "Images/_cde3fdce-f3f8-491f-a310-55ff1833c3c4.jpg",
+    "Images/_3bcd140e-c0e0-48a2-9318-cada851d4390.jpg",
+    "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
+    "Images/_a28c6c1d-e878-4c9f-a45c-f06e86e21259.jpg",
+    "Images/_82a62a37-30dd-4618-a945-7b895bb3854c.jpg",
+    "Images/_80f452f8-8c10-487b-90b2-b020548220e6.jpg",
+    "Images/_7707d6d9-b19f-4649-8f3f-22e30d690a6e.jpg",
+    "Images/Zagreus.pdf"
+  ]
+}
