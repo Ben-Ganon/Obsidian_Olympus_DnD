@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Session 6 Notes.md",
+                "file": "DM Stuff/Campaign 1/Session 6 Notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Olympus!.md",
+                "file": "Gods and Powers/Tauros.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Olympus!.md",
+                "file": "Gods and Powers/Tauros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Olympus!.md",
+                "file": "Gods and Powers/Tauros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Olympus!.md"
+                "file": "Gods and Powers/Tauros.md"
               }
             }
           },
@@ -199,36 +199,40 @@
   },
   "active": "a23691ba60f35a9f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "DM Stuff/Session 6 Notes.md",
-    "Welcome to Olympus!.md",
-    "DM Stuff/Session 7 Notes.md",
-    "DM Stuff/Session 4 + 5 Notes.md",
-    "Gods and Powers/Aphrodite.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Apollo.md",
     "Gods and Powers/Ares.md",
-    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Athena.md",
     "Gods and Powers/Demeter.md",
-    "Player Lore/Names.md",
-    "Player Lore/Greek Curse Words.md",
-    "Player Lore/Athens Government.md",
-    "Summonable Entities/Cerberus.md",
-    "Summonable Entities/Hellhound.md",
-    "Summonable Entities/Owl Sentry.md",
-    "Summonable Entities/Hercules.md",
-    "Summonable Entities/Savra.md",
-    "Summonable Entities/Wolf.md",
-    "Summonable Entities/Zagreus.md",
-    "Summonable Entities/Buzzard.md",
-    "Summonable Entities/Anemoi.md",
-    "Summonable Entities/Achilles.md",
-    "Mechanics/Metal-Creature interactions.md",
-    "Mechanics/Metal Types.md",
-    "Mechanics/Level Up Chart.md",
-    "Mechanics/Dice mechanics.md",
+    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Hades.md",
+    "Player Lore/Types of Creatures.md",
+    "Images/Zagreus.pdf",
+    "Mechanics/Afflictions.md",
+    "DM Stuff/Campaign 1/Session 6 Notes.md",
+    "Mechanics/Combat Mechanics.md",
+    "index.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Olympian Family Tree.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/Quivers.md",
+    "Gear and Items/Oracles Trident.md",
+    "Gear and Items/Oracles Bow.md",
+    "Gear and Items/Item Prices.md",
+    "DM Stuff/The Plot.md",
+    "Player Lore/Athens and It's Characters",
+    "Images/Athens Guards.pdf",
+    "DM Stuff/Campaign 2",
+    "DM Stuff/Campaign 1",
     "Images/OIG.8pgXU80OPMUlX5.png",
     "Images/Cave Stone Gaurdian.pdf",
-    "DM Stuff/Player Summaries",
-    "Images/Athens Guards.pdf",
+    "DM Stuff/Campaign 1/Player Summaries",
     "Images/Ares.png",
     "Images/Atlas.png",
     "Images/AH4111BNx.png",
@@ -240,10 +244,6 @@
     "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
     "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
     "Info and Values/Character Sheet.pdf",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Harpy.jfif",
-    "Player Lore",
-    "Images/Lysander.pdf",
-    "DM Stuff/Oracle Caves"
+    "Info and Values/Dead_Frost_Play_Aids.pdf"
   ]
 }

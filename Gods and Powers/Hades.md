@@ -6,7 +6,7 @@ Bitter, angry from his lot in eternal life, Hades sulks in the underworld, away 
 Don't be fooled by his childish behavior, behind the sulky anger lies true power and dominion over the underworld and all the realms within. 
 
 Children of hades play in 1 of two roles:
-- Warlock who summons a small army of minions to do his bidding, defending and fighting for the party. Not recommended for beginners!
+- Necromancer who summons a small army of minions to do his bidding, defending and fighting for the party. Not recommended for beginners!
 
 - Assassin who uses the shadows to sneak up on and remove targets.
 
@@ -67,7 +67,7 @@ When a foe is bit by the skull, they must make a <mark style="background: #A5A5A
 
 Channel the goddess Styx to shroud your area in darkness.
 Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">Intuition</mark> roll or turn [[Afflictions#Blind |blind]] for the duration.
-Undead (even enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
+[[Types of Creatures#Undead|Undead]] (including enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
 for the duration.
 
 ------------------

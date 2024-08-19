@@ -1,7 +1,7 @@
-In ancient Greece there lies a mystery that threatens to envelope the land darkness and strife.  
-Persephone, the goddess of spring, has vanished!  
+Atop Olympus, madness has taken hold of the Gods.
+Persephone, the Goddess of spring, has vanished!  
 In her absence, the land has fell into an eternal winter.  
-On Mount Olympus, the gods are raging, yelling insults, pointing fingers at one another and hurling whatever is in sight, in a childish attempt to resolve the issue.  
+On Mount Olympus, the Gods are raging, yelling insults, pointing fingers at one another and hurling whatever is in sight, in a childish attempt to resolve the issue.  
 The classic suspect is Hades, who has already kidnapped Persephone  once before. 
 "You idiots, she's my wife! Why would I kidnap my own wife!? we already have an agreement that she stays with me three months of the year, but the winter months have come and gone and she is nowhere" 
 Muttering their apologies, the gods settle down and start to think about who the culprit could be...  
@@ -13,5 +13,5 @@ Hades replies, in a snarky tone "Who wouldn't want to see you lose? you're not e
   
 "Yes boss?"  
 "Remember when I told you about the group of exceptional demigods assembled in Athens for the Summer Solstice?"  
-"sure thing boss"  
+"Sure thing boss!"  
 "now would be the time to fetch them for a quest"

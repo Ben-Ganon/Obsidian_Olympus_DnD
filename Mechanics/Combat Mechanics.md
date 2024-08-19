@@ -103,14 +103,14 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 
 ### Damage Types
 ### Blunt Damage
-- Blunt damage is done by hammers, boons, and physical damage from various sources.
-- Blunt damage ignores armor and deals direct damage, but cannot crit.
-
+- Blunt damage is done by hammers, some boons, and physical damage from various sources like falling or thrown objects.
+- Can be blocked by shields
+- Blunt damage ignores armor (regular and magical unless specified otherwise) and deals direct damage, but cannot crit.
 ### Piercing Damage
 - Piercing damage is done by swords, axes and spears.
 - This damage can crit (upon rolling the maximum number on a die) and can also be blocked by armor.
 ### Magic Damage
-- Magic damage is caused by boons and other spells, and cannot crit or be blocked by non-magical armor.
+- Magic damage is caused by some boons and other spells, and cannot crit or be blocked by non-magical armor or shields.
 ### Reaction
 Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
 ### Fall Damage
