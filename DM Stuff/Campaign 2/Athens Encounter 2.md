@@ -23,6 +23,19 @@ Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Co
 
 ## TODO: WRITE PLAYER INTROS
 
+## Thalassios
+- Thalassios is returning from a long night at Lysander's mansion
+- Thalssios was sent there to try and understand exactly what Lysander knows - 
+- He's threatened Elissa with spilling one of her more sensitive secrets, but Elissa does not know if he is bluffing because she was on deaths door drunk on a cup of magical wine
+-  Elissa wants to know what Lysander knows, but won't reveal the secret to Thalassios 
+	- The secret - Chara is a product of an illegal affair with a Persian emissary - Cyrus
+	- She hid her pregnancy with Shimmer and gave birth to Cyrus' child
+	- She integrated the child as an acolyte from birth, hiding the fact that she is half Persian
+	- Relationships with Persian officials is strictly forbidden, especially for priests of Olympians.
+	- If word would get out that Elissa has betrayed her country, she would be removed from office and imprisoned for life
+- Thalassios has gathered from various party that Cyrus, who arrived in the city ten years ago, has had a secret child with someone of high rank in the city, but he does not know who. 
+- Chara, who is 
+
 
 ![[Akropolis.png | 300]]
 Later, the heroes are gathered at the newly built Parthenon for the main sacrifice happening within the hour at mid-day.

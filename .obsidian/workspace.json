@@ -11,8 +11,12 @@
             "id": "0f52f7aa3755778c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
+              }
             }
           },
           {
@@ -177,15 +185,19 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
+    "DM Stuff/The Plot.md",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Athena.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/Characters/Elissa Panagos.md",
+    "DM Stuff/Characters/Lysander Hasapis.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Demeter.md",
-    "Gods and Powers/Ares.md",
     "conflict-files-obsidian-git.md",
     "Player Lore/The World.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Athena.md",
     "Gods and Powers/Dionysos.md",
     "Player Lore/Types of Creatures.md",
     "Images/Zagreus.pdf",
@@ -200,10 +212,6 @@
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Aphrodite.md",
-    "Gear and Items/Weapons.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Quivers.md",
-    "Gear and Items/Oracles Trident.md",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
     "DM Stuff/Campaign 2",
