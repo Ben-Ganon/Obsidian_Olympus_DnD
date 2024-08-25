@@ -31,10 +31,11 @@ Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Co
 	- The secret - Chara is a product of an illegal affair with a Persian emissary - Cyrus
 	- She hid her pregnancy with Shimmer and gave birth to Cyrus' child
 	- She integrated the child as an acolyte from birth, hiding the fact that she is half Persian
-	- Relationships with Persian officials is strictly forbidden, especially for priests of Olympians.
+	- Relationships with Persian officials is strictly forbidden, especially for priests of the Olympians.
 	- If word would get out that Elissa has betrayed her country, she would be removed from office and imprisoned for life
+- Thalassios was told by Lysander directly that the "big secret" that Elissa told him was that a certain Hero has just returned from a failed quest to Athens, and she is hiding out in the Aphrodite temple. 
 - Thalassios has gathered from various party that Cyrus, who arrived in the city ten years ago, has had a secret child with someone of high rank in the city, but he does not know who. 
-- Chara, who is 
+- Chara, who is just discovering her powers, barges in to share this with Thalassios and Elissa 
 
 
 ![[Akropolis.png | 300]]
@@ -66,10 +67,9 @@ How could a god be...missing?
 A small scrolls pops into his hands.
 He unfurls it, and starts reading:
 "I am hereby summoning our Heroes:
-Amara, daughter of Aphrodite
-Adamantios, son of Ares
-Demi, Daughter of Zeus ***lightning crashes***
-Anthosia, Daughter of Demeter
+- Thalassios, son of Aphrodite
+- Amara, Daughter of Aphrodite
+- 
 ___ ....
 Step forward mighty Heroes, so that you may receive the god's blessings on this difficult journey"
 The crowd is aghast with murmurs of excitement and anticipation.
