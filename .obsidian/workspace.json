@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33ac6251ec00c93a",
+        "id": "e78a6e31dae827ae",
         "type": "tabs",
         "children": [
           {
-            "id": "3a2fde8415b9184e",
+            "id": "0f52f7aa3755778c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "3be0f9ac963b2f0d",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3be0f9ac963b2f0d",
+  "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Ares.md",
     "conflict-files-obsidian-git.md",
     "Player Lore/The World.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Apollo.md",
-    "Gods and Powers/Ares.md",
     "Gods and Powers/Athena.md",
-    "Gods and Powers/Demeter.md",
     "Gods and Powers/Dionysos.md",
     "Player Lore/Types of Creatures.md",
     "Images/Zagreus.pdf",
