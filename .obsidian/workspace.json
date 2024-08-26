@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Mechanics/Afflictions.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Mechanics/Afflictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Mechanics/Afflictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
+                "file": "Mechanics/Afflictions.md"
               }
             }
           },
@@ -185,33 +185,33 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
-    "DM Stuff/The Plot.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Oracles Trident.md",
+    "Gear and Items/Quivers.md",
+    "Gear and Items/Shields and Armor.md",
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Oracles Bow.md",
+    "Gear and Items/Item Prices.md",
     "Gods and Powers/Ares.md",
+    "Gods and Powers/Aphrodite.md",
+    "Mechanics/Dice mechanics.md",
     "Gods and Powers/Apollo.md",
-    "Gods and Powers/Athena.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
-    "DM Stuff/Characters/Elissa Panagos.md",
-    "DM Stuff/Characters/Lysander Hasapis.md",
-    "Gods and Powers/Hades.md",
+    "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
-    "conflict-files-obsidian-git.md",
-    "Player Lore/The World.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
-    "Gods and Powers/Dionysos.md",
-    "Player Lore/Types of Creatures.md",
+    "Gods and Powers/Poseidon.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/The Plot.md",
+    "DM Stuff/Characters/Elissa Panagos.md",
+    "DM Stuff/Characters/Lysander Hasapis.md",
+    "conflict-files-obsidian-git.md",
+    "Player Lore/The World.md",
     "Images/Zagreus.pdf",
-    "Mechanics/Afflictions.md",
-    "DM Stuff/Campaign 1/Session 6 Notes.md",
-    "Mechanics/Combat Mechanics.md",
-    "index.md",
-    "Gods and Powers/Playable Patrons.md",
-    "Gods and Powers/Olympian Family Tree.md",
-    "Gods and Powers/Janus.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Aphrodite.md",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
     "DM Stuff/Campaign 2",
@@ -229,7 +229,6 @@
     "Images/Aphelios.png",
     "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
     "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
-    "Info and Values/Character Sheet.pdf",
-    "Info and Values/Dead_Frost_Play_Aids.pdf"
+    "Info and Values/Character Sheet.pdf"
   ]
 }
