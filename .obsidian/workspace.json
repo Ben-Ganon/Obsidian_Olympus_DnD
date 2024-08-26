@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Afflictions.md",
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5026054382324
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Afflictions.md",
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Afflictions.md",
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Afflictions.md"
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
               }
             }
           },
@@ -185,13 +185,18 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Gear and Items/Weapons.md",
-    "Gear and Items/Oracles Trident.md",
-    "Gear and Items/Quivers.md",
+    "DM Stuff/PC's/Thalssios.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/The Plot.md",
+    "DM Stuff/PC's",
     "Gear and Items/Shields and Armor.md",
-    "Gear and Items/The Black Key.md",
+    "Gear and Items/Oracles Trident.md",
     "Gear and Items/Oracles Bow.md",
+    "Gear and Items/Quivers.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/The Black Key.md",
+    "Mechanics/Afflictions.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Gear and Items/Item Prices.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Aphrodite.md",
@@ -205,12 +210,9 @@
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
-    "DM Stuff/The Plot.md",
     "DM Stuff/Characters/Elissa Panagos.md",
     "DM Stuff/Characters/Lysander Hasapis.md",
     "conflict-files-obsidian-git.md",
-    "Player Lore/The World.md",
     "Images/Zagreus.pdf",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
@@ -228,7 +230,6 @@
     "Images/beng97_Ancient_Greek_young_man_small_bull_horns_c8e6fa8e-3147-4bc7-a520-dbf8b1a014a9.png",
     "Images/Aphelios.png",
     "Images/_a88ecda1-66d1-4961-9cde-a11496957046.jpg",
-    "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg",
-    "Info and Values/Character Sheet.pdf"
+    "Images/_1367120d-80ff-427e-8f4b-a2a8db715315 1.jpg"
   ]
 }

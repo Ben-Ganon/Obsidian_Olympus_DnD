@@ -22,21 +22,39 @@ Even so, all of Athens is partaking in the events, hoping their sacrifices and j
 Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Council, and are looking out for Heroes on quests to aid the Olympians.
 
 ## TODO: WRITE PLAYER INTROS
-
-## Thalassios
+## Scene 1: A Chariot 
+## Scene 1: Aphrodite Temple
+The temple of Aphrodite is a place of worship to all that is beautiful, soft, and deadly.
+Amongst the brilliant marble pillars, flower bed blossom with venomous flowers in all shades of pink and purple, as well as delicate roses of white and pink.
+Pillows are strewn about, waiting for lovers to fall upon them in their embrace.
+Priestesses of Aphrodite are dressed less modestly then your run-of-the-mill priestesses of more conservative Goddesses like Athena or Hera, but don't let the revealing dresses and togas fool you - children of Aphrodite are always more dangerous than they appear.
+On this wintery day, the sun still shines beyond the heavy clouds occasionally, and the inhabitants of the temple can be seen running about preparing for the festivities of the Summer Solstice.
+One such inhabitant is Elissa Panagos, waiting anxiously for her beloved Thalassios to return from a night of partying at the esteemed  Archon Strategos Lysander Hasapis mansion.
+### Thalassios
 - Thalassios is returning from a long night at Lysander's mansion
 - Thalssios was sent there to try and understand exactly what Lysander knows - 
 - He's threatened Elissa with spilling one of her more sensitive secrets, but Elissa does not know if he is bluffing because she was on deaths door drunk on a cup of magical wine
 -  Elissa wants to know what Lysander knows, but won't reveal the secret to Thalassios 
-	- The secret - Chara is a product of an illegal affair with a Persian emissary - Cyrus
+	- The secret - Chara is a product of an illegal affair of a priestess of Aphrodite with a Persian emissary - Cyrus of Babylon
 	- She hid her pregnancy with Shimmer and gave birth to Cyrus' child
 	- She integrated the child as an acolyte from birth, hiding the fact that she is half Persian
 	- Relationships with Persian officials is strictly forbidden, especially for priests of the Olympians.
 	- If word would get out that Elissa has betrayed her country, she would be removed from office and imprisoned for life
-- Thalassios was told by Lysander directly that the "big secret" that Elissa told him was that a certain Hero has just returned from a failed quest to Athens, and she is hiding out in the Aphrodite temple. 
+- Thalassios was told by Lysander directly that the "big secret" that Elissa told him was that a certain Hero has just returned from a failed quest to Athens, and she is to arrive at the Aphrodite temple this very morning.
+- Another secret that Thalssios has gathered is that a certain Persian emissary has a bastard child with some priestess in one of the temples 
+- Elissa is shocked by this information and orders acolytes to organize a welcoming party at the temple
 - Thalassios has gathered from various party that Cyrus, who arrived in the city ten years ago, has had a secret child with someone of high rank in the city, but he does not know who. 
 - Chara, who is just discovering her powers, barges in to share this with Thalassios and Elissa 
+- As she starts to speak, Elissa gives her a dirty look 
 
+
+### Amara
+- Amara has just returned from a quest for Aphrodite
+- Aphrodite hoped she would die or be lost in the trip and told so to Elissa
+- Elissa is surprised and disappointed to see her return safe, but hosts a lavish welcome anyway
+- Being a quest for Aphrodite, Amara does a tour of the city on a chariot, decorated with a laurel wreath weaved with golden strings, and finishes at the temple where she is celebrated as a successful hero
+- Elissa inquires about the quest, and what happened to the other heroes
+- 
 
 ![[Akropolis.png | 300]]
 Later, the heroes are gathered at the newly built Parthenon for the main sacrifice happening within the hour at mid-day.
