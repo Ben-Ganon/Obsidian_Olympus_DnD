@@ -70,6 +70,8 @@ An acolyte of Aphrodite is here to collect the bronze laurel that is to be award
 Orphea knows the laurel she made just yesterday is in the blacksmiths office, where he took it a couple hours ago to inspect. 
 As she enters the the blacksmiths back room, she looks upon his wall and sees bronze gorgon heads, minotaur horns, Dryad bark and Cyclop skulls, hanging on the wall like grotesque trophies. 
 
+## Scene 4: The Debate
+
 
 
 
@@ -130,3 +132,4 @@ Start encounter.
 
 [[Athens Guards.pdf]]
 [[Lysander.pdf]]
+
