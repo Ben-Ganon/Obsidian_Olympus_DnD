@@ -22,7 +22,7 @@ Even so, all of Athens is partaking in the events, hoping their sacrifices and j
 Unbeknownst to our intrepid Heroes, the cult of the bull have infiltrated the Council, and are looking out for Heroes on quests to aid the Olympians.
 
 ## Scene 1: The Hero Returns
-The crowd roars. It is almost deafening. 
+At the city gates, the crowd roars. It is almost deafening. 
 It's not everyday a Hero returns from their quest, but on a gloomy day like this, in desperate times like these, the awaited return of Amara hits the city like a tidal wave sent by Poseidon.
 Holding the reigns of two beautiful stallions, bathed in the cheers of the crowd, oils of the temples, a wreath to her head and her daggers at her side, what is Amara thinking in this moment?
 
@@ -59,6 +59,7 @@ One such inhabitant is Elissa Panagos, waiting anxiously for her beloved Thalass
 - Elissa inquires about the quest, and what happened to the other heroes
 
 ## Scene 3: The Blacksmith's Apprentice 
+### Orphea
 Bam! Bam! Bam! 
 Orphea's hammer clashes onto the bronze breastplate in front of her.
 In her eyes a glimmer of rage is present. 
@@ -69,9 +70,12 @@ In between blows of the hammer she spots a customer walking in the small, humble
 An acolyte of Aphrodite is here to collect the bronze laurel that is to be awarded to the returning Hero.
 Orphea knows the laurel she made just yesterday is in the blacksmiths office, where he took it a couple hours ago to inspect. 
 As she enters the the blacksmiths back room, she looks upon his wall and sees bronze gorgon heads, minotaur horns, Dryad bark and Cyclop skulls, hanging on the wall like grotesque trophies. 
+The blacksmith, a dark hairy brute with little regard for others, barks at her "what do you want??" 
+Orphea understands at once what she must do
 
-## Scene 4: The Debate
-
+## Scene 4: The Trial
+In a grand marble courthouse, on the marble floor in the middle of the marble steps sat upon by the jurors, stands a philosopher. 
+The judge, a tall, broad, handsome man of blackest curly hair and intense brown eyes, sits atop the marble bench and 
 
 
 
@@ -106,8 +110,10 @@ He unfurls it, and starts reading:
 "I am hereby summoning our Heroes:
 - Thalassios, son of Aphrodite
 - Amara, Daughter of Aphrodite
-- 
-___ ....
+- Orphea, Daughter of Hephaestus
+- Theodore, Son of Aphrodite
+- Epaminondas, Son of Ares
+
 Step forward mighty Heroes, so that you may receive the god's blessings on this difficult journey"
 The crowd is aghast with murmurs of excitement and anticipation.
 Our heroes step forward tentatively, not knowing whether this spells glory or doom.

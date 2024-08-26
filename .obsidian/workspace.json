@@ -11,9 +11,11 @@
             "id": "0f52f7aa3755778c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Xiphos-Title.webp"
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Xiphos-Title.webp",
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Xiphos-Title.webp",
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Xiphos-Title.webp"
+                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
               }
             }
           },
@@ -183,6 +185,11 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
+    "Player Lore/Athens and It's Characters/Athens Government.md",
+    "Player Lore/Greek Curse Words.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/The Plot.md",
+    "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(2).jpeg",
@@ -193,11 +200,8 @@
     "Images/Indo-Persian_war_hammer.jpg",
     "Images/il_1588xN.1052590995_ad0e.webp",
     "Images/Hercules.pdf",
-    "Images/Hephaestus.png",
-    "Images/Hector Pantazis.png",
     "Images/Hector.pdf",
     "Info and Values/Canva Resources.md",
-    "Player Lore/Greek Curse Words.md",
     "Player Lore/Inciting Incident.md",
     "Player Lore/Intro - The World.md",
     "Player Lore/Names.md",
@@ -206,7 +210,6 @@
     "Player Lore/Athens and It's Characters/Sokrates.md",
     "Player Lore/Athens and It's Characters/Perikles.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
-    "Player Lore/Athens and It's Characters/Athens Government.md",
     "Player Lore/Athens and It's Characters/Alkibialdes.md",
     "DM Stuff/PC's/PC Table.md",
     "DM Stuff/PC's/Thalssios.md",
@@ -218,7 +221,6 @@
     "DM Stuff/Characters/Zeno.md",
     "DM Stuff/Characters/The Cult of the Bull.md",
     "DM Stuff/Characters/Selene.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
     "Character Creation/Races.md",
     "Character Creation/God Bonus Stat Chart.md",
     "DM Stuff/PC's",
