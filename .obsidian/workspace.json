@@ -21,6 +21,20 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1163ccacae939085",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Lore/Athens and It's Characters/Gregor Othonos.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ]
       },
@@ -113,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -211,10 +224,21 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
+    "Player Lore/Athens and It's Characters/Gregor Othonos.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "DM Stuff/The Plot.md",
+    "DM Stuff/Campaign 1/Athens Encounter.md",
+    "DM Stuff/Characters/Elissa Panagos.md",
+    "DM Stuff/Characters/Hector Pantazos.md",
+    "DM Stuff/Characters/Lysander Hasapis.md",
+    "DM Stuff/Characters/Penelope Diakos.md",
+    "DM Stuff/Characters/Selene.md",
+    "DM Stuff/Characters/Zeno.md",
+    "DM Stuff/Characters/The Cult of the Bull.md",
+    "DM Stuff/Characters/Atlas.md",
     "DM Stuff/Campaign 2/Session 1.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Character Creation Guide.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
     "Character Creation/Races.md",
     "Gear and Items/Shields and Armor.md",
     "Gear and Items/The Black Key.md",
@@ -222,13 +246,9 @@
     "Gear and Items/Oracles Trident.md",
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Quivers.md",
-    "DM Stuff/Characters/Hector Pantazos.md",
     "DM Stuff/PC's/PC Table.md",
-    "DM Stuff/Characters/Lysander Hasapis.md",
-    "DM Stuff/Characters/Penelope Diakos.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
     "Player Lore/Greek Curse Words.md",
-    "DM Stuff/The Plot.md",
     "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
@@ -242,13 +262,6 @@
     "Images/Hercules.pdf",
     "Images/Hector.pdf",
     "Info and Values/Canva Resources.md",
-    "Player Lore/Inciting Incident.md",
-    "Player Lore/Intro - The World.md",
-    "Player Lore/Names.md",
-    "Player Lore/Types of Creatures.md",
-    "Player Lore/The World.md",
-    "Player Lore/Athens and It's Characters/Sokrates.md",
-    "Player Lore/Athens and It's Characters/Perikles.md",
     "DM Stuff/PC's",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Zagreus.pdf",
