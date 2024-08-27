@@ -74,7 +74,9 @@ The blacksmith, a dark hairy brute with little regard for others, barks at her "
 Orphea understands at once what she must do
 
 ## Scene 4: The Trial
+### Epaminondes
 In a grand marble courthouse, on the marble floor in the middle of the marble steps sat upon by the jurors, stands a philosopher. 
+-  Epaminondas recognizes this man as his teacher he has been seeing in private for philosophy lessons
 The Dikasteria, composed mostly of the elder Ekklesia members elected to carry out judgement upon those who break the rules set by the Boule, populate closely the marbled terraces set in the courthouse. 
 With them, a few Strategoi sit aside to council on military matters and judge deserting soldiers.
 The head judge, a tall, broad, handsome man of black curly hair and intense brown eyes, sits atop the marble bench and inspects closely an old man with a pristine white toga.
@@ -82,13 +84,21 @@ The head judge, a tall, broad, handsome man of black curly hair and intense brow
 "On what charges?" 
 "Corrupting the youth, impiety, inciting violence, inciting rebellions against Athenian democracy, and many more. I would like to continue to list the many ways your students have tried to burn down the city, but I cannot be here all day".
 "On these charges and many more, I hereby sentence you to death"
-The crowd erupts - many of the Dikasteria are great friends with the philosopher, and would hate to see him dead. 
-Many more are convinced this is the man that will cause Athen's downfall.
+The crowd erupts - a small minority of the Dikasteria are great friends with the philosopher, and would hate to see him dead. 
+Many more are convinced this is the man that will cause Athens' downfall.
 The stern judge shouts in a deafening voice "SILENCE".
-The Dikasteria silences slowly.
-"Will no one speak up for this man?"
-- 
-
+The Dikasteria winds down slowly, settling on an anxious tension as the room holds it's breath for the judges next words.
+"As is Athens tradition, I will allow a re-trial if anyone should vouch for this man with his life. Know that doing this may get you executed as well.
+Kallistoniki, perhaps you would like to give us a strong general's opinion? perhaps your son has some insights?"
+The silence deafens.
+- Will Epaminondas speak up?
+## Scene 5: Underground Crime
+In an underground temple somewhere in Athens, a hooded figure sits atop a small, humble throne made of black and white marble, split exactly down the middle. 
+Behind and above the figure looms a split black-white marble giant, dressed in a simple toga of neutral gray stone.
+The statue seems normal, human, except for the head - on it are carved two faces, one of bliss and one of agony, adorning two sides of the statues head. 
+The figure speaks to a man knelt below him "So you have come to me for power, and what do you wish to give in return?"
+- What does Theodore offer?
+"Very well, "
 
 
 ![[Akropolis.png | 300]]
