@@ -75,7 +75,8 @@ Orphea understands at once what she must do
 
 ## Scene 4: The Trial
 In a grand marble courthouse, on the marble floor in the middle of the marble steps sat upon by the jurors, stands a philosopher. 
-The judge, a tall, broad, handsome man of blackest curly hair and intense brown eyes, sits atop the marble bench and 
+The judge, a tall, broad, handsome man of black curly hair and intense brown eyes, sits atop the marble bench and inspects closely an old man with a pristine white toga.
+"I may be only filling in today for judge Alexandros, but by Zeus I will make sure you end up in the gallows, Socrates"
 
 
 
