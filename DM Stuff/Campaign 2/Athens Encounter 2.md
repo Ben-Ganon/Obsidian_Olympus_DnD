@@ -93,10 +93,16 @@ Kallistoniki, perhaps you would like to give us a strong general's opinion? perh
 The silence deafens.
 - Will Epaminondas speak up?
 ## Scene 5: Underground Crime
+### Theodore
 In an underground temple somewhere in Athens, a hooded figure sits atop a small, humble throne made of black and white marble, split exactly down the middle. 
 Behind and above the figure looms a split black-white marble giant, dressed in a simple toga of neutral gray stone.
 The statue seems normal, human, except for the head - on it are carved two faces, one of bliss and one of agony, adorning two sides of the statues head. 
-The figure speaks to a man knelt below him, flanked by two guards wearing black togas and adorned in bronze bull masks - "I hear "
+The figure pulls back his hood to reveal a pale white face, riddled with scars that range from a ghostly white to angry red.
+He speaks to a young man knelt below him, flanked by two guards wearing black togas and adorned in bronze bull masks - "I hear you approached some of my men wanting to hire a squad. You should know we do not take these things lightly. We heard what happened to your father. Can we trust you?"
+
+- "I am Hector Pantazis, son of Janus and commander of the Athens phalanx of the Cult of the Bull"
+- Hector wants Theodore to join the cult as a spy of sorts, eavesdropping on the comings and goings in the Parthenon.
+- There is a surprise at the peak of the festival ceremonies
 
 
 ![[Akropolis.png | 300]]
@@ -105,14 +111,17 @@ The Parthenon shines brightly, as if beckoning the people gathered to come close
 The impossibly tall stone columns almost seem to convey that they will always be above you, silently judging.
 About an hour before the grand sacrifice, the crowd at the Acropolis is getting denser by the minute. 
 Performers line the square, and vendors are at their peak activity. 
-The hum and buzz of the crowd is almost deafening, but in a gentle, pleasant way.
+The sounds of the various peoples of Greece in the acropolis merges into a pleasant, vibrant humming.
+
+- What is each character doing in the acropolis?
+
 
 Suddenly, a giant crack of thunder is heard throughout the city.
 A lightning bolt strikes the main plaza. 
 The plaza and people unharmed, the heroes can see an impossibly large man (around 2-3 meters in height) kneeling in the impact zone.
 "Malakas, I'll never get used to that"
 He rises up, snaps his fingers and the dust evaporates from him.
-He looks to be quite young, simultaneously teenage and child, with golden eyes, shaggy brown hair and a quirky, mischievous smile.
+He looks to be quite young, simultaneously teenage,  child, and young adult, with golden eyes, shaggy brown hair and a quirky, mischievous smile.
 In his hands, a large bronze staff is writhing - the Caduceus.
 He seems quite twitchy, speaking fast and with a certain haste to his words - like he's trying to wrap up a meeting because he is late to his second job delivering mail.
 He starts to levitate slightly, and his voice beams across the Acropolis:
@@ -140,9 +149,10 @@ Our heroes step forward tentatively, not knowing whether this spells glory or do
 
 Hermes tells the heroes they are chosen for the task of finding Persephone, freeing her from her captors, and renewing the spring in Greece. 
 Not a small task, and yet he speaks about it like it's getting some food from a vendor or delivering a letter - just another chore.
-Hermes explains to the heroes they must consult the oracle at Delphi to officially start their quest. 
+Hermes explains to the heroes they must consult the Oracle at Delphi to officially start their quest. 
 before they go, Hermes gives them some Boons from their patrons - a gesture of goodwill to show the Olympians care about their children. 
-This doesn't exactly encourage our heroes, who may or may not have heard from their parents since they were born.
+
+- What does each Hero feel about this discovery?
 
 After his parting words, Hermes is gone in a flash of smiles and light.
 The grand priestess Penelope is extremely concerned by this news and calls the Heroes for a brief on the state of Athens, hoping they can help her with the cult, who she suspects has something to do with all of this.

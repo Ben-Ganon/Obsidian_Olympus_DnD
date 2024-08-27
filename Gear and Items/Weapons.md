@@ -1,16 +1,19 @@
-|       Name       | Type                    | Offense Value | Defense Value | Effective Range | Grapple Dmg | Might Required |
-|:----------------:| ----------------------- |:-------------:|:-------------:|:---------------:|:-----------:|:--------------:|
-|     Akinakes     | Knife                   |      1d4      |       -       |    4 Meters     |     1d6     |       -        |
-|      Xiphos      | Short Sword             |      1d6      |      1d4      |        -        |     1d4     |       -        |
-|      Kopis       | Long Sword              |      1d8      |      1d4      |        -        |      -      |       6        |
-|       Dory       | Spear                   |    2d4/1d6    |      1d4      |    4 Meters     |      -      |       -        |
-|      Labrys      | Small Double-Headed Axe |      1d6      |       -       |    4 Meters     |     1d4     |       -        |
-|       Toxo       | Hunting Bow             |      1d6      |       -       |    10 Meters    |      -      |       -        |
-|  Syntheto Toxo   | Composite Bow           |      1d8      |       -       |    12 Meters    |      -      |       -        |
-|      Sfyri       | Hammer                  |      1d6      |       -       |        -        |     1d4     |       6        |
-|     Sagaris      | War Hammer              |     1d10      |       -       |        -        |      -      |       8        |
-|       Lyre       | Instrument              |      1d4      |       -       |    6 Meters     |      -      |       -        |
-| Aspída Sfentónas | Sling Shield            |      1d4      |      1d4      |    6 Meters     |      -      |       -        |
+
+|       Name       | Type                    | Offense Value | Defense Value | Effective Range | Grapple Dmg | Might Required | Damage Type |
+| :--------------: | ----------------------- | :-----------: | :-----------: | :-------------: | :---------: | :------------: | ----------- |
+|     Akinakes     | Knife                   |      1d4      |       -       |    4 Meters     |     1d6     |       -        | Piercing    |
+|      Xiphos      | Short Sword             |      1d6      |      1d4      |        -        |     1d4     |       -        | Piercing    |
+|      Kopis       | Long Sword              |      1d8      |      1d4      |        -        |      -      |       6        | Piercing    |
+|       Dory       | Spear                   |    2d4/1d6    |      1d4      |    4 Meters     |      -      |       -        | Piercing    |
+|      Labrys      | Small Double-Headed Axe |      1d6      |       -       |    4 Meters     |     1d4     |       -        | Piercing    |
+|       Toxo       | Hunting Bow             |      1d6      |       -       |    10 Meters    |      -      |       -        | Piercing    |
+|  Syntheto Toxo   | Composite Bow           |      1d8      |       -       |    12 Meters    |      -      |       -        | Piercing    |
+|      Sfyri       | Hammer                  |      1d6      |       -       |        -        |     1d4     |       6        | Blunt       |
+|     Sagaris      | War Hammer              |     1d10      |       -       |        -        |      -      |       8        | Blunt       |
+|       Lyre       | Instrument              |      1d4      |       -       |    6 Meters     |      -      |       -        | Magic       |
+| Aspída Sfentónas | Sling Shield            |      1d4      |      1d4      |    6 Meters     |      -      |       -        | Blunt       |
+
+
 
 #### Weapons Damage Types
 Knives, Swords, and Axes do Melee [[Combat Mechanics#Piercing Damage |piercing damage]].

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "Gear and Items/Shields and Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
+                "file": "Gear and Items/Shields and Armor.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +185,16 @@
   },
   "active": "0f52f7aa3755778c",
   "lastOpenFiles": [
+    "Gear and Items/The Black Key.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Oracles Trident.md",
+    "Gear and Items/Oracles Bow.md",
+    "Gear and Items/Quivers.md",
+    "DM Stuff/Campaign 2/Athens Encounter 2.md",
     "DM Stuff/Characters/Hector Pantazos.md",
+    "DM Stuff/PC's/PC Table.md",
     "DM Stuff/Characters/Lysander Hasapis.md",
     "DM Stuff/Characters/Penelope Diakos.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
-    "DM Stuff/PC's/PC Table.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
     "Player Lore/Greek Curse Words.md",
     "DM Stuff/The Plot.md",
@@ -218,11 +223,6 @@
     "DM Stuff/PC's/Thalssios.md",
     "DM Stuff/Characters/Elissa Panagos.md",
     "DM Stuff/Characters/Atlas.md",
-    "DM Stuff/Characters/Zeno.md",
-    "DM Stuff/Characters/The Cult of the Bull.md",
-    "DM Stuff/Characters/Selene.md",
-    "Character Creation/Races.md",
-    "Character Creation/God Bonus Stat Chart.md",
     "DM Stuff/PC's",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Zagreus.pdf",
