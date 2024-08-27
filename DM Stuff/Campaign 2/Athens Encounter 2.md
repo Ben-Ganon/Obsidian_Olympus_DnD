@@ -26,7 +26,7 @@ At the city gates, the crowd roars. It is almost deafening.
 It's not everyday a Hero returns from their quest, but on a gloomy day like this, in desperate times like these, the awaited return of Amara hits the city like a tidal wave sent by Poseidon.
 Holding the reigns of two beautiful stallions, bathed in the cheers of the crowd, oils of the temples, a wreath to her head and her daggers at her side, what is Amara thinking in this moment?
 
-As she steers her chariot across the temple circuit, she remembers when she only started out on her journey - the temple on the mountain was her home, but the temple in this city felt... wrong to her.
+As her chariot is steered across the temple circuit, she remembers when she only started out on her journey - the temple on the mountain was her home, but the temple in this city always felt... wrong to her.
 She gives the horses one last jolt on the reigns and races toward the temple.
 ## Scene 2: Aphrodite Temple
 The temple of Aphrodite is a place of worship to all that is beautiful, soft, and deadly.
