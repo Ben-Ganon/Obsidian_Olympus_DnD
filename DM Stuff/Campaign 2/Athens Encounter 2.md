@@ -75,8 +75,19 @@ Orphea understands at once what she must do
 
 ## Scene 4: The Trial
 In a grand marble courthouse, on the marble floor in the middle of the marble steps sat upon by the jurors, stands a philosopher. 
-The judge, a tall, broad, handsome man of black curly hair and intense brown eyes, sits atop the marble bench and inspects closely an old man with a pristine white toga.
-"I may be only filling in today for judge Alexandros, but by Zeus I will make sure you end up in the gallows, Socrates"
+The Dikasteria, composed mostly of the elder Ekklesia members elected to carry out judgement upon those who break the rules set by the Boule, populate closely the marbled terraces set in the courthouse. 
+With them, a few Strategoi sit aside to council on military matters and judge deserting soldiers.
+The head judge, a tall, broad, handsome man of black curly hair and intense brown eyes, sits atop the marble bench and inspects closely an old man with a pristine white toga.
+"I may be only filling in today for judge Alexandros who has fallen ill due to some bad wine, but by Zeus I will make sure you end up in the gallows, Socrates"
+"On what charges?" 
+"Corrupting the youth, impiety, inciting violence, inciting rebellions against Athenian democracy, and many more. I would like to continue to list the many ways your students have tried to burn down the city, but I cannot be here all day".
+"On these charges and many more, I hereby sentence you to death"
+The crowd erupts - many of the Dikasteria are great friends with the philosopher, and would hate to see him dead. 
+Many more are convinced this is the man that will cause Athen's downfall.
+The stern judge shouts in a deafening voice "SILENCE".
+The Dikasteria silences slowly.
+"Will no one speak up for this man?"
+- 
 
 
 
