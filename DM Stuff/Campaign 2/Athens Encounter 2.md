@@ -96,9 +96,7 @@ The silence deafens.
 In an underground temple somewhere in Athens, a hooded figure sits atop a small, humble throne made of black and white marble, split exactly down the middle. 
 Behind and above the figure looms a split black-white marble giant, dressed in a simple toga of neutral gray stone.
 The statue seems normal, human, except for the head - on it are carved two faces, one of bliss and one of agony, adorning two sides of the statues head. 
-The figure speaks to a man knelt below him "So you have come to me for power, and what do you wish to give in return?"
-- What does Theodore offer?
-"Very well, "
+The figure speaks to a man knelt below him, flanked by two guards wearing black togas and adorned in bronze bull masks - "I hear "
 
 
 ![[Akropolis.png | 300]]
