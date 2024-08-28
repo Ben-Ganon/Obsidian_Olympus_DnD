@@ -154,17 +154,10 @@ before they go, Hermes gives them some Boons from their patrons - a gesture of g
 
 - What does each Hero feel about this discovery?
 
+"Alright gang! "
 After his parting words, Hermes is gone in a flash of smiles and light.
-The grand priestess Penelope is extremely concerned by this news and calls the Heroes for a brief on the state of Athens, hoping they can help her with the cult, who she suspects has something to do with all of this.
 
-Lysander interjects - he would also like to speak to the heroes, mostly to influence or bribe them to abandon the quest and come party.
-
-He tells them they should at least stay for the grand sacrifice, to pay respects to the gods who have just chosen them as their heroes.
-In an odd turn of events, Penelope agrees, and this makes her extremely suspicious of Lysander - if she agrees with his line of thinking, he's probably up to something.
-
-The priestess rolls out the sacred bull to be sacrificed, and the heroes roll [Initiative] to try to figure out what is up.
-
-Start encounter.
+The 
 
 [[Athens Guards.pdf]]
 [[Lysander.pdf]]
