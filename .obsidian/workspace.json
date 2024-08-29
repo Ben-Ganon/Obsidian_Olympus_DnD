@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "DM Stuff/Campaign 2/Session 1 - Athenian Stories.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "64b5a4dc72e21284",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "530f4d14174cd89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2b2c7bc679e60092",
@@ -143,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md",
+                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Athens Encounter 2.md"
+                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md"
               }
             }
           },
@@ -222,10 +249,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f52f7aa3755778c",
+  "active": "530f4d14174cd89d",
   "lastOpenFiles": [
+    "DM Stuff/Campaign 2/Session 1 - Athenian Stories.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
-    "DM Stuff/Campaign 2/Athens Encounter 2.md",
+    "Images/Lysander.pdf",
+    "DM Stuff/Campaign 2/Session 1.md",
     "DM Stuff/The Plot.md",
     "DM Stuff/Campaign 1/Athens Encounter.md",
     "DM Stuff/Characters/Elissa Panagos.md",
@@ -236,7 +266,6 @@
     "DM Stuff/Characters/Zeno.md",
     "DM Stuff/Characters/The Cult of the Bull.md",
     "DM Stuff/Characters/Atlas.md",
-    "DM Stuff/Campaign 2/Session 1.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Character Creation Guide.md",
     "Character Creation/Races.md",
@@ -248,7 +277,6 @@
     "Gear and Items/Quivers.md",
     "DM Stuff/PC's/PC Table.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
-    "Player Lore/Greek Curse Words.md",
     "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
@@ -261,14 +289,12 @@
     "Images/il_1588xN.1052590995_ad0e.webp",
     "Images/Hercules.pdf",
     "Images/Hector.pdf",
-    "Info and Values/Canva Resources.md",
     "DM Stuff/PC's",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Zagreus.pdf",
     "Player Lore/Athens and It's Characters",
     "Images/Athens Guards.pdf",
     "DM Stuff/Campaign 2",
-    "DM Stuff/Campaign 1",
-    "Images/Cave Stone Gaurdian.pdf"
+    "DM Stuff/Campaign 1"
   ]
 }
