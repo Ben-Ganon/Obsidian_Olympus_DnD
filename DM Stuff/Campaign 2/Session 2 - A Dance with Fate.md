@@ -1,5 +1,7 @@
 ![[Akropolis.png | 300]]
 
+### A Call to Action
+
 Our Intrepid Heroes are gathered at the acropolis to celebrate the Summer Solstice, each tending to their own activities.
 
 Suddenly, a giant crack of thunder is heard throughout the city.
@@ -42,8 +44,10 @@ before they go, Hermes gives them some Boons from their patrons - a gesture of g
 
 - What does each Hero feel about this summons?
 
+### Dark Tidings
 
-"Alright gang! My time is short, and yours even shorter. Get to Hero-ing!"
+"Alright gang! So for now stay, enjoy the festivities, and when you leave I shall bless you with safe travels.
+My time is short, and yours even shorter. Get to Hero-ing!"
 Hermes smiles and is gone in a flash and light.
 
 - Give players chance to interact
@@ -55,9 +59,58 @@ Out of the grand temple bursts a priestess clad in deep blue robes and crowned i
 The horde of bystanders seem to recognize her - and also seem to have a healthy fear of this woman - as if she exudes an aura of cunning so intense one cannot help but to shrink in its presence. 
 Her storm-grey eyes have the piercing quality of a hawk, and wherever she looks, people seem to slink away.
 A small pathway clears from her position to where the Heroes are being ambushed by well-wishers and she steps through it, her eyes challenging anyone who dares to look.
-She arrives, shouting half to the crowd and half to the players: "Heroes! I am Penelope Daikos, head priestess of Athena Parthenos. Come with me".
+She arrives, shouting half to the crowd and half to the players: "Heroes! I am <font color="#00b0f0">Penelope Daikos</font>, head priestess of Athena Parthenos. Come with me".
+
 - Do they go with her?
-She takes them to the Parthenon, a grand temple towering over the other, smaller temples 
+
+She takes them to the Parthenon.
+The grand temple towers over the other, smaller temples to the other Olympians.
+Even though in most places Zeus' temple would be largest, in Athens the people are not shy to show their appreciation to their patron God.
+As they approach the Parthenon, they spot her - Athena Parthenos.
+
+It was as if Athena herself descended from the heavens.
+The massive woman stood cast in solid gold, a golden spear in one hand and Aegis in the other.
+On the room-sized shield a snarling gorgon head could be seen etched on the gold. 
+On her head a giant helmet, adorned with three galloping horses, and beneath it - a stare so piercing that most people could not bear to look for more than an instant.
+In spite of her being made of gold, her eyes remain a cold, intense grey.
+
+As they pass the golden Athena and enter the grand hall of the temple, they see massive marble columns sprouting around them like ancient trees, reaching up to a ceiling you can barely see.
+at the back of the hall, another smaller, marble-carved Athena looms over a small fountain.
+On either side of her, the biggest olive trees you have ever seen, guarding Athena like two sentinels, as priestesses collect a plethora of the freshest, greenest olives you have ever seen.
+
+Penelope stops suddenly in front of the statue. 
+She appears to speak a few words in silence towards the menacing figure above her, and then turns to the PCs:
+- "You have absolutely no idea how much trouble you're causing me
+  I'm in the middle of fighting for this temple against some ridiculous cult, and here come five heroes to fall right into the hands of the enemy. 
+  This is bad. very Bad."
+- She doesn't know what exactly, but she's sure the cult is planning something massive against her in the <font color="#ff0000">ritual today</font>
+- She asks them to stay and help her prevent whatever is coming
+- She tells them what is expected of them (<font color="#ee3fb0">Amara</font> can tell too) - 
+	- <font color="#00b050">Delphi - prophecy </font>
+- She tells them to <font color="#ff0000">watch out</font> - priests of the gods and veteran heroes have been assaulted by the cult, she expects the same now. 
+- She needs them to find out what the cult's plan is until the ceremony, now only half an hour away.
+	- <font color="#ff0000">Tips:</font>
+		- She knows the ceremony includes a blessing by her to the Olympians
+		- Then a big bull is sacrificed to Athena by her
+		- The cult's main goal is to harm the Gods in any way they can - by humiliating priests, by killing their chosen Heroes, so they might go after her.
+- ***<font color="#ff0000">ONE LAST IMPORTANT THING</font>***:
+  Penelope doesn't think it's likely, but if all goes well during the ceremony then before they depart tomorrow she asks them to join her in the <font color="#ff0000">masquerade tonight </font>at <font color="#b540ff">Lysanders mansion</font>. She is fearful if he fails in the ceremony, he will try again tonight.
+  Maybe the PCs can help - 
+  - A few months ago a sacred artifact was stolen from the temple of Hades in the city catacombs
+  - One of her priestesses told her she heard it had popped up in Lysanders mansion - maybe the heroes can help her retrieve it?
+   
+### Sacrifices
+As Penelope is sacrificing the bull, dagger in hand, about to strike, a magical veil is pulled and suddenly it is revealed that Chara, gagged and bound, is actually on the table, not the bull. 
+Lysander, seeming a little too smug at the situation, calls guards for her arrest
+"Athenians, look at what this vile woman has done! Human sacrifice! she and her evil practices are what's causing this cold!"
+Lysander calls in three guards to have her arrested. 
+
+- Will the players prevent this from happening?
+
+
+
+
+
 
 
 
