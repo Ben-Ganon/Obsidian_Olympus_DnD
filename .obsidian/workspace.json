@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 1 - Athenian Stories.md",
+                "file": "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 381.5
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md"
+                "file": "DM Stuff/Campaign 2/Session 1.md"
               }
             }
           },
@@ -251,9 +251,9 @@
   },
   "active": "530f4d14174cd89d",
   "lastOpenFiles": [
-    "DM Stuff/Campaign 2/Session 1 - Athenian Stories.md",
-    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "DM Stuff/Campaign 2/Session 1.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
     "Images/Lysander.pdf",
     "DM Stuff/The Plot.md",
