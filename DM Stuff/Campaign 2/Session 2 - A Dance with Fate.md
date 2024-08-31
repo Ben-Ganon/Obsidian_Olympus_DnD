@@ -94,10 +94,14 @@ She appears to speak a few words in silence towards the menacing figure above he
 		- Then a big bull is sacrificed to Athena by her
 		- The cult's main goal is to harm the Gods in any way they can - by humiliating priests, by killing their chosen Heroes, so they might go after her.
 - ***<font color="#ff0000">ONE LAST IMPORTANT THING</font>***:
-  Penelope doesn't think it's likely, but if all goes well during the ceremony then before they depart tomorrow she asks them to join her in the <font color="#ff0000">masquerade tonight </font>at <font color="#b540ff">Lysanders mansion</font>. She is fearful if he fails in the ceremony, he will try again tonight.
+  Penelope doesn't think it's likely, but if all goes well during the ceremony then before they depart tomorrow she asks them to join her in the <font color="#ff0000">masquerade tonight </font>at <font color="#b540ff">Lysanders mansion</font>. 
+  
   Maybe the PCs can help - 
-  - A few months ago a sacred artifact was stolen from the temple of Hades in the city catacombs
-  - One of her priestesses told her she heard it had popped up in Lysanders mansion - maybe the heroes can help her retrieve it?
+  - A few months ago a sacred artifact was stolen from the temple of Hades in the city catacombs 
+  - One of her priestesses told her she heard it had popped up in Lysanders mansion - 
+  - maybe the heroes can help her retrieve it?
+  - This could help them on their quest - if the retrieve it and promise to give it back at the end of the quest they can use it. 
+  - What is it - not exactly clear, the priests of hades 
    
 ### Sacrifices
 As Penelope is sacrificing the bull, dagger in hand, about to strike, a magical veil is pulled and suddenly it is revealed that Chara, gagged and bound, is actually on the table, not the bull. 
@@ -106,8 +110,30 @@ Lysander, seeming a little too smug at the situation, calls guards for her arres
 Lysander calls in three guards to have her arrested. 
 
 - Will the players prevent this from happening?
+- <font color="#ff0000">IF THEY DO:</font>
+	- They battle the guards, and have to flee from the square
+- <font color="#245bdb">IF THEY DON'T</font>
+	- The guards take Penelope to the city jail.
 
+### The Masquerade 
+At Lysander's mansion the music is wonderful.
+The food is plentiful.
+The wine is bottomless.
+In this palace, every corner is dressed to convey majesty and wealth.
+Persian carpets adorn the walls, marble columns adorned with gold and living ivy. 
+In every corner of every room stand pitchers of wine and tables heavy with food and other drinks. 
+Lavish silken pillows are spread around the rooms, allowing people to rest from the dancing.
+In the main hall, a band plays heartily as people dance and caress.
+And today all of them are hidden behind beautiful masks imported from across the sea.
+Amara knows Lysanders parties are legendary in the city, mostly for their extravagance and partly for his ability to seemingly generate for his guests infinite amounts of wine no matter how much they drink.
 
+At the party many important guests attend:
+
+| Name        | Role             | Secrets                    | Want - Heroes                               | Knows About the Object |
+| ----------- | ---------------- | -------------------------- | ------------------------------------------- | ---------------------- |
+| Lysander    | Archon Strategos | Leads the Cult of the Bull | Die                                         |                        |
+| **Neraios** | Wealthy Merchant | Embezzling Money           | Find out if Lysander knows about his secret |                        |
+|             |                  |                            |                                             |                        |
 
 
 
