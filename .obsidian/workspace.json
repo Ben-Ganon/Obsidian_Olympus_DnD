@@ -20,13 +20,25 @@
             }
           },
           {
+            "id": "f42065fccf664040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Lore/Names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "828a97865e22bce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DM Stuff/PC's/Thalssios.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -198,8 +210,9 @@
   },
   "active": "25c74e23fcccd115",
   "lastOpenFiles": [
-    "DM Stuff/PC's/Thalssios.md",
+    "Player Lore/Names.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "DM Stuff/PC's/Thalssios.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "Gear and Items/The Black Key.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
@@ -224,7 +237,6 @@
     "Gear and Items/Oracles Bow.md",
     "Gear and Items/Quivers.md",
     "DM Stuff/PC's/PC Table.md",
-    "Player Lore/Athens and It's Characters/Athens Government.md",
     "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
