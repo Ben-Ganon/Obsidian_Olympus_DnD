@@ -125,7 +125,7 @@ In every corner of every room stand pitchers of wine and tables heavy with food 
 Lavish silken pillows are spread around the rooms, allowing people to rest from the dancing.
 In the main hall, a band plays heartily as people dance and caress.
 And today all of them are hidden behind beautiful masks imported from across the sea.
-Amara knows Lysanders parties are legendary in the city, mostly for their extravagance and partly for his ability to seemingly generate for his guests infinite amounts of wine no matter how much they drink.
+Amara knows Lysander's parties are legendary in the city, mostly for their extravagance and partly for his ability to seemingly generate for his guests infinite amounts of wine no matter how much they drink.
 
 At the party many important guests attend:
 
