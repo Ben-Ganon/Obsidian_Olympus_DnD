@@ -1,5 +1,5 @@
 ![[Atlas.png |400]]
-Atlas, son of Ares.
+Atlas, son of [[Ares]].
 Atlas was born in a quiet town on the Egyptian coast to a martial artist named Cassandra.
 When Ares showed interest in her prowess, Cassandra thought it was the best thing that could have happened to her, and sparred with him happily.
 She would lose every time, and for a while they were happy.

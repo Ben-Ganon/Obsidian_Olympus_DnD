@@ -2,10 +2,11 @@
   "insert-template": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "T"
     }
   ],
-  "workspace:new-tab": []
+  "workspace:undo-close-pane": []
 }

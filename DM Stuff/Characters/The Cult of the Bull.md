@@ -1,8 +1,8 @@
 
 ```mermaid
 graph TD;
-Aphelios --> Selene --> Hector
-Selene --> Lysander
+Aphelios --> Lysander --> Hector
+Aphelios --> Selene
 Aphelios --> Atlas
 Aphelios --> Nyx
 ```
@@ -11,7 +11,7 @@ Aphelios --> Nyx
  Their ritual involve acts of dismemberment and drunken, crazed parties that often end in intense violence.
  Aphelios has three lieutenants in the cult:
  
-Selene, daughter of Artemis.
+Selene, daughter of [[Artemis]]
 ![[WhatsApp Image 2023-10-25 at 12.46.04.jpeg|400]]
 She was born defying the sacred oath of Artemis to eternal virginity, so Artemis forced her father, a noble hunter from Crete, to abandon her in the forest to hide her shame.
 Her father later snuck back in secret to retrieve her, and passed her on to be raised in secret by some farmers.
@@ -28,7 +28,7 @@ Not much is known about Hector, as he usually keeps to himself.
 However, a large scar on his face, which makes hector look quite disfigured, is assumed to be from Janus himself. 
  
 ![[Atlas.png |400]]
-Atlas, son of Ares.
+Atlas, son of [[Ares]].
 Atlas was born in a quiet town on the Egyptian coast to a martial artist named Cassandra.
 When Ares showed interest in her prowess, Cassandra thought it was the best thing that could have happened to her, and sparred with him happily.
 She would lose every time, and for a while they were happy.
@@ -43,7 +43,7 @@ in a particularly nasty battle, he butchered his own unit after seeing that no m
 When the terrible truth of his actions made it to his mind, Atlas went on the run to Crete.
 When he met Aphelios, he knew he had found the man who could finally rid him of his voices. By killing the fucking god who sends them.
 
-Nyx, daughter of Hades.
+Nyx, daughter of [[Hades]].
 When Nyx was a young girl, she discovered she had an interest with animals, but only dead ones.
 She could, without much effort, make a dead cat get up and walk around, if only for a short time.
 This, expectedly, caused Nyx to be bullied severely by the children in her village, and she learned the only solace she would receive would be from her "pets".

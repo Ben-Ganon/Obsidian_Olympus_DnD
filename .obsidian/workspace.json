@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e78a6e31dae827ae",
+        "id": "d4dd7670fcb18493",
         "type": "tabs",
         "children": [
           {
-            "id": "25c74e23fcccd115",
+            "id": "57c45f26e37450d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/PC's/Thalssios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30602a6463812e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "828a97865e22bce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/PC's/Thalssios.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,35 +197,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25c74e23fcccd115",
+  "active": "30602a6463812e18",
   "lastOpenFiles": [
-    "DM Stuff/PC's/Thalssios.md",
-    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
-    "Player Lore/Names.md",
-    "Gear and Items/Weapons.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
-    "Gear and Items/The Black Key.md",
+    "DM Stuff/Characters/Athenians/Elissa Panagos.md",
+    "DM Stuff/Characters/Athenians/Penelope Diakos.md",
+    "DM Stuff/Characters/Athenians/Themistia Nephus.md",
+    "Player Lore/Athens and It's Characters/Athens Government.md",
+    "Player Lore/Athens and It's Characters/Alkibialdes.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
-    "DM Stuff/Campaign 2/Session 1.md",
-    "Images/Lysander.pdf",
-    "DM Stuff/The Plot.md",
-    "DM Stuff/Campaign 1/Athens Encounter.md",
-    "DM Stuff/Characters/Elissa Panagos.md",
-    "DM Stuff/Characters/Hector Pantazos.md",
-    "DM Stuff/Characters/Lysander Hasapis.md",
-    "DM Stuff/Characters/Penelope Diakos.md",
-    "DM Stuff/Characters/Selene.md",
+    "Player Lore/Athens and It's Characters/Perikles.md",
+    "Player Lore/Athens and It's Characters/Sokrates.md",
+    "Player Lore/Names.md",
+    "DM Stuff/PC's/Thalssios.md",
+    "Gear and Items/Oracles Trident.md",
+    "Untitled.md",
+    "DM Stuff/PC's/PC Table.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "Player Lore/Types of Creatures.md",
+    "Player Lore/Intro - The World.md",
+    "Player Lore/The World.md",
+    "DM Stuff/Characters/Athenians",
     "DM Stuff/Characters/Zeno.md",
     "DM Stuff/Characters/The Cult of the Bull.md",
-    "DM Stuff/Characters/Atlas.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Character Creation Guide.md",
-    "Character Creation/Races.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gear and Items/Oracles Trident.md",
-    "Gear and Items/Oracles Bow.md",
-    "Gear and Items/Quivers.md",
-    "DM Stuff/PC's/PC Table.md",
+    "DM Stuff/Characters/Untitled.md",
+    "DM Stuff/Characters/Cult of the Bull/Selene.md",
+    "DM Stuff/Characters/Cult of the Bull",
+    "DM Stuff/Characters/Cult of the Bull/Lysander Hasapis.md",
+    "DM Stuff/Characters/Cult of the Bull/Hector Pantazos.md",
+    "Athens.md",
+    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
+    "Untitled.canvas",
+    "Images/Lysander.pdf",
     "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
@@ -241,8 +245,6 @@
     "Info and Values/Dead_Frost_Play_Aids.pdf",
     "Images/Zagreus.pdf",
     "Player Lore/Athens and It's Characters",
-    "Images/Athens Guards.pdf",
-    "DM Stuff/Campaign 2",
-    "DM Stuff/Campaign 1"
+    "Images/Athens Guards.pdf"
   ]
 }

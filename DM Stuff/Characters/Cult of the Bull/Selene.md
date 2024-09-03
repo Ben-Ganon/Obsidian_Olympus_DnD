@@ -1,4 +1,4 @@
-Selene, daughter of Artemis.
+Selene, daughter of [[Artemis]].
 ![[WhatsApp Image 2023-10-25 at 12.46.04.jpeg|400]]
 She was born defying the sacred oath of Artemis to eternal virginity, so Artemis forced her mother, a noble hunter from Crete, to abandon her in the forest to hide her shame.
 Her mother later snuck back in secret to retrieve her, and passed her on to be raised in secret by some farmers.

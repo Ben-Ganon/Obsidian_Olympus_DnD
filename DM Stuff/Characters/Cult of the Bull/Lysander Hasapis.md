@@ -1,5 +1,5 @@
 ![[WhatsApp Image 2023-10-25 at 10.38.59.jpeg |400]]
-Lysander Hasapis is a General on the Council of Athens, and high ranking Cult of the Bull member.
+Lysander Hasapis is a General on the Council of Athens, and high ranking [[The Cult of the Bull]] member.
 Demigod - Son of [[Dionysos]].
 Growing up with an absent father was rough enough in Athens, but growing up with a drunkard mother was even harder. 
 Lysanders mother, Agatha, did not take Dionysos' departure lightly, and has lost herself in alcohol and misery.
@@ -16,5 +16,6 @@ He plans to drive a wedge between Athena and her priestesses at the Parthenos.
 At the Summer Solstice, there are many animal sacrifices to the gods.
 However, Lysander knew well that the gods despised human sacrifices.
 A shame if someone were to blackmail a priestess of Aphrodite on the council to use her Shimmer to disguise a small girl as a bull, and then drag the child to the temple to have her sacrificed to Athena...
+
 
 [[Lysander.pdf]] 
