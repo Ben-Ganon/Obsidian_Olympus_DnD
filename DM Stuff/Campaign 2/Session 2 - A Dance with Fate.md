@@ -29,7 +29,7 @@ He unfurls it, and starts reading:
 - Amara, Daughter of Aphrodite
 - Thalassios, son of Aphrodite
 - Theodore, Son of Aphrodite
-- Epaminondas, Son of Ares
+- Aneas, Son of Ares
 - Orphea, Daughter of Hephaestus
 
 
