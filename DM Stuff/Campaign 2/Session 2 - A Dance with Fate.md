@@ -84,12 +84,11 @@ Penelope is a tall, olive-skinned, black haired beauty with the most piercing gr
 She is dressed in a deep blue hemation rimmed with gold, adorned in various golden bands and necklaces, and atop her head a golden tiara with an owl ornament with ruby eyes.
 - Themistia introduces them to Penelope as head priestess of Athena. 
 - Penelope says hello to the heroes. 
-- Penelope dismisses Th. They have a tense moment.
+- Penelope dismisses Themistia. They have a tense moment.
 - "I hope there aren't any surprises like last time"
 - "No, Penelope"
 - Themistia leaves
 Her gaze seems to almost see through you. 
-
 - On intuition check:
   The crowds have a deep respect to Penelope, as with [[Perikles]] she has worked on many public projects that make their lives better.
   Some even claim she can read minds (She is just very perceptive and can read body language)
@@ -98,9 +97,10 @@ She scans the Heroes for a moment before beginning to speak:
 - "You have absolutely no idea how much trouble you're causing me
   I'm in the middle of fighting for this temple against some ridiculous cult, and here come five heroes to fall right into the hands of the enemy. 
   This is bad. very Bad."
-- She doesn't know what exactly, but she's sure the cult is planning something massive against her in the <font color="#ff0000">ritual today</font>
+- She doesn't know what exactly, but she's sure the cult is planning something massive against her in the <font color="#ff0000">ritual today</font>.
+- She believes Lysander is behind the cult in Athens, but has no proof
 - She asks them to stay and help her prevent whatever is coming
-- She tells them what is expected of them (<font color="#ee3fb0">Amara</font> can tell too) - 
+- She tells them what is expected of them (<font color="#ee3fb0">Amara</font> can help too) - 
 	- <font color="#00b050">Delphi - prophecy </font>
 - She tells them to <font color="#ff0000">watch out</font> - priests of the gods and veteran heroes have been assaulted by the cult, she expects the same now. 
 - She needs them to find out what the cult's plan is until the ceremony, now only half an hour away.
@@ -118,9 +118,15 @@ She scans the Heroes for a moment before beginning to speak:
   - What is it - not exactly clear, the priests of hades 
    
 ## Sacrifices
-As Penelope is sacrificing the bull, dagger in hand, about to strike, a magical veil is pulled and suddenly it is revealed that Chara, gagged and bound, is actually on the table, not the bull. 
-Lysander, seeming a little too smug at the situation, calls guards for her arrest
-"Athenians, look at what this vile woman has done! Human sacrifice! she and her evil practices are what's causing this cold!"
+The crowd gathers to watch the grand ceremony to the gods.
+Priests from every temple in the city are present front and center.
+Many animals are sacrificed by every major Olympian's priests, and a ceremonial fire burns brightly as it consumes the meat.
+The final offering is for Athena - the guardian of the city.
+A huge bull covered in oils and flowers is rolled out, bound. 
+He is lifted on to a large stone platform.
+As Penelope is pulling up the dagger to sacrifice the bull, dagger in hand, about to strike, a magical veil is pulled and suddenly it is revealed that Chara, gagged and bound, is actually on the table, not the bull. 
+Lysander, seeming a little too smug at the situation, stands and addresses the crowd:
+"Athenians, look at what this vile woman has done! Human sacrifice! she and her evil practices are what's causing this famine and cold! Guards, Arrest her!"
 Lysander calls in three guards to have her arrested. 
 
 - Will the players prevent this from happening?
@@ -129,7 +135,7 @@ Lysander calls in three guards to have her arrested.
 - <font color="#245bdb">IF THEY DON'T</font>
 	- The guards take Penelope to the city jail.
 
-### The Masquerade 
+## The Masquerade 
 At Lysander's mansion the music is wonderful.
 The food is plentiful.
 The wine is bottomless.
@@ -149,13 +155,17 @@ The top generals, priests and rich wear golden masks finely carved and designed,
 
 At the party many important guests attend:
 
-| Name           | Role                                                                    | Mask            | Secrets                                                                                                      | Want - Heroes                                                                                             | Knows About the Object                                                                                                                                                                                         |
-| -------------- | ----------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lysander**   | Archon Strategos                                                        | Golden Minotaur | Leads the Cult of the Bull                                                                                   | Die or not go on the quest                                                                                | everything?                                                                                                                                                                                                    |
-| **Neraios**    | Wealthy Merchant                                                        | Golden Boar     | Embezzling Money from Athens                                                                                 | Find out if Lysander knows about his secret                                                               | He heard that Lysander has just imported a new artifact                                                                                                                                                        |
-| **Aristodike** | Politician's widow - her husband was a judge, and she was his assistant | Silver Cat      | Responsible for her husband’s death. She poisoned him to gain control over his wealth and maybe his position | Recommend her to the judge as a candidate for her husband's position                                      | She hasn't heard of any artifact, but she did hear from one of the handsome servants that a mysterious box was placed in the west wing of the mansion                                                          |
-| **Leo**        | Top athlete - won all wrestling matches in the past 2 Olympiads         | Bronze Lion     | He                                                                                                           | 'Get rid' of his ex who is threatening to tell everybody about his secret if he doesn't get back with her | He and the servant who carried the box into the room were 'best buds' so he got to look at it - it's a weird shaped circular pendant, maybe? he could swear it blinked at him. Doesn't know where it is though |
-| **Themistia**  | Athena Parthenos Priestess - Penelope's lieutenant                      | Silver Owl      | She is the one responsible for the mishap at the ceremony - she gave Lysander access to the bull             | She is sympathetic to the cult - tired of Athena's antics. Wants the heroes to fail                       | The cult stole an ancient artifact from the hades temple that is rumored to be able to unlock and lock the gates to the underworld                                                                             |
+| Name           | Role                                                                    | Location   | Mask            | Secrets                                                                                                      | Want - Heroes                                                                                             | Knows About the Object                                                                                                                                                                                         |
+| -------------- | ----------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lysander**   | Archon Strategos                                                        | Main hall  | Golden Minotaur | Leads the Cult of the Bull                                                                                   | Die or not go on the quest                                                                                | everything?                                                                                                                                                                                                    |
+| **Neraios**    | Wealthy Merchant                                                        | South Wing | Golden Boar     | Embezzling Money from Athens                                                                                 | Find out if Lysander knows about his secret                                                               | He heard that Lysander has just imported a new artifact                                                                                                                                                        |
+| **Aristodike** | Politician's widow - her husband was a judge, and she was his assistant | East Wing  | Silver Cat      | Responsible for her husband’s death. She poisoned him to gain control over his wealth and maybe his position | Recommend her to the judge as a candidate for her husband's position                                      | She hasn't heard of any artifact, but she did hear from one of the handsome servants that a mysterious box was placed in the west wing of the mansion                                                          |
+| **Leo**        | Top athlete - won all wrestling matches in the past 2 Olympiads         | North Wing | Bronze Lion     | He                                                                                                           | 'Get rid' of his ex who is threatening to tell everybody about his secret if he doesn't get back with her | He and the servant who carried the box into the room were 'best buds' so he got to look at it - it's a weird shaped circular pendant, maybe? he could swear it blinked at him. Doesn't know where it is though |
+| **Themistia**  | Athena Parthenos Priestess - Penelope's lieutenant                      | West Wing  | Silver Owl      | She is the one responsible for the mishap at the ceremony - she gave Lysander access to the bull             | She is sympathetic to the cult - tired of Athena's antics. Wants the heroes to fail                       | The cult stole an ancient artifact from the hades temple that is rumored to be able to unlock and lock the gates to the underworld                                                                             |
+
+***The Artifact*** 
+The artifact is the [[The Black Key]]'s Bow (eye). Located behind a locked wooden door in the west wing of the mansion.
+
 
 As the Heroes are mingling and attempting to find out where the artifact is, 
 Three assassins dressed in black robes and bronze bull masks emerge from the crowd and try to attack the players and Themistia.
