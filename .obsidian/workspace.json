@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30602a6463812e18",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +184,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30602a6463812e18",
+  "active": "57c45f26e37450d3",
   "lastOpenFiles": [
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "DM Stuff/Items/The Black Key.md",
