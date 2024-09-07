@@ -18,21 +18,41 @@ The top generals, priests and rich wear golden masks finely carved and designed,
 
 At the party many important guests attend:
 
-| Name           | Role                                                                                             | Location   | Mask            | Secrets                                                                                                      | Want - Heroes                                                                                                                                                                                          | Knows About the Object                                                                                                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lysander**   | Archon Strategos                                                                                 | Main hall  | Golden Minotaur | Leads the Cult of the Bull                                                                                   | Go to the dungeons to interogate                                                                                                                                                                       | everything?                                                                                                                                                                                                    |
-| **Neraios**    | Wealthy Merchant                                                                                 | South Wing | Golden Boar     | Embezzling Money from Athens                                                                                 | **Find out** if **Lysander** knows about his secret                                                                                                                                                    | He heard that Lysander has just imported a new artifact                                                                                                                                                        |
-| **Aristodike** | Politician's widow - her husband was a judge, and she was his assistant                          | East Wing  | Silver Cat      | Responsible for her husband’s death. She poisoned him to gain control over his wealth and maybe his position | **Recommend** her to **the judge Nikos** as a candidate for her husband's position                                                                                                                     | She hasn't heard of any artifact, but she did hear from one of the handsome servants that a mysterious box was placed in the west wing of the mansion                                                          |
-| **Leo**        | Top athlete - won all wrestling matches in the past 2 Olympiads.<br>Claims he is the son of Ares | North Wing | Bronze Lion     | He isn't actually a demigod                                                                                  | **'Get rid'** of **his ex Lyka** who is threatening to tell everybody about his secret if he doesn't get back with her. Wants to get her out of the party so she doesn't spill his secret to everybody | He and the servant who carried the box into the room were 'best buds' so he got to look at it - it's a weird shaped circular pendant, maybe? he could swear it blinked at him. Doesn't know where it is though |
-| **Themistia**  | Athena Parthenos Priestess - Penelope's lieutenant                                               | West Wing  | Silver Owl      | She is the one responsible for the mishap at the ceremony - she gave Lysander access to the bull             | She is sympathetic to the cult - tired of Athena's antics. Wants the Heroes to go **kill Penelope in Lysander's Dungeons** - she thinks they will be against her                                       | The cult stole an ancient artifact from the hades temple that is rumored to be able to unlock and lock the gates to the underworld                                                                             |
+| Name           | Role                                                                                             | Location   | Mask            | Secrets                                                                                                      | Want - Heroes                                                                                                                                                                                          | Knows About the Object                                                                                                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lysander**   | Archon Strategos                                                                                 | Main hall  | Golden Minotaur | Leads the Cult of the Bull                                                                                   | **Go to the dungeons to interrogate Penelope** - Will actually attempt to kill them down there                                                                                                         | everything?                                                                                                                                                                                                        |
+| **Neraios**    | Wealthy Merchant                                                                                 | South Wing | Golden Boar     | Embezzling Money from Athens                                                                                 | **Find out** if **Lysander** knows about his secret                                                                                                                                                    | Hasn't heard about the object, but he *can* share that he knows **Penelope** was whisked away by Lysander and is **held in the mansion**                                                                           |
+| **Aristodike** | Politician's widow - her husband was a judge, and she was his assistant                          | East Wing  | Silver Cat      | Responsible for her husband’s death. She poisoned him to gain control over his wealth and maybe his position | **Recommend** her to **the judge Nikos** as a candidate for her husband's position                                                                                                                     | She hasn't heard of any artifact, but she did hear from one of the handsome servants that a **mysterious box** was placed in the **west wing** of the mansion                                                      |
+| **Leo**        | Top athlete - won all wrestling matches in the past 2 Olympiads.<br>Claims he is the son of Ares | North Wing | Bronze Lion     | He isn't actually a demigod                                                                                  | **'Get rid'** of **his ex Lyka** who is threatening to tell everybody about his secret if he doesn't get back with her. Wants to get her out of the party so she doesn't spill his secret to everybody | He and the servant who carried the box into the room were 'best buds' so he got to look at it - it's a weird shaped circular pendant, maybe? he could swear it **blinked** at him. Doesn't know where it is though |
+| **Themistia**  | Athena Parthenos Priestess - Penelope's lieutenant                                               | West Wing  | Silver Owl      | She is the one responsible for the mishap at the ceremony - she gave Lysander access to the bull             | She is sympathetic to the cult - tired of Athena's antics. Wants the Heroes to go **kill Penelope in Lysander's Dungeons** - she thinks they will be against her                                       | The cult stole an ancient artifact from the hades temple that is rumored to be able to **unlock and lock the gates to the underworld**                                                                             |
+
+***The Dungeons***
+- Dungeon entrance is at the North Wing, behind a cabinet of scrolls
+- The players can feel a breeze coming from behind the scroll case
+- Behind one of the scrolls is a button that swings the cabinet out
+- A stairway leads down into darkness
+- At the bottom of the staircase is a long dark hallway illuminated by torches
+- On each side of the hallway are many locked cells, some seem empty:
+
+| Cell No. | Prisoner Name | Role                                                       |
+| -------- | ------------- | ---------------------------------------------------------- |
+| 1 - L    | Zena          | Former Cult member - tried to spy on the cult for Penelope |
+| 2 - R    | Empty         |                                                            |
+| 3 - L    | Empty         |                                                            |
+| 4 - R    | Penelope      |                                                            |
+  
+- As the players are investigating trying to find Penelope in the dungeons, two guards attack them:
+
+|           | Guard | HP  | Curr HP | Weapon / Damage | Other Stats |
+| --------- | ----- | --- | ------- | --------------- | ----------- |
+| 1 - Jason | 10    | 10  | 10      | Xiphos - d6     | d6          |
+| 2 - Jax   | 6     | 6   | 6       | Xiphos - d6     | d6          |
 
 
 ***The Artifact*** 
-The artifact is the [[The Black Key]]'s Bow (eye). Located behind a locked wooden door in the west wing of the mansion.
-
-
-As the Heroes are mingling and attempting to find out where the artifact is, 
-Three assassins dressed in black robes and bronze bull masks emerge from the crowd and try to attack the players and Themistia.
+- The artifact is the [[The Black Key]]'s Bow (eye). Located behind a **locked wooden door** in the **west wing** of the mansion.
+- As the Heroes are mingling and attempting to find out where the artifact is, 
+- Three assassins dressed in black robes and bronze bull masks emerge from the crowd and try to attack the players and Themistia.
 
 | Guard      | HP  | Curr HP | Weapon / Damage | Other Stats |
 | ---------- | --- | ------- | --------------- | ----------- |
@@ -43,6 +63,8 @@ Three assassins dressed in black robes and bronze bull masks emerge from the cro
 - If a player is next to her they can try to stop the assassin from killing her
 - If not, she dies
   
-Lysander pretends to be sad, says to the crowd "Look at what the cult is doing to this once great city! you all must see now that we need to add more security to the temples to make sure all is proper. I take responsibility for Themistia's death. I will not let it happen again! I will put some of my men as guardians of the priests, and you have my word the temples will return to their glory. "
+- Lysander pretends to be sad, says to the crowd "Look at what the cult is doing to this once great city! you all must see now that we need to add more security to the temples to make sure all is proper. I take responsibility for Themistia's death. I will not let it happen again! I will put some of my men as guardians of the priests, and you have my word the temples will return to their glory. "
 
-##
+
+
+
