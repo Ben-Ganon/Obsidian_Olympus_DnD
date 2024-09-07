@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dba07fee91820ef",
+            "id": "068826ce17b888e9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md"
+                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md"
               }
             }
           },
@@ -187,11 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3dba07fee91820ef",
+  "active": "068826ce17b888e9",
   "lastOpenFiles": [
+    "DM Stuff/Characters/Athenians/Themistia Nephus.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "Mechanics/Dice mechanics.md",
     "DM Stuff/PC's/PC Table.md",
-    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "Info and Values/Character Sheet.pdf",
     "Gods and Powers/Aphrodite.md",
     "Player Lore/Names.md",
@@ -205,7 +206,6 @@
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "DM Stuff/Characters/Athenians/Elissa Panagos.md",
     "DM Stuff/Characters/Athenians/Penelope Diakos.md",
-    "DM Stuff/Characters/Athenians/Themistia Nephus.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
     "Player Lore/Athens and It's Characters/Alkibialdes.md",
     "Player Lore/Athens and It's Characters/Gregor Othonos.md",
