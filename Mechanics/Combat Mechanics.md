@@ -1,7 +1,10 @@
 ### How turns work - Action + movement + bonus action
 - Each turn in combat is roughly 10 seconds, equal to 1 CT.
 - The battle is split up into turns according to Agility rolls, meaning the person who rolled the highest agility goes first, and his turn lasts 1 CT.
-- Each CT, a character can do two things: move, according to their Movespeed (Meters/CT) and attack.
+- Each CT, a character can do three things: 
+	- Move, according to their Movespeed (Meters/CT) 
+	- Attack/take another action
+	- Take a bonus action
 - Instead of attacking, Characters can take other actions, such as using a Boon, doing some action in the world (Trying to knock over a small statue takes 1 CT).
 - Some actions take no time at all and they are defined as Instant Actions.
 - These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
@@ -50,15 +53,16 @@
 ### Ranged Projectile Attacks (Arrows/Knives/Axes)
 - First, to fire a projectile one must have a bow and arrow and ammunition, or a knife/axe equipped.
 - To fire the projectile, you must roll the offensive value of the bow/weapon for damage.
-- If the target is in the range, this is treated like a normal attack.
-- If the target is outside the range, you must first succeed on a Dexterity roll to land the attack.
-- In addition to this the target can still block the projectile.
-- To fire a bow, the user must not be equipped with a helmet.
+- If the target is **in range**, this is treated like a normal attack, and **hits automatically** (if not blocked).
+- If the target is **outside the range**, you must first **succeed on a Dexterity** roll to land the attack.
+- In addition to this the **target can still block the projectile.**
+- Projectiles **cannot be blocked**
 ### Blocking
 - with a shield or with a sword - what can/cannot be blocked:
-- You can block an attack with the defensive stat of your shield or weapon - you must roll a 4 or more to succeed the block.
-- You cannot block blows from Large creatures, or special effects from Boons (Waves, Lighting strikes, etc.)
-- You cannot block arrows with a weapon.
+	- You can block an attack with the defensive stat of your shield or weapon - you must roll a 4 or more to succeed the block.
+	- You cannot block blows from Large creatures
+	- You cannot block damage from magic like Boons (Waves, Lighting strikes, etc.)
+	- **You cannot block arrows with a weapon**.
 ### Damage reductions:
 - Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-10 flat reduction).
 - Additionally, magical armor can reduce some damage from magical abilities.
@@ -71,11 +75,11 @@
 - Can only re-roll once. (if you roll 1d4 and get 4, then roll 1d4 to get 4 again, you do not roll again)
 - Does not apply to [[Combat Mechanics#Blunt Damage|blunt damage]] rolls.
 ### Grapples:
-- Grapple is a bonus action
+- **Grapple is a bonus action**
 - You can choose to grapple an opponent to the floor, pinning them down and fighting them in close combat.
-- During this time, only weapons with grapple stats can be used (knife/small axe/hammer)
+- During this time, only weapons with grapple stats can be used **(knife/small axe/hammer)**
 - The grapple is successful if you succeed an opposed Might roll.
-- Each turn the target can try to end the grapple. To exit the grapple, the target must succeed a Might roll.
+- Each turn the target can try to end the grapple. To successfully end the grapple, the target must succeed a Might roll.
 - Until the target succeeds Might or you decide to end the grapple, the target remains grappled
 ### Attacking with a Boon:
 - Some Boons have offensive capabilities. 
@@ -108,11 +112,16 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 - Blunt damage ignores armor (regular and magical unless specified otherwise) and deals direct damage, but cannot crit.
 ### Piercing Damage
 - Piercing damage is done by swords, axes and spears.
-- This damage can crit (upon rolling the maximum number on a die) and can also be blocked by armor.
+- This damage can crit (upon rolling the maximum number on a die) 
+- Can be blocked by armor.
+- Can be blocked by shields
 ### Magic Damage
-- Magic damage is caused by some boons and other spells, and cannot crit or be blocked by non-magical armor or shields.
+- Magic damage is caused by some boons and other spells
+- Cannot crit 
+- Cannot be blocked by non-magical armor or shields.
 ### Reaction
-Boons and other effects that can be cast as a reaction can be cast instantly, even not on your turn.
+- Boons and other effects that can be cast on your turn as a reaction, meaning they only trigger and start their effect when something happens
+- This can happen not on your turn
 ### Fall Damage
 When a character falls, they take 1d4 damage for each 2 Meters they fall.
 ### Swimming
@@ -124,7 +133,7 @@ When a character falls, they take 1d4 damage for each 2 Meters they fall.
 - A submerged character can take an action + movement on their turn to surface.
 ### Sneaking
 - You can try to sneak up on a creature unseen.
-- every movement you make towards the target/s, make a stealth saving roll to determine whether you are seen.
+- every movement you make towards or near the target/s, make a stealth saving roll to determine whether you are seen.
 ### Sneak Attack
 - If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
 - This breaks the sneaking, and all adjacent enemies are now aware of your presence. 

@@ -14,8 +14,8 @@ Children of hades play in 1 of two roles:
 
 <b><ins><i>Summon Warrior:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
 |       1        |      1       |   1 CT    |   3 CT   | 2 Meters |
 
 Summon a fallen warrior from Elysium to aide you.
@@ -27,19 +27,19 @@ When the warrior reaches 0 Hp they automatically return back to hades.
 <b><ins><i>Invisibility Cloak:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      2       |   1 CT    |   3 CT   |   -    |
+| :------------: | :----------: | :-------: | :------: | :---: |
+|       1        |      2       |   1 CT    |   3 CT   |   -   |
 
 Turn a medium or smaller creature [[Afflictions#Invisible | Invisible]].
-Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Magic Damage |magic damage]] to the attack roll (in addition to [[Combat Mechanics#Sneak Attack|sneak attack]].
+Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Magic Damage |magic damage]] to the attack roll (in addition to [[Combat Mechanics#Sneak Attack|sneak attack]])
 This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the enemy to succeed on an <mark style="background:  #FFAD0085;">Intuition</mark> roll or miss the attack
 
 ------------------
 <b><ins><i>Reanimate Creature:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       3        |      3       |   1 CT    |   5 CT   | 2 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       3        |      3       |   1 CT    |   5 CT   | 2 Meters |     |
 
 Reanimate a fallen medium/small creature to fight for you.
 Roll $monster \space hp \over 20$ d6.
@@ -49,9 +49,9 @@ If you fail even one roll, you fail to reanimate the monster and instead summon 
 ------------------
 <b><ins><i>Skull Chomper:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      3       |  Instant  |    -     | 16 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       3        |      3       |  Instant  |    -     | 16 Meters |     |
 
 Summon a small, blue-flamed skull in your hand.
 The skull can be thrown and then fly up to the range and can bite foes for <mark style="background: #930000A6;">1d6</mark> damage.

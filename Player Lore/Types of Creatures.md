@@ -17,7 +17,6 @@
 - Magical Humanoids - Creatures with human level intellect and human-like appearance that is magical
 	- Satyrs
 	- Minotaurs
-	- 
 - Magical Beasts - Animals that exists in nature and are imbued with magical abilities 
 	- Hydra
 	- Nemean Lion

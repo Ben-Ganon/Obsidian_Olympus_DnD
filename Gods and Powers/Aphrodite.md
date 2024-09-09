@@ -15,13 +15,12 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 
 <b><ins><i>Shimmer:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       0        |      3       |  Instant   |   1 CT   | 10 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       0        |      3       |  Instant  |   1 CT   | 10 Meters |     |
 
-Change your appearance to look like the ideal beauty standard for creatures within the range.
-This gives <mark style="background: #FFAD0085;">+1</mark> to rolls meant to ***Charm***, intimidate, deceive or persuade.
-***Shimmer*** can also be used on other humanoids to hide their [[Races |race]] or other physicals features.
+Cast an illusion to change your appearance into anyone you desire.
+This gives <mark style="background: #FFAD0085;">+1</mark>  to ***Charm***, intimidate, deceive or persuade.
 If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
 
 ------------------
@@ -32,7 +31,7 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 |       1        |      2       |  Instant  |   1 CT   | 2 Meters | 
 
 Channel Eros, god of carnal love to confuse enemies around you.
-All enemies around you gain -1 to all attack rolls on you until your next turn.
+All enemies around you gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -48,14 +47,14 @@ This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 ------------------
 <b><ins><i>Charm:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       3        |      1       |   1 CT    |   2 CT   | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       3        |      1       |   1 CT    |   2 CT   | 4 Meters |     |
 
 Charm a target into submission.
 Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark>.
 If your result is larger, They must do your bidding for the duration.
-If ***Shimmer*** is active, this effect happens even if you beat one of the rolls.
+If ***Shimmer*** is active, roll with advantage (+1) and this effect happens even if you beat one of the rolls.
 
 ------------------
 <b><ins><i>Vampiric Blade:</i></ins></b>
@@ -111,8 +110,8 @@ If they fail, they attack the nearest creature to them for the duration
 
 Touch the target, draining their life force.
 Make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save against the target.
-On failure, the target is dealt <mark style="background: #930000A6;">2d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">2d4</mark>.
-On success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
+On target failure, the target is dealt <mark style="background: #930000A6;">2d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">2d4</mark>.
+On target success, the target is dealt <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] and you heal for <mark style="background: #045B00A6;">1d4</mark>.
 Afterwards the target is stunned for the duration
 
 ------------------
