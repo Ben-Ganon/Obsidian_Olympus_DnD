@@ -33,9 +33,9 @@ If you are attacking target from behind add an additional <mark style="backgroun
 ------------------
 <b><ins><i>Doctor's Note:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      2       |   1 CT    |    -     | 6 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       3        |      2       |   1 CT    |    -     | 6 Meters |
 
 Prescribe some medicine to an ally, healing them for <mark style="background: #045B00A6;">1d8</mark>.
 
@@ -43,8 +43,8 @@ Prescribe some medicine to an ally, healing them for <mark style="background: #0
 <b><ins><i>Winged Kicks:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       3        |      2       |  Instant  |   2 CT   | 2 Meters | 
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       3        |      2       |  Instant  |   2 CT   | 2 Meters |
 
 Conjure the winged sandals of Hermes.
 These can be worn or given to an ally.
@@ -59,8 +59,9 @@ This movespeed bonus does not stack with ***Dash***
 <b><ins><i>Heavenly Dodge:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       5        |      2       | Reaction  |    -     |   -   | 
+| :------------: | :----------: | :-------: | :------: | :---: |
+|       5        |      3       |  Instant  |    -     |   -   |
+
 
 This Boon is used as a [[Combat Mechanics#Reaction |reaction]] to an attack.
 If you chose to dodge the attack and failed, roll again.
