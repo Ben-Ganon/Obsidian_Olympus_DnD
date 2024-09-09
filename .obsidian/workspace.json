@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Athena.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           },
@@ -213,33 +213,34 @@
   },
   "active": "3c0a029a9f6d53d4",
   "lastOpenFiles": [
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Tauros.md",
+    "Gods and Powers/Athena.md",
+    "Images/Owl Sentry.pdf",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Hades.md",
+    "Athena.webp",
+    "Gods and Powers/Ares.md",
+    "Gods and Powers/Artemis.md",
+    "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Tauros.md",
     "Character Creation/Character Creation Guide.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Playable Patrons.md",
     "Gods and Powers/Olympian Family Tree.md",
     "Gods and Powers/Janus.md",
-    "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Aphrodite.md",
-    "Gods and Powers/Artemis.md",
     "Mechanics/Afflictions.md",
     "Mechanics/Combat Mechanics.md",
     "Summonable Entities/Cerberus.md",
     "Summonable Entities/Hellhound.md",
     "Player Lore/Types of Creatures.md",
     "Gods and Powers/Apollo.md",
-    "Gods and Powers/Athena.md",
     "DM Stuff/Characters/Athenians/Themistia Nephus.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "Mechanics/Dice mechanics.md",
-    "DM Stuff/PC's/PC Table.md",
     "Info and Values/Character Sheet.pdf",
-    "Player Lore/Names.md",
-    "DM Stuff/PC's/Thalssios.md",
-    "DM Stuff/Items/The Black Key.md",
     "DM Stuff/Items",
     "DM Stuff/Characters/Athenians",
     "DM Stuff/Characters/Cult of the Bull",
@@ -254,11 +255,9 @@
     "Images/product_0_3_0367_recurve_bow.jpg",
     "Images/Photo+Nov+30,+6+11+57+PM.jpg",
     "Images/Indo-Persian_war_hammer.jpg",
-    "Images/il_1588xN.1052590995_ad0e.webp",
     "Images/Hercules.pdf",
     "Images/Hector.pdf",
     "DM Stuff/PC's",
-    "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Images/Zagreus.pdf"
+    "Info and Values/Dead_Frost_Play_Aids.pdf"
   ]
 }
