@@ -1,4 +1,4 @@
-![[Athena.webp | 300]]
+![[Athena.png | 300]]
 ***Description:***
 Athena is the goddess of wisdom and strategy.
 As her domain implies, Athena is extremely sharp and tends to think things through.
@@ -60,7 +60,7 @@ This boon moves you to the target.
 |       5        |      3       |  Instant  |   1 CT   | 4 Meters |
 
 When fighting or speaking to an enemy, find a weak spot and take advantage.
-Make an opposed <mark style="background:  #FFAD0085;">Intuition</mark> roll against a target in range.
+Make an opposed Intuition vs Stealth roll against a target in range.
 If in combat:
 	On success, your next hit on the target hits the weak spot and deals an extra <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
 	On failure, your next attack on the target misses the weak spot but deals an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].

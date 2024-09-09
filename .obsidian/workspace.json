@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "068826ce17b888e9",
+            "id": "07e09fd8bf5237bf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,50 +22,24 @@
             }
           },
           {
-            "id": "c13f149a542499af",
+            "id": "36c102f096867afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md",
+                "file": "DM Stuff/PC's/Thalssios.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4f6c36fb3d56844",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Athena.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "570574182f7552ee",
+            "id": "23d4d8127071fdeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Shields and Armor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "783821219ca8db25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "+1",
+                "query": "chara ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Athena.md",
+                "file": "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Athena.md"
+                "file": "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md"
               }
             }
           },
@@ -237,22 +212,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4f6c36fb3d56844",
+  "active": "23d4d8127071fdeb",
   "lastOpenFiles": [
+    "DM Stuff/Campaign 1/Session 1 Notes.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "DM Stuff/PC's/Thalssios.md",
+    "Player Lore/Athens and It's Characters/Athens Government.md",
+    "DM Stuff/The Plot.md",
+    "Gods and Powers/Athena.md",
     "Gear and Items/Shields and Armor.md",
+    "Gods and Powers/Demeter.md",
+    "Images/Athena.png",
+    "Gods and Powers/Ares.md",
     "Images/Athena.webp",
     "Player Lore/Types of Creatures.md",
-    "Gods and Powers/Athena.md",
     "Character Creation/Character Creation Guide.md",
     "Gods and Powers/Hermes.md",
     "Gear and Items/Weapons.md",
     "Character Creation/God Bonus Stat Chart.md",
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "Mechanics/Combat Mechanics.md",
     "Images/Owl Sentry.pdf",
-    "Gods and Powers/Demeter.md",
     "Gods and Powers/Hades.md",
-    "Gods and Powers/Ares.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Tauros.md",
@@ -262,10 +243,6 @@
     "Gods and Powers/Olympian Family Tree.md",
     "Gods and Powers/Janus.md",
     "Gods and Powers/Aphrodite.md",
-    "Mechanics/Afflictions.md",
-    "Summonable Entities/Cerberus.md",
-    "Summonable Entities/Hellhound.md",
-    "Gods and Powers/Apollo.md",
     "Info and Values/Character Sheet.pdf",
     "DM Stuff/Items",
     "DM Stuff/Characters/Athenians",
@@ -280,7 +257,6 @@
     "Images/WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
     "Images/product_0_3_0367_recurve_bow.jpg",
     "Images/Photo+Nov+30,+6+11+57+PM.jpg",
-    "Images/Indo-Persian_war_hammer.jpg",
     "Images/Hercules.pdf",
     "Images/Hector.pdf",
     "DM Stuff/PC's",
