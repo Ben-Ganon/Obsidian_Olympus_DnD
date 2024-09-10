@@ -87,8 +87,8 @@ Additionally, Aegis is terrifying to mortals, any creature who observes the shie
 |       7        |      1       |  Instant  |   1 CT   | 20 Meters |
 
 Make a clever speech.
-Your words seem to make much sense to all humanoids in the range.
-All humanoids (that can understand speech) must make an opposed intuition roll or be convinced by your superior facts and logic to do as the speech advises.
+Your words seem to make much sense to all humanoids within the range.
+All humanoids (that can understand speech) must make an opposed <mark style="background:  #FFAD0085;">intuition</mark> roll against you or be convinced by your superior facts and logic to do as the speech advises.
 
 --------------
 <b><ins><i>The Plan:</i></ins></b>

@@ -32,6 +32,7 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 
 Channel Eros, god of carnal love to confuse enemies around you.
 All enemies around you gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
+All ene
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
