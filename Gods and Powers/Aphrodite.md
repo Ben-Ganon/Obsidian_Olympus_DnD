@@ -95,9 +95,9 @@ Each enemy slain with these claws restores <mark style="background: #045B00A6;">
 ------------------
 <b><ins><i>Jealousy:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   1 CT    |   3 CT   | 14 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       7        |      1       |   1 CT    |   3 CT   | 14 Meters |     |
 
 You cause surrounding creatures to fight over you.
 Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save.
