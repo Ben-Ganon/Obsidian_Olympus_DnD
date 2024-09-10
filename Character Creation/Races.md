@@ -59,7 +59,7 @@ and gain +1 to the Agility stat.
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 |:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       0        |      1       |  Instant  |    -     | 4 Meters |
+|       0        |      1       |  Instant  |   1 CT   | 4 Meters |
 
 Turn momentarily into water, and flow away from enemies up to <mark style="background: #000B67A6;">4 Meters</mark> away.
 This prevents attacks of opportunity on the user while flowing.

@@ -26,13 +26,15 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 ------------------
 <b><ins><i>Lust:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      2       |  Instant  |   1 CT   | 2 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       1        |      2       |  Instant  |   1 CT   | 2 Meters |     |
 
 Channel Eros, god of carnal love to confuse enemies around you.
-All enemies around you gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
-All ene
+**In Combat:**
+	All enemies within the range  gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
+**Out of Combat:**
+	All enemies within the range gain <mark style="background:  #FFAD0085;">-1</mark> to opposed intuition rolls against you for the duration
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
