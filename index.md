@@ -34,9 +34,6 @@ If You're looking for the god list and powers, check it out [[Playable Patrons|h
 -  [[Color Codes]]
 - [[Names|Greek Names]]
 - [[Greek Curse Words]]
-### Lore
-- [[Welcome to Olympus! | A Short Intro to the World]]
 - 
-
 
 This is a homebrew DnD Campaign made by Ben Ganon.
