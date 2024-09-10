@@ -16,6 +16,12 @@ All guests are clad all manner of masks, from ones depicting in animal faces, to
 The masks are made from many materials, indicating each guests rank and wealth: 
 The top generals, priests and rich wear golden masks finely carved and designed, other city officials and merchants wear bronze or silver in elegant lines and curves, and the common peasants and servants wear wooden masks, roughly carved.
 
+
+### The House Wings
+- West Wing:
+	- Lysanders Office and rooms
+	- 
+
 At the party many important guests attend:
 
 | Name           | Role                                                                                             | Location   | Mask            | Secrets                                                                                                      | Want - Heroes                                                                                                                                                                                                     | Knows About the Object                                                                                                                                                                                             |
@@ -28,7 +34,7 @@ At the party many important guests attend:
 | **Timocrates** | Council Member in the Boule                                                                      | Main hall  | Golden Eagle    | He has secretly aligned himself with the **Persian Empire**, promising to aid them in their future conquest  | get the Heroes autograph                                                                                                                                                                                          | Nothing, but he does have some interesting information about **Chara** - she is born to a Persian emissary and Elissa                                                                                              |
 
 ***The Dungeons***
-- Dungeon entrance is at the North Wing, behind a cabinet of scrolls
+- **Dungeon entrance** is at the **North Wing**, behind a cabinet of scrolls
 - The players can feel a breeze coming from behind the scroll case
 - Behind one of the scrolls is a button inscribed with the capital Greek letter $\Delta$  that swings the cabinet out
 - A stairway leads down into darkness
