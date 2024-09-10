@@ -56,8 +56,10 @@ At the party many important guests attend:
 
 |           | Guard | HP  | Curr HP | Weapon / Damage | Defensive Value | Other Stats |
 | --------- | ----- | --- | ------- | --------------- | --------------- | ----------- |
-| 1 - Jason | 10    | 10  | 10      | Xiphos - d6     | d4              | d6          |
-| 2 - Jax   | 6     | 6   | 6       | Xiphos - d6     | d4              | d6          |
+| 1 - Jason | 10    | 10  | 0       | Xiphos - d6     | d4              | d6          |
+| 2 - Jax   | 6     | 6   | 0       | Xiphos - d6     | d4              | d6          |
+
+
 
 ***The Artifact*** 
 - The artifact is the [[The Black Key]]'s Bow (eye). Located behind a **locked wooden door** in the **West Wing** of the mansion inside **Lysander's Quarters**.

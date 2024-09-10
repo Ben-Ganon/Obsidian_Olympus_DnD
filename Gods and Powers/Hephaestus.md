@@ -45,7 +45,7 @@ Or, give a piece of armor +3 to armor rating and magical armor rating for the du
 - This gives a bonus of +<mark style="background: #930000A6;">1d6</mark> to your next attack or block roll.
 - All enemies who you block successfully while this is active take <mark style="background: #9E0000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 - If you are not immune to fire when casting this, take <mark style="background: #9E0000A6;">2</mark> damage.
-- Additionally, you can also attack with your bear hands for <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] 
+- You can instead attack with your bear hands for <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] 
 - This boon can be cast as a [[Combat Mechanics#Reaction |reaction]].
 
 
