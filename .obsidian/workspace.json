@@ -49,8 +49,12 @@
             "id": "f80943719150db64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -140,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md"
+              }
             }
           },
           {
@@ -217,6 +225,8 @@
   },
   "active": "f80943719150db64",
   "lastOpenFiles": [
+    "DM Stuff/Characters/Athenians/Themistia Nephus.md",
+    "Character Creation/Races.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Poseidon.md",
@@ -225,7 +235,6 @@
     "Gods and Powers/Hades.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Dionysos.md",
-    "Character Creation/Races.md",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Gods and Powers/Aphrodite.md",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
@@ -245,7 +254,6 @@
     "Character Creation/God Bonus Stat Chart.md",
     "DM Stuff/PC's/PC Table.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
-    "DM Stuff/The Plot.md",
     "Images/Athena.png",
     "Images/Athena.webp",
     "Images/Owl Sentry.pdf",
