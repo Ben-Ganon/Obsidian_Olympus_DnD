@@ -39,25 +39,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Dionysos.md",
+                "file": "Gods and Powers/Zeus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9b5a0f8539b5885",
+            "id": "f80943719150db64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Races.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,14 +215,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dbbffb334f23583",
+  "active": "f80943719150db64",
   "lastOpenFiles": [
-    "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Tauros.md",
+    "Gods and Powers/Poseidon.md",
+    "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Janus.md",
+    "Gods and Powers/Hades.md",
     "Gods and Powers/Hephaestus.md",
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
-    "Gods and Powers/Aphrodite.md",
-    "DM Stuff/PC's/Thalssios.md",
+    "Gods and Powers/Dionysos.md",
     "Character Creation/Races.md",
+    "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
+    "Gods and Powers/Aphrodite.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "DM Stuff/PC's/Thalssios.md",
     "Gods and Powers/Athena.md",
     "index.md",
     "Gods and Powers.md",
@@ -246,14 +246,8 @@
     "DM Stuff/PC's/PC Table.md",
     "Player Lore/Athens and It's Characters/Athens Government.md",
     "DM Stuff/The Plot.md",
-    "Gear and Items/Shields and Armor.md",
     "Images/Athena.png",
-    "Gods and Powers/Ares.md",
     "Images/Athena.webp",
-    "Player Lore/Types of Creatures.md",
-    "Character Creation/Character Creation Guide.md",
-    "Gods and Powers/Hermes.md",
-    "Gear and Items/Weapons.md",
     "Images/Owl Sentry.pdf",
     "Info and Values/Character Sheet.pdf",
     "DM Stuff/Items",
@@ -266,7 +260,6 @@
     "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(2).jpeg",
     "Images/WhatsApp Image 2023-10-25 at 11.17.38.jpeg",
-    "Images/WhatsApp Image 2023-10-21 at 15.51.14(1).jpeg",
     "Images/Hercules.pdf",
     "Images/Hector.pdf",
     "DM Stuff/PC's",
