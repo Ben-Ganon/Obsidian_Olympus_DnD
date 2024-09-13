@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/PC's/Thalssios.md",
+                "file": "Character Creation/Character Creation Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md",
+                "file": "Character Creation/Character Creation Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md",
+                "file": "Character Creation/Character Creation Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Characters/Athenians/Penelope Diakos.md"
+                "file": "Character Creation/Character Creation Guide.md"
               }
             }
           },
@@ -223,8 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f80943719150db64",
+  "active": "076c5d00c978278d",
   "lastOpenFiles": [
+    "DM Stuff/PC's/Thalssios.md",
+    "DM Stuff/Characters/Athenians/Penelope Diakos.md",
     "DM Stuff/Characters/Athenians/Themistia Nephus.md",
     "Character Creation/Races.md",
     "Gods and Powers/Zeus.md",
@@ -238,7 +240,6 @@
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Gods and Powers/Aphrodite.md",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
-    "DM Stuff/PC's/Thalssios.md",
     "Gods and Powers/Athena.md",
     "index.md",
     "Gods and Powers.md",
@@ -253,7 +254,6 @@
     "DM Stuff/Campaign 1/Session 1 Notes.md",
     "Character Creation/God Bonus Stat Chart.md",
     "DM Stuff/PC's/PC Table.md",
-    "Player Lore/Athens and It's Characters/Athens Government.md",
     "Images/Athena.png",
     "Images/Athena.webp",
     "Images/Owl Sentry.pdf",
