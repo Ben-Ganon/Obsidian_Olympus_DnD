@@ -34,7 +34,7 @@ Channel Eros, god of carnal love to confuse enemies around you.
 **In Combat:**
 	All enemies within the range  gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
 **Out of Combat:**
-	All enemies within the range gain <mark style="background:  #FFAD0085;">-1</mark> to opposed intuition rolls against you for the duration
+	All enemies within the range gain <mark style="background:  #FFAD0085;">-1</mark> to opposed Charisma and Perception  rolls against you for the duration
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -55,7 +55,7 @@ This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 |       3        |      1       |   1 CT    |   2 CT   | 4 Meters |     |
 
 Charm a target into submission.
-Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark>.
+Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] opposed <mark style="background:  #FFAD0085;">Charisma</mark> and <mark style="background: #A5A5A5;">Willpower</mark>
 If your result is larger, They must do your bidding for the duration.
 If ***Shimmer*** is active, roll with advantage (+1) and this effect happens even if you beat one of the rolls.
 

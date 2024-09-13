@@ -6,7 +6,7 @@ When Creating a character, choose a race:
 #### Human:
 The dominant race in ancient Greece. 
 Humans are highly creative, have superior willpower to accomplish their goals and are very charismatic, and have an easy time blending in to their surroundings.
-Heroes who are children of humans gain +1 to the <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background: #A5A5A5;">Willpower</mark> stats.
+Heroes who are children of humans gain a 1 bonus to the <mark style="background:  #FFAD0085;">Intuition</mark> and <mark style="background:  #FFAD0085;">Charisma</mark> stats.
 
 
 
@@ -77,7 +77,7 @@ They also gain 1d4 damage whenever they attack with a blunt weapon (hammers)
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       0        |      1       |  Instant  |   1 CT   |   -   |
+|       0        |      3       |  Instant  |   1 CT   |   -   |
 
 Upgrade your melee weapon with magical forge-fire.
 your next attack deals an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Magic Damage |magic damage]]
@@ -92,9 +92,10 @@ They appear as hooved, slightly hairier humanoids with pointed ears.
 
 <b><ins><i>Guardian of the Forest:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       0        |      1       |  Instant  |   1 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       0        |      3       |  Instant  |   1 CT   |   -   |     |
+
 
 Channel the power of Pan, Guardian of nature to enhance your armor, shield and weapons with heavy wood.
 for this CT and the next, you gain +3 armor and [[advantage]] to all block attempts.
@@ -110,11 +111,11 @@ They inherently understand inflicting damage with sharp objects, and gain +1d4 d
 
 <b><ins><i>Slash:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       0        |      1       |  Instant  |    -     | 2 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       0        |      3       |  Instant  |    -     | 2 Meters |     |
 
-If you are unarmed with one hand, you can use that hand to slash an enemy with your talons as a bonus action, dealing 1d4 bonus [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
+If you are unarmed with one hand, you can use that hand to slash an enemy with your talons as a bonus action, dealing <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
 
 <b><ins><i>Bite:</i></ins></b>
 
@@ -135,9 +136,9 @@ Additionally, vampires that attempt to siphon their blood or life force are inst
 
 <b><ins><i>Blood Cure:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       0        |      1       |   1 CT    |    -     | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       0        |      2       |   1 CT    |    -     | 4 Meters |     |
 
 Quickly concoct a healing potion from your acidic blood.
 This can be quickly splashed on an ally next turn to heal them for <mark style="background: #045B00A6;">1d8</mark> Hp
