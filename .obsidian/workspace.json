@@ -34,31 +34,19 @@
             }
           },
           {
-            "id": "16a02c315ad6a493",
+            "id": "80f6f64d16a8f1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Zeus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0437a2e063d08869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md",
+                "file": "Mechanics/Dice mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods and Powers/Aphrodite.md"
+                "file": "Mechanics/Dice mechanics.md"
               }
             }
           },
@@ -223,37 +211,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0437a2e063d08869",
+  "active": "076c5d00c978278d",
   "lastOpenFiles": [
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
-    "Mechanics/Dice mechanics.md",
-    "Gods and Powers/Aphrodite.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Character Creation Guide.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Zeus.md",
-    "DM Stuff/Characters/Athenians/Penelope Diakos.md",
-    "Character Creation/Starter Kits.md",
     "Character Creation/Races.md",
+    "Mechanics/Combat Mechanics.md",
+    "Character Creation/Character Creation Guide.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Gear and Items/Weapons.md",
+    "DM Stuff/The Plot.md",
     "DM Stuff/PC's/Thalssios.md",
-    "DM Stuff/Characters/Athenians/Themistia Nephus.md",
+    "DM Stuff/PC's/PC Table.md",
+    "Character Creation/Starter Kits.md",
+    "DM Stuff/Campaign 2/Session 4 - The Oracle is Calling.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "Gods and Powers/Zeus.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Poseidon.md",
     "Gods and Powers/Playable Patrons.md",
+    "Gods and Powers/Olympian Family Tree.md",
     "Gods and Powers/Janus.md",
-    "Gods and Powers/Hades.md",
+    "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
+    "Gods and Powers/Hades.md",
+    "Mechanics/Level Up Chart.md",
+    "Mechanics/Afflictions.md",
+    "Templates/Disadvantage.md",
     "Gods and Powers/Dionysos.md",
-    "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
-    "Gods and Powers/Athena.md",
-    "index.md",
-    "Gods and Powers.md",
     "Gods and Powers/Demeter.md",
-    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Lysander's Mansion.png",
     "Images/Lysander's Mansion 1.png",
-    "Gods and Powers/Apollo.md",
     "Images/Athena.png",
     "Images/Athena.webp",
     "Images/Owl Sentry.pdf",

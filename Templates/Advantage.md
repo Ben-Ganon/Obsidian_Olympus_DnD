@@ -1,1 +1,1 @@
-[[Dice mechanics#Advantage |advantage]] 
+[[Dice mechanics#Advantage |Advantage]] 

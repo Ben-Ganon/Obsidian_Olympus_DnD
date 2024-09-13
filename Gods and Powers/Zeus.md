@@ -17,9 +17,9 @@ Recommended for new players
 ***Boons***:
 <b><ins><i>Fly!:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       0        |      3       |   Instant    |   3 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       0        |      3       |  Instant  |   3 CT   |   -   |     |
 
 Roll <mark style="background: #000B67A6;">Might</mark>.
 You can fly up to that many meters in the air for the duration.
@@ -113,7 +113,7 @@ Enemies in the storm (<mark style="background: #000B67A6;">4-10 Meters radius</m
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       7        |      2       |   1 CT    |   2 CT   |   -    |
 
-Become infused with essence of lightning, gaining <mark style="background: #004A4CA6;">+1</mark> to Agility rolls and 4 movespeed for the duration.
+Become infused with essence of lightning, gaining [[Dice mechanics#Advantage |Advantage]] to Agility rolls and 4 movespeed for the duration.
 You can end this charge period with a lightning-infused tackle that deals <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 If you cast this while ***Flying***, ***BECOME THE LIGHTNING*** and deal <mark style="background: #930000A6;">1d20</mark> instead.
 Additionally, the target must make a <mark style="background: #A5A5A5;">Willpower</mark> roll, or be stunned for 1d4 turns

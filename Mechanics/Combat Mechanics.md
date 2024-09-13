@@ -56,7 +56,7 @@
 - If the target is **in range**, this is treated like a normal attack, and **hits automatically** (if not blocked).
 - If the target is **outside the range**, you must first **succeed on a Dexterity** roll to land the attack.
 - In addition to this the **target can still block the projectile.**
-- Projectiles **cannot be blocked**
+
 ### Blocking
 - with a shield or with a sword - what can/cannot be blocked:
 	- You can block an attack with the defensive stat of your shield or weapon - you must roll a 4 or more to succeed the block.
@@ -133,7 +133,7 @@ When a character falls, they take 1d4 damage for each 2 Meters they fall.
 - A submerged character can take an action + movement on their turn to surface.
 ### Sneaking
 - You can try to sneak up on a creature unseen.
-- every movement you make towards or near the target/s, make a stealth saving roll to determine whether you are seen.
+- every movement you make towards or near the target/s, make a <mark style="background: #00BB4D;">Dexterity</mark> saving roll to determine whether you are seen.
 ### Sneak Attack
 - If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
 - This breaks the sneaking, and all adjacent enemies are now aware of your presence. 

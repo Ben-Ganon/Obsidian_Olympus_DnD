@@ -2,8 +2,27 @@
 - For example, having an Agility Value of 5 will mean you roll a D6 for agility checks. 
 - having a value of 17+ means rolling a D20.
 
+#### DC Checks
+- The DC for each different action changes according to its difficulty
+- There is not specific number for each difficulty, but a good rule of thumb:
+	- 2-4 - Pretty easy, any regular average human could do it no problem, examples-
+		- Picking up a small rock
+		- Hitting a big target 1 meter away with a small rock
+		- Avoiding the gaze of a blindfolded man
+		- Convincing a starving man to eat
+		- Perceiving a nearby building on a clear sunny day
+	- 5-8 - This action is relatively difficult and takes certain skill/practice/luck, examples
+		- Picking up a large rock
+		- Hitting a small target 10 meters away with a small rock
+		- Avoiding the gaze of a guard in darkness
+		- Convincing a man to eat something o
+		- Perceiving a nearby building on a clear sunny day
+	- 9-12 - This action 
+#### Godly Favor
+Whenever 
+
 #### Advantage:
-- Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D20 and so on)
+- Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D12 and so on)
 - Having a value that is beyond the maximum (for example having 13 strength and then getting a +1 for strength rolls means you roll a D20 twice, then take the highest value).
 
 #### Disadvantage:

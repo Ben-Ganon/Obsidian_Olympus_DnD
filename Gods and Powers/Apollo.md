@@ -62,7 +62,7 @@ Sing a sick diss at an enemy.
 If the enemy is in range and can hear the mockery, the target must make an Willpower saving roll.
 On failure, the target takes <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d12</mark> damage instead.
-Either way, afterwards the target will receive a -1 to their next roll in the duration.
+Either way, afterwards the target will receive a [[Dice mechanics#Disadvantage|Disadvantage]]  to their next roll in the duration.
 
 ------------------
 <b><ins><i>Guided Arrow:</i></ins></b>

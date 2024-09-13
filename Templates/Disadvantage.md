@@ -1,1 +1,1 @@
-[[Dice mechanics#Disadvantage|disadvantage]] 
+[[Dice mechanics#Disadvantage|Disadvantage]]

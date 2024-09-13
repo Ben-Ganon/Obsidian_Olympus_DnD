@@ -36,7 +36,7 @@ Your shield gains <mark style="background: #930000A6;">+1d6</mark> bonus to it's
 |       3        |      3       |  Instant  |   3 CT   | 10 Meters |
 
 For the duration, you become hyper aware of your surroundings and other people especially.
-Gain <mark style="background:  #FFAD0085;">+1</mark> to intuition rolls in general and <mark style="background:  #FFAD0085;">+2</mark> to intuition rolls made as opposed intuition rolls or for attempting to read people.
+Gain [[Dice mechanics#Advantage |Advantage]] to intuition and Perception rolls in general and Double [[Dice mechanics#Advantage |Advantage]]  to intuition and Perception rolls made as opposed rolls or for attempting to read people.
 
 ------------------
 <b><ins><i>Shield Bash:</i></ins></b>
@@ -87,7 +87,7 @@ If in combat:
 	On failure, your next attack on the target misses the weak spot but deals an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics#Piercing Damage |piercing damage]].
 Else:
 	On success, you find their mental 'weak spot' and can pressure them to tell you **anything you want to know**.
-	On failure, they resist your attempts but gain <mark style="background:  #FFAD0085;">-1</mark> to rolls meant to deceive you
+	On failure, they resist your attempts but gain [[Dice mechanics#Disadvantage|Disadvantage]]  to Intuition and Charisma rolls against you
 
 --------------
 <b><ins><i>The Plan:</i></ins></b>

@@ -54,7 +54,7 @@ The wall is 10 Meters wide, 10 Meters tall, can block regular projectiles, and p
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      3       |   1 CT    |    -     | 10 Meters | 
 A frozen vine erupts from your position, targeting an enemy.
-This attack cannot be blocked, but it is slow and receives +1 to dodge rolls against it.
+This attack cannot be blocked, but it is slow and receives [[Dice mechanics#Advantage |Advantage]]  to dodge rolls against it.
 Deals <mark style="background: #930000A6;">1d12</mark> damage, and latches on to the foe making them [[Afflictions#Ensnared |Ensnared]] for 2 CT
 
 ------------------
@@ -64,7 +64,7 @@ Deals <mark style="background: #930000A6;">1d12</mark> damage, and latches on to
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       5        |      1       |   1 CT    |    3CT     | 20 Meters | 
 Freeze the air around you, slowing enemies.
-Enemies in the range are slowed and receive -1 to their dodge attempts and -4 to their movespeed in the duration.
+Enemies in the range are slowed and receive [[Dice mechanics#Disadvantage|Disadvantage]] to their dodge attempts and -4 to their movespeed in the duration.
 
 
 ------------------
@@ -91,7 +91,7 @@ Enemies in a 2 Meter radius of the flower take <mark style="background: #930000A
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       9       |      1       |   1 CT    |   5 CT   | 10 Meters | 
 Merge with Demeter, goddess of the Harvest.
-Gain +10 Hp and +1 to all Might rolls.
+Gain +10 Hp and [[Dice mechanics#Advantage |Advantage]]  to all Might rolls.
 Every CT, enemies in your range must make an Agility save or be [[Afflictions#Ensnared |Ensnared]]. Every CT, every [[Afflictions#Ensnared |Ensnared]] enemy must make a Might save or be harvested, being dealt 1d6 damage
 
 

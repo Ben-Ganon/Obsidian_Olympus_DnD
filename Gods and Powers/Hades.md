@@ -32,7 +32,7 @@ When the warrior reaches 0 Hp they automatically return back to hades.
 
 Turn a medium or smaller creature [[Afflictions#Invisible | Invisible]].
 Attacking during the invisibility ends the effect and grants <mark style="background: #930000A6;">1d6</mark> bonus [[Combat Mechanics#Magic Damage |magic damage]] to the attack roll (in addition to [[Combat Mechanics#Sneak Attack|sneak attack]])
-This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the enemy to succeed on an <mark style="background:  #FFAD0085;">Intuition</mark> roll or miss the attack
+This boon can be cast as a [[Combat Mechanics#Reaction|reaction]], forcing the enemy to succeed on an Perception roll or miss the attack
 
 ------------------
 <b><ins><i>Reanimate Creature:</i></ins></b>
@@ -67,7 +67,7 @@ When a foe is bit by the skull, they must make a <mark style="background: #A5A5A
 
 Channel the goddess Styx to shroud your area in darkness.
 Each Enemy in the area must make a saving <mark style="background:  #FFAD0085;">Intuition</mark> roll or turn [[Afflictions#Blind |blind]] for the duration.
-[[Types of Creatures#Undead|Undead]] (including enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and <mark style="background: #930000A6;">+1</mark> to attack rolls
+[[Types of Creatures#Undead|Undead]] (including enemies) in the area gain <mark style="background: #045B00A6;">+10 Max Hp</mark> and [[Dice mechanics#Advantage |Advantage]]  to attack rolls
 for the duration.
 
 ------------------
@@ -115,7 +115,7 @@ Summon [[Cerberus]] to aide you in combat.
 Merge with Hades, god of Darkness.
 You become Ethereal, and physical material not made of Stygian Iron cannot harm you (passes through you).
 Stygian Iron, however, deals double damage to you.
-Gain <mark style="background: #004A4CA6;">+1</mark> to all agility and stealth rolls during this time.
+Gain [[Dice mechanics#Advantage |Advantage]] to all agility and Dexterity rolls during this time.
 
 ------------------
 <b><ins><i>Aspect of Death</i></ins></b>

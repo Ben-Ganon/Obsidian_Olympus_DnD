@@ -24,9 +24,9 @@ The effect and the mark expire after the duration.
 ------------------
 <b><ins><i>Deadly Missile:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range    |
-|:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       1        |      1       |   Instant    |    -     | 40 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       1        |      3       |  Instant  |    -     | 40 Meters |     |
 
 Enchant a projectile to deal bonus damage.
 Your next projectile becomes an enchanted magic missile that never misses.  
@@ -36,9 +36,9 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 ------------------
 <b><ins><i>Camouflage:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      2       |  Instant  |   2 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       1        |      3       |  Instant  |   2 CT   |   -   |     |
 
 Blend in to your surroundings and vanish.
 You become [[Afflictions#Invisible|Invisible]] for the duration, and can ***Mark*** an enemy once on the same turn of the cast.
@@ -78,8 +78,8 @@ If you cast this while **Wild Hunt** is active, deal <mark style="background: #9
 
 Channel the power of the Wild Hunt.
 For the duration, you gain <mark style="background: #60BB81;">4 Movespeed</mark> when moving towards an enemy,
-and gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #00BB4D;">+1</mark> to Dexterity rolls.
-If the moon is shining (either at night or with ***Moonlight Flare***), gain <mark style="background: #261F22D6;">+1</mark> to stealth rolls and <mark style="background: #930000A6;">+1</mark> to attack rolls made against ***Marked*** enemies.
+and gain [[Dice mechanics#Advantage |Advantage]]  to <mark style="background: #004A4CA6;">Agility</mark> and <mark style="background: #00BB4D;">Dexterity</mark> rolls.
+If the moon is shining (either at night or with ***Moonlight Flare***), gain [[Dice mechanics#Advantage |Advantage]] to stealth rolls and [[Dice mechanics#Advantage |Advantage]] to attack rolls made against ***Marked*** enemies.
 
 ------------------
 <b><ins><i>Poison Projectiles:</i></ins></b>
@@ -95,14 +95,14 @@ This poison stacks - if you land 2 poison arrows with duration 1 and 2, the targ
 ------------------
 <b><ins><i>Moonlight Flare:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range    |
-|:--------------:|:------------:|:---------:|:--------:|:----------:|
-|       5        |      1       |   1 CT    |   3 CT   | 30 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       5        |      1       |   1 CT    |   3 CT   | 30 Meters |     |
 
 Shine godly moonlight on the battlefield in a <mark style="background: #0900A7A6;">4 Meter</mark> radius in a location in the range.
 All invisible creatures in the moonlight beam are revealed for the duration.
 Additionally, all enemies in the moonlight beam are slower - 
-They lose 5 Movespeed and suffer <mark style="background: #004A4CA6;">-1</mark> on all Agility rolls.
+They lose 5 Movespeed and suffer [[Dice mechanics#Disadvantage|Disadvantage]] on all Agility rolls.
 
 ------------------
 <b><ins><i>Battle Companion:</i></ins></b>
@@ -134,10 +134,10 @@ Cannot stray more than the range away from you or it will vanish.
 |       9       |      1       |   1 CT    |   3 CT   |   -   | 
 
 Merge with Artemis, goddess of the hunt.
-Gain <mark style="background: #004A4CA6;">+1</mark> to Agility and <mark style="background: #011111;">+1</mark> to Stealth rolls and +2 Movespeed.
+Gain [[Dice mechanics#Advantage |Advantage]] to Agility and [[Dice mechanics#Advantage |Advantage]]  to Stealth rolls and +2 Movespeed.
 Additionally, Gain the Bow of Artemis - 
 Every projectile fired or thrown is a ***Deadly Missile*** and deals it's damage as bonus damage and cannot miss.
-Additionally, every blade you posses shifts into Artemis' Hunting Knife, granting <mark style="background: #930000A6;">+2</mark> to attack rolls made to ***Marked*** targets.
+Additionally, every blade you posses shifts into Artemis' Hunting Knife, granting [[Dice mechanics#Advantage |Advantage]] to attack rolls made to ***Marked*** targets.
 
 ------------------
 

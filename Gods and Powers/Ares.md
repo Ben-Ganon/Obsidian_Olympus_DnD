@@ -15,7 +15,7 @@ Children of Ares play as either front line tanks that absorb damage for their pa
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       1        |      2       |  Instant  |   3 CT   |   -   | 
 
-Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain <mark style="background: #9E0000A6;">+1</mark> on all attack rolls, but each time you attack roll 1d8. 
+Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain [[Dice mechanics#Advantage |Advantage]] on all <mark style="background: #930000A6;">attack</mark> rolls, but each time you attack roll 1d8. 
 If the Result is 8, attack the nearest ally with disadvantage.
 If the result is 1, attack the nearest closest ally. If none are nearby, you are stunned for <mark style="background: #620075A6;">1 CT</mark>
 
@@ -38,7 +38,7 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 |       3        |      1       |  Instant  |   2 CT   | 6 Meters |     |
 
 Taunt ***all*** creatures in range into combat, forcing them to attack you for the duration.  
-They have <mark style="background: #930000A6;">-1</mark> on all attack rolls and <mark style="background: #930000A6;">-2</mark> on all defense and dodge rolls
+They have [[Dice mechanics#Disadvantage|Disadvantage]]  on all attack rolls and Double [[Dice mechanics#Disadvantage|Disadvantage]]  on all defense and dodge rolls
 During this time, you can attack another time each turn as a bonus action in the duration
 
 ------------------
@@ -72,8 +72,8 @@ Additionally, any enemy damaged in the duration grants you <mark style="backgrou
 |       5        |      1       |  Instant  |   3 CT   | 4 Meters |     |
 
 Gain valor of the strongest warriors.
-For the duration, your you gain <mark style="background: #930000A6;">+2</mark> to all block rolls and +2 Armor Rating,
-Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for every enemy the radius when you cast this boon.
+For the duration, your you gain [[Dice mechanics#Advantage |Advantage]]  to all block rolls and +2 Armor Rating,
+Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for each enemy the radius when you cast this boon.
 
 ------------------
 <b><ins><i>Terrify:</i></ins></b>
@@ -115,7 +115,7 @@ Afterwards, you lose all bonus Hp.
 |       9       |      1       |   1 CT    |   5 CT   |   -   | 
 Merge with Ares, god of bloodshed. 
 Become infused with godly spirit:  
-Gain <mark style="background: #045B00A6;">25 Max Hp</mark> and infuse you weapon with frenzied bloodlust, gaining <mark style="background: #930000A6;">+2</mark> to all attack rolls.  
+Gain <mark style="background: #045B00A6;">25 Max Hp</mark> and infuse you weapon with frenzied bloodlust, gaining Double [[Dice mechanics#Advantage |Advantage]]  to all attack rolls.  
 Additionally, for the duration you are surrounded by a ***Hail of Blades***.
 
 ------------------

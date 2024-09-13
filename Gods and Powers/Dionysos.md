@@ -31,7 +31,7 @@ This container can be thrown up to 2 + <mark style="background: #000B67A6;">Migh
 |       1        |      2       |   Instant   |   3 CT   | 10 Meters | 
 
 Cause a target in range to become drunk for the duration.
-Each CT, target must make an Intuition saving roll or stumble, causing them receive -1 to their attack rolls for that CT
+Each CT, target must make an Intuition saving roll or stumble, causing them receive [[Dice mechanics#Disadvantage|Disadvantage]] to their attack rolls for that CT
 
 ------------------
 <b><ins><i>Visions of Madness:</i></ins></b>
@@ -52,7 +52,7 @@ If no target is available they deal <mark style="background: #9E0000A6;">1d8</ma
 |       3        |      1       |   1 CT    |   3 CT   | 8 Meters | 
 
 Inspire a target with a dramatic urge to fight.
-The target receives +1 on all attack rolls, but cannot move away from enemies for the duration.
+The target receives [[Dice mechanics#Advantage |Advantage]] on all attack rolls, but cannot move away from enemies for the duration.
 
 ------------------
 <b><ins><i>Spin the Bottle:</i></ins></b>
@@ -104,8 +104,8 @@ Both cannot dodge or block any attack.
 |       7        |      1       |   2 CT    |   5 CT   | 16 Meters | 
 
 The area around you erupts in absolute madness.
-Every ally in the range will receive a <mark style="background: #FFAD0085;">+1</mark> to all Intuition and Attack rolls.
-All Enemies in range receive <mark style="background: #FFAD0085;">-1</mark> to Intuition and Block rolls.
+Every ally in the range will receive a [[Dice mechanics#Advantage |Advantage]] to all Intuition and Attack rolls.
+All Enemies in range receive [[Dice mechanics#Disadvantage|Disadvantage]] to Intuition and Block rolls.
 
 ------------------
 <b><ins><i>Aspect of Madness:</i></ins></b>
@@ -115,7 +115,7 @@ All Enemies in range receive <mark style="background: #FFAD0085;">-1</mark> to I
 |       9       |      1       |   1 CT    |   5 CT   |   10 Meters   | 
 
 Merge with Dionysos, god of madness.
-Gain <mark style="background: #00A521A6;">+5 Hp</mark>, and <mark style="background: #FFAD0085;">+1</mark> to Intuition and Willpower rolls.
+Gain <mark style="background: #00A521A6;">+5 Hp</mark>, and [[Dice mechanics#Advantage |Advantage]]  to Intuition and Willpower rolls.
 Every CT, all enemies in range must make Intuition saving rolls or be subjected to ***Visions of Madness***.
 Once when the effect begins, all allies in range roll 1d4 and receive:
 1-2: +1 to attack rolls

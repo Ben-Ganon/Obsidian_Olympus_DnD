@@ -47,12 +47,12 @@ Any enemies caught in the fire take <mark style="background: #930000A6;">1d8</ma
 
 <b><ins><i>Human Sacrifice:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       5        |      2       |  Instant  |   3 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       5        |      1       |  Instant  |   3 CT   |   -   |     |
 
 Sacrifice the life-force of a human to Tauros to gain strength, speed and damage.
-If you cast this Boon in the same turn you damaged an enemy, gain +3 <mark style="background: #3800D7A6;">Might</mark>, +3 <mark style="background: #004A4CA6;">Agility</mark>, and +1 to all Attack Rolls for the duration.
+Instantly kill an NPC in range and gain permanent [[Dice mechanics#Advantage |Advantage]] to all stats
 
 ------------------
 

@@ -32,9 +32,9 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 
 Channel Eros, god of carnal love to confuse enemies around you.
 **In Combat:**
-	All enemies within the range  gain <mark style="background: #930000A6;">-1</mark> to all attack rolls on you until your next turn.
+	All enemies within the range  gain [[[[Dice mechanics#Advantage | Advantage]] to all <mark style="background: #930000A6;">attack</mark> rolls on you until your next turn.
 **Out of Combat:**
-	All enemies within the range gain <mark style="background:  #FFAD0085;">-1</mark> to opposed Charisma and Perception  rolls against you for the duration
+	All enemies within the range gain [[Dice mechanics#Advantage |Advantage]]  to opposed Charisma and Perception  rolls against you for the duration
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -57,7 +57,7 @@ This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 Charm a target into submission.
 Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] opposed <mark style="background:  #FFAD0085;">Charisma</mark> and <mark style="background: #A5A5A5;">Willpower</mark>
 If your result is larger, They must do your bidding for the duration.
-If ***Shimmer*** is active, roll with advantage (+1) and this effect happens even if you beat one of the rolls.
+If ***Shimmer*** is active, roll with [[Dice mechanics#Advantage |Advantage]] and this effect happens even if you beat one of the rolls.
 
 ------------------
 <b><ins><i>Vampiric Blade:</i></ins></b>
@@ -125,7 +125,7 @@ Afterwards the target is stunned for the duration
 |       9       |      1       |   1 CT    |   5 CT   | 1 Meter | 
 
 You merge with Aphrodite, goddess of passion.
-For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #004A4CA6;">Agility</mark> rolls.
+For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background:  #FFAD0085;">Charisma</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.
 On failure, they become your slave for the duration.
 On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].
