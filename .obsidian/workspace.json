@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "Gods and Powers/Aphrodite.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat Mechanics.md",
+                "file": "DM Stuff/Items/Oracles Bow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oracle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "DM Stuff/Items/Oracles Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Dice mechanics.md",
+                "file": "DM Stuff/Items/Oracles Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Dice mechanics.md"
+                "file": "DM Stuff/Items/Oracles Bow.md"
               }
             }
           },
@@ -211,10 +212,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "076c5d00c978278d",
+  "active": "80f6f64d16a8f1ea",
   "lastOpenFiles": [
-    "Character Creation/Races.md",
+    "DM Stuff/Items/Oracles Trident.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "Mechanics/Combat Mechanics.md",
+    "Gods and Powers/Aphrodite.md",
+    "Mechanics/Dice mechanics.md",
+    "Character Creation/Races.md",
     "Character Creation/Character Creation Guide.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Gear and Items/Weapons.md",
@@ -223,7 +228,6 @@
     "DM Stuff/PC's/PC Table.md",
     "Character Creation/Starter Kits.md",
     "DM Stuff/Campaign 2/Session 4 - The Oracle is Calling.md",
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "Gods and Powers/Zeus.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Tauros.md",
@@ -236,9 +240,6 @@
     "Gods and Powers/Hades.md",
     "Mechanics/Level Up Chart.md",
     "Mechanics/Afflictions.md",
-    "Templates/Disadvantage.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Demeter.md",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Lysander's Mansion.png",
     "Images/Lysander's Mansion 1.png",

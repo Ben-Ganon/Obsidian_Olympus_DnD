@@ -55,7 +55,7 @@ This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 |       3        |      1       |   1 CT    |   2 CT   | 4 Meters |     |
 
 Charm a target into submission.
-Both you and the target roll [[Dice mechanics#Combined Rolls|combined]] opposed <mark style="background:  #FFAD0085;">Charisma</mark> and <mark style="background: #A5A5A5;">Willpower</mark>
+Both you and the target roll  <mark style="background:  #FFAD0085;">Charisma</mark> against target's <mark style="background: #A5A5A5;">Willpower</mark>
 If your result is larger, They must do your bidding for the duration.
 If ***Shimmer*** is active, roll with [[Dice mechanics#Advantage |Advantage]] and this effect happens even if you beat one of the rolls.
 

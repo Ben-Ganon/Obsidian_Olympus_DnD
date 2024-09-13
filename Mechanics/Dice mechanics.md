@@ -15,11 +15,43 @@
 		- Picking up a large rock
 		- Hitting a small target 10 meters away with a small rock
 		- Avoiding the gaze of a guard in darkness
-		- Convincing a man to eat something o
-		- Perceiving a nearby building on a clear sunny day
-	- 9-12 - This action 
+		- Convincing a man to eat something pleasant-looking you gave him
+		- Perceiving an eagle on a cloudy day
+	- 9-12 - This action is quite difficult and usually cannot be done by the average human, needs extraordinary amount of skill and/or practice, insane luck or some magical force
+		- Lifting a Boulder
+		- Hitting an eagle in flight with a bow, from the ground
+		- Sneaking past a guard in daylight
+		- Convincing a man to drink a mysterious black liquid
+		- Perceiving the hat on a man 500 Meters away
+	- 12-20 - This action takes insane effort even from Heroes/Magic Users/Extremely Lucky Sons of Bitches
+		- Lifting a Mountain
+		- Hitting a swinging rope from 500 Meters away
+		- Sneaking past a guard who is looking right at you
+		- Convincing a man to drink what he knows is poison
+		- Perceiving the man inside the building across town
 #### Godly Favor
-Whenever 
+- Whenever you achieve the maximum number on a die, gain **Godly Favor**, and roll the next die tier again and add the result to the previous roll
+- This can happen infinite times
+- **On failure of a check**, take 1 **Tear of Nyx**
+- You can use **Tears of Nyx** to add to your rolls
+- Also use to gain **Godly Favor**!
+- Example 1:
+	- I roll a d6 and get 6
+	- I roll a d8 and get 7
+	- Total for this check: 6 + 7 = 13
+- Example 2:
+	- I roll a d4 and get 4
+	- I roll a d6 and get 6
+	- I roll a d8 and get 8
+	- I roll a d10 and get 1
+	- Total for this check: 4 + 6 + 8 + 1 = 19
+- Example 3:
+	- I try to make a DC 8 Perception Check and fail
+	- I take a **Tear of Nyx**
+	- I try to make a DC 10 Might check with my D8
+	- I roll a 7
+	- I use the **Tear of Nyx** to gain **Godly Favor** and roll a d10 to get 3
+	- My total is 8 + 3 = 11 and I pass the DC
 
 #### Advantage:
 - Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D12 and so on)
@@ -40,17 +72,4 @@ Whenever
 - You both roll the same stat (Might, Agility, etc.) and to "win" the opposed roll you must roll at least 1 more than your opponent.
 - If you are making an opposed roll against multiple enemies, you roll only once.
 
-#### Combined Rolls:
-- Combined rolls are used when the action you are performing does not match exactly with the stats available to you.
-- For example, climbing a wall quickly takes both Might and Agility.
-- To do a combined roll, make a check with both stats then take the average
-
-#### Types of Common Combined Rolls:
-- Deception - Intuition + Charisma
-- Intimidation - Might + Charisma. 
-- Investigation - Intuition + Dexterity. 
-- Athletics - Might + Agility. 
-- Acrobatics - Agility + Dexterity. 
-- Sleight of Hand - Dexterity + Stealth. 
-- Persuasion - Intuition + Willpower
 
