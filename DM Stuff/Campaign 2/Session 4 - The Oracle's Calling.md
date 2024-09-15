@@ -56,6 +56,7 @@
 		  She shoves a bound and gagged Chara at him "Kill."
 		  What does Thalassios do?
 	- Aeneas:
+		- 
 	- Orphea:
 		- Orphea is on a hill overlooking a small village on the island of Corfu
 		- In the distance, more villages pop up among the hills and valleys
@@ -70,4 +71,4 @@
 			- He tries to stop another pillager from killing a gorgon child but cannot overcome him
 			- What does Orphea do?
 	- Theodore:
-		- 
+		- Theodore is looking at his 
