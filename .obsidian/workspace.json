@@ -25,11 +25,10 @@
             "id": "076c5d00c978278d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           },
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,12 +187,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,10 +207,10 @@
   },
   "active": "076c5d00c978278d",
   "lastOpenFiles": [
+    "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
-    "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
     "Gods and Powers/Tauros.md",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",

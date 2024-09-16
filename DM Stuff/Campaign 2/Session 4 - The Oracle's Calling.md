@@ -63,7 +63,10 @@
 		- Aeneas is looking up to him from another's body
 		- It is Lysander
 		- Aeneas can feel himself say "My liege, the Heroes have escaped me"
-		- The man on the throne spits out "shame. You know i"
+		- The man on the throne spits out "shame. You know I don't accept failure. Next time the Heroes escape you, 
+		  I will add you to the list of sacrifices! what do you have to say for yourself"
+		- In this moment, Aeneas feels godly power from Ares surging in him, and for just a moment Lysander's eyes glow red, and he seems oddly scared, a face he does not often make. 
+		- What does Aeneas say to the stranger?
 	- Orphea:
 		- Orphea is on a hill overlooking a small village on the island of Corfu
 		- In the distance, more villages pop up among the hills and valleys
