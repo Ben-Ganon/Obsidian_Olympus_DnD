@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f993874087609599",
+        "id": "f6e0bb282de91457",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbbffb334f23583",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "076c5d00c978278d",
+            "id": "d55f24fa6b5d593e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "668d0fe9be28b002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Afflictions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "076c5d00c978278d",
+  "active": "d55f24fa6b5d593e",
   "lastOpenFiles": [
-    "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "Mechanics/Afflictions.md",
+    "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "Gods and Powers/Tauros.md",
@@ -226,7 +197,6 @@
     "Templates/Color Codes.md",
     "Untitled.md",
     "[[Dice mechanics.md",
-    "Mechanics/Afflictions.md",
     "Summonable Entities/Savra.md",
     "Info and Values/Character Sheet.pdf",
     "DM Stuff/The Plot.md",
