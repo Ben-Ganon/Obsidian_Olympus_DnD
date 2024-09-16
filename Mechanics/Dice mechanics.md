@@ -3,7 +3,7 @@
 - having a value of 17+ means rolling a D20.
 
 #### DC Checks
-- The DC for each different action changes according to its difficulty
+- The DC (Difficulty Check) for each different action changes according to its difficulty
 - There is not specific number for each difficulty, but a good rule of thumb:
 	- 2-4 - Pretty easy, any regular average human could do it no problem, examples-
 		- Picking up a small rock
@@ -11,24 +11,30 @@
 		- Avoiding the gaze of a blindfolded man
 		- Convincing a starving man to eat
 		- Perceiving a nearby building on a clear sunny day
-	- 5-8 - This action is relatively difficult and takes certain skill/practice/luck, examples
+	- 5-7 - This action is relatively difficult and takes certain skill/practice/luck, examples
 		- Picking up a large rock
 		- Hitting a small target 10 meters away with a small rock
-		- Avoiding the gaze of a guard in darkness
+		- Avoiding the gaze of a guard in pitch-black darkness
 		- Convincing a man to eat something pleasant-looking you gave him
 		- Perceiving an eagle on a cloudy day
-	- 9-12 - This action is quite difficult and usually cannot be done by the average human, needs extraordinary amount of skill and/or practice, insane luck or some magical force
+	- 8-13 - This action is quite difficult and usually cannot be done by the average human, needs extraordinary amount of skill and/or practice, insane luck or some magical force
 		- Lifting a Boulder
 		- Hitting an eagle in flight with a bow, from the ground
 		- Sneaking past a guard in daylight
-		- Convincing a man to drink a mysterious black liquid
+		- Convincing a man to drink a mysterious clear liquid
 		- Perceiving the hat on a man 500 Meters away
-	- 12-20 - This action takes insane effort even from Heroes/Magic Users/Extremely Lucky Sons of Bitches
-		- Lifting a Mountain
-		- Hitting a swinging rope from 500 Meters away
+	- 14-16 - this action is very difficult, only Heroes, Gods, magical creatures, and the very lucky can manage these
+		- Lifting a house
+		- Hitting a swinging rope with a bow from 500 Meters away
 		- Sneaking past a guard who is looking right at you
+		- Convincing a man to drink an ominous black liquid
+		- Perceiving a guard in a tower 1000 Meters away
+	- 17-20 - This action takes insane effort even from Heroes/Magic Users/Extremely Lucky Sons of Bitches
+		- Lifting a Mountain
+		- Hitting a small bird with a bow from 1000 Meters away
+		- Sneaking past a God
 		- Convincing a man to drink what he knows is poison
-		- Perceiving the man inside the building across town
+		- Perceiving the man inside the building across the city
 #### Godly Favor
 - Whenever you achieve the maximum number on a die, gain **Godly Favor**, and roll the next die tier again and add the result to the previous roll
 - This can happen infinite times

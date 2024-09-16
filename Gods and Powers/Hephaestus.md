@@ -53,9 +53,9 @@ Or, give a piece of armor +3 to armor rating and magical armor rating for the du
 
 <b><ins><i>Crafty:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       3        |      1       |   3 CT    | 3 Hours |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       3        |      1       |   1 CT    | 3 Hours  |   -   |     |
 
 Craft nifty gadgets for your party, after a duration they fall apart:
 
@@ -76,9 +76,9 @@ The shield can be cast instantly as a [[Combat Mechanics#Reaction|reaction]] to 
 ------------------
 <b><ins><i>Crossbow:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      1       |   2 CT    |   7 CT   | 20 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       3        |      2       |   1 CT    |   7 CT   | 20 Meters |     |
 
 Craft a heavy, complicated crossbow that only a child of Hephaestus can operate.
 The crossbow can fire 3 times before it dismantles.
@@ -91,9 +91,9 @@ All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechan
 ------------------
 <b><ins><i>Master Smith:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time |    Duration    |   Range   |
-|:--------------:|:------------:|:---------:|:--------------:|:---------:|
-|       5        |      1       |   3 CT    | 3 Hours | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       5        |      2       |   1 CT    | 3 Hours  | 4 Meters |     |
 
 Craft a master-weapon inspired by Hephaestus' forge, that disperses after a duration.
 You can use this weapon or grant it to a party member.
@@ -110,19 +110,19 @@ If you roll 3 or 4, you puncture the enemies' weak point, dealing <mark style="b
 ------------------
 <b><ins><i>Fire Breath:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       5        |      1       |   1 CT    |    -     | 6 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       5        |      2       |   1 CT    |    -     | 6 Meters |     |
 
-Channel Hephaestus' forge to breath fire at your enemies, dealing <mark style="background: #930000A6;">1d8</mark> to all enemies in a cone up to the range. The cone is <mark style="background: #000B67A6;">4 Meters </mark> long.
+Channel Hephaestus' forge to breath fire at your enemies, dealing <mark style="background: #930000A6;">1d12</mark> to all enemies in a cone up to the range. The cone is <mark style="background: #6CF2FF;">4 Meters</mark>  long.
 You also take <mark style="background: #930000A6;">1d4</mark> damage unless you are immune to fire.
 
 ------------------
 <b><ins><i>Dragon Automaton:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       7        |      1       |   5 CT    |  10 CT   | 6 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       7        |      1       |   2 CT    |  10 CT   | 6 Meters |     |
 
 Craft [[Savra|Sávra]], the Dragon Automaton!
 
@@ -135,6 +135,7 @@ Craft [[Savra|Sávra]], the Dragon Automaton!
 
 Surround yourself with magical, hot forge-fire.
 Each turn, all creatures in range take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
+Additionally, all creatures in the area are caught [[Afflictions#On fire | on fire]], taking <mark style="background: #930000A6;">1d4</mark> additional magic damage each turn 
 If you are not immune to fire, roll 1d4 - On a 1 or 2, take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] as well.
 
 
@@ -150,7 +151,7 @@ Your skin becomes Celestial Bronze,
 Gain <mark style="background: #045B00A6;">+20 Hp</mark>, +3 magical armor rating, +3 armor rating, and immunity to fire.
 In the duration, you can only be harmed by [[Metal Types#Celestial Bronze| Celestial Bronze]].
 Enemies in your range feel the heat of the forge, taking <mark style="background: #930000A6;">1d4</mark> damage each CT for the duration.
-This stacks with fire storm and fire breath, and upgrades their range by <mark style="background: #000B67A6;">2 Meters</mark>.
+This stacks with fire storm and fire breath, and upgrades their range by <mark style="background: #6CF2FF;">2 Meters</mark>.
 
 ------------------
 

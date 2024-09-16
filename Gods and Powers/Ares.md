@@ -16,7 +16,7 @@ Children of Ares play as either front line tanks that absorb damage for their pa
 |       1        |      2       |  Instant  |   3 CT   |   -   | 
 
 Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain [[Dice mechanics#Advantage |Advantage]] on all <mark style="background: #930000A6;">attack</mark> rolls, but each time you attack roll 1d8. 
-If the Result is 8, attack the nearest ally with disadvantage.
+If the Result is 8, attack the nearest enemy (bonus attack).
 If the result is 1, attack the nearest closest ally. If none are nearby, you are stunned for <mark style="background: #620075A6;">1 CT</mark>
 
 ------------------
@@ -38,7 +38,7 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 |       3        |      1       |  Instant  |   2 CT   | 6 Meters |     |
 
 Taunt ***all*** creatures in range into combat, forcing them to attack you for the duration.  
-They have [[Dice mechanics#Disadvantage|Disadvantage]]  on all attack rolls and Double [[Dice mechanics#Disadvantage|Disadvantage]]  on all defense and dodge rolls
+They have [[Dice mechanics#Disadvantage|Disadvantage]] on all attack rolls and **Double** [[Dice mechanics#Disadvantage|Disadvantage]]  on all defense and dodge rolls
 During this time, you can attack another time each turn as a bonus action in the duration
 
 ------------------
@@ -51,11 +51,11 @@ During this time, you can attack another time each turn as a bonus action in the
 Summon a weapon infused with the blood of Ares.
 (you can also temporarily transform your current weapon)
 <b><ins><i>War Bow:</i></ins></b>
-Rain arrows in a <mark style="background: #000B67A6;">2 Meter</mark> Radius around a point up to <mark style="background: #000B67A6;">20 Meters</mark> away.
+Rain arrows in a <mark style="background: #6CF2FF;">2 Meter </mark>Radius around a point up to <mark style="background: #6CF2FF;">20 Meters</mark> away.
 Each enemy in the area must make a blocking save or take <mark style="background: #930000A6;">1d6</mark> damage
 <b><ins><i>Spear:</i></ins></b>
 The blood spear attacks and defends for <mark style="background: #930000A6;">1d12</mark>. 
-You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d6</mark> damage to all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> range.
+You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d6</mark> damage to all enemies in a <mark style="background: #6CF2FF;">2 Meter</mark> range.
 (Considered 1 attack)
 <b><ins><i>Xiphos:</i></ins></b>
 You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d6</mark> each time.
@@ -84,7 +84,7 @@ Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max 
 
 You channel Deimos, the god of terror.
 You appear as a war demon, terrifying nearby enemies.
-All enemies in the range must make a Willpower save or be [[Afflictions#Stunned |Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
+All enemies in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save or be [[Afflictions#Stunned |Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
 
 ------------------
 <b><ins><i>Hail of Blades:</i></ins></b>

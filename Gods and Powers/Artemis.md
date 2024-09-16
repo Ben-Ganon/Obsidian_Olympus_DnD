@@ -99,7 +99,7 @@ This poison stacks - if you land 2 poison arrows with duration 1 and 2, the targ
 | :------------: | :----------: | :-------: | :------: | :-------: | --- |
 |       5        |      1       |   1 CT    |   3 CT   | 30 Meters |     |
 
-Shine godly moonlight on the battlefield in a <mark style="background: #0900A7A6;">4 Meter</mark> radius in a location in the range.
+Shine godly moonlight on the battlefield in a <mark style="background: #6CF2FF;">4 Meter</mark> radius in a location in the range.
 All invisible creatures in the moonlight beam are revealed for the duration.
 Additionally, all enemies in the moonlight beam are slower - 
 They lose 5 Movespeed and suffer [[Dice mechanics#Disadvantage|Disadvantage]] on all Agility rolls.

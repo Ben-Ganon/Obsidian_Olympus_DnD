@@ -36,7 +36,7 @@ Your shield gains <mark style="background: #930000A6;">+1d6</mark> bonus to it's
 |       3        |      3       |  Instant  |   3 CT   | 10 Meters |
 
 For the duration, you become hyper aware of your surroundings and other people especially.
-Gain [[Dice mechanics#Advantage |Advantage]] to intuition and Perception rolls in general and Double [[Dice mechanics#Advantage |Advantage]]  to intuition and Perception rolls made as opposed rolls or for attempting to read people.
+Gain [[Dice mechanics#Advantage |Advantage]] to intuition and Perception rolls in general and **Double** [[Dice mechanics#Advantage |Advantage]]  to intuition and Perception rolls made as opposed rolls or for attempting to read people.
 
 ------------------
 <b><ins><i>Shield Bash:</i></ins></b>
@@ -46,7 +46,7 @@ Gain [[Dice mechanics#Advantage |Advantage]] to intuition and Perception rolls i
 |       3        |      3       |   1 CT    |    -     | 6 Meters |
 
 Lunge at an enemy and bash them with your shield.
-Deal your <mark style="background: #3800D7A6;">Might</mark> + Shield Defense Roll as [[Combat Mechanics#Blunt Damage|blunt damage]] to one target in range.
+Deal your <mark style="background: #4886FF;">Might</mark> + Shield Defense Roll as [[Combat Mechanics#Blunt Damage|blunt damage]] to one target in range.
 Includes all bonuses on block to you (Phalanx, Aegis or other boons)
 This boon moves you to the target.
 
@@ -68,7 +68,7 @@ Additionally, Aegis is terrifying to mortals, any creature who observes the shie
 | :------------: | :----------: | :-------: | :------: | :-------: |
 |       5        |      2       |  Instant  |   3 CT   | 40 Meters |
 
-Conjure a sacred [[Owl Sentry.pdf|Owl of Athena]], and send it fly to a position up to <mark style="background: #0900A7A6;">100 Meters</mark> away.
+Conjure a sacred [[Owl Sentry.pdf|Owl of Athena]], and send it fly to a position up to <mark style="background: #6CF2FF;">100 Meters</mark> away.
 This sentry can sense for you - you can hear and see what it does.
 Additionally, once per summon you can switch places with it instantly
 Commanding and switching with the owl is considered a boon bonus action (Instant)
@@ -94,10 +94,10 @@ Else:
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 | :------------: | :----------: | :-------: | :------: | :---: |
-|       7        |      1       |   3 CT    |  1 hour  |   -   |
+|       7        |      1       |   2 CT    |  1 hour  |   -   |
 
 Formulate a grand master plan to achieve victory.
-You take 3 CT to come up with and explain ***the plan*** to the party.
+You take 2 CT to come up with and explain ***the plan*** to the party.
 For the duration, ***any roll*** the party makes will receive a bonus 1d6.
 
 ------------------

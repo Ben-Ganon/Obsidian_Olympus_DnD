@@ -30,6 +30,7 @@ This arrow can be shot into the air to light up a space, and does a bonus <mark 
 Bless an ally, causing them a rush of adrenaline.
 The ally gains a 1d6 bonus to their next roll in the duration.
 
+
 ------------------
 <b><ins><i>Healing Song:</i></ins></b>
 
@@ -59,10 +60,10 @@ Deals <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Piercin
 |       5        |      2       |   1 CT    |   3 CT   |   8 Meters    |
 
 Sing a sick diss at an enemy.
-If the enemy is in range and can hear the mockery, the target must make an Willpower saving roll.
+If the enemy is in range and can hear the mockery, the target must make an <mark style="background: #A5A5A5;">Willpower</mark> saving roll.
 On failure, the target takes <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]].
 If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d12</mark> damage instead.
-Either way, afterwards the target will receive a [[Dice mechanics#Disadvantage|Disadvantage]]  to their next roll in the duration.
+Either way, afterwards the target will receive a [[Dice mechanics#Disadvantage|Disadvantage]] to their next roll in the duration.
 
 ------------------
 <b><ins><i>Guided Arrow:</i></ins></b>
@@ -85,7 +86,7 @@ It deals <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Pier
 |       7        |      1       |   1 CT    |    -     | 12 Meters | 
 
 Play a magical note on your instrument, dealing [[Combat Mechanics#Magic Damage|magic damage]] to all enemies and healing all allies in a cone.
-In a cone <mark style="background: #0900A7A6;">12</mark> meters long, 
+In a cone <mark style="background: #6CF2FF;">12 meters</mark> long, 
 deal <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] to all enemies and heal all allies for <mark style="background: #00A521A6;">1d6</mark>.
 If you are equipped with an instrument, deal <mark style="background: #930000A6;">1d12</mark> damage instead
 

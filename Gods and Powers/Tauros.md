@@ -63,7 +63,7 @@ Instantly kill an NPC in range and gain permanent [[Dice mechanics#Advantage |Ad
 |       5        |      3       |   Instant    |    -     | 2 Meters | 
 
 Bulldoze enemies you pass through.
-Any enemies you pass next to this turn take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
+Any enemies you pass next to or through this turn take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
 
 ------------------
 

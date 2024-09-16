@@ -11,9 +11,9 @@ Children of Dionysos can support the party and poison enemies, either with taint
 
  <b><ins><i>Sacred Booze:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       1        |      2       |   Instant   |   3 CT   | 2 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       1        |      2       |  Instant  |   3 CT   | 2 Meters |     |
 
 Bless a nearby liquid container in range to become either form of Sacred Booze.
 Can be either - 
@@ -99,9 +99,9 @@ Both cannot dodge or block any attack.
 ------------------
 <b><ins><i>Bacchanalia:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   2 CT    |   5 CT   | 16 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       7        |      1       |   2 CT    |   5 CT   | 16 Meters |     |
 
 The area around you erupts in absolute madness.
 Every ally in the range will receive a [[Dice mechanics#Advantage |Advantage]] to all Intuition and Attack rolls.

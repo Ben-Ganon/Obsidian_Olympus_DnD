@@ -12,7 +12,11 @@
     "Movespeed": "#60BB81",
     "Willpower": "#A5A5A5",
     "Stealth": "#000000",
-    "Dexterity": "#00BB4D"
+    "Dexterity": "#00BB4D",
+    "Might2": "#4886FF",
+    "Charisma": "#FF3FAC",
+    "Perception": "#FFE258",
+    "Distance": "#6CF2FF"
   },
   "highlighterOrder": [
     "Time",
@@ -25,6 +29,10 @@
     "Movespeed",
     "Willpower",
     "Stealth",
-    "Dexterity"
+    "Dexterity",
+    "Might2",
+    "Charisma",
+    "Perception",
+    "Distance"
   ]
 }

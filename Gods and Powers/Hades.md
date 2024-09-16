@@ -99,9 +99,9 @@ This boon does not stop [[Afflictions#Invisible|invisibility]].
 
 <b><ins><i>Summon Cerberus:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       7        |      1       |   2 CT    |  6 CT   | 1 Meter | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range  |     |
+| :------------: | :----------: | :-------: | :------: | :-----: | --- |
+|       7        |      1       |   1 CT    |   6 CT   | 1 Meter |     |
 
 Summon [[Cerberus]] to aide you in combat.
 
@@ -120,9 +120,9 @@ Gain [[Dice mechanics#Advantage |Advantage]] to all agility and Dexterity rolls 
 ------------------
 <b><ins><i>Aspect of Death</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       9       |      1       |   3 CT    |   5 CT   |   10 Meters   | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       9        |      1       |   1 CT    |   5 CT   | 10 Meters |     |
 
 Merge with Hades, god of Death.
 Gain <mark style="background: #045B00A6;">10 Max Hp</mark>, and Summon [[Cerberus]] and 3 [[Hellhound]]s that you control for the duration.

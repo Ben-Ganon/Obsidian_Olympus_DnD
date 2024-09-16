@@ -57,7 +57,13 @@
 		  She shoves a bound and gagged Chara at him "Kill."
 		  What does Thalassios do?
 	- Aeneas:
-		- 
+		- Aeneas is in a grand throne room, like none he has seen before
+		- On the walls, beautiful paintings of bulls in reds and blacks
+		- On a throne of Obsidian rests a young man in his late teens, clad in a dark hood 
+		- Aeneas is looking up to him from another's body
+		- It is Lysander
+		- Aeneas can feel himself say "My liege, the Heroes have escaped me"
+		- The man on the throne spits out "shame. You know i"
 	- Orphea:
 		- Orphea is on a hill overlooking a small village on the island of Corfu
 		- In the distance, more villages pop up among the hills and valleys
@@ -74,4 +80,8 @@
 	- Theodore:
 		- Theodore is atop mount Olympus
 		- He asks himself "how did I get here?"
-		- Suddenly the realization dawns on him all at once: he is holding Zeus
+		- Suddenly the realization dawns on him all at once: he is holding Zeus.
+		- His friends watch on as in one hand a massive sword is pointed at the king of Olympus, and in the other the king himself is beaten bloody
+		- Nearby his friends are shackled, begging for him to stop, reconsider, join them again and just return to a peaceful life
+		- Beside him, a young man, whispering in his ear "Do it, and I will grant you more power than you have ever dreamed of"
+		- What does Theodore do?

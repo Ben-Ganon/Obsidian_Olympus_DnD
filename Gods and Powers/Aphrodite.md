@@ -20,21 +20,21 @@ But, if push comes to shove, children of Aphrodite can still hold their own in c
 |       0        |      3       |  Instant  |   1 CT   | 10 Meters |     |
 
 Cast an illusion to change your appearance into anyone you desire.
-This gives <mark style="background: #FFAD0085;">+1</mark>  to ***Charm***, intimidate, deceive or persuade.
+This gives <mark style="background: #FF3FAC;">+1</mark>  to ***Charm***, intimidate, deceive or persuade.
 If out of combat, can be used on all heroes you choose in range, and lasts for an hour.
 
 ------------------
 <b><ins><i>Lust:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       1        |      2       |  Instant  |   1 CT   | 2 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       1        |      2       |  Instant  |   1 CT   | 10 Meters |     |
 
 Channel Eros, god of carnal love to confuse enemies around you.
 **In Combat:**
-	All enemies within the range  gain [[[[Dice mechanics#Advantage | Advantage]] to all <mark style="background: #930000A6;">attack</mark> rolls on you until your next turn.
+	All enemies within the range gain [[Dice mechanics#Disadvantage|Disadvantage]] to all <mark style="background: #930000A6;">attack</mark> rolls on you until your next turn.
 **Out of Combat:**
-	All enemies within the range gain [[Dice mechanics#Advantage |Advantage]]  to opposed Charisma and Perception  rolls against you for the duration
+	All enemies within the range gain [[Dice mechanics#Disadvantage|Disadvantage]] to <mark style="background: #FF3FAC;">Charisma</mark> and <mark style="background: #FFE258;">Perception</mark> rolls against you for the duration
 
 ------------------
 <b><ins><i>Siphon Energy:</i></ins></b>
@@ -55,9 +55,9 @@ This also heals you for <mark style="background: #045B00A6;">1d4</mark>.
 |       3        |      1       |   1 CT    |   2 CT   | 4 Meters |     |
 
 Charm a target into submission.
-Both you and the target roll  <mark style="background:  #FFAD0085;">Charisma</mark> against target's <mark style="background: #A5A5A5;">Willpower</mark>
+Both you and the target roll  <mark style="background: #FF3FAC;">Charisma</mark> against target's <mark style="background: #A5A5A5;">Willpower</mark>
 If your result is larger, They must do your bidding for the duration.
-If ***Shimmer*** is active, roll with [[Dice mechanics#Advantage |Advantage]] and this effect happens even if you beat one of the rolls.
+If ***Shimmer*** is active, roll with [[Dice mechanics#Advantage |Advantage]].
 
 ------------------
 <b><ins><i>Vampiric Blade:</i></ins></b>
@@ -88,7 +88,7 @@ Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]
 |       5        |      1       |   1 CT    |   5 CT   | 10 Meters | 
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
-Creatures in the range must make an opposed <mark style="background:  #FFAD0085;">Intuition</mark> save or be stunned in terror for 1 CT.
+Creatures in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save or be stunned in terror for 1 CT.
 Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
 Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you.
 
@@ -100,7 +100,7 @@ Each enemy slain with these claws restores <mark style="background: #045B00A6;">
 |       7        |      1       |   1 CT    |   3 CT   | 14 Meters |     |
 
 You cause surrounding creatures to fight over you.
-Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save.
+Every creature in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save against your <mark style="background: #FF3FAC;">Charisma</mark>.
 If they fail, they attack the nearest creature to them for the duration
 
 
@@ -125,7 +125,7 @@ Afterwards the target is stunned for the duration
 |       9       |      1       |   1 CT    |   5 CT   | 1 Meter | 
 
 You merge with Aphrodite, goddess of passion.
-For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background:  #FFAD0085;">Charisma</mark> rolls.
+For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #FF3FAC;">Charisma</mark> rolls.
 Any creature you touch must make a <mark style="background: #A5A5A5;">Willpower</mark> save to try and resist you.
 On failure, they become your slave for the duration.
 On Success, they resist you but at the cost of their life force, and take <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Magic Damage |magic damage]].

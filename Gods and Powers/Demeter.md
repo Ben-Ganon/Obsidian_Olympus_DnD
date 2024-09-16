@@ -16,8 +16,8 @@ Children of Demeter play a crowd control oriented roll, tending to keep enemies 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
 | :------------: | :----------: | :-------: | :------: | :-------: | --- |
 |       1        |      3       |   1 CT    |   1 CT   | 16 Meters |     |
-|                |              |           |          |           |     |
-Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnaring]] all enemies in a <mark style="background: #000B67A6;">2 Meter</mark> radius in the range for the duration.  
+
+Frozen vines rise up from the ground, [[Afflictions#Ensnared |Ensnaring]] all enemies in a <mark style="background: #6CF2FF;">2 Meter</mark> radius in the range for the duration.  
 
 ------------------
 <b><ins><i>Frozen Earth:</i></ins></b>
@@ -44,7 +44,7 @@ Eating the fruit is difficult, however, and will take<mark style="background: #6
 |:--------------:|:------------:|:---------:|:--------:|:---------:|
 |       3        |      1       |   1 CT    |   3 CT   | 10 Meters | 
 Spawn a wall of vines in the range.
-The wall is 10 Meters wide, 10 Meters tall, can block regular projectiles, and prevents enemies from passing. Enemies who try to climb or destroy the wall must make a <mark style="background: #3800D7A6;">Might</mark> saving roll or become [[Afflictions#Ensnared |Ensnared]] for 1 CT. The wall can endure up to 10 damage before collapsing.
+The wall is 10 Meters wide, 10 Meters tall, can block regular projectiles, and prevents enemies from passing. Enemies who try to climb or destroy the wall must make a <mark style="background: #4886FF;">Might</mark> saving roll or become [[Afflictions#Ensnared |Ensnared]] for 1 CT. The wall can endure up to 10 damage before collapsing.
 
 
 ------------------
