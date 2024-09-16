@@ -25,6 +25,7 @@
 - But the Heroes are not safe yet:
 	- Hector has been sent by Lysander to prevent the Heroes from leaving Athens
 	- What do the Heroes do?
+	- (**Thalassios heads to Elissa**)
 
 ### The Way to Delphi
 
@@ -71,4 +72,6 @@
 			- He tries to stop another pillager from killing a gorgon child but cannot overcome him
 			- What does Orphea do?
 	- Theodore:
-		- Theodore is looking at his 
+		- Theodore is atop mount Olympus
+		- He asks himself "how did I get here?"
+		- Suddenly the realization dawns on him all at once: he is holding Zeus
