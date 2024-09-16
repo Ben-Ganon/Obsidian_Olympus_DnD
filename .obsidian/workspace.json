@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e0bb282de91457",
+        "id": "5de1836551e1697f",
         "type": "tabs",
         "children": [
           {
-            "id": "d55f24fa6b5d593e",
+            "id": "a0a3a2203f1f011a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md"
+              }
             }
           },
           {
@@ -175,35 +183,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d55f24fa6b5d593e",
+  "active": "a0a3a2203f1f011a",
   "lastOpenFiles": [
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
-    "Mechanics/Afflictions.md",
+    "DM Stuff/Campaign 1/Session 6 Notes.md",
+    "DM Stuff/Campaign 1/Session 4 + 5 Notes.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Trials of Heroes.md",
+    "DM Stuff/Campaign 1/Oracle Caves/The writing on the wall.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Session 3 Combat.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Fake Prophecy.md",
+    "DM Stuff/The Prophecy from the Oracle.md",
+    "DM Stuff/Potion Riddle.md",
+    "DM Stuff/Campaign 1/Oracle Caves/Riddles.md",
+    "DM Stuff/Items/Oracles Items.md",
+    "DM Stuff/Items/Oracles Lute.md",
+    "DM Stuff/Items/Oracles Trident.md",
+    "DM Stuff/Items/The Black Key.md",
     "DM Stuff/Campaign 2/Session 4 - The Oracle's Calling.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "DM Stuff/Campaign 1/Player Summaries/Adamantios.md",
+    "DM Stuff/Campaign 1/Player Summaries/Amara.md",
+    "DM Stuff/Campaign 1/Player Summaries/Demi.md",
+    "DM Stuff/Campaign 1/Session 1 Notes.md",
+    "DM Stuff/Campaign 1/Session 2 Notes.md",
+    "DM Stuff/Campaign 1/Session 3 Notes.md",
+    "DM Stuff/Campaign 1/Session 7 Notes.md",
+    "Mechanics/Afflictions.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "Gods and Powers/Tauros.md",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Aphrodite.md",
-    "Mechanics/Dice mechanics.md",
-    "Templates/Color Codes.md",
-    "Untitled.md",
-    "[[Dice mechanics.md",
-    "Summonable Entities/Savra.md",
     "Info and Values/Character Sheet.pdf",
-    "DM Stuff/The Plot.md",
-    "Gods and Powers/Poseidon.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Character Creation/Races.md",
-    "Player Lore/Names.md",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Lysander's Mansion.png",
     "Images/Lysander's Mansion 1.png",

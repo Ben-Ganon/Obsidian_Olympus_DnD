@@ -31,6 +31,7 @@
 
 ### Delphi Caves
 
+#### The Spiral
 - As the Heroes descend into the caves in the tight black spiral, each hero is shown a vision:
 	- Amara:
 		- Amara finds herself suddenly in a golden field of wheat
@@ -88,3 +89,9 @@
 		- Nearby his friends are shackled, begging for him to stop, reconsider, join them again and just return to a peaceful life
 		- Beside him, a young man, whispering in his ear "Do it, and I will grant you more power than you have ever dreamed of"
 		- What does Theodore do?
+
+#### The Caverns
+In front of the Heroes are various challenges to test their minds and spirits to prove they are worthy of receiving the oracle's blessing.
+In the main entrance hall:
+- A grand main hall, made of rough stone walls and floor 
+- In 
