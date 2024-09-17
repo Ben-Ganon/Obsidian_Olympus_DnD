@@ -5,7 +5,8 @@
 	  "Dear Lysander,
 	  You have my thanks for your help with the intel on the secret Athenian harbors. 
 	  This information will serve Cyrus well. 
-	  As for your desired secret - It is my displeasure to inform you that Chara is in fact the daughter of Raivah, the previous emissary before me. 
+	  As for your desired secret - It is my displeasure to inform you that Chara is in fact the daughter of Raivah, 
+	  the previous emissary before me. 
 	  We do not know who the mother is, but you can be sure we will find out. 
 	  Until next time, Arash"
 	- A letter written in a scribbly immature hand :
