@@ -2,5 +2,5 @@
 | ------- | ---------- | ----------- |
 | Jake    | 0          | Kopis       |
 | Ilisius | 0          | Xiphos      |
-| Ortos   | 10         | Toxo        |
+| Ortos   | 2          | Toxo        |
 
