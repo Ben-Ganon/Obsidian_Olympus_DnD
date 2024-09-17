@@ -1,6 +1,6 @@
 ## In Athens
 - The Heroes have acquired [[The Black Key]]'s Eye
-- Aeneas has stolen two important documents from Lysanders office:
+- Aeneas has stolen three important documents from Lysanders office:
 	- A letter from a Persian official:
 	  "Dear Lysander,
 	  You have my thanks for your help with the intel on the secret Athenian harbors. 
