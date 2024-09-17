@@ -1,4 +1,4 @@
-### In Athens
+## In Athens
 - The Heroes have acquired [[The Black Key]]'s Eye
 - Aeneas has stolen two important documents from Lysanders office:
 	- A letter from a Persian official:
@@ -27,11 +27,11 @@
 	- What do the Heroes do?
 	- (**Thalassios heads to Elissa**)
 
-### The Way to Delphi
+## The Way to Delphi
 
-### Delphi Caves
+## Delphi Caves
 
-#### The Spiral
+### The Spiral
 - As the Heroes descend into the caves in the tight black spiral, each hero is shown a vision:
 	- Amara:
 		- Amara finds herself suddenly in a golden field of wheat
@@ -90,8 +90,23 @@
 		- Beside him, a young man, whispering in his ear "Do it, and I will grant you more power than you have ever dreamed of"
 		- What does Theodore do?
 
-#### The Caverns
+### The Caverns
+![[Oracle Caves.png | 500]]
+
 In front of the Heroes are various challenges to test their minds and spirits to prove they are worthy of receiving the oracle's blessing.
 In the main entrance hall:
 - A grand main hall, made of rough stone walls and floor 
-- In 
+- The hall so dark you cannot see the ceiling stretching above 
+- The entire space feels ancient, untouched
+- On each wall to the side, torches
+- Between them, what appear to be guards made of stone
+- In front, three large stone archways lead into rooms they cannot yet see
+#### Apollo's Statue
+- In a relatively well lit room, stands the Grand Apollo
+- A marvelous marble beauty that almost shines among the dark stone walls of this place
+- In this room, mountains of treasure - gold, silver, gems and all sorts of artifacts lay spread about in small hills and mountains 
+- Immediately after the entrance is written:
+  "These Treasures are not yours to take. 
+  Touch nothing but what you must"
+- The Statue of Apollo is missing the lute
+####  
