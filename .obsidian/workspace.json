@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Level Up Chart.md",
+                "file": "Character Creation/God Bonus Stat Chart.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,17 +36,55 @@
           {
             "id": "01bca212891ab317",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Weapons.md",
+                "file": "Gods and Powers/Artemis.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1e2799c8a212f701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Combat Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f17672d45040e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Afflictions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d4c32eec34e158e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Level Up Chart.md",
+                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Level Up Chart.md",
+                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Level Up Chart.md"
+                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md"
               }
             }
           },
@@ -211,34 +249,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b37d173fb8e13678",
+  "active": "6d4c32eec34e158e",
   "lastOpenFiles": [
+    "Gods and Powers/Artemis.md",
+    "Mechanics/Combat Mechanics.md",
+    "Mechanics/Afflictions.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Character Creation/Level Up Chart.md",
+    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+    "Gear and Items/Weapons.md",
+    "Gear and Items/Shields and Armor.md",
     "Info and Values/Canva Resources.md",
     "Character Creation/Starter Kits.md",
     "Character Creation/Races.md",
-    "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Character Creation Guide.md",
     "index.md",
     "cult member.md",
     "README.md",
     "Untitled.md",
     "DM Stuff/The Plot.md",
-    "Gods and Powers/Artemis.md",
-    "Mechanics/Combat Mechanics.md",
     "Gods and Powers/Dionysos.md",
     "DM Stuff/Items/The Black Key.md",
     "DM Stuff/Items/Oracles Items.md",
-    "Gear and Items/Weapons.md",
     "Gods and Powers/Aphrodite.md",
-    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
     "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
     "Player Lore/Names.md",
     "Gods and Powers/Athena.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Demeter.md",
     "Images/Oracle Caves.png",
     "Info and Values/Character Sheet.pdf",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",

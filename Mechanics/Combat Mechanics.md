@@ -53,8 +53,8 @@
 ### Ranged Projectile Attacks (Arrows/Knives/Axes)
 - First, to fire a projectile one must have a bow and arrow and ammunition, or a knife/axe equipped.
 - To fire the projectile, you must roll the offensive value of the bow/weapon for damage.
-- If the target is **in range**, this is treated like a normal attack, and **hits automatically** (if not blocked).
-- If the target is **outside the range**, you must first **succeed on a Dexterity** roll to land the attack.
+- If the target is **in range**, this is treated like a normal attack, and **reaches the target automatically** (if not blocked).
+- If the target is **outside the range**, you must first **succeed on a DC 4 Dexterity** roll to land the attack.
 - In addition to this the **target can still block the projectile.**
 
 ### Blocking
@@ -72,7 +72,6 @@
 - For example - a character equipped with Heavy Bronze Armor and a Corinthian Helmet has an AR of 2 (Bronze armor) + 3 (Corinthian Helmet) = 5.
 ### Critical Damage:
 - When rolling for damage, if one of the dice you roll hits the maximum (4 for d4, 6 for d6, etc.), roll it again and deal extra damage.
-- Can only re-roll once. (if you roll 1d4 and get 4, then roll 1d4 to get 4 again, you do not roll again)
 - Does not apply to [[Combat Mechanics#Blunt Damage|blunt damage]] rolls.
 ### Grapples:
 - **Grapple is a bonus action**
@@ -137,4 +136,4 @@ When a character falls, they take 1d4 damage for each 2 Meters they fall.
 ### Sneak Attack
 - If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
 - This breaks the sneaking, and all adjacent enemies are now aware of your presence. 
-- PC's who try to evade a sneak attack suffer -1 to dodge and block attempts
+- PC's who try to evade a sneak attack suffer [[Dice mechanics#Disadvantage|Disadvantage]] to dodge and block attempts

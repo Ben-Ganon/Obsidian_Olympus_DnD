@@ -13,9 +13,10 @@ Children of Artemis play the role of Ranger Assassin - marking targets for death
 
 <b><ins><i>Cresent Strike:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       0        |      3       |   Instant    |   5 CT   | -  | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       0        |      3       |  Instant  |   5 CT   |   -   |     |
+|                |              |           |          |       |     |
 
 Enchant your weapon with moonlight.
 The next time you attack deal <mark style="background: #930000A6;">1d4</mark> bonus damage and ***Mark*** the target. 
@@ -40,6 +41,7 @@ Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#
 | :------------: | :----------: | :-------: | :------: | :---: | --- |
 |       1        |      3       |  Instant  |   2 CT   |   -   |     |
 
+
 Blend in to your surroundings and vanish.
 You become [[Afflictions#Invisible|Invisible]] for the duration, and can ***Mark*** an enemy once on the same turn of the cast.
 Your next attack on a ***Marked*** target does double [[Combat Mechanics#Sneak Attack|sneak attack]] damage.
@@ -52,7 +54,7 @@ Your next attack on a ***Marked*** target does double [[Combat Mechanics#Sneak A
 |:--------------:|:------------:|:---------:|:--------:|:-----:|
 |       3        |      2       |  Instant  |   3 CT   |   -   | 
 
-For the duration, your quiver/knife pack produces infinite ammunition and you do not expend ammunition when firing projectiles.
+For the duration, your quiver/knife/axe pack produces infinite ammunition and you do not expend ammunition when firing projectiles.
 Additionally, when using a bow, throwing knife, or throwing axe, fire 2 projectiles instead of 1.
 (Counts as 2 separate attacks)
 
@@ -79,7 +81,7 @@ If you cast this while **Wild Hunt** is active, deal <mark style="background: #9
 Channel the power of the Wild Hunt.
 For the duration, you gain <mark style="background: #60BB81;">4 Movespeed</mark> when moving towards an enemy,
 and gain [[Dice mechanics#Advantage |Advantage]]  to <mark style="background: #004A4CA6;">Agility</mark> and <mark style="background: #00BB4D;">Dexterity</mark> rolls.
-If the moon is shining (either at night or with ***Moonlight Flare***), gain [[Dice mechanics#Advantage |Advantage]] to stealth rolls and [[Dice mechanics#Advantage |Advantage]] to attack rolls made against ***Marked*** enemies.
+If the moon is shining (either at night or with ***Moonlight Flare***), gain [[Dice mechanics#Advantage |Advantage]] to attack rolls made against ***Marked*** enemies.
 
 ------------------
 <b><ins><i>Poison Projectiles:</i></ins></b>
@@ -134,7 +136,7 @@ Cannot stray more than the range away from you or it will vanish.
 |       9       |      1       |   1 CT    |   3 CT   |   -   | 
 
 Merge with Artemis, goddess of the hunt.
-Gain [[Dice mechanics#Advantage |Advantage]] to Agility and [[Dice mechanics#Advantage |Advantage]]  to Stealth rolls and +2 Movespeed.
+Gain [[Dice mechanics#Advantage |Advantage]] to Agility and [[Dice mechanics#Advantage |Advantage]]  to <mark style="background: #00BB4D;">Stealth</mark> rolls and +2 Movespeed.
 Additionally, Gain the Bow of Artemis - 
 Every projectile fired or thrown is a ***Deadly Missile*** and deals it's damage as bonus damage and cannot miss.
 Additionally, every blade you posses shifts into Artemis' Hunting Knife, granting [[Dice mechanics#Advantage |Advantage]] to attack rolls made to ***Marked*** targets.
@@ -145,6 +147,6 @@ Additionally, every blade you posses shifts into Artemis' Hunting Knife, grantin
 ***Traits:*** 
 
 ***Notes:***
-***Marked*** - Marked targets have a harder time concealing themselves from you, gaining <mark style="background: #000000;">-1</mark> on all stealth rolls. 
+***Marked*** - Marked targets have a harder time concealing themselves from you - gain [[Dice mechanics#Advantage |Advantage]] when rolling <mark style="background: #FFE258;">perception</mark> to see them. 
 Additionally, gain 5 movespeed towards marked targets. 
 A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d4</mark> extra [[Combat Mechanics#Magic Damage |magic damage]] 
