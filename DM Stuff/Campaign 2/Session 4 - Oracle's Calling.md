@@ -32,8 +32,6 @@
 
 ## Delphi Caves
 
-![[Oracle Caves.png | 400]]
-
 ### The Spiral
 - As the Heroes descend into the caves in the tight black spiral, each hero is shown a vision:
 	- Amara:
@@ -102,8 +100,11 @@ In the main entrance hall:
 - The hall so dark you cannot see the ceiling stretching above 
 - The entire space feels ancient, untouched
 - On each wall to the side, torches
-- Between them, what appear to be guards made of stone
-- In front, three large stone archways lead into rooms they cannot yet see
+- Along the walls, what appear to be guards made of stone
+- In front of them, across the massive hall, ***the walls seem to be shifting***
+- Three entrances to the following rooms constantly change and shift.
+- When the players draw near, the rooms 'solidify' and stop shifting
+- **DC 8 Int check - the caves are almost sentient, shifting with the very Heroes that inhabit it and testing them in unique ways**
 #### Apollo's Statue
 - In a relatively well lit room, stands the Grand Apollo
 - A marvelous marble beauty that almost shines among the dark stone walls of this place
@@ -114,9 +115,27 @@ In the main entrance hall:
 - The statue itself is an almost perfect depiction of Apollo - ripped, tall, almost too beautiful to look at.
   He appears as if playing an instrument, with fingers curled, but no such instrument is in the statues hand 
 - **When the players put the lute into his hands, Apollo plays a beautiful song, and the far door Lights up with an 'A'**
-  **Apollo then gently offers the players the lute**
+  **Apollo then gently offers the players the Oracles Lute**
 - **If the players touch anything besides the lute, he attacks them**
 ####  Wall Paintings
 - In a marvelous, oddly well lit room, inside of this cavernous space is an elongated room.
-- It is decorated from ceiling to floor with various depictions of Greek Heroes. 
-- Hercules, Perseus, and Odysseus are all featured starring 
+- On the floor near the entrance is written 
+- It is decorated from ceiling to floor with various depictions of Greek heroes. 
+- Hercules, Perseus, Odysseus, Achilles and many more are all featured depicted doing their heroic (or not so heroic) deeds
+- The only characters our  Heroes do not recognize are depictions of five heroes that oddly resemble them.
+- **On a DC 7 Perception check, the Heroes notice that these are not just drawings of them, they are deep carvings into the stone, painted to look flat**
+- As the investigation is ongoing, the players notice at the end of the room two artifacts - a bow and a spear
+- **As soon as the players touch on of the artifacts, the walls begin to close in on them**
+- **The Heroes can then hide in the crevices to escape death, or pass a DC 15 Agility check to make it to the entrance** 
+- When the Heroes clear the cave, a large 'B' shines on the entrance
+#### Mirrors
+- In a relatively small room (to the other massive halls), a humble room unfolds before the Heroes
+- On every wall, a dark mirror. 
+- When the Heroes look in the mirrors, they see idealized versions of themselves - Better looking, more successful, surrounded by friends and family, Saving (or destroying) Olympus
+- **On a DC 6 Perception check they catch a glimpse of a figure crouching in darkness behind them in the mirror**
+- **On a DC 10 Intuition check they understand that a spirit is attacking them, but can only be seen in the mirrors**
+- ***Each time the players wish to attack the spirit, they must first clear a DC 4 Perception check to find it in one of the mirrors.*** 
+- ***The Spirit cannot block or dodge, and attacks each turn for 1d6 blunt damage with what appears to be a large hammer***
+- The spirit is of Draco, like Narcissus Draco was a hero that fell a little too much in love with his reflection in this mirror and died in the caves.
+- Draco says that he will be bound to this place so long as the mirrors stay unbroken
+- **if the Heroes break the mirrors for him he gives them the Oracles Hammer**

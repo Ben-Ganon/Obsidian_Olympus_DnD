@@ -4,7 +4,8 @@ Atlas was born in a quiet town on the Egyptian coast to a martial artist named C
 When Ares showed interest in her prowess, Cassandra thought it was the best thing that could have happened to her, and sparred with him happily.
 She would lose every time, and for a while they were happy.
 After her son was born, Cassandra went back to sparring and through some turn of the fates, she beat Ares.
-In his shame, Ares could not contain this defeat to a woman he once loved, and as punishment he drove her insane.
+Instead of taking the defeat humbly, she boasted she was now the best wrestler in all of Mediterranean. 
+Ares took offence to this, and as punishment he drove her insane.
 She tried to kill her son, but was stopped last second by her mother, Eleni.
 Eleni, with no options left, had to kill her daughter.
 She named her grandson Atlas, as a small retribution to the god of war. She raised Atlas to hate Olympus. When he was of age Atlas, now the strongest man in his village, ventured out to find a way to avenge his mother. 
