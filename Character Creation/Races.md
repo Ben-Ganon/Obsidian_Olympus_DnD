@@ -104,6 +104,7 @@ for this CT and the next, you gain +3 armor and [[advantage]] to all block attem
 
 ![[Harpy.png |300]]
 #### Harpy
+
 Harpies are bird-women hybrids who usually do the bidding of gods - retrieve objects and people for them to Olympus.
 Harpies are feathery, beaked women with razor sharp talons and teeth, with an affection for prophecies.
 Children of Harpies are humanoids with extremely sharp, shark-like teeth, slightly feathery arms, and sharp talon-like fingernails.
@@ -111,17 +112,17 @@ They inherently understand inflicting damage with sharp objects, and gain +1d4 d
 
 <b><ins><i>Slash:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       0        |      3       |  Instant  |    -     | 2 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       0        |      3       |  Instant  |    -     | 2 Meters |
 
 If you are unarmed with one hand, you can use that hand to slash an enemy with your talons as a bonus action, dealing <mark style="background: #930000A6;">1d4</mark> bonus [[Combat Mechanics#Piercing Damage |piercing damage]] to them.
 
 <b><ins><i>Bite:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       0        |      1       |  Instant  |    -     | 1 Meters | 
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       0        |      1       |  Instant  |    -     | 1 Meters |
 
 Bite an enemy with razor sharp fangs.
 If you are in a grapple or otherwise extremely close to an enemy, or an enemy is prone adjacent to you, you can bite them for <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] as a bonus action.
@@ -136,9 +137,9 @@ Additionally, vampires that attempt to siphon their blood or life force are inst
 
 <b><ins><i>Blood Cure:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       0        |      2       |   1 CT    |    -     | 4 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       0        |      2       |   1 CT    |    -     | 4 Meters |
 
 Quickly concoct a healing potion from your acidic blood.
 This can be quickly splashed on an ally next turn to heal them for <mark style="background: #045B00A6;">1d8</mark> Hp
