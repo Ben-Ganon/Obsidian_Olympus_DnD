@@ -92,8 +92,7 @@
 		- What does Theodore do?
 
 ### The Caverns
-![[Oracle Caves.png | 500]]
-
+![[Oracle Caves.png | 400]]
 In front of the Heroes are various challenges to test their minds and spirits to prove they are worthy of receiving the oracle's blessing.
 In the main entrance hall:
 - A grand main hall, made of rough stone walls and floor 
@@ -139,3 +138,6 @@ In the main entrance hall:
 - The spirit is of Draco, like Narcissus Draco was a hero that fell a little too much in love with his reflection in this mirror and died in the caves.
 - Draco says that he will be bound to this place so long as the mirrors stay unbroken
 - **if the Heroes break the mirrors for him he gives them the Oracles Hammer**
+- When they defeat/befriend Draco, the letter $\Gamma$ appears on the door
+
+#### 

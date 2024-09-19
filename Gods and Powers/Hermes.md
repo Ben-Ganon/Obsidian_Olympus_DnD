@@ -4,7 +4,7 @@ Hermes is the god of travel and travelers, merchants, doctors, thieves and a psy
 
 Like his titles would imply, Hermes serves as Olympus' main messenger, as he can travel swiftly to all ends of the earth - even hades.
 Hermes, being a god of thieves, is naturally sneaky and very fond of pranks.
-Light hearted and child-like, Hermes' is an incredibly well liked god among Olympus.
+Light hearted and child-like, Hermes' is an incredibly well liked god among Olympians.
 
 Children of Hermes play as either a shifty rogue, zipping between enemies to kill them quickly or a jack of all trades that has many tools the party can benefit from.
 
