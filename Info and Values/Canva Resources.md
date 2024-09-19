@@ -1,1 +1,1 @@
-https://www.canva.com/design/DAFv715bm9k/KOByq4TojQecaJXhGVj8yw/edit?utm_content=DAFv715bm9k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Form Fillable player sheets and other resources](https://www.canva.com/design/DAFywl-s8QA/iVJ6wLB5tGLCaUHVLS8IWQ/edit) 

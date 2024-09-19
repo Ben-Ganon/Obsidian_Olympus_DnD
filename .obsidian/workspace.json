@@ -77,26 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "428f82ed8b0a7029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+                "file": "DM Stuff/Characters/Cult of the Bull/Atlas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<mark style=\"background: #3800D7A6;\">",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+                "file": "Mechanics/Afflictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+                "file": "Mechanics/Afflictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md"
+                "file": "Mechanics/Afflictions.md"
               }
             }
           },
@@ -261,10 +249,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "428f82ed8b0a7029",
+  "active": "10f17672d45040e3",
   "lastOpenFiles": [
-    "Oracle Caves.png",
+    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
+    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+    "Info and Values/Character Sheet.pdf",
+    "Mechanics/Dice mechanics.md",
+    "Info and Values/Canva Resources.md",
+    "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+    "Info and Values/Dead_Frost_Play_Aids.pdf",
     "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "Oracle Caves.png",
     "Gods and Powers/Hermes.md",
     "Gods and Powers/Hephaestus.md",
     "Gods and Powers/Janus.md",
@@ -281,17 +276,12 @@
     "Gods and Powers/Playable Patrons.md",
     "Gods and Powers/Olympian Family Tree.md",
     "alchemyrefiner_alchemymagic_0_bfed74b1-104c-419f-89bb-03e4270e8c60_0.jpg",
-    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
     "DM Stuff/Characters/Athenians/Themistia Nephus.md",
     "DM Stuff/Characters/Athenians/Elissa Panagos.md",
     "DM Stuff/Characters/Athenians/Penelope Diakos.md",
     "DM Stuff/Characters/Zeno.md",
     "DM Stuff/Characters/Cult of the Bull/Selene.md",
-    "DM Stuff/Characters/Cult of the Bull/Lysander Hasapis.md",
-    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
-    "DM Stuff/Characters/Cult of the Bull/Hector Pantazos.md",
     "Images/Oracle Caves.png",
-    "Info and Values/Character Sheet.pdf",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Lysander's Mansion.png",
     "Images/Lysander's Mansion 1.png",
@@ -305,10 +295,7 @@
     "Images/Lysander.pdf",
     "Images/Xiphos-Title.webp",
     "Images/WhatsApp Image 2023-10-25 at 10.38.59(1).jpeg",
-    "Images/WhatsApp Image 2023-10-25 at 10.38.59.jpeg",
     "Images/Hercules.pdf",
-    "Images/Hector.pdf",
-    "DM Stuff/PC's",
-    "Info and Values/Dead_Frost_Play_Aids.pdf"
+    "Images/Hector.pdf"
   ]
 }
