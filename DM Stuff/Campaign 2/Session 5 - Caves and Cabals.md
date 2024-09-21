@@ -77,8 +77,8 @@ In the main entrance hall:
 - A marvelous marble beauty that almost shines among the dark stone walls of this place
 - In this room, a hoarde of treasure - gold, silver, gems and all sorts of artifacts lay spread about in small hills and mountains 
 - Immediately after the entrance is written:
-  "These Treasures are not yours to take. 
-  Touch nothing but what you must"
+  **"If in the Oracle you wish to trust,** 
+  **Touch nothing but what you must"**
 - The statue itself is an almost perfect depiction of Apollo - ripped, tall, almost too beautiful to look at.
   He appears as if playing an instrument, with fingers curled, but no such instrument is in the statues hand 
 - **When the players put the lute into his hands, Apollo plays a beautiful song, and the far door Lights up with an 'A'**
