@@ -75,15 +75,22 @@ In the main entrance hall:
 #### Apollo's Statue
 - In a relatively well lit room, stands the Grand Apollo
 - A marvelous marble beauty that almost shines among the dark stone walls of this place
-- In this room, a hoarde of treasure - gold, silver, gems and all sorts of artifacts lay spread about in small hills and mountains 
+- In this room, a hoard of treasure - gold, silver, gems and all sorts of artifacts lay spread about in small hills and mountains 
 - Immediately after the entrance is written:
-  **"If in the Oracle you wish to trust,** 
-  **Touch nothing but what you must"**
+  **"If in the Oracle you trust,** 
+  **Touch nothing but what you must.
+  Should you stray from this command,
+  Prepare to make your last stand"**
 - The statue itself is an almost perfect depiction of Apollo - ripped, tall, almost too beautiful to look at.
-  He appears as if playing an instrument, with fingers curled, but no such instrument is in the statues hand 
-- **When the players put the lute into his hands, Apollo plays a beautiful song, and the far door Lights up with an 'A'**
-  **Apollo then gently offers the players the Oracles Lute**
-- **If the players touch anything besides the lute, he attacks them**
+  He appears as if playing an instrument, with fingers curled, but no such instrument is in the statues hand.
+- Then, the players see it: Up high on a wall, the Lyre is pinned to the wall by an arrow.
+- To get the Lyre, the players must either reach it or knock it down with another object:
+	- Hit it with an arrow **{DC 5 Dexterity}**
+	- Hit it with an object **{DC 10 Dexterity}**
+	- Reach the object by scaling the wall **{DC 7 Might}**
+- **If the players put the Lyre into his hands, Apollo plays a beautiful song, and the far door Lights up with an '$\alpha$'**
+  **Apollo then gently offers the players the Oracles Lyre**
+- **If the players touch anything besides the Lyre, he attacks them**
 - Apollo Stats:
 	- Hp: 30
 	- Is **immune to piercing damage** (marble baby)
@@ -92,26 +99,47 @@ In the main entrance hall:
 	- All other stats: 6
 ####  Wall Paintings
 - In a marvelous, oddly well lit room, inside of this cavernous space is an elongated room.
-- On the floor near the entrance is written 
+- On the floor near the entrance is written:
+  **"The Oracle has seen all sins and virtues,
+  and now, dear heroes, you must choose
+  to Bash or Bullseye, don't be shy"**
 - It is decorated from ceiling to floor with various depictions of Greek heroes. 
-- Hercules, Perseus, Odysseus, Achilles and many more are all featured depicted doing their heroic (or not so heroic) deeds
-- The only characters our  Heroes do not recognize are depictions of five heroes that oddly resemble them.
-- **On a DC 7 Perception check, the Heroes notice that these are not just drawings of them, they are deep carvings into the stone, painted to look flat**
-- As the investigation is ongoing, the players notice at the end of the room two artifacts - a bow and a spear
-- **As soon as the players touch on of the artifacts, the walls begin to close in on them**
-- **The Heroes can then hide in the crevices to escape death, or pass a DC 15 Agility check to make it to the entrance** 
-- When the Heroes clear the cave, a large 'B' shines on the entrance
+- **{DC 2 Intuition}** Hercules, Perseus, Odysseus, Achilles and many more are all featured depicted doing their heroic (or not so heroic) deeds
+- The only characters our  Heroes do not recognize are depictions of **five heroes** on the **left wall** that are not painted yet, and oddly resemble them.
+- Each hero on both walls is painted in vibrant shades of orange, red and bronze on a black background.
+- **On a {DC 5 Perception} check, the Heroes notice that these are not just drawings of them, they are deep carvings into the stone, painted to look flat, but are actually just their width into the stones.**
+- As the investigation is ongoing, the players notice at the end of the room two artifacts - a bow and a hammer
+- **As soon as the players touch on of the artifacts, the *right wall* begins to close in on them**
+- **The Heroes can then hide in the crevices to escape death, or pass a {DC 15 Agility} check to make it to the entrance** 
+- When the Heroes clear the cave, a large '$\beta$' shines on the entrance
 #### Mirrors
 - In a relatively small room (to the other massive halls), a humble room unfolds before the Heroes
+- On the floor near the entrance is written:
+  **"These mirrors show what most you wanted.
+  Take care or forever become haunted"**
 - On every wall, a dark mirror. 
-- When the Heroes look in the mirrors, they see idealized versions of themselves - Better looking, more successful, surrounded by friends and family, Saving (or destroying) Olympus
-- **On a DC 6 Perception check they catch a glimpse of a figure crouching in darkness behind them in the mirror**
-- **On a DC 10 Intuition check they understand that a spirit is attacking them, but can only be seen in the mirrors**
-- ***Each time the players wish to attack the spirit, they must first clear a DC 4 Perception check to find it in one of the mirrors.*** 
-- ***The Spirit cannot block or dodge, and attacks each turn for 1d6 blunt damage with what appears to be a large hammer***
+- When the Heroes look in the mirrors, they see idealized versions of themselves -
+	- **What does each Hero see in the mirror**?
+- **On a {DC 6 Perception} check they catch a glimpse of a figure crouching in darkness behind them in the mirror**
+- **On a {DC 10 Intuition} check they understand that a spirit is attacking them, but can only be seen in the mirrors**
+- ***Each time the players wish to attack the spirit, they must first clear a {DC 4 Perception} check to find it in one of the mirrors.*** 
+- ***The Spirit cannot block or dodge, and attacks each turn for 1d6 blunt damage with what appears to be a sort-of spear***
 - The spirit is of Draco, like Narcissus Draco was a hero that fell a little too much in love with his reflection in this mirror and died in the caves.
 - Draco says that he will be bound to this place so long as the mirrors stay unbroken
-- **if the Heroes break the mirrors for him he gives them the Oracles Hammer**
-- When they defeat/befriend Draco, the letter $\Gamma$ appears on the door
+- **if the Heroes break the mirrors for him he gives them the Oracles Spear**
+- When they defeat/befriend Draco, the letter $\gamma$ appears on the door
 
-#### 
+#### The Two Guardians
+As the players finish all three of the rooms, the entrances to the previous rooms shift and change, stone walls fold and shift until a new entrance appears.
+- A stone arch carved with the face of Janus, the two faced god
+- **{DC 6 Intuition}** the players remember that Janus is the god of choices and doors, this carving could symbolize the choice they have to make in the next room.
+- A small simple room appears before the Heroes.
+- The floors are lined with inviting wood and carpet
+- On the other end of the small room, two doors and two stone guardians standing in front of them
+- The guardians are stone depictions of snake-women hybrid, their heads like pythons and their bodies are women like
+- On the wood before them is carved:
+  **"One of us tells only truth, The other only lies,
+  Behind one door is your goal, behind the other your demise
+  Which is which to you is a mystery - So ask one question, one and one alone.
+  Then speak your choice of door so we me
+  "**
