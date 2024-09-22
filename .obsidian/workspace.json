@@ -141,35 +141,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a501dd7b91a7eb7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f2289ea620711d2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0a70c2e33339287c",
             "type": "leaf",
             "state": {
@@ -181,38 +152,19 @@
             }
           },
           {
-            "id": "82fce2e41c9e512b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md"
-              }
-            }
-          },
-          {
-            "id": "86f14208cf0826b8",
+            "id": "8d43a6254b0e793f",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "6b753882752ce781",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +174,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "f35ac2cba276ed1a",
   "lastOpenFiles": [
-    "Images/Oracle Caves 1.png",
     "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+    "Images/Oracle Caves.png",
+    "Gods and Powers/Artemis.md",
+    "Images/Oracle Caves 1.png",
     "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
     "DM Stuff/Oracle Caves/Potion Riddle.md",
     "DM Stuff/Oracle Caves/Riddles.md",
@@ -246,7 +201,6 @@
     "Gear and Items/Weapons.md",
     "Images/AlbedoBase_XL_a_black_hammer_streaked_with_gold_in_with_Ancien_2.jpg",
     "DM Stuff/Oracle Caves/Session 3 Combat.md",
-    "Gods and Powers/Artemis.md",
     "Mechanics/Combat Mechanics.md",
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Canva Resources.md",
@@ -261,7 +215,6 @@
     "Gods and Powers/Janus.md",
     "Gods and Powers/Hades.md",
     "Gods and Powers/Dionysos.md",
-    "Images/Oracle Caves.png",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Lysander's Mansion.png",
     "Images/Owl Sentry.pdf",

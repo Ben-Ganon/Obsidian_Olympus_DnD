@@ -153,3 +153,38 @@ As the players finish all three of the rooms, the entrances to the previous room
 | Mace   | 20  | 2d6 blunt damage |     |
 | Hammer | 20  | 2d6 blunt damage |     |
 - The Heroes can also ask a question to make the guards fight each other and then pass while they are distracted
+
+### Potions
+
+
+### The Oracle
+
+- At the Oracles base, a grand temple emerges
+- The ceilings here are taller than the entrance, like this place used to house a giant beast once
+- along the walls are stationed stone guards much like the rooms before
+	- The guards are a mix of human, and animal headed human hybrids - snakes, foxes, bulls and all manor of other guards are stationed to guard the oracle
+- Near the entrance is a huge room built from stone slabs, the door to it locked.
+- Oddly, no priests come to greet them - usually the eunuchs are very happy to see heroes arrive. 
+- Instead, a tall red headed woman greets them. 
+- She introduces herself as Selene, the new guardian of the temple
+- Doesn't look like a priestess to them
+- She tells them to wait while the Oracle prepares to hear the prophecy 
+- They see a large room carved into the stone on the far side of the room 
+- Selene yells to one of her guards to start the ritual 
+- Thick drapes that now hang open separate the spaces, and beyond them they can peek at a young girl of about 15, grinding down flowers and herbs and sprinkling them into a huge crack in the floor where yellow vapor rises up from the ground. 
+- As she grinds and sprinkles, she sings a hymn to apollo asking for a true prophecy
+- While they wait, Selene asks them why are they here
+	- You know, I am a daughter of Artemis. She forced my coward of a mother to abandon me, but my mother couldn't even do that, and left me to some farmers.
+	- I grew up poor, knowing I had real parents but both of them were too scared to woman up and raise me
+	- The only thing I knew was rage at Olympus, until I met someone who showed me the way
+	- Amara, Thalassios and Orphea have known nothing but suffering, and the Olympians did nothing for them
+	- So why serve the Olympians? 
+	- What if they could be kings in their own realms, make their own decisions about their fate instead of waiting for some Oracle to decide how their story ends
+	- I can show you the way, all you have to do is abandon Olympus, and make a human sacrifice to our god, and you will be free from these shackles of prophecy 
+
+![[Selene]]
+
+## Initiative
+
+| 
+
