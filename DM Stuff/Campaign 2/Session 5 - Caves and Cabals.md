@@ -60,7 +60,7 @@
 		- What does Theodore do?
 
 ### The Caverns
-![[Oracle Caves.png | 400]]
+![[Oracle Caves 1.png | 400]]
 In front of the Heroes are various challenges to test their minds and spirits to prove they are worthy of receiving the oracle's blessing.
 In the main entrance hall:
 - A grand main hall, made of rough stone walls and floor 
@@ -102,7 +102,9 @@ In the main entrance hall:
 - On the floor near the entrance is written:
   **"The Oracle has seen all sins and virtues,
   and now, dear heroes, you must choose
-  to Bash or Bullseye, don't be shy"**
+  To Bash or Bullseye, don't be shy
+  Unless you note the stories on the walls
+  You will become a ghost within theses halls"**
 - It is decorated from ceiling to floor with various depictions of Greek heroes. 
 - **{DC 2 Intuition}** Hercules, Perseus, Odysseus, Achilles and many more are all featured depicted doing their heroic (or not so heroic) deeds
 - The only characters our  Heroes do not recognize are depictions of **five heroes** on the **left wall** that are not painted yet, and oddly resemble them.
@@ -123,7 +125,7 @@ In the main entrance hall:
 - **On a {DC 6 Perception} check they catch a glimpse of a figure crouching in darkness behind them in the mirror**
 - **On a {DC 10 Intuition} check they understand that a spirit is attacking them, but can only be seen in the mirrors**
 - ***Each time the players wish to attack the spirit, they must first clear a {DC 4 Perception} check to find it in one of the mirrors.*** 
-- ***The Spirit cannot block or dodge, and attacks each turn for 1d6 blunt damage with what appears to be a sort-of spear***
+- ***The Spirit cannot block or dodge, and attacks each turn for 1d6 piercing damage with what appears to be a sort-of spear***
 - The spirit is of Draco, like Narcissus Draco was a hero that fell a little too much in love with his reflection in this mirror and died in the caves.
 - Draco says that he will be bound to this place so long as the mirrors stay unbroken
 - **if the Heroes break the mirrors for him he gives them the Oracles Spear**
@@ -136,10 +138,18 @@ As the players finish all three of the rooms, the entrances to the previous room
 - A small simple room appears before the Heroes.
 - The floors are lined with inviting wood and carpet
 - On the other end of the small room, two doors and two stone guardians standing in front of them
-- The guardians are stone depictions of snake-women hybrid, their heads like pythons and their bodies are women like
+- The guardians are stone depictions of snake-men hybrid, their heads like pythons and their bodies are muscular men
+- One holds a stone mace, the other a stone hammer
 - On the wood before them is carved:
   **"One of us tells only truth, The other only lies,
   Behind one door is your goal, behind the other your demise
-  Which is which to you is a mystery - So ask one question, one and one alone.
-  Then speak your choice of door so we me
+  Which is which to you a mystery - So ask one guard a question, one and one alone.
+  Then speak aloud your choice of door so you may pass to the unknown.
   "**
+- If the players attack the guards or choose the wrong door the guardians attacks
+
+| Guard  | Hp  | Attacks for      |     |
+| ------ | --- | ---------------- | --- |
+| Mace   | 20  | 2d6 blunt damage |     |
+| Hammer | 20  | 2d6 blunt damage |     |
+- The Heroes can also ask a question to make the guards fight each other and then pass while they are distracted
