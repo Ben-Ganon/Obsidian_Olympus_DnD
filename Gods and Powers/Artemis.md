@@ -30,7 +30,7 @@ The effect and the mark expire after the duration.
 |       1        |      3       |  Instant  |    -     | 40 Meters |     |
 
 Enchant a projectile to deal bonus damage.
-Your next projectile becomes an enchanted magic missile that never misses.  
+Your next projectile becomes an enchanted magic missile that never misses and cannot be blocked.  
 Deals bonus <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage |magic damage]], and ***Marks*** the target
 (Uses ammunition)
 
@@ -61,13 +61,14 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire 2 projecti
 -----------------
 <b><ins><i>Volley:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       3        |      2       |   1 CT    |    -     | 20 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       3        |      2       |   1 CT    |    -     | 20 Meters |     |
+
 
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
-These targets must make an Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
+These targets must make a **{DC 10}** Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
 If you cast this while **Wild Hunt** is active, deal <mark style="background: #930000A6;">1d12</mark> bonus damage instead.
 (Uses ammunition)
 

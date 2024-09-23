@@ -13,4 +13,3 @@ She trained long and hard, and discovered she had a knack for knives and axes.
 She could also use a bow better than anyone in the cult. 
 But whatever could be said about her ability to fight and kill, was nothing compared to her ability to become shadow.
 Tuning in to her hunter mother, she can become one with her surroundings and disappear as easily as others might breath.
-

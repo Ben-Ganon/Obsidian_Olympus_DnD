@@ -22,25 +22,13 @@
             }
           },
           {
-            "id": "b286d3bd7c345aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/God Bonus Stat Chart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01bca212891ab317",
+            "id": "f35ac2cba276ed1a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Artemis.md",
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
                 "mode": "source",
                 "source": false
               },
@@ -48,7 +36,53 @@
             }
           },
           {
-            "id": "f35ac2cba276ed1a",
+            "id": "6d6957b746084842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Weapons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddbef353f4ffa422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Shields and Armor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c3a3c7b40a72aef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Selene (1).pdf"
+              }
+            }
+          },
+          {
+            "id": "c00bc46c1dc631b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Artemis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98896a5ecbe076f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,13 +192,53 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4f4a7ac8574d2086",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a107b5fbbf1adfeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0259541b1c49ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,15 +248,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f35ac2cba276ed1a",
+  "active": "b98896a5ecbe076f",
   "lastOpenFiles": [
+    "DM Stuff/Characters/Cult of the Bull/Nyx.md",
+    "DM Stuff/Characters/Cult of the Bull/The Cult of the Bull.md",
+    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
     "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
-    "Images/Oracle Caves.png",
+    "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
+    "DM Stuff/Characters/Cult of the Bull/Hector Pantazos.md",
+    "DM Stuff/Characters/Cult of the Bull/Selene.md",
+    "DM Stuff/Characters/Cult of the Bull/Lysander Hasapis.md",
+    "universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg",
+    "Gear and Items/Shields and Armor.md",
     "Gods and Powers/Artemis.md",
+    "Selene (1).pdf",
+    "Gods and Powers/Ares.md",
+    "Summonable Entities/Boar.md",
+    "Summonable Entities/Buzzard.md",
+    "Gods and Powers/Aphrodite.md",
+    "Mechanics/Combat Mechanics.md",
+    "Gear and Items/Weapons.md",
+    "Player Lore/Names.md",
+    "Images/Oracle Caves.png",
     "Images/Oracle Caves 1.png",
     "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
     "DM Stuff/Oracle Caves/Potion Riddle.md",
@@ -196,27 +286,12 @@
     "Images/AlbedoBase_XL_a_black_trident_streaked_with_gold_in_Ancient_Gr_0.jpg",
     "Images/AlbedoBase_XL_a_black_Lyre_streaked_with_gold_in_with_Ancient_0.jpg",
     "Images/AlbedoBase_XL_a_black_Bow_streaked_with_gold_in_with_Ancient_G_2.jpg",
-    "Gear and Items/Shields and Armor.md",
     "Gear and Items/Quivers.md",
-    "Gear and Items/Weapons.md",
     "Images/AlbedoBase_XL_a_black_hammer_streaked_with_gold_in_with_Ancien_2.jpg",
-    "DM Stuff/Oracle Caves/Session 3 Combat.md",
-    "Mechanics/Combat Mechanics.md",
     "Info and Values/Character Sheet.pdf",
-    "Info and Values/Canva Resources.md",
-    "Mechanics/Afflictions.md",
-    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
-    "Mechanics/Dice mechanics.md",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
     "Oracle Caves.png",
-    "Gods and Powers/Hermes.md",
-    "Gods and Powers/Hephaestus.md",
-    "Gods and Powers/Janus.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Dionysos.md",
     "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
-    "Images/Lysander's Mansion.png",
     "Images/Owl Sentry.pdf",
     "DM Stuff/Items",
     "DM Stuff/Characters/Athenians",

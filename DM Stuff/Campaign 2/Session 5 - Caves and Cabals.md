@@ -156,6 +156,8 @@ As the players finish all three of the rooms, the entrances to the previous room
 
 ### Potions
 
+- As the Heroes solve the final riddle, they see two of the bottles glow in a bright red light, and when they stop glowing they have a small scroll underneath them that reads 'Drink in case of emergency, Love, Aphrodite <3'
+- They get two health potions that can be **drank as a bonus action to restore 3d6 Hp** 
 
 ### The Oracle
 
@@ -164,7 +166,7 @@ As the players finish all three of the rooms, the entrances to the previous room
 - along the walls are stationed stone guards much like the rooms before
 	- The guards are a mix of human, and animal headed human hybrids - snakes, foxes, bulls and all manor of other guards are stationed to guard the oracle
 - Near the entrance is a huge room built from stone slabs, the door to it locked.
-- Oddly, no priests come to greet them - usually the eunuchs are very happy to see heroes arrive. 
+- Oddly, no priests come to greet them - Amara knows usually the eunuchs are very happy to see heroes arrive. 
 - Instead, a tall red headed woman greets them. 
 - She introduces herself as Selene, the new guardian of the temple
 - Doesn't look like a priestess to them
@@ -172,11 +174,13 @@ As the players finish all three of the rooms, the entrances to the previous room
 - They see a large room carved into the stone on the far side of the room 
 - Selene yells to one of her guards to start the ritual 
 - Thick drapes that now hang open separate the spaces, and beyond them they can peek at a young girl of about 15, grinding down flowers and herbs and sprinkling them into a huge crack in the floor where yellow vapor rises up from the ground. 
-- As she grinds and sprinkles, she sings a hymn to apollo asking for a true prophecy
+- As the Oracle grinds and sprinkles, she sings a hymn to apollo asking for a prophecy
 - While they wait, Selene asks them why are they here
-	- You know, I am a daughter of Artemis. She forced my coward of a mother to abandon me, but my mother couldn't even do that, and left me to some farmers.
-	- I grew up poor, knowing I had real parents but both of them were too scared to woman up and raise me
-	- The only thing I knew was rage at Olympus, until I met someone who showed me the way
+	- You know, I am a daughter of Artemis. 
+	- She forced my coward of a mother to abandon me, but my mother couldn't even do that, and left me to some farmers.
+	- I grew up poor, knowing I had real parents, strong parents but both of them were too scared to woman up and raise me
+	- The only thing I knew was rage at Olympus, impotent rage
+	- Until I met Aphelios
 	- Amara, Thalassios and Orphea have known nothing but suffering, and the Olympians did nothing for them
 	- So why serve the Olympians? 
 	- What if they could be kings in their own realms, make their own decisions about their fate instead of waiting for some Oracle to decide how their story ends
@@ -186,5 +190,40 @@ As the players finish all three of the rooms, the entrances to the previous room
 
 ## Initiative
 
-| 
+Selene:
+[[Selene (1).pdf | Selene Stat Block]]
+
+| Stat         | Value |
+| ------------ | ----- |
+| **Hp**       | 24    |
+| Armor Rating | 2     |
+| MoveSpeed    | 16    |
+
+| Boon               | Cast Time | Uses Left |     |     |
+| ------------------ | --------- | :-------: | :-: | :-: |
+| Crescent Strike    | Instant   |           |     |     |
+| Camouflage         | Instant   |           |     |     |
+| Wild Hunt          | 1 CT      |           |  -  |  -  |
+| Volley             | 1 CT      |           |     |  -  |
+| Poison Projectiles | Instant   |           |  -  |  -  |
+|                    |           |           |     |     |
+
+
+Selene Guards:
+
+| Guard | **Hp** | Weapon       | Shield | Armor rating | Other Stats |
+| ----- | ------ | ------------ | ------ | ------------ | ----------- |
+| Nikos | 20     | Kopis 1d8    | 1d10   | 3            | 1d6         |
+| Ortio | 20     | Sagaris 1d12 | -      | -            | 1d6         |
+| Simon | 17     | Toxo 1d6     | -      | -            | 1d4         |
+
+| Player | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10 |
+| ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
+|        |         |         |         |         |         |         |         |         |         |          |
 
