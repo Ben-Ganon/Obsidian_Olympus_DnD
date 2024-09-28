@@ -6,6 +6,7 @@ The Oracles Trident is a sacred weapon stashed in the Oracle Caverns.
 | Oracles Trident | Spear  | 2d10/1d20                                        | 1d4           | 4 Meters Melee  Thrown 12 Meters | Piercing | 5            |
 | Oracles Lyre    | Lute   | 1d12<br>Can heal other characters or deal damage | -             | 10 Meters                        | Magic    | 5            |
 | Oracles Hammer  | Hammer | 1d20                                             | 1d6           | Melee (2 Meters)                 | Blunt    | 5            |
+|                 |        |                                                  |               |                                  |          |              |
 
 
 
