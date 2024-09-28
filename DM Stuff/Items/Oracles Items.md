@@ -9,6 +9,7 @@ The Oracles Trident is a sacred weapon stashed in the Oracle Caverns.
 
 
 
+
 ![[AlbedoBase_XL_a_black_Lyre_streaked_with_gold_in_with_Ancient_0.jpg | 400]]
 ![[AlbedoBase_XL_a_black_hammer_streaked_with_gold_in_with_Ancien_2.jpg | 400]]
 ![[AlbedoBase_XL_a_black_Bow_streaked_with_gold_in_with_Ancient_G_2.jpg | 400]]

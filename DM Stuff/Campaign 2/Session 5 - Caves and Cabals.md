@@ -116,7 +116,7 @@ In the main entrance hall:
 - When the Heroes clear the cave, a large '$\beta$' shines on the entrance
 ## Mirrors
 - In a relatively small room (to the other massive halls), a humble room unfolds before the Heroes
-- On the floor near the entrance is written:
+- On the floor near the entrance is written
   **"These mirrors show what most you wanted.
   Take care or forever become haunted"**
 - On every wall, a dark mirror. 
