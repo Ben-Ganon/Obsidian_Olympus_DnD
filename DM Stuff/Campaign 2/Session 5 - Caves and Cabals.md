@@ -1,6 +1,6 @@
-## Delphi Caves
+# Delphi Caves
 
-### The Spiral
+# The Spiral
 - As the Heroes descend into the caves in the tight black spiral, each hero is shown a vision:
 	- Amara:
 		- Amara finds herself suddenly in a golden field of wheat
@@ -59,7 +59,7 @@
 		- Beside him, a young man, whispering in his ear "Do it, and I will grant you more power than you have ever dreamed of"
 		- What does Theodore do?
 
-### The Caverns
+# The Caverns
 ![[Oracle Caves 1.png | 400]]
 In front of the Heroes are various challenges to test their minds and spirits to prove they are worthy of receiving the oracle's blessing.
 In the main entrance hall:
@@ -72,7 +72,7 @@ In the main entrance hall:
 - Three entrances to the following rooms constantly change and shift.
 - When the players draw near, the rooms 'solidify' and stop shifting
 - **DC 8 Int check - the caves are almost sentient, shifting with the very Heroes that inhabit it and testing them in unique ways**
-#### Apollo's Statue
+## Apollo's Statue
 - In a relatively well lit room, stands the Grand Apollo
 - A marvelous marble beauty that almost shines among the dark stone walls of this place
 - In this room, a hoard of treasure - gold, silver, gems and all sorts of artifacts lay spread about in small hills and mountains 
@@ -97,7 +97,7 @@ In the main entrance hall:
 	- Hits for <mark style="background: #930000A6;">1d8</mark> blunt damage with his fists 
 	- <mark style="background: #4886FF;">Might</mark> stat: 10 
 	- All other stats: 6
-####  Wall Paintings
+##  Wall Paintings
 - In a marvelous, oddly well lit room, inside of this cavernous space is an elongated room.
 - On the floor near the entrance is written:
   **"The Oracle has seen all sins and virtues,
@@ -114,7 +114,7 @@ In the main entrance hall:
 - **As soon as the players touch on of the artifacts, the *right wall* begins to close in on them**
 - **The Heroes can then hide in the crevices to escape death, or pass a {DC 15 Agility} check to make it to the entrance** 
 - When the Heroes clear the cave, a large '$\beta$' shines on the entrance
-#### Mirrors
+## Mirrors
 - In a relatively small room (to the other massive halls), a humble room unfolds before the Heroes
 - On the floor near the entrance is written:
   **"These mirrors show what most you wanted.
@@ -131,7 +131,7 @@ In the main entrance hall:
 - **if the Heroes break the mirrors for him he gives them the Oracles Spear**
 - When they defeat/befriend Draco, the letter $\gamma$ appears on the door
 
-#### The Two Guardians
+## The Two Guardians
 As the players finish all three of the rooms, the entrances to the previous rooms shift and change, stone walls fold and shift until a new entrance appears.
 - A stone arch carved with the face of Janus, the two faced god
 - **{DC 6 Intuition}** the players remember that Janus is the god of choices and doors, this carving could symbolize the choice they have to make in the next room.
@@ -154,10 +154,30 @@ As the players finish all three of the rooms, the entrances to the previous room
 | Hammer | 20  | 2d6 blunt damage |     |
 - The Heroes can also ask a question to make the guards fight each other and then pass while they are distracted
 
-### Potions
+## Potions
 
 - As the Heroes solve the final riddle, they see two of the bottles glow in a bright red light, and when they stop glowing they have a small scroll underneath them that reads 'Drink in case of emergency, Love, Aphrodite <3'
 - They get two health potions that can be **drank as a bonus action to restore 3d6 Hp** 
+
+
+## Stone Minotaurs
+
+- In the room, four stone minotaurs stand at each corner
+- On the floor is written:
+  "As long as one of us still stands
+  The others will together band"
+- The minotaurs attack the players:
+
+| Name  | Hp Total | Curr Hp | Hits for         |
+| ----- | -------- | ------- | ---------------- |
+| M1    | 10       | 10      | Spear 1d6 Pierce |
+| M2    | 10       | 10      | Hammer 1d6 Blunt |
+| M3    | 10       | 10      | Spear 1d6 Pierce |
+| Lenny | 10       | 10      | Spear 1d6 Pierce |
+- Revive with 1/2 hp after a single round.
+  To win, the PC’s must deal each finishing blow on the same round.
+  
+
 
 ### The Oracle
 
@@ -193,25 +213,25 @@ As the players finish all three of the rooms, the entrances to the previous room
 Selene:
 [[Selene (1).pdf | Selene Stat Block]]
 
-| Stat         | Value |
+| **Stat**         | **Value** |
 | ------------ | ----- |
 | **Hp**       | 24    |
 | Armor Rating | 2     |
 | MoveSpeed    | 16    |
 
-| Boon               | Cast Time | Uses Left |     |     |
+| **Boon**               | **Cast Time** | **Uses Left** |     |     |
 | ------------------ | --------- | :-------: | :-: | :-: |
 | Crescent Strike    | Instant   |           |     |     |
 | Camouflage         | Instant   |           |     |     |
 | Wild Hunt          | 1 CT      |           |  -  |  -  |
 | Volley             | 1 CT      |           |     |  -  |
 | Poison Projectiles | Instant   |           |  -  |  -  |
-|                    |           |           |     |     |
+
 
 
 Selene Guards:
 
-| Guard | **Hp** | Weapon       | Shield | Armor rating | Other Stats |
+| **Guard** | **Hp** | **Weapon**       | **Shield** | **Armor rating** | **Other Stats** |
 | ----- | ------ | ------------ | ------ | ------------ | ----------- |
 | Nikos | 20     | Kopis 1d8    | 1d10   | 3            | 1d6         |
 | Ortio | 20     | Sagaris 1d12 | -      | -            | 1d6         |

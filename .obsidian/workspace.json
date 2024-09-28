@@ -60,16 +60,6 @@
             }
           },
           {
-            "id": "4c3a3c7b40a72aef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Selene (1).pdf"
-              }
-            }
-          },
-          {
             "id": "c00bc46c1dc631b2",
             "type": "leaf",
             "state": {
@@ -87,14 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Tug's Better Exploration 1.md",
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Tug's Better Exploration 1.md",
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Tug's Better Exploration 1.md",
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Tug's Better Exploration 1.md"
+                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md"
               }
             }
           }
@@ -253,7 +243,17 @@
   },
   "active": "b98896a5ecbe076f",
   "lastOpenFiles": [
+    "DM Stuff/Oracle Caves/The writing on the wall.md",
+    "DM Stuff/Oracle Caves/Riddles.md",
+    "DM Stuff/Oracle Caves/Potion Riddle.md",
     "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+    "Gear and Items/Shields and Armor.md",
+    "Selene (1).pdf",
+    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+    "DM Stuff/Items/Oracles Items.md",
+    "DM Stuff/Oracle Caves/The Prophecy from the Oracle.md",
+    "DM Stuff/Oracle Caves/Session 3 Combat.md",
+    "DM Stuff/Oracle Caves/Fake Prophecy.md",
     "DM Stuff/Tug's Better Exploration 1.md",
     "DM Stuff/Characters/Cult of the Bull/Nyx.md",
     "DM Stuff/Characters/Cult of the Bull/The Cult of the Bull.md",
@@ -263,9 +263,7 @@
     "DM Stuff/Characters/Cult of the Bull/Selene.md",
     "DM Stuff/Characters/Cult of the Bull/Lysander Hasapis.md",
     "universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg",
-    "Gear and Items/Shields and Armor.md",
     "Gods and Powers/Artemis.md",
-    "Selene (1).pdf",
     "Gods and Powers/Ares.md",
     "Summonable Entities/Boar.md",
     "Summonable Entities/Buzzard.md",
@@ -275,14 +273,6 @@
     "Player Lore/Names.md",
     "Images/Oracle Caves.png",
     "Images/Oracle Caves 1.png",
-    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
-    "DM Stuff/Oracle Caves/Potion Riddle.md",
-    "DM Stuff/Oracle Caves/Riddles.md",
-    "DM Stuff/Items/Oracles Items.md",
-    "DM Stuff/Oracle Caves/The writing on the wall.md",
-    "DM Stuff/Oracle Caves/The Prophecy from the Oracle.md",
-    "DM Stuff/Oracle Caves/Fake Prophecy.md",
-    "cult member.md",
     "Images/alchemyrefiner_alchemymagic_0_bfed74b1-104c-419f-89bb-03e4270e8c60_0.jpg",
     "Images/AlbedoBase_XL_a_black_trident_streaked_with_gold_in_Ancient_Gr_0.jpg",
     "Images/AlbedoBase_XL_a_black_Lyre_streaked_with_gold_in_with_Ancient_0.jpg",
