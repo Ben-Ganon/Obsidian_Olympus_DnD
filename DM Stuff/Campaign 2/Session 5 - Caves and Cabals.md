@@ -219,13 +219,14 @@ Selene:
 | Armor Rating | 2     |
 | MoveSpeed    | 16    |
 
-| **Boon**               | **Cast Time** | **Uses Left** |     |     |
-| ------------------ | --------- | :-------: | :-: | :-: |
-| Crescent Strike    | Instant   |           |     |     |
-| Camouflage         | Instant   |           |     |     |
-| Wild Hunt          | 1 CT      |           |  -  |  -  |
-| Volley             | 1 CT      |           |     |  -  |
-| Poison Projectiles | Instant   |           |  -  |  -  |
+| **Boon**           | **Cast Time** | **Uses Left** |     |     |
+| ------------------ | ------------- |:-------------:|:---:|:---:|
+| Crescent Strike    | Instant       |               |     |     |
+| Camouflage         | Instant       |               |     |     |
+| Wild Hunt          | 1 CT          |               |  -  |  -  |
+| Volley             | 1 CT          |               |     |  -  |
+| Poison Projectiles | Instant       |               |  -  |  -  |
+|                    |               |               |     |     |
 
 
 

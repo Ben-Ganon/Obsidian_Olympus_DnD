@@ -44,9 +44,9 @@ During this time, you can attack another time each turn as a bonus action in the
 ------------------
 <b><ins><i>Blood Weapon:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       3        |      1       |  Instant  |   3 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       3        |      1       |  Instant  |   3 CT   |   -   |     |
 
 Summon a weapon infused with the blood of Ares.
 (you can also temporarily transform your current weapon)
