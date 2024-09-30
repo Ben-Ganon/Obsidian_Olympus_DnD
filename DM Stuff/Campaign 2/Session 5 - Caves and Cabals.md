@@ -222,7 +222,7 @@ Selene:
 | **Boon**           | **Cast Time** | **Uses Left** |     |     |
 | ------------------ | ------------- |:-------------:|:---:|:---:|
 | Crescent Strike    | Instant       |               |     |     |
-| Camouflage         | Instant       |       X       |  X  |     |
+| Camouflage         | Instant       |       X       |  X  |  X  |
 | Wild Hunt          | 1 CT          |               |  -  |  -  |
 | Volley             | 1 CT          |       X       |     |  -  |
 | Poison Projectiles | Instant       |               |  -  |  -  |
@@ -234,21 +234,21 @@ Selene Guards:
 
 | **Guard** | **Hp** | **Weapon**   | **Shield** | **Armor rating** | **Other Stats** |
 | --------- | ------ | ------------ | ---------- | ---------------- | --------------- |
-| Nikos     | 5      | Kopis 1d8    | 1d10       | 3                | 1d6             |
+| Nikos     | 3      | Kopis 1d8    | 1d10       | 3                | 1d6             |
 | Ortio     | 15     | Sagaris 1d12 | -          | -                | 1d6             |
-| Simon     | 9      | Toxo 1d6     | -          | -                | 1d4             |
+| Simon     | 4      | Toxo 1d6     | -          | -                | 1d4             |
 |           |        |              |            |                  |                 |
 
 
 
-| Player            | Round 1          | Round 2 | Round 3   | Round 4                              | Round 5             | Round 6        | Round 7 | Round 8 | Round 9 | Round 10 |
-| ----------------- | ---------------- | ------- | --------- | ------------------------------------ | ------------------- | -------------- | ------- | ------- | ------- | -------- |
-| Aeneas -13        | -                | -       | -         | -                                    | Godly infusion ends |                |         |         |         |          |
-| Selene -7         | -                | -       | -         | Invis ends                           |                     | Wild Hunt Ends |         |         |         |          |
-| Ortio - 5         | -                | -       | -         |                                      |                     |                |         |         |         |          |
-| Amara - 5         | "Let us through" | -       | -         |                                      |                     |                |         |         |         |          |
-| Nikos -<br>3      | -                | -       | -         |                                      |                     |                |         |         |         |          |
-| Orphea -2         | -                | -       | -         | Forge born ends<br>Molten hands ends |                     |                |         |         |         |          |
-| Thalassios <br>-2 | -                | -       | Lust Ends |                                      |                     |                |         |         |         |          |
-| Simon-<br>2       | -                | -       | -         |                                      |                     |                |         |         |         |          |
+| Player            | Round 1          | Round 2 | Round 3   | Round 4 | Round 5             | Round 6                    | Round 7 | Round 8 | Round 9 | Round 10 |
+| ----------------- | ---------------- | ------- | --------- | ------- | ------------------- | -------------------------- | ------- | ------- | ------- | -------- |
+| Aeneas -13        | -                | -       | -         | -       | Godly infusion ends |                            |         |         |         |          |
+| Selene -7         | -                | -       | -         | -       |                     | Wild Hunt  Ends invis ends |         |         |         |          |
+| Ortio - 5         | -                | -       | -         | -       | -                   |                            |         |         |         |          |
+| Amara - 5         | "Let us through" | -       | -         | -       |                     |                            |         |         |         |          |
+| Nikos -<br>3      | -                | -       | -         |         |                     |                            |         |         |         |          |
+| Orphea -2         | -                | -       | -         |         |                     |                            |         |         |         |          |
+| Thalassios <br>-2 | -                | -       | Lust Ends |         |                     |                            |         |         |         |          |
+| Simon-<br>2       | -                | -       | -         |         |                     |                            |         |         |         |          |
 
