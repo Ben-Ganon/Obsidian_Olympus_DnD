@@ -222,7 +222,7 @@ Selene:
 | **Boon**           | **Cast Time** | **Uses Left** |     |     |
 | ------------------ | ------------- |:-------------:|:---:|:---:|
 | Crescent Strike    | Instant       |               |     |     |
-| Camouflage         | Instant       |               |     |     |
+| Camouflage         | Instant       |       X       |     |     |
 | Wild Hunt          | 1 CT          |               |  -  |  -  |
 | Volley             | 1 CT          |               |     |  -  |
 | Poison Projectiles | Instant       |               |  -  |  -  |
@@ -232,19 +232,21 @@ Selene:
 
 Selene Guards:
 
-| **Guard** | **Hp** | **Weapon**       | **Shield** | **Armor rating** | **Other Stats** |
-| ----- | ------ | ------------ | ------ | ------------ | ----------- |
-| Nikos | 20     | Kopis 1d8    | 1d10   | 3            | 1d6         |
-| Ortio | 20     | Sagaris 1d12 | -      | -            | 1d6         |
-| Simon | 17     | Toxo 1d6     | -      | -            | 1d4         |
+| **Guard** | **Hp** | **Weapon**   | **Shield** | **Armor rating** | **Other Stats** |
+| --------- | ------ | ------------ | ---------- | ---------------- | --------------- |
+| Nikos     | 20     | Kopis 1d8    | 1d10       | 3                | 1d6             |
+| Ortio     | 20     | Sagaris 1d12 | -          | -                | 1d6             |
+| Simon     | 17     | Toxo 1d6     | -          | -                | 1d4             |
 
-| Player | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6 | Round 7 | Round 8 | Round 9 | Round 10 |
-| ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
-|        |         |         |         |         |         |         |         |         |         |          |
+
+| Player            | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 | Round 6        | Round 7 | Round 8 | Round 9 | Round 10 |
+| ----------------- | ------- | ------- | ------- | ------- | ------- | -------------- | ------- | ------- | ------- | -------- |
+| Aeneas -13        | -       |         |         |         |         |                |         |         |         |          |
+| Selene -7         | -       |         |         |         |         | Wild Hunt Ends |         |         |         |          |
+| Ortio - 5         | -       |         |         |         |         |                |         |         |         |          |
+| Amara - 5         |         |         |         |         |         |                |         |         |         |          |
+| Nikos -<br>3      |         |         |         |         |         |                |         |         |         |          |
+| Orphea -2         |         |         |         |         |         |                |         |         |         |          |
+| Thalassios <br>-2 |         |         |         |         |         |                |         |         |         |          |
+| Simon-<br>2       |         |         |         |         |         |                |         |         |         |          |
 
