@@ -121,6 +121,9 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 ### Reaction
 - Boons and other effects that can be cast on your turn as a reaction, meaning they only trigger and start their effect when something happens
 - This can happen not on your turn
+
+## Flanked 
+
 ### Fall Damage
 When a character falls, they take 1d4 damage for each 2 Meters they fall.
 ### Swimming
