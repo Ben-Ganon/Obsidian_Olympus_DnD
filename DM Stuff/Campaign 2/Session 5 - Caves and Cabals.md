@@ -226,7 +226,7 @@ Selene:
 | Wild Hunt          | 1 CT          |               |  -  |  -  |
 | Volley             | 1 CT          |               |     |  -  |
 | Poison Projectiles | Instant       |               |  -  |  -  |
-|                    |               |               |     |     |
+| Bite (grapple)     | Instant       |               |  -  |  -  |
 
 
 
