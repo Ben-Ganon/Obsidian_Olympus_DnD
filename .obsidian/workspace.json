@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b98896a5ecbe076f",
+            "id": "dd920ed2a9f2b691",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "49f11f9d570dafac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Weapons.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           }
@@ -178,77 +188,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "fd2a62bcc2dfb67a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fa816eb7f8f92bb1",
-        "type": "window",
-        "children": [
-          {
-            "id": "554e24dec5f9efeb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f3173fa2c63a2a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gear and Items/Weapons.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e84ddafe4cc7acf9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DM Stuff/Items/Oracles Items.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a13f46c13c700408",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gear and Items/Shields and Armor.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1123,
-        "y": 93,
-        "width": 924,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "b98896a5ecbe076f",
+  "active": "dd920ed2a9f2b691",
   "lastOpenFiles": [
-    "Gods and Powers/Artemis.md",
-    "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
-    "Selene (1).pdf",
     "Gear and Items/Weapons.md",
-    "Gear and Items/Shields and Armor.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Aphrodite.md",
     "Mechanics/Combat Mechanics.md",
+    "Gear and Items/Shields and Armor.md",
+    "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+    "Gods and Powers/Ares.md",
+    "Character Creation/Starter Kits.md",
+    "Mechanics/Dice mechanics.md",
+    "Mechanics/Afflictions.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gods and Powers/Artemis.md",
+    "Selene (1).pdf",
     "Gods and Powers/Hephaestus.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Character Creation/Level Up Chart.md",
@@ -266,8 +218,6 @@
     "Character Creation/Races.md",
     "Untitled.md",
     "Oracle Caves.png",
-    "Character Creation/Starter Kits.md",
-    "cult member.md",
     "universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg",
     "Images/Oracle Caves.png",
     "Images/Oracle Caves 1.png",

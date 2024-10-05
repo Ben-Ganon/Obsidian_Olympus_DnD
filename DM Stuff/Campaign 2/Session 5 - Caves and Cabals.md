@@ -1,5 +1,4 @@
-# Delphi Caves
-
+ # Delphi Caves
 # The Spiral
 - As the Heroes descend into the caves in the tight black spiral, each hero is shown a vision:
 	- Amara:

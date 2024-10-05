@@ -22,9 +22,9 @@ If the result is 1, attack the nearest closest ally. If none are nearby, you are
 ------------------
 <b><ins><i>Godly Infusion:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      2       |   1 CT    |   3 CT   |   -   | 
+| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
+| :------------: | :----------: | :-------: | :------: | :---: | --- |
+|       1        |      2       |  Instant  |   3 CT   |   -   |     |
 
 Gain a blood infusion from Ares, making you stronger and more resistant.
 For the duration, you gain <mark style="background: #045B00A6;">+15 Max Hp</mark>, 

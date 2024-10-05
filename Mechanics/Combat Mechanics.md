@@ -5,7 +5,7 @@
 	- Move, according to their Movespeed (Meters/CT) 
 	- Attack/take another action
 	- Take a bonus action
-- Instead of attacking, Characters can take other actions, such as using a Boon, doing some action in the world (Trying to knock over a small statue takes 1 CT).
+- Instead of attacking, Characters can take other actions, such as using a Boon, doing some action in the world (Trying to knock over a large statue takes 1 CT).
 - Some actions take no time at all and they are defined as Instant Actions.
 - These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
 - This can be done at any point in the turn.
@@ -19,9 +19,9 @@
 ![[Pasted image 20231103131033.png |150]]
 
 - In this example, the character has a water pot, a knife (Akinakes), a sword (Kopis), a shield (Aspis), and bronze armor (Panoply) all equipped to them.
-
-- The Ammo box represents the characters quiver over the shoulder.
-  If they have an [[Quivers#Assassins Quiver |Assassin's Quiver]], for example, they can hold in that slot up to 3 arrows/knives/axes.
+- The Ammo slot is only used for special ammunition types (like **magic** arrows) 
+- You have an infinite amount of **regular** arrows to shoot.
+- If you want to throw a knife or an axe, it must be equipped to you
 - The Back Box represents a large equipped item - 
   You can still hold small things there (like a water pot or a knife), but can also store a bow or a spear there.
 - The Extra Slots are small items - knives, pots, small orbs or any other small item.
@@ -49,24 +49,27 @@
 ### Attacking with weapon
 - To attack with a weapon, roll its offensive value.
 - The target can then choose to block the attack with their shield or weapon (according to their defensive stat), or dodge the attack with an Agility roll.
+- To do this, the target of the attack must make an Agility/Block roll of at least the attack roll
+- For example, if the attacker rolls an attack roll to get 10, then the defender must make an Agility/Blocking save of at least 10 to avoid the attack altogether. 
 - Melee attacks with a weapon can only be made to enemies adjacent to you (within 1 tile or 2 Meters).
+- Some weapons (like spears) have longer melee range
 ### Ranged Projectile Attacks (Arrows/Knives/Axes)
-- First, to fire a projectile one must have a bow and arrow and ammunition, or a knife/axe equipped.
+- First, to fire a projectile one must have a bow or a knife/axe equipped.
 - To fire the projectile, you must roll the offensive value of the bow/weapon for damage.
-- If the target is **in range**, this is treated like a normal attack, and **reaches the target automatically** (if not blocked).
-- If the target is **outside the range**, you must first **succeed on a DC 4 Dexterity** roll to land the attack.
-- In addition to this the **target can still block the projectile.**
-
+- If the target is **in range**, this is treated like a normal attack, and **reaches the target automatically** (Can Still be Blocked)
+- If the target is **outside the range**, you must first **succeed on a Dexterity roll equal to half the distance to land the attack**.\
+- For example, if an attacker uses a hunting bow, the attack automatically succeeds if the target is within 14 meters (7 squares). However, if the target is 20 meters away (10 squares), the attacker must succeed a DC 10 Dexterity saving throw to shoot the arrow accurately to the target. 
+- In addition to this the **target can still block or dodge the projectile.**
 ### Blocking
 - with a shield or with a sword - what can/cannot be blocked:
-	- You can block an attack with the defensive stat of your shield or weapon - you must roll a 4 or more to succeed the block.
+	- You can block an attack with the defensive stat of your shield or weapon - you must roll the same on block as the attack to successfully block the attack completely
 	- You cannot block blows from Large creatures
 	- You cannot block damage from magic like Boons (Waves, Lighting strikes, etc.)
 	- **You cannot block arrows with a weapon**.
 ### Damage reductions:
 - Your armor can reduce the damage you take (if an attack lands) by a fixed amount (1-10 flat reduction).
-- Additionally, magical armor can reduce some damage from magical abilities.
-- Regular armor cannot block blunt or magical damage.
+- Additionally, magical armor can reduce damage from magical abilities.
+- *Regular armor cannot block blunt or magical damage.*
 ### Armor Rating
 - Your Armor Rating (AR) is the amount of damage you block when a [[Combat Mechanics#Piercing Damage |piercing damage]] attack lands. This is calculated by summing all armor currently equipped to you.
 - For example - a character equipped with Heavy Bronze Armor and a Corinthian Helmet has an AR of 2 (Bronze armor) + 3 (Corinthian Helmet) = 5.
@@ -82,6 +85,7 @@
 - Until the target succeeds Might or you decide to end the grapple, the target remains grappled
 ### Attacking with a Boon:
 - Some Boons have offensive capabilities. 
+- *You must see the target of a boon if it is targeted ("pick a target in range")*
 - If a Boon says Instant cast time, you can use it as a bonus action at any point during your turn.
 - If a Boon says it takes 1 CT to cast, then you must use your action on that turn to cast it. The Boon takes effect immediately after you finish casting it.
 - If a boon is Instant, and you cast it at the beginning of your turn, then it starts applying this turn
@@ -91,9 +95,10 @@
 - | Cast | Cast | Effect | Effect | Effect | Regular Turn
 ### Death:
 - Upon the first time a Hero reaches 0 Hp or less, they are on the verge of death.
-- Every turn, the Hero must roll a Willpower save.
-- If they acquire 2 successes, they revive with 1 Hp.
+- Every turn, the Hero must roll a DC 4 <mark style="background: #A5A5A5;">Willpower</mark> save.
+- If they acquire 2 successes, they revive with 5 Hp.
 - If they acquire 2 fails, they die permanently.
+- If they acquire 1 fail and 1 success, they revive with 1 Hp
 ### Attacks of opportunity:
 If you are in an enemies attack range (melee weapon only) and move away from them, that enemy gets a free attack on you as you escape.
 ### Disengage

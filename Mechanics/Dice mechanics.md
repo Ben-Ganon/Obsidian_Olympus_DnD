@@ -4,7 +4,7 @@
 
 #### DC Checks
 - The DC (Difficulty Check) for each different action changes according to its difficulty
-- There is not specific number for each difficulty, but a good rule of thumb:
+- There is no specific number for each difficulty, but a good rule of thumb:
 	- 2-4 - Pretty easy, any regular average human could do it no problem, examples-
 		- Picking up a small rock
 		- Hitting a big target 1 meter away with a small rock
@@ -58,6 +58,7 @@
 	- I roll a 7
 	- I use the **Tear of Nyx** to gain **Godly Favor** and roll a d10 to get 3
 	- My total is 8 + 3 = 11 and I pass the DC
+- ***Tears of Nyx Reset Every Day***
 
 #### Advantage:
 - Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D12 and so on)
