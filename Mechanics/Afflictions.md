@@ -8,9 +8,7 @@ Target can still see and hear.
 Marked targets have a harder time concealing themselves from you, gaining [[Dice mechanics#Disadvantage|Disadvantage]] on all <mark style="background: #00BB4D;">stealth</mark> rolls. 
 Additionally, gain 6 movespeed towards marked targets. 
 A **Marked** target that is dealt damage from any source gets dealt <mark style="background: #930000A6;">1d6</mark> extra damage and the mark is removed.
-### Flanked
-To Flank a target, two enemies must be on either side of them (more than 90 degrees).
-Flanked targets have disadvantage [[Dice mechanics#Disadvantage|Disadvantage]] on block attempts.
+
 #### Grapple
 In order to grapple a target a hero must make an [[Dice mechanics#Opposed rolls |opposed]] Might roll against an enemy.
 Grappled targets are pinned to the ground (Prone) and cannot move, block or dodge.

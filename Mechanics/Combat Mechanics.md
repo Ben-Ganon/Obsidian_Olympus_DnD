@@ -120,17 +120,17 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 - Can be blocked by armor.
 - Can be blocked by shields
 ### Magic Damage
-- Magic damage is caused by some boons and other spells
-- Cannot crit 
+- Magic damage is caused by  boons and other magical effects like fire.
 - Cannot be blocked by non-magical armor or shields.
+- Magic damage from boons cannot be dodged unless stated otherwise.
 ### Reaction
 - Boons and other effects that can be cast on your turn as a reaction, meaning they only trigger and start their effect when something happens
-- This can happen not on your turn
-
-## Flanked 
-
+- This can happen not on your turn.
+### Flanking
+To Flank a target, two enemies must be on either side of them (more than 90 degrees separation).
+Flanked targets have [[Dice mechanics#Disadvantage|Disadvantage]] on block and dodge attempts.
 ### Fall Damage
-When a character falls, they take 1d4 damage for each 2 Meters they fall.
+When a character falls, they take 1d4 damage for each 4 Meters they fall.
 ### Swimming
 - When in calm water, a character can swim for half their movespeed.
 - If the character is in heavy armor (Klimakas, Corinthian Helmet), They must make a Might saving roll each turn or drown, taking 1d4 damage and falling beneath the waves, becoming Submerged.
