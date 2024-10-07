@@ -12,7 +12,7 @@
 - In the dense forests, a Nemean Lion stalks the Heroes as they traverse
 - They cannot beat it outright, and must flee unless they know how to beat it
 
-## The town of Thera
+## The Town of Thera
 - The townsfolk have all started to merge with the plant life, and also started to lose their minds and memories
 - The houses, the boats in the bay, the Agora, all overtaken by giant crawling green tendrils.
 - The townsfolk don't know exactly what's going on - only the local witch **Daphne** can remember anything
