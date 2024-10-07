@@ -15,6 +15,7 @@
 
 
 
+
 #### Weapons Damage Types
 Knives, Swords, and Axes do Melee [[Combat Mechanics#Piercing Damage |piercing damage]].
 When thrown, axes and knives do ranged [[Combat Mechanics#Piercing Damage |piercing damage]]

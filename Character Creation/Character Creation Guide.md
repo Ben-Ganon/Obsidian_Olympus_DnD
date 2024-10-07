@@ -8,7 +8,7 @@ To create your character, do the following steps:
 7. Then fill the [[Character Sheet.pdf|character sheet]] according to the following:
 	1. Each stat Starts out as 4, then the godly bonus is added according to your godly parent
 	2. Movespeed - it is exactly 2 times your Agility
-	3. Hp Max - exactly 4 times your Might
+	3. Hp Max - exactly 5 times your Might
 	4. Magical Armor rating - starts at 0
 	5. Armor Rating - Your [[Combat Mechanics#Armor Rating|Armor Rating]] is the sum of the armor and helmet equipped to you.
 	6. Level - 0

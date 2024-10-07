@@ -19,9 +19,9 @@ and gain +1 to the Might stat.
 
 <b><ins><i>Bull Charge:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
-|:--------------:|:------------:|:---------:|:--------:|:--------:|
-|       0        |      1       |   1 CT    |    -     | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
+| :------------: | :----------: | :-------: | :------: | :------: | --- |
+|       0        |      1       |  Instant  |    -     | 4 Meters |     |
 
 Charge an enemy with all your might.
 Move to an enemy in range, dealing your Might roll as [[Combat Mechanics#Blunt Damage |blunt]] damage.

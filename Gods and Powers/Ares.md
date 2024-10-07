@@ -33,11 +33,11 @@ and any damage against you is reduced by $\lceil25\%\rceil$.
 ------------------
 <b><ins><i>Dangerous Taunt:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       3        |      1       |  Instant  |   2 CT   | 6 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       3        |      1       |  Instant  |   2 CT   | 6 Meters |
 
-Taunt ***all*** creatures in range into combat, forcing them to attack you for the duration.  
+Taunt ***all*** creatures in range into combat, forcing them to move to you and then attack you for the duration.  
 They have [[Dice mechanics#Disadvantage|Disadvantage]] on all attack rolls and **Double** [[Dice mechanics#Disadvantage|Disadvantage]]  on all defense and dodge rolls
 During this time, you can attack another time each turn as a bonus action in the duration
 
@@ -72,7 +72,7 @@ Additionally, any enemy damaged in the duration grants you <mark style="backgrou
 |       5        |      1       |  Instant  |   3 CT   | 4 Meters |     |
 
 Gain valor of the strongest warriors.
-For the duration, your you gain [[Dice mechanics#Advantage |Advantage]]  to all block rolls and +2 Armor Rating,
+For the duration, you gain [[Dice mechanics#Advantage |Advantage]]  to all block rolls and +2 Armor Rating,
 Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max Hp</mark> for each enemy the radius when you cast this boon.
 
 ------------------
@@ -84,7 +84,7 @@ Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max 
 
 You channel Deimos, the god of terror.
 You appear as a war demon, terrifying nearby enemies.
-All enemies in the range must make a <mark style="background: #A5A5A5;">Willpower</mark> save or be [[Afflictions#Stunned |Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
+All enemies in the range must make an opposed <mark style="background: #A5A5A5;">Willpower</mark> save or be [[Afflictions#Stunned |Stunned]] for <mark style="background: #620075A6;">2 CT</mark>
 
 ------------------
 <b><ins><i>Hail of Blades:</i></ins></b>
@@ -94,14 +94,14 @@ All enemies in the range must make a <mark style="background: #A5A5A5;">Willpowe
 |       7        |      1       |   1 CT    |   3 CT   | 2 Meters | 
 
 Become surrounded by a vortex of Celestial Bronze weapons  
-While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
+While this is active, every creature in the radius must make an opposed <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 
 ------------------
 <b><ins><i>Vital Strike:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      2       |   1 CT    |    -     | 10 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       7        |      2       |   1 CT    |    -     | 10 Meters |     |
 
 Strike your foe with all the power of your enhanced vitality.
 Strike a target , deal $1 \over 1d4$ of your <mark style="background: #045B00A6;">Max Hp</mark> in [[Combat Mechanics#Blunt Damage |Blunt Damage]] to a target in range.
@@ -115,7 +115,7 @@ Afterwards, you lose all bonus Hp.
 |       9       |      1       |   1 CT    |   5 CT   |   -   | 
 Merge with Ares, god of bloodshed. 
 Become infused with godly spirit:  
-Gain <mark style="background: #045B00A6;">25 Max Hp</mark> and infuse you weapon with frenzied bloodlust, gaining Double [[Dice mechanics#Advantage |Advantage]]  to all attack rolls.  
+Gain <mark style="background: #045B00A6;">25 Max Hp</mark> and infuse you weapon with frenzied bloodlust, gaining Double [[Dice mechanics#Advantage |Advantage]] to all attack rolls.  
 Additionally, for the duration you are surrounded by a ***Hail of Blades***.
 
 ------------------
