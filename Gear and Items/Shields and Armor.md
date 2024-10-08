@@ -1,11 +1,11 @@
 ### Shields
 
-| Name             | Type                   | Defensive Value | Might Requirement |
-| ---------------- | ---------------------- |:---------------:|:-----------------:|
-| Peltast          | Wooden Crescent Shield |       1d6       |         -         |
-| Aspís            | Bronze Circle Shield   |       1d8       |         5         |
-| Aspída Pórtas    | Bronze Door Shield     |      1d12       |        11         |
-| aspída sfentónas | Sling Shield           |       1d6       |         -         |
+| Name             | Type                     | Defensive Value | Might Requirement |
+| ---------------- | ------------------------ | :-------------: | :---------------: |
+| Peltast          | Wooden Crescent Shield   |       1d6       |         -         |
+| Aspís            | Bronze Circle Shield     |       1d8       |         5         |
+| Aspída Pórtas    | Heavy Bronze Door Shield |      1d12       |        11         |
+| aspída sfentónas | Sling Shield             |       1d6       |         -         |
 
 ### Armor
 
