@@ -1,5 +1,6 @@
 - Our Heroes have vanquished Selene
 - They can receive [[The Prophecy from the Oracle]] 
+- In the room where the priests were being held, is a small obsidian box containing [[Black Key Blade]]
 - The Heroes can then travel anywhere in Greece, specifically to:
 	- Thera - Persephone is being held in the green inferno
 	- Gates of hades - where are they?
@@ -28,7 +29,7 @@
 - Every time someone goes out they are completely lost
 - If they do not return within the day, their shredded corpse turns up at the edge of the town
 - The path seems to be obscured by some wild magic
--  maybe godly essence can make them part way for her and get off the island?
+-  Maybe godly essence can make them part way for her and get off the island?
 ### Kastor
 - In the town hall, which was once made of shining white marble, is now overgrown madness
 - Every column is a pillar of green, every pool infested with lilies and weeds
@@ -76,3 +77,5 @@ Guards there:
 
 # Crete
 
+- Crete is the birthplace of both Minos and Zeus
+- 

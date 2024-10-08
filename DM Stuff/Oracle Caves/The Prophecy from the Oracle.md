@@ -12,14 +12,14 @@
 
 ----
 
-***The gates of Hades lie open on the Eurotas*** <br>
-***Heart of Thanatos awaits*** <br>
-***Awaken the Emperor she has*** <br>
+***The gates of Hades lie open*** <br>
+***The Heart of Thanatos awaits*** <br>
+***The Emperor she will awaken*** <br>
 ***Greece will bleed if he escapes the fates*** <br>
 
 -------
 
-***To the birthplace of Minos you must sail*** <br>
+***Will The birthplace of Zeus be the horned god's jail?*** <br>
 ***Save Olympus from the fire and the hail*** <br>
 ***A band of heroes, assembled before us*** <br>
 ***Shall break or mend the horns of Tauros*** <br>
