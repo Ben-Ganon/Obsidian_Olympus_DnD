@@ -12,7 +12,7 @@
 
 ----
 
-***The gates of Hades lie open In Eurotas*** <br>
+***The gates of Hades lie open on the Eurotas*** <br>
 ***Heart of Thanatos awaits*** <br>
 ***Awaken the Emperor she has*** <br>
 ***Greece will bleed if he escapes the fates*** <br>
