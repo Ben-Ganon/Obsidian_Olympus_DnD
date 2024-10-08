@@ -3,11 +3,12 @@
 ***Patron:***
 ***Race:***
 
-## Stats
+## Abilities
 
 | Might | Dexterity | Agility | Perception | Intuition | Charisma | Willpower |
 | ----- | --------- | ------- | ---------- | --------- | -------- | --------- |
 |       |           |         |            |           |          |           |
+
 
 ## Stats
 

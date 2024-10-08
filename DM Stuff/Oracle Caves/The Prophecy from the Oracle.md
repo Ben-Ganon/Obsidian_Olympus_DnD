@@ -30,7 +30,7 @@
 -------
 
 ***Who will remake the horned god's jail?*** <br>
-**Save Olympus from the fire and the hail** <br>
+***Save Olympus from the fire and the hail*** <br>
 ***A band of heroes, assembled before us*** <br>
 ***Shall break or mend the horns of Tauros*** <br>
 
