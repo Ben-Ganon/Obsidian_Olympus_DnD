@@ -122,7 +122,7 @@ You can spend 1 CT as an action to disengage enemies and then move away, prevent
 ### Magic Damage
 - Magic damage is caused by  boons and other magical effects like fire.
 - Cannot be blocked by non-magical armor or shields.
-- Magic damage from boons cannot be dodged unless stated otherwise.
+- Magic damage cannot be dodged or blocked unless stated otherwise.
 ### Reaction
 - Boons and other effects that can be cast on your turn as a reaction, meaning they only trigger and start their effect when something happens
 - This can happen not on your turn.

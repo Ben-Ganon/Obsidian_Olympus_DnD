@@ -17,10 +17,20 @@
 ***The Emperor she will awaken*** <br>
 ***Greece will bleed if he escapes the fates*** <br>
 
+---
+
+***On Crete you will find only tears and blood***
+
+***Where the heart of a cult is silently forming***
+
+***Over Greece they will pour over like a flood***
+
+***Only a Hero can stop the cult from storming***
+
 -------
 
-***Will The birthplace of Zeus be the horned god's jail?*** <br>
-***Save Olympus from the fire and the hail*** <br>
+***Who will remake the horned god's jail?*** <br>
+**Save Olympus from the fire and the hail** <br>
 ***A band of heroes, assembled before us*** <br>
 ***Shall break or mend the horns of Tauros*** <br>
 
@@ -31,35 +41,3 @@
 ***Death lies in Hades*** <br>
 
 -------
-
-***את ילדת הירח הבסתם*** <br>
-***אבל המסע רק התחיל*** <br>
-***לכל יוון כאב גרמתם*** <br>
-***אם המסע לא יצליח כליל*** <br>
-
--------
-
-***שערי השאול נפתחו*** <br>
-***לב המוות ממתין לכם שם*** <br>
-***הקיסר התעורר משנת מותו*** <br>
-***אם מגורלו יברח יוון תקיז דם*** <br>
-
--------
-
-***באי ת'רה***<br>
-***אביב נצחי שורר***<br>
-***נכדה של הרה***<br>
-***דם רבבות ממנו נוהר***<br>
-
------
-
-***לבסוף למקום לידתו של מינוס הפליגו מיד*** <br>
-***הצילו את אולימפוס מהאש והברד*** <br>
-***קבוצת גיבורים שהתאספו באחד*** <br>
-***יחיו או ימיתו את קרני הארד*** <br>
-
------
-
-***מקהלות שרות***<br>
-***על גיבורים אמיצים***<br>
-***המוות ממתין***<br>

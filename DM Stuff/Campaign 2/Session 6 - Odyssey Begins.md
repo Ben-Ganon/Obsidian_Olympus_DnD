@@ -1,6 +1,7 @@
 - Our Heroes have vanquished Selene
+- Level up to 4
 - They can receive [[The Prophecy from the Oracle]] 
-- In the room where the priests were being held, is a small obsidian box containing [[Black Key Blade]]
+- In the room where the priests were being held, is a small obsidian box containing the [[Black Key Blade]]
 - The Heroes can then travel anywhere in Greece, specifically to:
 	- Thera - Persephone is being held in the green inferno
 	- Gates of hades - where are they?
@@ -47,8 +48,8 @@
 - In the middle of the dense forest on the small mountain in the middle of the island, a large stone platform surrounded by giant stone columns stands in defiance of the green.
 - These stones are not the usual white marble, but something more ancient, as if carved of the mountain itself.
 - On the pillars and on the outskirts of the circle are carved a set of runes the Heroes do not recognize
-- Persephone is in the middle guarded by Atlas and many, many cult goons
-- The Heroes feel this would be a difficult fight
+- Persephone is in the middle guarded by Atlas and a squad of cult goons
+- The Heroes see this would be a difficult fight
 
 [[Atlas Character Sheet]]
 
@@ -78,4 +79,6 @@ Guards there:
 # Crete
 
 - Crete is the birthplace of both Minos and Zeus
-- 
+- Currently the base of [[The Cult of the Bull]]
+- Aphelios is there, both planning the invasion of Greece and waiting for Minos to return from the underworld
+- The players can try to infiltrate the cult 

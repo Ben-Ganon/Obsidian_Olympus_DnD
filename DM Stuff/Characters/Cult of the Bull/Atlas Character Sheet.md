@@ -26,8 +26,8 @@
 | **Hp Max**       | 65    |
 | Hp Current       |       |
 | **Armor Rating** | 6     |
-| Movespeed        |       |
-| Level            |       |
+| Movespeed        | 16    |
+| Level            | 7     |
 ## Boons
 
 | Boon Name       | Uses Per Day | Cast Time | Duration | Range     | Uses Left |
