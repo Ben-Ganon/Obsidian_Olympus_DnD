@@ -7,6 +7,17 @@
 	- Gates of hades - where are they?
 	- Birthplace of Minos (Crete)
 
+| Player     | Round 1 | Round 2     | Round 3     | Round 4 | Round 5 | Round 6 | Round 7 |
+| ---------- | ------- | ----------- | ----------- | ------- | ------- | ------- | ------- |
+| Hydra      | -       | fire damage | fire damage |         |         |         |         |
+| Thalassios | -       | -           |             |         |         |         |         |
+| Orphea     | -       |             |             |         |         |         |         |
+| Aeneas     | -       |             |             |         |         |         |         |
+| Amara      | -       |             |             |         |         |         |         |
+
+
+
+
 # Thera
 
 - Thera is an island overtaken by cancerous foliage and flowers
