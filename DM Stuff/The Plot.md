@@ -51,11 +51,11 @@ Aphelios sends out his followers to do these:
 2. Overtake the Oracle in Delphi to shift the tides of fate in his favor 
 3. Open the gate of Hades to release Minos
 
-Nyx, Daughter of Hades, is sent to Naxos, where a new portal to hades has opened.
+Nyx, Daughter of Hades, is sent to Sparta, where a new portal to hades has opened in a crevice in the Eurotas river.
 She will open a backdoor to hades with the Black Key, rescue Minos from hades and bring him to Delos, where Persephone is held to complete the ritual.
 Along with Minos come other souls of the undead, and monsters from Tartarus.
 
-Before she disappears into the gates in search of Minos, she splits the Black Key to three pieces to ensure the gate will not be closed, gives one part to Atlas, another to Selene and the third she keeps to herself.
+Before she disappears into the gates in search of Minos, she splits the Black Key to three pieces to ensure the gate will not be closed, gives one part to Atlas, another to Selene and the third she sends to Lysander
 
 After departing from the gate to hades, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
 
@@ -65,13 +65,11 @@ During all this, Aphelios is ruling the Cult from Crete, and rebuilding the isla
 Once Persephone is chained, and Minos is brought to Thera, Aphelios will join them and the ritual will commence.
 Where the Minoan Empire was vanquished, it will rise once more, stronger, more dangerous than ever, 
 
-Selene, on her way to the oracle, has her key piece stolen by an unsuspecting thief, and noticing he was heading towards Athens, sends Hector to retrieve it.
-
 Our Heroes start in Athens for the summer solstice, (which looks like winter solstice because Persephone's absence). 
 Zeus sends Hermes to assemble them.
 The heroes must travel to the island of Crete and free Persephone, defeat Aphelios and save Greece!
 
-During this time, Persephone has been missing for 6 months, Selene has overtaken the Oracle 3-4 months ago and Nyx is on her way to Minos in Tartarus.
+During this time, Persephone has been missing for 1-4 months, Selene has overtaken the Oracle some time ago and Nyx is on her way to Minos in Tartarus.
 
 
 #### Phase 1:

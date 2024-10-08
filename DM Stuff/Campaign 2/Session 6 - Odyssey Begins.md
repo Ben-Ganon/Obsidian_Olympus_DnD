@@ -48,6 +48,31 @@
 - On the pillars and on the outskirts of the circle are carved a set of runes the Heroes do not recognize
 - Persephone is in the middle guarded by Atlas and many, many cult goons
 - The Heroes feel this would be a difficult fight
+
+[[Atlas Character Sheet]]
+
+Guards there:
+
+| Guard | Hp max | Weapon             | Range     | Stats | Armor |
+| ----- | ------ | ------------------ | --------- | ----- | ----- |
+| 1     | 20     | War Hammer 1d12    | -         | 8     | 2     |
+| 2     | 20     | Kopis 1d10         | -         | 8     | 2     |
+| 3     | 10     | Lyre 1d4           | 10 Meters | 4     | -     |
+| 4     | 15     | Composite Bow 1d10 | 18        | 6     | -     |
+| 5     | 15     | Spear 2d6          | -         | 6     | -     |
+| 6     | 15     | Hammer 1d8         | -         | 6     | 1     |
+
+# The Gates of Hades
+
+- The gates of Hades are hard to find, since they keep moving all around Greece
+- They usually spawn near a river, lake, or stream
+- The only ones who would know where it's going to spawn next would be either priests of Hades or his children, someone with a deep connection to the underworld
+- At the Gates, the players find a scroll under a rock next to the entrance:
+  "To whoever finds this.
+  I hope it's you Lysander.
+  If you found this, it means I am still inside Hades looking for Minos in Tartarus. 
+  Don't close the Gates."
 - 
+
 # Crete
 

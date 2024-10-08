@@ -5,22 +5,21 @@
 ***Unless the quest is won*** <br>
 
 ----------
-
-***The gates of Hades lie open*** <br>
-***Thanatos' heart awaits*** <br>
-***The Emperor awoken*** <br>
-***Greece will bleed if he escapes the fates*** <br>
-
----------
-
 ***On the isle of Thera*** <br>
 ***Eternal Spring they hold*** <br>
 ***Grand-child of Hera*** <br>
 ***Has reaped fates untold*** <br>
 
+----
+
+***The gates of Hades lie open In Eurotas*** <br>
+***Heart of Thanatos awaits*** <br>
+***Awaken the Emperor she has*** <br>
+***Greece will bleed if he escapes the fates*** <br>
+
 -------
 
-***Finally to the birthplace of Minos you must sail*** <br>
+***To the birthplace of Minos you must sail*** <br>
 ***Save Olympus from the fire and the hail*** <br>
 ***A band of heroes, assembled before us*** <br>
 ***Shall break or mend the horns of Tauros*** <br>

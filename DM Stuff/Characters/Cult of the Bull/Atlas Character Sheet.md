@@ -25,7 +25,7 @@
 | ---------------- | ----- |
 | **Hp Max**       | 65    |
 | Hp Current       |       |
-| **Armor Rating** |       |
+| **Armor Rating** | 6     |
 | Movespeed        |       |
 | Level            |       |
 ## Boons
