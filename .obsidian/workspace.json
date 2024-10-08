@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gear and Items/Weapons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd920ed2a9f2b691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summonable Entities/Cerberus.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summonable Entities/Cerberus.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summonable Entities/Cerberus.md",
+                "file": "Mechanics/Combat Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summonable Entities/Cerberus.md"
+                "file": "Mechanics/Combat Mechanics.md"
               }
             }
           }
@@ -189,14 +176,65 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd920ed2a9f2b691",
+  "floating": {
+    "id": "b1ca76837a5566ad",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3d1933d4c5d9e1f0",
+        "type": "window",
+        "children": [
+          {
+            "id": "b0c0a6c50c6154e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abe671e9e74b22a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mechanics/Combat Mechanics.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9ef89968e556d6c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gear and Items/Weapons.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1257,
+        "y": 115,
+        "width": 1024,
+        "height": 671,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "abe671e9e74b22a8",
   "lastOpenFiles": [
+    "Gear and Items/Weapons.md",
+    "Mechanics/Combat Mechanics.md",
+    "Summonable Entities/Cerberus.md",
     "universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0.jpg",
     "Templates/Markdown Creature Sheet.md",
     "Templates/Markdown Character Sheet.md",
     "Character Creation/God Bonus Stat Chart.md",
     "Templates/Magic Damage.md",
-    "Summonable Entities/Cerberus.md",
     "DM Stuff/Campaign 2/Session 6 - Odyssey Begins.md",
     "DM Stuff/Oracle Caves/The Prophecy from the Oracle.md",
     "DM Stuff/Characters/Cult of the Bull/Atlas Character Sheet.md",
@@ -204,8 +242,6 @@
     "Gear and Items/Quivers.md",
     "Gear and Items/Shields and Armor.md",
     "Mechanics/Afflictions.md",
-    "Mechanics/Combat Mechanics.md",
-    "Gear and Items/Weapons.md",
     "DM Stuff/Oracle Caves/Oracle Prophecy Print.md",
     "Character Creation/Level Up Chart.md",
     "DM Stuff/Items/The Black Key/The Black Key.md",
@@ -230,7 +266,6 @@
     "Images/AlbedoBase_XL_a_black_hammer_streaked_with_gold_in_with_Ancien_2.jpg",
     "Info and Values/Character Sheet.pdf",
     "Info and Values/Dead_Frost_Play_Aids.pdf",
-    "Images/DALL·E 2024-09-11 14.35.02 - A digital illustration-style artwork of a Greek hero who is a strong, slightly muscular woman with bronze scaly skin that ends on her cheeks. Her body.png",
     "Images/Owl Sentry.pdf",
     "DM Stuff/Items",
     "DM Stuff/Characters/Athenians",
