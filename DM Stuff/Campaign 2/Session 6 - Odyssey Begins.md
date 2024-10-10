@@ -10,21 +10,22 @@
 | Player     | Round 1 | Round 2     | Round 3     | Round 4 | Round 5 | Round 6 | Round 7 |
 | ---------- | ------- | ----------- | ----------- | ------- | ------- | ------- | ------- |
 | Hydra      | -       | fire damage | fire damage |         |         |         |         |
-| Thalassios | -       | -           |             |         |         |         |         |
-| Orphea     | -       |             |             |         |         |         |         |
-| Aeneas     | -       |             |             |         |         |         |         |
-| Amara      | -       |             |             |         |         |         |         |
+| Thalassios | -       | -           | -           |         |         |         |         |
+| Orphea     | -       | -           | -           |         |         |         |         |
+| \]Aeneas   | -       | -           | -           |         |         |         |         |
+| Amara      | -       | -           |             |         |         |         |         |
 
 
-
-
-# Thera
-
+# Tera
+89 
 - Thera is an island overtaken by cancerous foliage and flowers
 - the small town on the bay has been overtaken by weeds and cannot be accessed by boat 
 - In the dense forests, a Nemean Lion stalks the Heroes as they traverse
 - In the forest, they can see a mysterious **red flower with a golden dewy substance flowing from it**
-- They cannot beat it outright, and must flee unless they know how to beat it
+- They cannot beat it outright, and 
+- ]'                                                       kjl;j';
+-  
+-  ust flee unless they know how to beat it
 
 ## The Town of Thera
 - The townsfolk have all started to merge with the plant life, and also started to lose their minds and memories

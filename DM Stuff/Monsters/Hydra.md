@@ -14,7 +14,7 @@
 
 | Stat            | Value |
 | --------------- | ----- |
-| Hp Max          | 47    |
+| Hp Max          | 9     |
 | Hp Current      |       |
 | Piercing damage |       |
 | Armor Rating    | -     |

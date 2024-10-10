@@ -176,56 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "b1ca76837a5566ad",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3d1933d4c5d9e1f0",
-        "type": "window",
-        "children": [
-          {
-            "id": "b0c0a6c50c6154e4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "abe671e9e74b22a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mechanics/Combat Mechanics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9ef89968e556d6c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gear and Items/Weapons.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1257,
-        "y": 115,
-        "width": 1024,
-        "height": 671,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "abe671e9e74b22a8",
+  "active": "49f11f9d570dafac",
   "lastOpenFiles": [
     "Gear and Items/Weapons.md",
     "Mechanics/Combat Mechanics.md",
