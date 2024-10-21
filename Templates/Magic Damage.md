@@ -1,1 +1,1 @@
-[[Combat Mechanics#Magic Damage | magic damage]] 
+[[Combat Mechanics#Magic Damage|magic damage]] 
