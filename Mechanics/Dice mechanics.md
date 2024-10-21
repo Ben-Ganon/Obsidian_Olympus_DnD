@@ -1,6 +1,15 @@
 - In the Olympus DnD game, every attribute (strength, agility, wisdom ) value corresponds to a different dice roll (in [[Character Sheet.pdf]]])
 - For example, having an Agility Value of 5 will mean you roll a D6 for agility checks. 
-- having a value of 17+ means rolling a D20.
+- Full dice mapping:
+
+	| Value | Dice |
+	| ----- | ---- |
+	| 1-4   | d4   |
+	| 5-7   | d6   |
+	| 8-10  | d8   |
+	| 11-13 | d10  |
+	| 14-16 | d12  |
+	| 17+   | d20  |
 
 #### DC Checks
 - The DC (Difficulty Check) for each different action changes according to its difficulty

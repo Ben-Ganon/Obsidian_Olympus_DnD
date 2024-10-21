@@ -16,7 +16,9 @@
     "Might2": "#4886FF",
     "Charisma": "#FF3FAC",
     "Perception": "#FFE258",
-    "Distance": "#6CF2FF"
+    "Distance": "#6CF2FF",
+    "Hermes-Healing": "#4FFF9E",
+    "Hermes-Stealing": "#FF9B4F"
   },
   "highlighterOrder": [
     "Time",
@@ -33,6 +35,8 @@
     "Might2",
     "Charisma",
     "Perception",
-    "Distance"
+    "Distance",
+    "Hermes-Healing",
+    "Hermes-Stealing"
   ]
 }
