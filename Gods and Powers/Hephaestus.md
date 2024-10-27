@@ -57,7 +57,7 @@ Or, give a piece of armor +3 to armor rating and magical armor rating for the du
 | :------------: | :----------: | :-------: | :------: | :---: | --- |
 |       3        |      1       |   1 CT    | 3 Hours  |   -   |     |
 
-Craft nifty gadgets for your party, after a duration they fall apart:
+- Craft nifty gadgets for your party, after a duration they fall apart:
 
 - <b><ins><i>Rabbit Automaton:</i></ins></b>
 Craft a rabbit automaton to scout for your party.

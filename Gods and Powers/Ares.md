@@ -12,8 +12,8 @@ Children of Ares play as either front line tanks that absorb damage for their pa
 <b><ins><i>Rage:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
-|:--------------:|:------------:|:---------:|:--------:|:-----:|
-|       1        |      2       |  Instant  |   3 CT   |   -   | 
+| :------------: | :----------: | :-------: | :------: | :---: |
+|       1        |      2       |  Instant  |   3 CT   |   -   |
 
 Gain massive strength, but lose the ability to differ between friend and foe. <br> Gain [[Dice mechanics#Advantage |Advantage]] on all <mark style="background: #930000A6;">attack</mark> rolls, but each time you attack roll 1d8. 
 If the Result is 8, attack the nearest enemy (bonus attack).
@@ -22,9 +22,9 @@ If the result is 1, attack the nearest closest ally. If none are nearby, you are
 ------------------
 <b><ins><i>Godly Infusion:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
-| :------------: | :----------: | :-------: | :------: | :---: | --- |
-|       1        |      2       |  Instant  |   3 CT   |   -   |     |
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+| :------------: | :----------: | :-------: | :------: | :---: |
+|       1        |      2       |  Instant  |   3 CT   |   -   |
 
 Gain a blood infusion from Ares, making you stronger and more resistant.
 For the duration, you gain <mark style="background: #045B00A6;">+15 Max Hp</mark>, 
@@ -44,20 +44,20 @@ During this time, you can attack another time each turn as a bonus action in the
 ------------------
 <b><ins><i>Blood Weapon:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration | Range |     |
-| :------------: | :----------: | :-------: | :------: | :---: | --- |
-|       3        |      1       |  Instant  |   3 CT   |   -   |     |
+| Level Required | Uses Per Day | Cast Time | Duration | Range |
+| :------------: | :----------: | :-------: | :------: | :---: |
+|       3        |      1       |  Instant  |   3 CT   |   -   |
 
-Summon a weapon infused with the blood of Ares.
+- Summon one weapon infused with the blood of Ares.
 (you can also temporarily transform your current weapon)
-<b><ins><i>War Bow:</i></ins></b>
-Rain arrows in a <mark style="background: #6CF2FF;">2 Meter </mark>Radius around a point up to <mark style="background: #6CF2FF;">20 Meters</mark> away.
+- <b><ins><i>War Bow:</i></ins></b>
+Rain arrows in a <mark style="background: #6CF2FF;">4 Meter </mark>Radius around a point up to <mark style="background: #6CF2FF;">20 Meters</mark> away.
 Each enemy in the area must make a blocking save or take <mark style="background: #930000A6;">1d6</mark> damage
-<b><ins><i>Spear:</i></ins></b>
+- <b><ins><i>Spear:</i></ins></b>
 The blood spear attacks and defends for <mark style="background: #930000A6;">1d12</mark>. 
 You can also sweep attack with the spear dealing <mark style="background: #930000A6;">1d6</mark> damage to all enemies in a <mark style="background: #6CF2FF;">2 Meter</mark> range.
 (Considered 1 attack)
-<b><ins><i>Xiphos:</i></ins></b>
+- <b><ins><i>Xiphos:</i></ins></b>
 You can attack 3 times per CT, dealing <mark style="background: #930000A6;">1d6</mark> each time.
 Each attack is considered separate.
 Every time an enemy is hit by the Xiphos, heal <mark style="background: #045B00A6;">half of 1d4 </mark>
@@ -67,9 +67,9 @@ Additionally, any enemy damaged in the duration grants you <mark style="backgrou
 ------------------
 <b><ins><i>Combat Valor:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       5        |      1       |  Instant  |   3 CT   | 4 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       5        |      1       |  Instant  |   3 CT   | 6 Meters |
 
 Gain valor of the strongest warriors.
 For the duration, you gain [[Dice mechanics#Advantage |Advantage]]  to all block rolls and +2 Armor Rating,
@@ -78,9 +78,9 @@ Additionally, for the duration gain <mark style="background: #045B00A6;">+5 Max 
 ------------------
 <b><ins><i>Terrify:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      2       |   1 CT    |    -     | 4 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       5        |      2       |  Instant  |    -     | 4 Meters |
 
 You channel Deimos, the god of terror.
 You appear as a war demon, terrifying nearby enemies.
@@ -89,12 +89,12 @@ All enemies in the range must make an opposed <mark style="background: #A5A5A5;"
 ------------------
 <b><ins><i>Hail of Blades:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       7        |      1       |   1 CT    |   3 CT   | 2 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       7        |      1       |   1 CT    |   3 CT   | 4 Meters |
 
 Become surrounded by a vortex of Celestial Bronze weapons  
-While this is active, every creature in the radius must make an opposed <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
+While this is active, every creature in the radius must make a <mark style="background: #00BB4D;">Dexterity</mark> save each turn or take <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] .
 
 ------------------
 <b><ins><i>Vital Strike:</i></ins></b>

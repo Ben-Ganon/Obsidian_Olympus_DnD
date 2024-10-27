@@ -31,9 +31,9 @@ If out of combat, can be used on all heroes you choose in range, and lasts for a
 |       1        |      2       |  Instant  |   1 CT   | 10 Meters |     |
 
 Channel Eros, god of carnal love to confuse enemies around you.
-**In Combat:**
+- **In Combat:**
 	All enemies within the range gain [[Dice mechanics#Disadvantage|Disadvantage]] to all <mark style="background: #930000A6;">attack</mark> rolls on you until your next turn.
-**Out of Combat:**
+- **Out of Combat:**
 	All enemies within the range gain [[Dice mechanics#Disadvantage|Disadvantage]] to <mark style="background: #FF3FAC;">Charisma</mark> and <mark style="background: #FFE258;">Perception</mark> rolls against you for the duration
 
 ------------------

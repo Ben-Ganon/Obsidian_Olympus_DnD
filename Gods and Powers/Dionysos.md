@@ -15,11 +15,10 @@ Children of Dionysos can support the party and poison enemies, either with taint
 | :------------: | :----------: | :-------: | :------: | :------: | --- |
 |       1        |      2       |  Instant  |   3 CT   | 2 Meters |     |
 
-Bless a nearby liquid container in range to become either form of Sacred Booze.
-Can be either - 
-- Sacred Wine - Heal for <mark style="background: #00A521A6;">1d8</mark>
-- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] when in contact with a creature. 
-This booze evaporates after the duration.
+- Bless a nearby liquid container in range to become either form of Sacred Booze. Can be either - 
+	- Sacred Wine - Heal for <mark style="background: #00A521A6;">1d8</mark>
+	- Sacred Spirit - Inflict <mark style="background: #9E0000A6;">1d8</mark> [[Combat Mechanics#Magic Damage |magic damage]] when in contact with a creature. 
+- This booze evaporates after the duration.
 This container can be thrown up to 2 + <mark style="background: #000B67A6;">Might</mark> Meters away from you, to explode and effect all creatures in a 2 Meter radius around the impact point.
 
 ------------------

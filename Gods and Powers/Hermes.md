@@ -27,8 +27,8 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 |       1        |      3       |  Instant  |    -     | 14 Meters |
 
 - Pick a target in range, and:
-- <mark style="background: #4FFF9E;">Healing</mark> - Prescribe some medication - Heal it for <mark style="background: #045B00A6;">1d6</mark>
-- <mark style="background: #FF9B4F;">Dealing</mark> - Throw a magical dagger - Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic damage]]  to it.
+	- <mark style="background: #4FFF9E;">Healing</mark> - Prescribe some medication - Heal it for <mark style="background: #045B00A6;">1d6</mark>
+	- <mark style="background: #FF9B4F;">Dealing</mark> - Throw a magical dagger - Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic damage]]  to it.
 
 ------------------
 <b><ins><i>Sneak/Seek:</i></ins></b>
@@ -38,8 +38,8 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 |       3        |      3       |  Instant  |    -     | 14 Meters |
 
 - Pick a target in range:
-- <mark style="background: #4FFF9E;">Sneak</mark> - The target gains [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Dexterity</mark> and Dodge rolls, and **Double** [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Stealth</mark> rolls
-- <mark style="background: #FF9B4F;">Seek</mark> - The target becomes vulnerable, and the next attack to land on them gains a bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage | magic damage]] 
+	- <mark style="background: #4FFF9E;">Sneak</mark> - The target gains [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Dexterity</mark> and Dodge rolls, and **Double** [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Stealth</mark> rolls
+	- <mark style="background: #FF9B4F;">Seek</mark> - The target becomes vulnerable, and the next attack to land on them gains a bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage | magic damage]] 
 
 ------------------
 <b><ins><i>Antidote/Poison:</i></ins></b>
@@ -50,8 +50,8 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 
 - Create a small vial with a clear, odorless liquid in it. 
 - It can be drank or thrown <mark style="background: #3800D7A6;">Might</mark> meters to explode in a 10x10 Meter area 
-- <mark style="background: #4FFF9E;">Antidote</mark> - drink to heal for <mark style="background: #045B00A6;">1d20</mark> or throw to heal all creatures in the area for <mark style="background: #045B00A6;">1d8</mark>
-- <mark style="background: #FF9B4F;">Poison</mark> - the vial can be drank to deal <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Magic Damage|magic damage]] or thrown to deal <mark style="background: #930000A6;">1d8</mark> to all creatures in the area
+	- <mark style="background: #4FFF9E;">Antidote</mark> - drink to heal for <mark style="background: #045B00A6;">1d20</mark> or throw to heal all creatures in the area for <mark style="background: #045B00A6;">1d8</mark>
+	- <mark style="background: #FF9B4F;">Poison</mark> - the vial can be drank to deal <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Magic Damage|magic damage]] or thrown to deal <mark style="background: #930000A6;">1d8</mark> to all creatures in the area
 
 ------------------
 <b><ins><i>Lucky/Cursed</i></ins></b>
@@ -60,16 +60,16 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 | :------------: | :----------: | :-------: | :------: | :---: |
 |       7        |      1       |  Instant  |    -     |   -   |
 
-<mark style="background: #4FFF9E;">Lucky</mark> - You can max out one roll of any kind.
+- <mark style="background: #4FFF9E;">Lucky</mark> - You can max out one roll of any kind.
 (even if the roll is multiple dice like 3d4, when using this it's as if you rolled 4 4 4)
-<mark style="background: #FF9B4F;">Cursed</mark> - Choose a roll of a target. It becomes 1.
+- <mark style="background: #FF9B4F;">Cursed</mark> - Choose a roll of a target. It becomes 1.
 
 ------------------
 <b><ins><i>Aspect of Healing:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |
 | :------------: | :----------: | :-------: | :------: |
-|       9        |      1       |   1 CT    |   3 CT   |
+|       9        |      1       |  Instant  |   3 CT   |
 
 Merge with Hermes, god of Medicine.
 Gain <mark style="background: #045B00A6;">5 Hp</mark>, and double all healing effects from your boons for the duration
@@ -79,7 +79,7 @@ Gain <mark style="background: #045B00A6;">5 Hp</mark>, and double all healing ef
 
 | Level Required | Uses Per Day | Cast Time | Duration |
 | :------------: | :----------: | :-------: | :------: |
-|       9        |      1       |  Insant   |   3 CT   |
+|       9        |      1       |  Instant  |   3 CT   |
 
 Merge with Hermes, god of Assassins.
 Gain <mark style="background: #045B00A6;">5 Hp</mark>, and double all Damage effects from your boons for the duration
@@ -90,5 +90,5 @@ Gain <mark style="background: #045B00A6;">5 Hp</mark>, and double all Damage eff
 | :------------: | :----------: | :-------: | :------: |
 |       9        |      1       |  Instant  |   1 CT   |
 
-Merge with Hermes, god of everything.
+Merge with Hermes, god of Luck.
 Gain <mark style="background: #045B00A6;">5 Hp</mark>, and become Lucky for the duration, maxing out any and all rolls
