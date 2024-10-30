@@ -31,15 +31,16 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 	- <mark style="background: #FF9B4F;">Dealing</mark> - Throw a magical dagger - Deal <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Magic Damage|magic damage]]  to it.
 
 ------------------
-<b><ins><i>Sneak/Seek:</i></ins></b>
+<b><ins><i>Boost/Paralyze:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |   Range   |
 | :------------: | :----------: | :-------: | :------: | :-------: |
-|       3        |      3       |  Instant  |    -     | 14 Meters |
+|       3        |      2       |  Instant  |    -     | 14 Meters |
 
-- Pick a target in range:
-	- <mark style="background: #4FFF9E;">Sneak</mark> - The target gains [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Dexterity</mark> and Dodge rolls, and **Double** [[Dice mechanics#Advantage |Advantage]] on <mark style="background: #00BB4D;">Stealth</mark> rolls
-	- <mark style="background: #FF9B4F;">Seek</mark> - The target becomes vulnerable, and the next attack to land on them gains a bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Magic Damage | magic damage]] 
+-  Create a small vial with a yellow, smelly liquid in it. 
+- It can be drank or thrown <mark style="background: #3800D7A6;">Might</mark> meters to explode in a 6x6 Meter area 
+	- <mark style="background: #4FFF9E;">Boost</mark> - All targets in the area gain +5 to their max HP until the end of combat
+	- <mark style="background: #FF9B4F;">Paralyze</mark> - All targets in the area are [[Afflictions#Stunned |Stunned]] for 1 CT 
 
 ------------------
 <b><ins><i>Antidote/Poison:</i></ins></b>
@@ -48,7 +49,7 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 | :------------: | :----------: | :-------: | :------: | :---: |
 |       5        |      2       |   1 CT    |    -     |   -   |
 
-- Create a small vial with a clear, odorless liquid in it. 
+- Create a small bottle with a clear, odorless liquid in it. 
 - It can be drank or thrown <mark style="background: #3800D7A6;">Might</mark> meters to explode in a 10x10 Meter area 
 	- <mark style="background: #4FFF9E;">Antidote</mark> - drink to heal for <mark style="background: #045B00A6;">1d20</mark> or throw to heal all creatures in the area for <mark style="background: #045B00A6;">1d8</mark>
 	- <mark style="background: #FF9B4F;">Poison</mark> - the vial can be drank to deal <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Magic Damage|magic damage]] or thrown to deal <mark style="background: #930000A6;">1d8</mark> to all creatures in the area

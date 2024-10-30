@@ -8,37 +8,68 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49f11f9d570dafac",
+            "id": "ccc371473137b54b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Powers/Hermes.md",
+                "file": "Gods and Powers/Ares.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hermes"
+              "title": "Ares"
             }
           },
           {
-            "id": "eec11f3dd1514998",
+            "id": "d6d50bcb61a7cfc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Character Creation Guide.md",
+                "file": "Character Creation/Starter Kits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation Guide"
+              "title": "Starter Kits"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6d239ff1dda990a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea6e5b8bd1af340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "021603cd18e0b332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gear and Items/Shields and Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shields and Armor"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,35 +246,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eec11f3dd1514998",
+  "active": "ccc371473137b54b",
   "lastOpenFiles": [
-    "Gods and Powers/Hermes.md",
-    "Info and Values/Character Sheet.pdf",
-    "Character Creation/Character Creation Guide.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "Gods and Powers/Tauros.md",
-    "Gods and Powers/Zeus.md",
-    "Gods and Powers/Aphrodite.md",
-    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
+    "Gods and Powers/Aphrodite.md",
+    "Gods and Powers/Poseidon.md",
     "Gods and Powers/Dionysos.md",
+    "Gods and Powers/Hades.md",
+    "Gods and Powers/Hermes.md",
+    "Gods and Powers/Zeus.md",
+    "Mechanics/Afflictions.md",
+    "Character Creation/Starter Kits.md",
+    "Gear and Items/Weapons.md",
+    "Character Creation/God Bonus Stat Chart.md",
+    "Gear and Items/Shields and Armor.md",
+    "Character Creation/Races.md",
+    "Character Creation/Character Creation Guide.md",
+    "Info and Values/Character Sheet.pdf",
+    "Gods and Powers/Tauros.md",
+    "Gods and Powers/Apollo.md",
     "Gods and Powers/Hephaestus.md",
     "Templates/Magic Damage.md",
     "Mechanics/Combat Mechanics.md",
-    "Gods and Powers/Hades.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Demeter.md",
-    "Gear and Items/Weapons.md",
     "Mechanics/Dice mechanics.md",
     "Summonable Entities/Cerberus.md",
     "universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0.jpg",
     "Templates/Markdown Creature Sheet.md",
     "Templates/Markdown Character Sheet.md",
-    "DM Stuff/Campaign 2/Session 6 - Odyssey Begins.md",
-    "DM Stuff/Oracle Caves/The Prophecy from the Oracle.md",
-    "DM Stuff/Characters/Cult of the Bull/Atlas Character Sheet.md",
-    "Gear and Items/Quivers.md",
-    "Gear and Items/Shields and Armor.md",
     "DM Stuff/Items/The Black Key",
     "Selene (1).pdf",
     "Oracle Caves.png",
