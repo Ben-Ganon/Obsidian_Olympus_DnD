@@ -84,8 +84,8 @@ Craft a heavy, complicated crossbow that only a child of Hephaestus can operate.
 The crossbow can fire 3 times before it dismantles.
 All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] and have 1 additional effect:
 - **_Greek Fire Arrow_** - Arrow coated in Greek fire that can light the target on fire for 3 CT if the shot is not blocked or dodged.
-- **_Heavy Arrow_** - enemies trying to block this gain -2 to their block save.
-- **_Exploding Arrow_** - If the hits, deal an extra <mark style="background: #930000A6;">1d4</mark> [[Combat Mechanics# Damage |magic damage]].
+- **_Heavy Arrow_** - enemies trying to block this gain [[Dice mechanics#Disadvantage|Disadvantage]] to their block save.
+- **_Exploding Arrow_** - If the arrow hits, deal an extra <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics# Damage |magic damage]].
 - **_Net Arrow_** - enemies hit must make an <mark style="background: #004A4CA6;">Agility</mark> save or be stunned for 1 CT
 
 ------------------

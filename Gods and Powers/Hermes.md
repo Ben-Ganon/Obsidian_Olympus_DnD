@@ -38,7 +38,7 @@ Swap the effects of all your other boons from <mark style="background: #4FFF9E;"
 |       3        |      2       |  Instant  |    -     | 14 Meters |
 
 -  Create a small vial with a yellow, smelly liquid in it. 
-- It can be drank or thrown <mark style="background: #3800D7A6;">Might</mark> meters to explode in a 6x6 Meter area 
+- It can be drank or thrown <mark style="background: #00BB4D;">Dexterity</mark> $\cdot$ 2 meters to explode in a 6x6 Meter area 
 	- <mark style="background: #4FFF9E;">Boost</mark> - All targets in the area gain +5 to their max HP until the end of combat
 	- <mark style="background: #FF9B4F;">Paralyze</mark> - All targets in the area are [[Afflictions#Stunned |Stunned]] for 1 CT 
 

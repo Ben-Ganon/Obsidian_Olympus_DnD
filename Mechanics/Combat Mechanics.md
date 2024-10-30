@@ -56,8 +56,8 @@
 ### Ranged Projectile Attacks (Arrows/Knives/Axes)
 - First, to fire a projectile one must have a bow or a knife/axe equipped.
 - To fire the projectile, you must roll the offensive value of the bow/weapon for damage.
-- If the target is **in range**, this is treated like a normal attack, and **reaches the target automatically** (Can Still be Blocked)
-- If the target is **outside the range**, you must first **succeed on a Dexterity roll equal to half the distance to land the attack**.\
+- If the target is **in range**, this is treated like a normal attack, and **reaches the target automatically** (Can Still be Blocked or Dodged)
+- If the target is **outside the range**, you must first **succeed on a Dexterity roll equal to half the distance to land the attack**.
 - For example, if an attacker uses a hunting bow, the attack automatically succeeds if the target is within 14 meters (7 squares). However, if the target is 20 meters away (10 squares), the attacker must succeed a DC 10 Dexterity saving throw to shoot the arrow accurately to the target. 
 - In addition to this the **target can still block or dodge the projectile.**
 ### Blocking
@@ -143,5 +143,6 @@ When a character falls, they take 1d4 damage for each 4 Meters they fall.
 - every movement you make towards or near the target/s, make a <mark style="background: #00BB4D;">Dexterity</mark> saving roll to determine whether you are seen.
 ### Sneak Attack
 - If you have been unseen by an enemy until now and adjacent to them (on an adjacent tile or otherwise within 2 Meters of them) you gain a bonus <mark style="background: #930000A6;">1d6</mark> damage to whatever attack you make on them. 
+- Sneak attacks performed with a Knife or Stilleto Dagger gain a bonus of <mark style="background: #930000A6;">1d8</mark> damage instead
 - This breaks the sneaking, and all adjacent enemies are now aware of your presence. 
 - PC's who try to evade a sneak attack suffer [[Dice mechanics#Disadvantage|Disadvantage]] to dodge and block attempts

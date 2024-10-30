@@ -71,21 +71,24 @@
 
 #### Advantage:
 - Getting a Advantage on a roll means upgrading the dice you roll with (+1 on a D6 means a D8, +2 on a D8 means D12 and so on)
-- Having a value that is beyond the maximum (for example having 13 strength and then getting a +1 for strength rolls means you roll a D20 twice, then take the highest value).
+- Having a value that is beyond the maximum (for example having 17 Might) and then getting advantage for strength rolls means you roll a D20 twice, then take the highest value.
 
 #### Disadvantage:
-- Getting -1 on a roll is exactly the same as getting +1.
+- Getting disadvantage on a roll is exactly the same as getting Advantage, but opposite.
 - If you roll with a d6, and have -1, roll a d4 instead.
 - If you are rolling with a d4 and have disadvantage, roll 2d4 and take the lowest result.
 
 #### Stacking advantage/disadvantage:
 - Advantage and disadvantage can stack - 
-- If you have +1 from one source and -1 from another, you roll regularly.
-- If you have +2 from one source and -1 from another, you roll with +1.
+- If you have advantage from one source and Disadvantage from another, you roll regularly.
+- If you have double Advantage from one source and Disadvantage from another, you roll with regular Advantage.
 
 #### Opposed rolls:
 - Opposed rolls are dice rolls you make vs. an opponent.
-- You both roll the same stat (Might, Agility, etc.) and to "win" the opposed roll you must roll at least 1 more than your opponent.
+- You both roll the same stat (Might, Agility, etc.) and to "win" the opposed roll you must roll at least like your opponent (favor to PC's)
+- For example - if I make a grapple check against an opponent, we both roll Might - 
+	- If we both roll 6, I win and grapple the opponent
+	- If he rolls 6 and I roll 5, I lose the grapple
 - If you are making an opposed roll against multiple enemies, you roll only once.
 
 
