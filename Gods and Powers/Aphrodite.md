@@ -89,8 +89,8 @@ Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save or be stunned in terror for 1 CT.
-Additionally, Gain Metal Claws that deal <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
-Each enemy slain with these claws restores <mark style="background: #045B00A6;">1d4</mark> health to you.
+Additionally, Gain Metal Claws that you can use as a **bonus action** that deal <mark style="background: #930000A6;">1d12</mark> [[Combat Mechanics#Piercing Damage |piercing]] damage each attack for the duration.
+Each time you hit an enemy with these claws restore <mark style="background: #045B00A6;">1d4</mark> health to you.
 
 ------------------
 <b><ins><i>Jealousy:</i></ins></b>
