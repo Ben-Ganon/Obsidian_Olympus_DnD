@@ -59,7 +59,7 @@ Before she disappears into the gates in search of Minos, she splits the Black Ke
 
 After departing from the gate to hades, Selene is sent to Delphi to overtake the Oracle with the help of the cult, in order to blind the gods and prevent new heroes from trying to stop Aphelios.
 
-Atlas is sent with some magically gifted followers to Thera, where they chain Persephone to the Ruined Temple of Tauros on the island.
+Atlas is sent with some followers to Thera, where they chain Persephone to the Ruined Temple of Tauros on the island.
 
 During all this, Aphelios is ruling the Cult from Crete, and rebuilding the island.
 Once Persephone is chained, and Minos is brought to Thera, Aphelios will join them and the ritual will commence.

@@ -15,6 +15,7 @@
 | ---------- | ------------- | ------------- | ----- |
 | War Hammer | 1d12 Blunt    | -             |       |
 
+
 ## Armor
 
 - Corinthian Helmet

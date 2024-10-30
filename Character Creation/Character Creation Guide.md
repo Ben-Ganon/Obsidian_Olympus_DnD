@@ -13,9 +13,10 @@ To create your character, do the following steps:
 	3. Hp Max - exactly 5 times your Might
 	4. Magical Armor rating - starts at 0
 	5. Armor Rating - Your [[Combat Mechanics#Armor Rating|Armor Rating]] is the sum of the armor and helmet equipped to you.
-	6. Level - 0
-	7. Size Category - medium
-	8. (Fill Out the [[Character Sheet.pdf|character sheet]] in printed form or fill it out digitally in the Canva Form: [Link](https://www.canva.com/design/DAFywl-s8QA/iVJ6wLB5tGLCaUHVLS8IWQ/edit?utm_content=DAFywl-s8QA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+	6. Level - Talk with your DM
+	7. If your level is above 0, be sure to check out the [[Level Up Chart]] to see what bonuses you get at your level.
+	8. Size Category - medium
+	9. (Fill Out the [[Character Sheet.pdf|character sheet]] in printed form or fill it out digitally in the Canva Form: [Link](https://www.canva.com/design/DAFywl-s8QA/iVJ6wLB5tGLCaUHVLS8IWQ/edit?utm_content=DAFywl-s8QA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 8. Expand your characters' traits (Optional) - 
 	1. Where are they from in Greece?
 	2. How are they as a person? (kind, angry, flirty...)
