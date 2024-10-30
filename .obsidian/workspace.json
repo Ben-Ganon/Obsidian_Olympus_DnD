@@ -13,36 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Characters/Cult of the Bull/Atlas.md",
-                "mode": "source",
+                "file": "DM Stuff/Campaign 2/Session 7 - Welcome to the Jungle.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atlas"
-            }
-          },
-          {
-            "id": "d6d50bcb61a7cfc5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0"
-            }
-          },
-          {
-            "id": "0370e3a9524d1072",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0"
+              "title": "Session 7 - Welcome to the Jungle"
             }
           },
           {
@@ -51,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/The Plot.md",
+                "file": "DM Stuff/Places/Crete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Plot"
+              "title": "Crete"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,38 +212,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edd3e5979bef6f9c",
+  "active": "ccc371473137b54b",
   "lastOpenFiles": [
-    "index.md",
-    "README.md",
+    "Templates/Markdown Creature Sheet.md",
+    "Templates/God Info.md",
+    "Templates/Magic Damage.md",
+    "Templates/Disadvantage.md",
+    "Templates/Boon.md",
+    "Templates/Blunt Damage.md",
+    "Templates/Advantage.md",
+    "Templates/Piercing Damage.md",
+    "Player Lore/Types of Creatures.md",
+    "Player Lore/Names.md",
+    "Player Lore/Inciting Incident.md",
+    "Player Lore/Greek Curse Words.md",
+    "Player Lore/Athens and It's Characters/Sokrates.md",
+    "Player Lore/Athens and It's Characters/Alkibialdes.md",
+    "Player Lore/Athens and It's Characters/Athens Government.md",
+    "Player Lore/Athens and It's Characters/Gregor Othonos.md",
+    "DM Stuff/Characters/Zeno.md",
+    "DM Stuff/Characters/Cult of the Bull/The Cult of the Bull.md",
+    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
+    "DM Stuff/Characters/Cult of the Bull/Atlas Character Sheet.md",
+    "DM Stuff/Characters/Cult of the Bull/Hector Pantazos.md",
+    "DM Stuff/Characters/Cult of the Bull/Lysander Hasapis.md",
+    "DM Stuff/Characters/Cult of the Bull/Selene.md",
+    "DM Stuff/Characters/Cult of the Bull/Nyx.md",
+    "DM Stuff/Places/Gates of Hades.md",
     "Images/universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0.jpg",
-    "Untitled.md",
+    "DM Stuff/Places/Crete.md",
     "Images/universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg",
+    "DM Stuff/Places",
     "Images/Oracle Caves 2.png",
     "Selene (1).pdf",
-    "Mechanics/Combat Mechanics.md",
-    "cult member.md",
-    "Gods and Powers/Hephaestus.md",
-    "Mechanics/Dice mechanics.md",
-    "Mechanics/Afflictions.md",
-    "Mechanics/Metal-Creature interactions.md",
-    "Mechanics/Metal Types.md",
-    "Gods and Powers/Hades.md",
-    "Gods and Powers/Ares.md",
-    "Gods and Powers/Apollo.md",
-    "Gods and Powers/Artemis.md",
-    "Gods and Powers/Aphrodite.md",
-    "Summonable Entities/Boar.md",
-    "Gods and Powers/Athena.md",
-    "Gods and Powers/Demeter.md",
-    "Gods and Powers/Dionysos.md",
-    "Gods and Powers/Janus.md",
-    "Gods and Powers/Olympian Family Tree.md",
-    "Gods and Powers/Hermes.md",
-    "Templates/Color Codes.md",
-    "Character Creation/Character Creation Guide.md",
-    "DM Stuff/Characters/Cult of the Bull/Atlas.md",
-    "Character Creation/Level Up Chart.md",
     "Info and Values/Character Sheet.pdf",
     "DM Stuff/Items/The Black Key",
     "Images/Oracle Caves.png",
@@ -284,7 +260,6 @@
     "DM Stuff/Characters/Athenians",
     "DM Stuff/Characters/Cult of the Bull",
     "Untitled.canvas",
-    "Images/Lysander.pdf",
-    "Images/Hercules.pdf"
+    "Images/Lysander.pdf"
   ]
 }
