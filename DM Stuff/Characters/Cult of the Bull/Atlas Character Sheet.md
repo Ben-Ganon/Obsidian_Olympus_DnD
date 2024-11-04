@@ -8,6 +8,7 @@
 | Might | Dexterity | Agility | Perception | Intuition | Charisma | Willpower |
 | ----- | --------- | ------- | ---------- | --------- | -------- | --------- |
 | 13    | 4         | 8       | 4          | 4         | 4        | 6         |
+|       |           |         |            |           |          |           |
 
 ## Weapons
 
