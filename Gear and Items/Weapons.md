@@ -5,15 +5,15 @@
 |      Rópalo      | Club                    |                1d6                |       -       |        -        |      -      |      -      | Blunt       |
 |      Xiphos      | Short Sword             |                1d8                |      1d4      |        -        |     1d4     |      -      | Piercing    |
 |      Kopis       | Long Sword              |               1d10                |      1d4      |        -        |      -      |   6 Might   | Piercing    |
-|       Dory       | Spear                   | 2d6(two handed)/1d10 (one handed) |      1d4      |    4 Meters     |      -      |   6 Might   | Piercing    |
+|       Dory       | Spear                   | 2d6(two handed)/1d10 (one handed) |      1d4      |    8 Meters     |      -      |   6 Might   | Piercing    |
 |      Labrys      | Small Double-Headed Axe |                1d8                |       -       |    8 Meters     |     1d6     |      -      | Piercing    |
 |       Toxo       | Hunting Bow             |                1d8                |       -       |    14 Meters    |      -      |      -      | Piercing    |
 |  Syntheto Toxo   | Composite Bow           |               1d10                |       -       |    18 Meters    |      -      | 6 Dexterity | Piercing    |
 |   Pólemos Toxo   | War Bow                 |               1d12                |       -       |    20 Meters    |      -      | 8 Dexterity | Piercing    |
 |      Sfyri       | Hammer                  |                1d8                |       -       |        -        |     1d6     |   6 Might   | Blunt       |
 |     Sagaris      | War Hammer              |               1d12                |       -       |        -        |      -      |   8 Might   | Blunt       |
-|       Lyre       | Instrument              |       1d4 magic dmg/healing       |       -       |    10 Meters    |      -      |      -      | Magic       |
-| Aspída Sfentónas | Sling Shield            |                1d6                |      1d4      |    6 Meters     |      -      |      -      | Blunt       |
+|       Lyre       | Instrument              |       1d4 magic dmg/healing       |       -       |    12 Meters    |      -      |      -      | Magic       |
+| Aspída Sfentónas | Sling Shield            |                1d6                |      1d4      |    12 Meters    |      -      |      -      | Blunt       |
 |     Stiléto      | Needle Dagger           |                1d6                |       -       |        -        |    1d12     |      -      | Piercing    |
 
 

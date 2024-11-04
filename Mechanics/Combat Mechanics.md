@@ -4,7 +4,7 @@
 - Each CT, a character can do three things: 
 	- Move, according to their Movespeed (Meters/CT) 
 	- Attack/take another action
-	- Take a bonus action
+	- Take a bonus action2
 - Instead of attacking, Characters can take other actions, such as using a Boon, doing some action in the world (Trying to knock over a large statue takes 1 CT).
 - Some actions take no time at all and they are defined as Instant Actions.
 - These include scoping the battlefield (Intuition Roll) or using Boons with Cast Time Instant. 
