@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Places/Thera.md",
+                "file": "DM Stuff/Campaign 2/Session 8 - Guerilla Warfare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thera"
+              "title": "Session 8 - Guerilla Warfare"
+            }
+          },
+          {
+            "id": "e98801f9416c59bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 7 - Welcome to the Jungle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - Welcome to the Jungle"
             }
           },
           {
@@ -243,12 +257,13 @@
   },
   "active": "911f62e282bdb982",
   "lastOpenFiles": [
-    "DM Stuff/Characters/Cult of the Bull/Atlas Character Sheet.md",
     "DM Stuff/Campaign 2/Session 7 - Welcome to the Jungle.md",
+    "DM Stuff/Places/Thera.md",
+    "DM Stuff/Campaign 2/Session 8 - Guerilla Warfare.md",
+    "DM Stuff/Characters/Cult of the Bull/Atlas Character Sheet.md",
     "Info and Values/Character Sheet.pdf",
     "Character Creation/Character Creation Guide.md",
     "Mechanics/Combat Mechanics.md",
-    "DM Stuff/Places/Thera.md",
     "Gods and Powers/Aphrodite.md",
     "Templates/Markdown Creature Sheet.md",
     "Templates/God Info.md",
