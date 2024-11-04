@@ -13,7 +13,7 @@
 |      Sfyri       | Hammer                  |                1d8                |       -       |        -        |     1d6     |   6 Might   | Blunt       |
 |     Sagaris      | War Hammer              |               1d12                |       -       |        -        |      -      |   8 Might   | Blunt       |
 |       Lyre       | Instrument              |       1d4 magic dmg/healing       |       -       |    12 Meters    |      -      |      -      | Magic       |
-| Aspída Sfentónas | Sling Shield            |                1d6                |      1d4      |    12 Meters    |      -      |      -      | Blunt       |
+| Aspída Sfentónas | Sling Shield            |                1d6                |      1d4      |   12 10Meters   |      -      |      -      | Blunt       |
 |     Stiléto      | Needle Dagger           |                1d6                |       -       |        -        |    1d12     |      -      | Piercing    |
 
 

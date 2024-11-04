@@ -26,8 +26,8 @@
 | Stat             | Value |
 | ---------------- | ----- |
 | **Hp Max**       | 65    |
-| Hp Current       | 73    |
-| **Armor Rating** | 6     |
+| Hp Current       | 77    |
+| **Armor Rating** | 8     |
 | Movespeed        | 16    |
 | Level            | 7     |
 ## Boons

@@ -83,9 +83,9 @@ Every creature in the range must make an [[Dice mechanics#Opposed rolls|opposed]
 ------------------
 <b><ins><i>Succubus/Incubus:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |   Range   |
-|:--------------:|:------------:|:---------:|:--------:|:---------:|
-|       5        |      1       |   1 CT    |   5 CT   | 10 Meters | 
+| Level Required | Uses Per Day | Cast Time | Duration |   Range   |     |
+| :------------: | :----------: | :-------: | :------: | :-------: | --- |
+|       5        |      1       |   1 CT    |   5 CT   | 10 Meters |     |
 
 Explode in Demonic energy, then appear as a demonic entity and gain powers.
 Creatures in the range must make an [[Dice mechanics#Opposed rolls|opposed]] <mark style="background: #A5A5A5;">Willpower</mark> save or be stunned in terror for 1 CT.
