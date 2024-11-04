@@ -26,7 +26,7 @@
 | Stat             | Value |
 | ---------------- | ----- |
 | **Hp Max**       | 65    |
-| Hp Current       | 77    |
+| Hp Current       | 0     |
 | **Armor Rating** | 8     |
 | Movespeed        | 16    |
 | Level            | 7     |
@@ -35,8 +35,8 @@
 | Boon Name       | Uses Per Day | Cast Time | Duration | Range     | Uses Left |
 | --------------- | ------------ | --------- | -------- | --------- | --------- |
 | Bull Charge     | 1            | 1 CT      | -        | 4 Meters  | 1         |
-| Godly Infusion  | 1            | Instant   | 3 CT     | -         | 2         |
+| Godly Infusion  | -            | Instant   | 3 CT     | -         | 2         |
 | Dangerous Taunt | 1            | Instant   | 2 CT     | 6 Meters  | 1         |
-| Combat Valor    | 1            | Instant   | 3 CT     | 4 Meters  | 1         |
-| Vital Strike    | 2            | 1 CT      | -        | 10 Meters | 1         |
+| Combat Valor    | -            | Instant   | 3 CT     | 4 Meters  | 1         |
+| Vital Strike    | -            | 1 CT      | -        | 10 Meters | 1         |
 

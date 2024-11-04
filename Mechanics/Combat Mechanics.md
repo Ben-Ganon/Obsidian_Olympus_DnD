@@ -96,7 +96,7 @@
 ### Death:
 - Upon the first time a Hero reaches 0 Hp or less, they are on the verge of death.
 - Every turn, the Hero must roll a DC 4 <mark style="background: #A5A5A5;">Willpower</mark> save.
-- If they acquire 2 successes, they revive with 5 Hp.
+- If they acquire 2 successes, they revive with 50% Hp.
 - If they acquire 2 fails, they die permanently.
 - If they acquire 1 fail and 1 success, they revive with 1 Hp
 ### Attacks of opportunity:
