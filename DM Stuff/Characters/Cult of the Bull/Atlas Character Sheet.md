@@ -8,7 +8,7 @@
 | Might | Dexterity | Agility | Perception | Intuition | Charisma | Willpower |
 | ----- | --------- | ------- | ---------- | --------- | -------- | --------- |
 | 13    | 4         | 8       | 4          | 4         | 4        | 6         |
-|       |           |         |            |           |          |           |
+
 
 ## Weapons
 
@@ -26,7 +26,7 @@
 | Stat             | Value |
 | ---------------- | ----- |
 | **Hp Max**       | 65    |
-| Hp Current       |       |
+| Hp Current       | 65    |
 | **Armor Rating** | 6     |
 | Movespeed        | 16    |
 | Level            | 7     |
