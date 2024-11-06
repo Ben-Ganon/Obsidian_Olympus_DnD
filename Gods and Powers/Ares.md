@@ -28,14 +28,15 @@ If the result is 1, attack the nearest closest ally. If none are nearby, you are
 
 Gain a blood infusion from Ares, making you stronger and more resistant.
 For the duration, you gain <mark style="background: #045B00A6;">+15 Max Hp</mark>, 
-and any damage against you is reduced by $\lceil25\%\rceil$.
+and any damage against you is reduced by 1d6
 
 ------------------
 <b><ins><i>Dangerous Taunt:</i></ins></b>
 
 | Level Required | Uses Per Day | Cast Time | Duration |  Range   |
 | :------------: | :----------: | :-------: | :------: | :------: |
-|       3        |      1       |  Instant  |   2 CT   | 6 Meters |
+|       3        |      1       |  Instant  |   1 CT   | 6 Meters |
+
 
 Taunt ***all*** creatures in range into combat, forcing them to move to you and then attack you for the duration.  
 They have [[Dice mechanics#Disadvantage|Disadvantage]] on all attack rolls and **Double** [[Dice mechanics#Disadvantage|Disadvantage]]  on all defense and dodge rolls
@@ -46,7 +47,7 @@ During this time, you can attack another time each turn as a bonus action in the
 
 | Level Required | Uses Per Day | Cast Time | Duration | Range |
 | :------------: | :----------: | :-------: | :------: | :---: |
-|       3        |      1       |  Instant  |   3 CT   |   -   |
+|       3        |      1       |  Instant  |          |   -   |
 
 - Summon one weapon infused with the blood of Ares.
 (you can also temporarily transform your current weapon)
@@ -104,7 +105,7 @@ While this is active, every creature in the radius must make a <mark style="back
 |       7        |      2       |   1 CT    |    -     | 10 Meters |     |
 
 Strike your foe with all the power of your enhanced vitality.
-Strike a target , deal $1 \over 1d4$ of your <mark style="background: #045B00A6;">Max Hp</mark> in [[Combat Mechanics#Blunt Damage |Blunt Damage]] to a target in range.
+Strike a target , deal $1 \over 1 + 1d4$ of your <mark style="background: #045B00A6;">Max Hp</mark> in [[Combat Mechanics#Blunt Damage |Blunt Damage]] to a target in range.
 Afterwards, you lose all bonus Hp.
 
 ------------------

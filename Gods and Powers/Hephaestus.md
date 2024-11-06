@@ -91,14 +91,14 @@ All arrows deal <mark style="background: #9E0000A6;">1d12</mark> [[Combat Mechan
 ------------------
 <b><ins><i>Master Smith:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range   |     |
-| :------------: | :----------: | :-------: | :------: | :------: | --- |
-|       5        |      2       |   1 CT    | 3 Hours  | 4 Meters |     |
+| Level Required | Uses Per Day | Cast Time | Duration |  Range   |
+| :------------: | :----------: | :-------: | :------: | :------: |
+|       5        |      2       |   1 CT    | 3 Hours  | 4 Meters |
 
 Craft a master-weapon inspired by Hephaestus' forge, that disperses after a duration.
 You can use this weapon or grant it to a party member.
 - <b><ins><i>Gauntlets:</i></ins></b>
-You can attack twice per CT, each time dealing <mark style="background: #930000A6;">1d6</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and defending for <mark style="background: #930000A6;">1d4</mark>.
+You can attack twice per CT, each time dealing <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Blunt Damage|blunt damage]] and defending for <mark style="background: #930000A6;">1d4</mark>.
 - <b><ins><i>Hammer:</i></ins></b>
 You need to wind up attacks, taking <mark style="background: #A100B8A6;">1 CT</mark> to charge them.
 The hammer deals <mark style="background: #930000A6;">1d20</mark> [[Combat Mechanics#Blunt Damage|blunt damage]]
