@@ -53,12 +53,14 @@
             "id": "380be7f3ef779f54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "DM Stuff/Places/Sparta/City of Sparta.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "City of Sparta"
             }
           }
         ],
@@ -142,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 629.5
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -241,6 +243,11 @@
   },
   "active": "380be7f3ef779f54",
   "lastOpenFiles": [
+    "DM Stuff/Places/Sparta",
+    "DM Stuff/The Plot.md",
+    "DM Stuff/Places/Sparta/City of Sparta.md",
+    "DM Stuff/Places/Thera.md",
+    "DM Stuff/Places/Gates of Hades.md",
     "DM Stuff/Campaign 2/Session 8 - Gorilla Warfare.md",
     "Gear and Items/Shields and Armor.md",
     "Character Creation/Character Creation Guide.md",
@@ -262,12 +269,7 @@
     "Gear and Items/Weapons.md",
     "Info and Values/Character Sheet.pdf",
     "DM Stuff/Campaign 2/Session 7 - Welcome to the Jungle.md",
-    "DM Stuff/Places/Thera.md",
     "Templates/Markdown Creature Sheet.md",
-    "Templates/God Info.md",
-    "Templates/Magic Damage.md",
-    "Templates/Disadvantage.md",
-    "Templates/Boon.md",
     "Images/universal_upscale_0_2c20c485-b13b-4e8f-8bc3-66a4b21e9de8_0.jpg",
     "Images/universal_upscale_0_2b1e290e-f981-40c0-b372-b44647bf6d5a_0.jpg",
     "DM Stuff/Places",
