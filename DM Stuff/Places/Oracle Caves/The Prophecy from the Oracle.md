@@ -12,7 +12,7 @@
 
 ----
 
-***The gates of Hades lie open*** <br>
+***In Sparta the gates of Hades lie open*** <br>
 ***The Heart of Thanatos awaits*** <br>
 ***The Emperor she will awaken*** <br>
 ***Greece will bleed if he escapes the fates*** <br>

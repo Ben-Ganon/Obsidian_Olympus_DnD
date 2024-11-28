@@ -6,6 +6,13 @@ Strength is central to the Spartan culture, and anyone who refuses to adhere to 
 Only fifty years after the last stand of the 300 warriors in Thermopylae, the Spartans are still considered the best land warriors in Greece.
 It is said each Spartan warrior is worth ten Athenians in battle.
 ## The Four Tenants of Spartan Strength
+
+> "It is said that Ares has four faces: 
+One has red eyes from which he sees all. 
+One has a large mouth so that he may bite down on his enemies.
+One is always shifting, so he can never be understood.
+And the last cries a river of blood, for it has lost so many sons in war."
+
 ### Vision - חזון
 
 > Vision is the wisdom to reach the fight
