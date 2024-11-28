@@ -5,3 +5,4 @@ As such, he grew up with legends of Spartan bravery and prowess, and considers i
 In the [[Agoge]] he earned the nickname 'Petros', for his face was always as firm as stone.
 He rarely smiles, and never laughs.
 Areos is the king of Vision, navigating Sparta to expand it's borders to almost reach Athens itself.
+His twin king Ajax is off fighting Persia across the Mediterranean.

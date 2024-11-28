@@ -2,9 +2,14 @@ The city of Sparta is one of the most ancient city-states in all of Greece, seco
 Legend has it that the original founder of Sparta was the sone of Zeus.
 In accordance to it's age, Sparta comes with an intense legacy and an even greater pride that emanates from it.
 Seated on the Eurotas river, Spartan citizens are accustomed to harsh conditions from birth in the [[Agoge]].   
+
 Strength is central to the Spartan culture, and anyone who refuses to adhere to strength is cast out, killed, our enslaved.
+Spartans believe all things you have must be earned - the only thing Sparta gives freely is blood.
+
 Only fifty years after the last stand of the 300 warriors in Thermopylae, the Spartans are still considered the best land warriors in Greece.
 It is said each Spartan warrior is worth ten Athenians in battle.
+
+
 ## The Four Tenants of Spartan Strength
 
 > "It is said that Ares has four faces: 
