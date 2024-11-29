@@ -13,10 +13,10 @@ It is said each Spartan warrior is worth ten Athenians in battle.
 ## The Four Tenants of Spartan Strength
 
 > "It is said that Ares has four faces: 
-One has red eyes from which he sees all. 
+One has red eyes from which he sees futures yet to come. 
 One has a large mouth so that he may bite down on his enemies.
-One is always shifting, so he can never be understood.
-And the last cries a river of blood, for it has lost so many sons in war."
+One is always shifting, so he can never be truly seen.
+And the last cries a river of blood, for it has lost many sons in war."
 
 ### Vision - חזון
 
