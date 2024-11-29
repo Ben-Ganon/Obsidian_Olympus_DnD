@@ -12,11 +12,11 @@ It is said each Spartan warrior is worth ten Athenians in battle.
 
 ## The Four Tenants of Spartan Strength
 
-> "It is said that Ares has four faces: 
-One has red eyes from which he sees futures yet to come. 
-One has a large mouth so that he may bite down on his enemies.
-One is always shifting, so he can never be truly seen.
-And the last cries a river of blood, for it has lost many sons in war."
+> "It is said that Lacedaemon, the founder of Sparta and son of Zeus has four faces: 
+One has red eyes, never blinking, from which he sees futures yet to come. 
+One has a large mouth, with teeth as sharp as knives, so that he may bite down on his enemies.
+One is always shifting, swirling his features in blood and skin and flesh, so he can never be truly seen.
+And the last cries a river of blood, for he has lost many sons to war."
 
 ### Vision - חזון
 

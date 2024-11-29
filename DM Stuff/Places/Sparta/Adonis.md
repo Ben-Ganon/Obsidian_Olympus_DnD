@@ -1,6 +1,6 @@
 ![[beng97_a_male_skinny_feminine_Greek_man_with_long_flowing_blo_b30a7c5e-b739-4337-adfe-5ff580435cd7_1.png | 500]]
 
-> "My mother taught me that the best way to entertain a crowd is to give it tragedy. If only she could see me feed these young fighters to the crowd"
+> "My mother taught me that the best way to entertain a crowd is to give it tragedy. If only she could see these young men fighting and dying for Sparta"
 
 
 Adonis is the son of Apollo, a spartan warrior that announces for the various fighting rings around the city.
