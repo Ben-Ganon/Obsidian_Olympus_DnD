@@ -20,13 +20,35 @@
 - As the heroes pass through the empty streets, they see a in a small alley a small play by a very old man to various kids of very young age
 	- The play features a puppet with four faces, and the man tells the story of Ares, each face representing [[City of Sparta#The Four Tenants of Spartan Strength | the four tenants of strength]]
 	
-### The Pit
-
-- Two massive guards prevent entry to strangers
-- Say they need an approval from the king of Sparta to grant them entry
 
 ### The King
 
 - The king of Sparta, Pleistonax (or Petra), is in his throne room
+- Sparta does not accept outsiders participating in the Pit
 - If the heroes come to him for approval to participate in The Pit, he will ask them for a favor:
-	- 
+	- He tells them one of his squad heads, Daikos, has been causing shit in Sparta. He would like to get rid of him, but assassination is not the Spartan way. 
+	- He asks the heroes to go assassinate Daikos
+	- When asked where: "Agora"
+- Give them his seal of approval to participate in the Pit.
+
+### The Agora
+
+- In the Agora, the stalls are all empty, the square is abandoned
+- All but one persons: Helena
+- Amara thinks she recognizes her
+
+### The Pit
+ - Two massive guards prevent entry to strangers
+- Say they need an approval from the king of Sparta to grant them entry
+
+- in the Pit:
+
+![[The Pit]]
+
+And there they meet:
+![[Adonis]]
+
+
+![[Herakles]]
+
+The heroes must defeat Herakles to win access t the gates of hades.

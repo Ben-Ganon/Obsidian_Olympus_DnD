@@ -10,6 +10,7 @@
           {
             "id": "e8fb7bf4c66f8d1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,19 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Session 9 - Fighting in the Shade"
+            }
+          },
+          {
+            "id": "10f21e1f36aeccb8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -200,8 +212,8 @@
   },
   "active": "e8fb7bf4c66f8d1e",
   "lastOpenFiles": [
-    "DM Stuff/Places/Sparta/Pleistonax II, King of Sparta.md",
     "DM Stuff/Campaign 2/Session 9 - Fighting in the Shade.md",
+    "DM Stuff/Places/Sparta/Pleistonax II, King of Sparta.md",
     "Gods and Powers/Ares.md",
     "DM Stuff/Places/Sparta/City of Sparta.md",
     "DM Stuff/Items/KodKod.md",
