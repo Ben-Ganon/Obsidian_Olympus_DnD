@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Campaign 2/Session 9 - Fighting in the Shade.md",
+                "file": "DM Stuff/Campaign 2/Session 10 - Fighting in the Shade.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 9 - Fighting in the Shade"
+              "title": "Session 10 - Fighting in the Shade"
             }
           },
           {
@@ -36,9 +36,51 @@
               "icon": "lucide-file",
               "title": "Dionysos"
             }
+          },
+          {
+            "id": "3ea109c39b691612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 7 - Odyssey Begins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - Odyssey Begins"
+            }
+          },
+          {
+            "id": "ca5740fbdf9ae25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 9 - Gorilla Warfare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 9 - Gorilla Warfare"
+            }
+          },
+          {
+            "id": "834662008c8626cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Campaign 2/Session 10 - Fighting in the Shade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 10 - Fighting in the Shade"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 269.5
   },
   "right": {
     "id": "6e972b03425ecf45",
@@ -215,15 +257,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c086634e2d2d26ef",
+  "active": "834662008c8626cd",
   "lastOpenFiles": [
+    "DM Stuff/Campaign 2/Session 9 - Gorilla Warfare.md",
+    "DM Stuff/Campaign 2/Session 10 - Fighting in the Shade.md",
+    "DM Stuff/Campaign 2/Session 7 - Odyssey Begins.md",
+    "DM Stuff/Campaign 2/Session 8 - Welcome to the Jungle.md",
+    "DM Stuff/Campaign 2/Session 6 - battle with selene.md",
+    "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
+    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
+    "DM Stuff/Campaign 2/Session 3 - Dinner and Diatribes.md",
+    "DM Stuff/Campaign 2/Session 2 - A Dance with Fate.md",
+    "DM Stuff/Campaign 2/Session 1 - Five Athenian Stories.md",
+    "Gods and Powers/Dionysos.md",
     "Gods and Powers/Demeter.md",
     "Gods and Powers/Athena.md",
     "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
     "Gods and Powers/Apollo.md",
     "Gods and Powers/Aphrodite.md",
-    "DM Stuff/Campaign 2/Session 9 - Fighting in the Shade.md",
     "DM Stuff/Places/Gates of Hades.md",
     "DM Stuff/Places/Sparta/Adonis.md",
     "DM Stuff/Places/Sparta/City of Sparta.md",
@@ -234,17 +286,7 @@
     "DM Stuff/Items/KodKod.md",
     "beng97_cute_magical_skull_with_glowing_purple_eyes_meant_to_b_c50a7cd5-73ff-4506-bcd4-f48def2d1c46_3.png",
     "DM Stuff/Items/The Black Key/The Black Key.md",
-    "DM Stuff/Items/The Black Key/Black Key Blade.md",
-    "DM Stuff/Items/The Black Key/Black Key Bit.md",
-    "DM Stuff/Items/The Black Key/Black Key Bow.md",
-    "Aphelios.md",
-    "DM Stuff/Places/The Underworld.md",
     "Map of the Underworld.png",
-    "DM Stuff/Places/Thera.md",
-    "DM Stuff/Places/Crete.md",
-    "DM Stuff/Campaign 2/Session 8 - Gorilla Warfare.md",
-    "DM Stuff/Tug's Better Exploration 1.md",
-    "DM Stuff/The Plot.md",
     "beng97_a_Greek_fighter_stands_over_a_defeated_opponent_in_an_an_e4b05f07-1b1a-4c7f-a1b1-8dfb12b4a519.png",
     "beng97_Aerial_view_the_Agoge_of_Sparta_a_giant_ancient_Greek_mi_19665b01-0666-4326-b9d6-3aaf2dab1ad3.png",
     "beng97_the_king_of_ancient_Sparta_sits_on_a_large_dark_grey_mar_c50fe42d-af8a-49d0-b8f8-b773c15052ce.png",
