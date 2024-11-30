@@ -24,16 +24,21 @@
             }
           },
           {
-            "id": "10f21e1f36aeccb8",
+            "id": "c086634e2d2d26ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gods and Powers/Dionysos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dionysos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,12 +215,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8fb7bf4c66f8d1e",
+  "active": "c086634e2d2d26ef",
   "lastOpenFiles": [
-    "DM Stuff/Campaign 2/Session 9 - Fighting in the Shade.md",
-    "DM Stuff/Places/Sparta/Pleistonax II, King of Sparta.md",
+    "Gods and Powers/Demeter.md",
+    "Gods and Powers/Athena.md",
+    "Gods and Powers/Artemis.md",
     "Gods and Powers/Ares.md",
+    "Gods and Powers/Apollo.md",
+    "Gods and Powers/Aphrodite.md",
+    "DM Stuff/Campaign 2/Session 9 - Fighting in the Shade.md",
+    "DM Stuff/Places/Gates of Hades.md",
+    "DM Stuff/Places/Sparta/Adonis.md",
     "DM Stuff/Places/Sparta/City of Sparta.md",
+    "DM Stuff/Places/Sparta/The Pit.md",
+    "DM Stuff/Places/Sparta/Pleistonax II, King of Sparta.md",
+    "DM Stuff/Places/Sparta/Herakles.md",
+    "DM Stuff/Places/Sparta/Agoge.md",
     "DM Stuff/Items/KodKod.md",
     "beng97_cute_magical_skull_with_glowing_purple_eyes_meant_to_b_c50a7cd5-73ff-4506-bcd4-f48def2d1c46_3.png",
     "DM Stuff/Items/The Black Key/The Black Key.md",
@@ -223,24 +238,14 @@
     "DM Stuff/Items/The Black Key/Black Key Bit.md",
     "DM Stuff/Items/The Black Key/Black Key Bow.md",
     "Aphelios.md",
-    "DM Stuff/Places/Sparta/Adonis.md",
-    "DM Stuff/Places/Sparta/Agoge.md",
-    "DM Stuff/Places/Sparta/Herakles.md",
     "DM Stuff/Places/The Underworld.md",
     "Map of the Underworld.png",
     "DM Stuff/Places/Thera.md",
-    "DM Stuff/Places/Gates of Hades.md",
     "DM Stuff/Places/Crete.md",
-    "DM Stuff/Places/Sparta/The Pit.md",
     "DM Stuff/Campaign 2/Session 8 - Gorilla Warfare.md",
     "DM Stuff/Tug's Better Exploration 1.md",
     "DM Stuff/The Plot.md",
     "beng97_a_Greek_fighter_stands_over_a_defeated_opponent_in_an_an_e4b05f07-1b1a-4c7f-a1b1-8dfb12b4a519.png",
-    "DM Stuff/Campaign 2/Session 7 - Welcome to the Jungle.md",
-    "DM Stuff/Campaign 2/Session 5 - Caves and Cabals.md",
-    "DM Stuff/Campaign 2/Session 4 - Oracle's Calling.md",
-    "Character Creation/God Bonus Stat Chart.md",
-    "DM Stuff/Places/Oracle Caves/The Prophecy from the Oracle.md",
     "beng97_Aerial_view_the_Agoge_of_Sparta_a_giant_ancient_Greek_mi_19665b01-0666-4326-b9d6-3aaf2dab1ad3.png",
     "beng97_the_king_of_ancient_Sparta_sits_on_a_large_dark_grey_mar_c50fe42d-af8a-49d0-b8f8-b773c15052ce.png",
     "beng97_a_male_skinny_feminine_Greek_man_with_long_flowing_blo_b30a7c5e-b739-4337-adfe-5ff580435cd7_1.png",

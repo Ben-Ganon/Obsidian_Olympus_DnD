@@ -14,21 +14,19 @@
 - When they arrive, She also gives them a gift: [[KodKod]] the magical skull
 
 ## Sparta
-
 - The heroes arrive at the gates of Sparta 
 - As the guards let them in, it seems the city is empty
 - As the heroes pass through the empty streets, they see a in a small alley a small play by a very old man to various kids of very young age
 	- The play features a puppet with four faces, and the man tells the story of Ares, each face representing [[City of Sparta#The Four Tenants of Spartan Strength | the four tenants of strength]]
-	
 
 ### The King
-
 - The king of Sparta, Pleistonax (or Petra), is in his throne room
 - Sparta does not accept outsiders participating in the Pit
-- If the heroes come to him for approval to participate in The Pit, he will ask them for a favor:
-	- He tells them one of his squad heads, Daikos, has been causing shit in Sparta. He would like to get rid of him, but assassination is not the Spartan way. 
+- If the heroes come to him for approval to participate in The Pit, he will ask them for a favor in exchange for his approval to fight:
+	- He tells them one of his squad heads, Daikos, has been colluding with the Persians. He would like to get rid of him, but assassination would make him look bad to the other squad leaders since he has no proof
 	- He asks the heroes to go assassinate Daikos
-	- When asked where: "Agora"
+	- When asked where: "He's probably in The Pit"
+	- The players will know him when they see him - one of the richest people in Sparta and has the awful taste to prove it
 - Give them his seal of approval to participate in the Pit.
 
 ### The Agora
@@ -40,9 +38,7 @@
 ### The Pit
  - Two massive guards prevent entry to strangers
 - Say they need an approval from the king of Sparta to grant them entry
-
-- in the Pit:
-
+- In the Pit:
 ![[The Pit]]
 
 And there they meet:
@@ -51,4 +47,8 @@ And there they meet:
 
 ![[Herakles]]
 
-The heroes must defeat Herakles to win access t the gates of hades.
+- The heroes must defeat Herakles to win access the gates of hades.
+	- Combat with him is three rounds
+	- Each round you must beat him in a might/agility mini-combat
+- While in the fighting pit, the heroes cannot use magic - the Spartans believe it is disgraceful to use magic when fighting.
+- Winning the fight grants the heroes a sack of 30 Gold Drachmas

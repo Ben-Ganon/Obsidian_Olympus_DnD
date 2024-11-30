@@ -120,9 +120,9 @@ Afterwards the target is stunned for the duration
 ------------------
 <b><ins><i>Aspect of Passion:</i></ins></b>
 
-| Level Required | Uses Per Day | Cast Time | Duration |  Range  |
-|:--------------:|:------------:|:---------:|:--------:|:-------:|
-|       9       |      1       |   1 CT    |   5 CT   | 1 Meter | 
+| Level Required | Uses Per Day | Cast Time | Duration |  Range  |     |
+| :------------: | :----------: | :-------: | :------: | :-----: | --- |
+|       9        |      1       |   1 CT    |   5 CT   | 1 Meter |     |
 
 You merge with Aphrodite, goddess of passion.
 For the duration, gain +1 to <mark style="background:  #FFAD0085;">Intuition</mark>, <mark style="background: #A5A5A5;">Willpower</mark> and <mark style="background: #FF3FAC;">Charisma</mark> rolls.

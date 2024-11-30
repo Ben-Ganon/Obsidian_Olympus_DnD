@@ -65,7 +65,6 @@ Additionally, when using a bow, throwing knife, or throwing axe, fire 2 projecti
 | :------------: | :----------: | :-------: | :------: | :-------: | --- |
 |       3        |      2       |   1 CT    |    -     | 20 Meters |     |
 
-
 Fire a volley of magical arrows or knives.
 Pick up to 5 enemies in range as target. 
 These targets must make a **{DC 10}** Agility saving roll (this volley cannot be blocked) or take bonus <mark style="background: #930000A6;">1d8</mark> [[Combat Mechanics#Piercing Damage |piercing damage]] (Damage is bow/projectile attack + bonus damage for each attack).
